@@ -22,6 +22,7 @@ Analisamos todos os detalhes de desempenho, conforto e custo-benefício deste mo
 
 </details>
 </div>
+
 ---
 
 ## Apresentação e Posicionamento
