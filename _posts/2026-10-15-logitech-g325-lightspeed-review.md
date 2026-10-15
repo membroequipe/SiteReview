@@ -45,27 +45,46 @@ Os compradores elogiam muito a leveza em maratonas de jogos e a clareza do palco
 
 ## Prós e Contras
 
-<div class="pros-cons-grid">
-  <div class="pros-box">
-    <h4>👍 Benefícios</h4>
-    <ul>
-      <li>Preço acessível</li>
-      <li>Sistema Cyclone mantém a sucção constante</li>
-      <li>Tripla filtragem com filtro HEPA (melhor para quem tem alergias)</li>
-      <li>Compacto, leve e fácil de guardar</li>
-      <li>Boa eficiência na remoção de pelos de animais</li>
-      <li>Fácil de esvaziar e limpar o reservatório</li>
-    </ul>
+## Prós e Contras do Anker Soundcore Space 2:
+
+<div class="review-summary-box">
+  
+  <!-- Avaliação Geral com Nota -->
+  <div class="score-header">
+    <div class="score-badge">
+      <span class="score-number">8.5</span>
+      <span class="score-label">Nota Geral</span>
+    </div>
+    <div class="score-body">
+      <h3>Avaliação Geral</h3>
+      <p>O <strong>Anker Soundcore Space 2</strong> é excelente para quem busca um <strong>fone over-ear com isolamento acústico</strong>, som de alta resolução e <strong>excelente custo-benefício</strong> para o dia a dia e viagens. Apesar de algumas limitações, como a <strong>estrutura não dobrável</strong> e a captação do microfone, ele cumpre muito bem sua proposta. Nota geral é <strong>8,5 de 10</strong>.</p>
+    </div>
   </div>
-  <div class="cons-box">
-    <h4>👎 O Que Considerar</h4>
-    <ul>
-      <li>Cabo de energia curto (3 metros)</li>
-      <li>Faz ruído considerável (91 dB)</li>
-      <li>Não é indicado para sujeiras muito pesadas ou grandes áreas</li>
-      <li>A potência é suficiente para uso doméstico leve, mas não para tarefas pesadas</li>
-    </ul>
+
+  <hr>
+
+  <!-- Grid de Benefícios e Pontos a Considerar -->
+  <div class="pros-cons-grid">
+    <div class="pros-box">
+      <h4>👍 Benefícios</h4>
+      <ul>
+        <li>Conforto elevado (ótimo para quem usa óculos)</li>
+        <li>Áudio Hi-Res LDAC com equalização via aplicativo</li>
+        <li>Bateria de altíssima duração (até 70 horas)</li>
+        <li>Bluetooth 6.1 com conexão multiponto simultânea</li>
+        <li>Acompanha case rígida de proteção</li>
+      </ul>
+    </div>
+    <div class="cons-box">
+      <h4>👎 O Que Considerar</h4>
+      <ul>
+        <li>Estrutura rígida sem articulação para dobrar</li>
+        <li>Microfone com captação mediana em chamadas</li>
+        <li>Exige ajustes finos de equalização no app</li>
+      </ul>
+    </div>
   </div>
+
 </div>
 
 ---
