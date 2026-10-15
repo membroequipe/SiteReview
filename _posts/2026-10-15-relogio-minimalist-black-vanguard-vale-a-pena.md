@@ -2,7 +2,7 @@
 layout: post
 title: "Relógio Minimalist Black Vanguard: Vale a Pena? Análise Completa"
 description: "Análise detalhada do Relógio Minimalist Black Vanguard. Conheça o design ultra fino, durabilidade do aço e se o custo-benefício realmente compensa."
-image: "/assets/images/posts/relogio-vanguard.webp"
+image: "/assets/images/posts/relogio-germain.webp"
 category: "Relogios"
 author: "Equipe Guia Especializado"
 ---
