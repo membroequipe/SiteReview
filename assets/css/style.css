@@ -446,14 +446,11 @@ body {
 }
 
 /* =========================================
-   ESTILO DO ÍNDICE RETRÁTIL (TOC JEYKLL)
-   ========================================= */
-/* =========================================
-   ESTILO DO ÍNDICE RETRÁTIL (TOC DEFINITIVO)
+   ESTILO DO ÍNDICE RETRÁTIL AUTOMÁTICO (TOC)
    ========================================= */
 .toc-container {
     background-color: #f8fafc;
-    border: 1px solid var(--border-color);
+    border: 1px solid var(--border-color, #e2e8f0);
     border-radius: 8px;
     padding: 1rem 1.25rem;
     margin: 2rem 0;
@@ -462,7 +459,7 @@ body {
 .toc-container details summary {
     cursor: pointer;
     font-size: 1rem;
-    color: var(--primary);
+    color: var(--primary, #0f172a);
     user-select: none;
     list-style: none;
     display: flex;
@@ -485,8 +482,8 @@ body {
     display: none;
 }
 
-/* Estilização da lista de links do Kramdown */
-.toc-container ul {
+/* Lista numerada gerada automaticamente pelo JavaScript */
+.toc-container ol {
     padding-left: 1.25rem;
     margin-top: 0.8rem;
     margin-bottom: 0;
@@ -506,31 +503,3 @@ body {
     text-decoration: underline;
 }
 
-/* Título e Estilização do cabeçalho do ToC */
-#toc-title {
-    font-weight: 700;
-    font-size: 1rem;
-    color: var(--primary);
-    list-style: none;
-    margin-bottom: 0.5rem;
-}
-
-/* Transforma o índice gerado pelo Kramdown em lista elegante */
-#markdown-toc {
-    padding-left: 1.25rem;
-    margin-bottom: 0;
-}
-
-#markdown-toc li {
-    margin-bottom: 0.35rem;
-    font-size: 0.92rem;
-}
-
-#markdown-toc a {
-    color: #2563eb;
-    text-decoration: none;
-}
-
-#markdown-toc a:hover {
-    text-decoration: underline;
-}
