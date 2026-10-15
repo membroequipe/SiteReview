@@ -723,3 +723,66 @@ body {
     mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M2 20h2V8H2v12zm20-9c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L13.17 2 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z'/%3E%3C/svg%3E") no-repeat center / contain;
     -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M2 20h2V8H2v12zm20-9c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L13.17 2 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z'/%3E%3C/svg%3E") no-repeat center / contain;
 }
+
+/* =========================================
+   TABELA DE FICHA TÉCNICA / ESPECIFICAÇÕES
+   ========================================= */
+.specs-table-wrapper {
+    overflow-x: auto;
+    margin: 2rem 0;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.specs-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    font-size: 0.95rem;
+    text-align: left;
+}
+
+/* Cabeçalho da Tabela */
+.specs-table th {
+    background-color: #1e293b; /* Azul escuro elegante */
+    color: #ffffff;
+    font-weight: 700;
+    padding: 0.9rem 1.25rem;
+    text-transform: uppercase;
+    font-size: 0.82rem;
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+.specs-table th:first-child {
+    width: 35%; /* Proporção ideal para rótulo vs valor */
+}
+
+/* Células e Linhas */
+.specs-table td {
+    padding: 0.85rem 1.25rem;
+    border-bottom: 1px solid #f1f5f9;
+    color: #334155;
+    line-height: 1.5;
+}
+
+/* Destaque na primeira coluna (Nome da Característica) */
+.specs-table td:first-child {
+    font-weight: 600;
+    color: #0f172a;
+}
+
+/* Efeito Zebra Suave (Linhas alternadas) */
+.specs-table tbody tr:nth-child(even) {
+    background-color: #f8fafc;
+}
+
+.specs-table tbody tr:hover {
+    background-color: #f1f5f9;
+    transition: background-color 0.15s ease;
+}
+
+.specs-table tbody tr:last-child td {
+    border-bottom: none;
+}
