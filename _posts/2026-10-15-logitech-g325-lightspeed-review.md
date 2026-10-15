@@ -14,9 +14,15 @@ Analisamos todos os detalhes de desempenho, conforto e custo-benefício deste mo
 ---
 
 <div class="table-of-contents">
-  <h4>Índice do Conteúdo</h4>
-  * TOC
-  {:toc}
+  <details open>
+    <summary><strong>Conteúdo</strong></summary>
+    <div style="margin-top: 1rem;" markdown="1">
+
+1. TOC
+{:toc}
+
+    </div>
+  </details>
 </div>
 
 ---
