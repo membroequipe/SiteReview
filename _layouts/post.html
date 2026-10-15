@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="review-article">
+    <header class="article-header">
+        <h1 class="article-title">{{ page.title }}</h1>
+        <p class="article-meta">Publicado em {{ page.date | date: "%d/%m/%Y" }}</p>
+    </header>
+
+    <div class="article-body">
+        {{ content }}
+    </div>
+</article>
