@@ -11,19 +11,6 @@ Se você está pesquisando se o **Anker Soundcore Space 2 é bom**, provavelment
 
 Abaixo, detalhamos a ficha técnica completa, prós, contras e a opinião real de compradores sobre o modelo.
 
----
-
-<div class="toc-container">
-  <details open>
-    <summary><strong>Conteúdo</strong></summary>
-
-* TOC
-{:toc}
-
-  </details>
-</div>
----
-
 ## Apresentação e Posicionamento
 
 O **Anker Soundcore Space 2** é um fone de ouvido sem fio em formato *over-ear* desenvolvido para entregar som de alta resolução e isolamento acústico superior. É indicado para uso em entretenimento, viagens e ambientes profissionais de trabalho que exigem foco.
