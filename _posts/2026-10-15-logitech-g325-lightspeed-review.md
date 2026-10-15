@@ -47,21 +47,23 @@ Os compradores elogiam muito a leveza em maratonas de jogos e a clareza do palco
 
 <div class="pros-cons-grid">
   <div class="pros-box">
-    <h4>Prós</h4>
+    <h4>👍 Benefícios</h4>
     <ul>
-      <li>Extremamente leve e confortável.</li>
-      <li>Conexão LIGHTSPEED de baixíssima latência.</li>
-      <li>Excelente localização espacial em jogos.</li>
-      <li>Microfone claro para chats de voz.</li>
-      <li>Alcance sem fio de até 30 metros.</li>
+      <li>Preço acessível</li>
+      <li>Sistema Cyclone mantém a sucção constante</li>
+      <li>Tripla filtragem com filtro HEPA (melhor para quem tem alergias)</li>
+      <li>Compacto, leve e fácil de guardar</li>
+      <li>Boa eficiência na remoção de pelos de animais</li>
+      <li>Fácil de esvaziar e limpar o reservatório</li>
     </ul>
   </div>
   <div class="cons-box">
-    <h4>Contras</h4>
+    <h4>👎 O Que Considerar</h4>
     <ul>
-      <li>Bateria menor (24 horas) comparada a fones musicais.</li>
-      <li>Sem cancelamento ativo de ruído (ANC).</li>
-      <li>Sem dobradiças de recolhimento.</li>
+      <li>Cabo de energia curto (3 metros)</li>
+      <li>Faz ruído considerável (91 dB)</li>
+      <li>Não é indicado para sujeiras muito pesadas ou grandes áreas</li>
+      <li>A potência é suficiente para uso doméstico leve, mas não para tarefas pesadas</li>
     </ul>
   </div>
 </div>
