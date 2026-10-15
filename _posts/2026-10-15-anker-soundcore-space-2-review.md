@@ -13,10 +13,11 @@ Abaixo, detalhamos a ficha técnica completa, prós, contras e a opinião real d
 
 ---
 
-<div class="table-of-contents">
-  <h4>Índice do Conteúdo</h4>
-  * TOC
-  {:toc}
+<div class="table-of-contents" markdown="1">
+#### Índice do Conteúdo
+
+1. TOC
+{:toc}
 </div>
 
 ---
