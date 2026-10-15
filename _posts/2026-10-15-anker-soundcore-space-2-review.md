@@ -13,8 +13,7 @@ Abaixo, detalhamos a ficha técnica completa, prós, contras e a opinião real d
 
 ---
 
-<div class="table-of-contents">
-<details open>
+<div class="table-of-contents" markdown="1"><details open>
 <summary><strong>Conteúdo</strong></summary>
 
 1. TOC
