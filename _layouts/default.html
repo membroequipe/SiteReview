@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Automático -->
+    {% seo %}
+
+    <!-- Google Fonts: Plus Jakarta Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+    <!-- Menu Superior em Linha Única -->
+    <header class="site-header">
+        <div class="nav-container">
+            <a href="{{ '/' | relative_url }}" class="site-logo">Guia Especializado</a>
+            <nav class="site-nav">
+                <a href="{{ '/' | relative_url }}">Início</a>
+                <a href="{{ '/melhores-produtos/' | relative_url }}">Melhores Produtos</a>
+                <a href="{{ '/comparativos/' | relative_url }}">Comparativos</a>
+                <a href="{{ '/guia-de-compra/' | relative_url }}">Guia de Compra</a>
+                <a href="{{ '/reviews/' | relative_url }}">Reviews</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Conteúdo Principal -->
+    <main class="site-content">
+        {{ content }}
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="site-footer">
+        <div class="footer-container">
+            <p>&copy; {{ 'now' | date: "%Y" }} Guia Especializado. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
