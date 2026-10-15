@@ -11,17 +11,18 @@
     --border-color: #e2e8f0;
 }
 
-* {
+*, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     background-color: var(--bg-color);
     color: var(--text-main);
-    line-height: 1.6;
+    line-height: 1.75; /* Aumentado para melhor legibilidade */
+    -webkit-font-smoothing: antialiased;
 }
 
 /* =========================================
@@ -69,17 +70,117 @@ body {
 }
 
 /* =========================================
-   3. CONTEÚDO PRINCIPAL (CONTAINER)
+   3. CONTEÚDO PRINCIPAL (CONTAINER E UX DE LEITURA)
    ========================================= */
 .site-content {
-    max-width: 900px;
+    max-width: 880px;
     margin: 3rem auto;
-    padding: 2.5rem;
+    padding: 2.5rem 3rem; /* Aumentado para criar respiro */
     background-color: var(--card-bg);
     border-radius: 12px;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.02);
     border: 1px solid var(--border-color);
     min-height: 60vh;
+}
+
+@media (max-width: 640px) {
+    .site-content {
+        margin: 1rem auto;
+        padding: 1.5rem 1.25rem;
+    }
+}
+
+/* Tipografia Corporativa do Post / Artigo */
+.post-title {
+    font-size: 2.1rem;
+    line-height: 1.3;
+    margin-bottom: 0.75rem;
+    color: var(--primary);
+    font-weight: 800;
+}
+
+.post-meta {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.post-content {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #334155;
+}
+
+/* Parágrafos e Espaçamento */
+.post-content p {
+    margin-top: 0;
+    margin-bottom: 1.35rem;
+}
+
+/* Títulos H2 e H3 com Respiro */
+.post-content h2 {
+    font-size: 1.55rem;
+    line-height: 1.35;
+    color: var(--primary);
+    font-weight: 700;
+    margin-top: 2.5rem;
+    margin-bottom: 0.85rem;
+}
+
+.post-content h3 {
+    font-size: 1.25rem;
+    line-height: 1.4;
+    color: #1e293b;
+    font-weight: 700;
+    margin-top: 1.8rem;
+    margin-bottom: 0.65rem;
+}
+
+.post-content strong {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+/* Listas Padrões no Texto (ul / ol) */
+.post-content ul, 
+.post-content ol {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+.post-content li {
+    margin-bottom: 0.55rem;
+    line-height: 1.65;
+}
+
+.post-content li:last-child {
+    margin-bottom: 0;
+}
+
+/* Citações / Caixas de Alerta */
+.post-content blockquote {
+    margin: 1.8rem 0;
+    padding: 1.2rem 1.5rem;
+    background-color: #f8fafc;
+    border-left: 4px solid #337ab7;
+    border-radius: 0 6px 6px 0;
+}
+
+.post-content blockquote p {
+    margin-bottom: 0.5rem;
+}
+
+.post-content blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+.post-content hr {
+    border: 0;
+    border-top: 1px solid var(--border-color);
+    margin: 2.2rem 0;
 }
 
 /* =========================================
@@ -96,108 +197,77 @@ body {
 }
 
 /* =========================================
-   ESTILO PRÓS E CONTRAS (BENEFÍCIOS vs CONSIDERAR)
+   5. ÍNDICE RETRÁTIL (ESTILO ASPIRADORES)
    ========================================= */
-.pros-cons-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1.5rem;
+.toc-container {
+    background-color: #fcfcfc;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 0.8rem 1.25rem;
     margin: 2rem 0;
+    font-family: inherit;
 }
 
-@media (max-width: 768px) {
-    .pros-cons-grid {
-        grid-template-columns: 1fr; /* Empilha no celular */
-    }
-}
-
-.pros-box, .cons-box {
-    border: 1px solid #e2e8f0;
-    border-radius: 6px;
-    overflow: hidden;
-    background-color: #ffffff;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-}
-
-/* Cabeçalhos */
-.pros-box h4, .cons-box h4 {
-    margin: 0 !important;
-    padding: 0.85rem 1rem !important;
-    font-size: 1.1rem !important;
-    font-weight: 700 !important;
-    color: #ffffff !important;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.pros-box h4 {
-    background-color: #10b981; /* Verde vibrante */
-}
-
-.cons-box h4 {
-    background-color: #ef4444; /* Vermelho vibrante */
-}
-
-/* Listas de itens */
-.pros-box ul, .cons-box ul {
-    list-style: none !important;
-    padding: 1.25rem 1rem !important;
-    margin: 0 !important;
-}
-
-.pros-box li, .cons-box li {
+.toc-container details summary {
+    cursor: pointer;
+    font-size: 1.05rem;
+    color: #222222;
+    user-select: none;
+    list-style: none;
+    text-align: center;
     position: relative;
-    padding-left: 2rem;
-    margin-bottom: 1rem;
+}
+
+.toc-title {
+    font-weight: 700;
+}
+
+.toc-container details summary::after {
+    content: " [esconder]";
+    font-size: 0.9rem;
+    color: #337ab7;
+    font-weight: normal;
+}
+
+.toc-container details:not([open]) summary::after {
+    content: " [mostrar]";
+}
+
+.toc-container details summary::-webkit-details-marker {
+    display: none;
+}
+
+.toc-list {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-top: 0.8rem !important;
+    margin-bottom: 0 !important;
+}
+
+.toc-item {
+    margin-bottom: 0.4rem;
     font-size: 0.95rem;
-    line-height: 1.5;
-    color: #334155;
 }
 
-.pros-box li:last-child, .cons-box li:last-child {
-    margin-bottom: 0;
+.toc-subitem {
+    margin-bottom: 0.4rem;
+    padding-left: 1.5rem;
+    font-size: 0.92rem;
 }
 
-/* Ícones customizados antes de cada texto */
-.pros-box li::before {
-    content: "✓";
-    position: absolute;
-    left: 0;
-    top: 2px;
-    width: 1.25rem;
-    height: 1.25rem;
-    border: 1.5px solid #10b981;
-    border-radius: 50%;
-    color: #10b981;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 0.75rem;
-    font-weight: bold;
+.toc-container a {
+    color: #337ab7;
+    text-decoration: none;
 }
 
-.cons-box li::before {
-    content: "✕";
-    position: absolute;
-    left: 0;
-    top: 2px;
-    width: 1.25rem;
-    height: 1.25rem;
-    border: 1.5px solid #ef4444;
-    border-radius: 50%;
-    color: #ef4444;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 0.75rem;
-    font-weight: bold;
+.toc-container a:hover {
+    color: #23527c;
+    text-decoration: underline;
 }
 
 /* =========================================
-   BLOCO COMPLETO DE REVIEW / AVALIAÇÃO GERAL
+   6. BLOCO DE REVIEW / AVALIAÇÃO GERAL
    ========================================= */
-/* Container Externo */
 .review-summary-box {
     background-color: #fbfcfd;
     border: 1px solid #e2e8f0;
@@ -207,7 +277,6 @@ body {
     box-shadow: 0 1px 3px rgba(0,0,0,0.03);
 }
 
-/* Seção da Nota Geral e Texto */
 .score-header {
     display: flex;
     align-items: flex-start;
@@ -223,9 +292,8 @@ body {
     }
 }
 
-/* Badge da Nota */
 .score-badge {
-    background-color: #00a896; /* Cor verde/turquesa vibrante do selo */
+    background-color: #00a896;
     color: #ffffff;
     border-radius: 6px;
     width: 100px;
@@ -245,7 +313,7 @@ body {
 }
 
 .score-label {
-    background-color: #0d2830; /* Faixa escura inferior */
+    background-color: #0d2830;
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -253,7 +321,6 @@ body {
     letter-spacing: 0.5px;
 }
 
-/* Conteúdo da Avaliação */
 .score-body {
     flex: 1;
 }
@@ -272,14 +339,15 @@ body {
     color: #334155;
 }
 
-/* Divisor horizontal interno */
 .review-summary-box hr {
     border: 0;
     border-top: 1px solid #e2e8f0;
     margin: 1.5rem 0;
 }
 
-/* Reaproveitamento e ajuste do Grid de Prós e Contras */
+/* =========================================
+   7. GRID DE PRÓS E CONTRAS
+   ========================================= */
 .pros-cons-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -368,45 +436,8 @@ body {
 }
 
 /* =========================================
-   ESTILOS DE TABELAS COMPARATIVAS E ÍNDICE (ToC)
+   8. TABELAS COMPARATIVAS
    ========================================= */
-
-/* Caixa do Índice / Tabela de Conteúdo */
-.table-of-contents {
-    background-color: #f8fafc;
-    border: 1px solid var(--border-color);
-    border-radius: 10px;
-    padding: 1.25rem 1.5rem;
-    margin: 2rem 0;
-}
-
-.table-of-contents h4 {
-    font-size: 1.05rem;
-    color: var(--primary);
-    margin-bottom: 0.75rem;
-}
-
-.table-of-contents ul {
-    padding-left: 1.25rem;
-    margin-bottom: 0;
-}
-
-.table-of-contents li {
-    margin-bottom: 0.4rem;
-    font-size: 0.95rem;
-}
-
-.table-of-contents a {
-    color: var(--accent);
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.table-of-contents a:hover {
-    text-decoration: underline;
-}
-
-/* Tabela Comparativa Responsiva */
 .table-wrapper {
     overflow-x: auto;
     margin: 2rem 0;
@@ -438,11 +469,11 @@ body {
 }
 
 /* =========================================
-   GRID DE REVIEWS (ESTILO SITE MODELO)
+   9. GRID DE CARDS NA HOME / CATEGORIAS
    ========================================= */
 .reviews-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 2.5rem;
     margin-top: 1.5rem;
 }
@@ -464,7 +495,7 @@ body {
     width: 100%;
     height: 220px;
     overflow: hidden;
-    background-color: #f8fafc; /* fundo suave cinza/brancura */
+    background-color: #f8fafc;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -474,23 +505,12 @@ body {
 .card-image-link img {
     max-width: 100%;
     max-height: 100%;
-    object-fit: contain; /* Exibe o produto inteiro sem cortar as bordas */
+    object-fit: contain;
     transition: transform 0.3s ease;
 }
 
 .review-card:hover .card-image-link img {
     transform: scale(1.03);
-}
-
-.placeholder-img {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--text-muted);
-    font-size: 0.9rem;
-    background: #e2e8f0;
 }
 
 .card-content {
@@ -533,7 +553,7 @@ body {
 .card-excerpt {
     font-size: 0.9rem;
     color: #475569;
-    line-height: 1.5;
+    line-height: 1.55;
     margin-bottom: 1.25rem;
 }
 
@@ -548,77 +568,4 @@ body {
 
 .card-read-more:hover {
     color: var(--accent);
-}
-
-/* =========================================
-   ESTILO DO ÍNDICE 
-   ========================================= */
-.toc-container {
-    background-color: #fcfcfc;
-    border: 1px solid #cccccc;
-    border-radius: 4px;
-    padding: 0.8rem 1.25rem;
-    margin: 2rem 0;
-    font-family: inherit;
-}
-
-/* Estilização do Título Centralizado */
-.toc-container details summary {
-    cursor: pointer;
-    font-size: 1.05rem;
-    color: #222222;
-    user-select: none;
-    list-style: none;
-    text-align: center;
-    position: relative;
-}
-
-.toc-title {
-    font-weight: 700;
-}
-
-/* Botão [esconder] / [mostrar] alinhado ao lado do Título */
-.toc-container details summary::after {
-    content: " [esconder]";
-    font-size: 0.9rem;
-    color: #337ab7; /* Tom exato de azul clássico */
-    font-weight: normal;
-}
-
-.toc-container details:not([open]) summary::after {
-    content: " [mostrar]";
-}
-
-.toc-container details summary::-webkit-details-marker {
-    display: none;
-}
-
-/* Lista de links sem os pontos numéricos padrões da UL/OL */
-.toc-list {
-    list-style: none !important;
-    padding-left: 0 !important;
-    margin-top: 0.8rem !important;
-    margin-bottom: 0 !important;
-}
-
-.toc-item {
-    margin-bottom: 0.4rem;
-    font-size: 0.95rem;
-}
-
-.toc-subitem {
-    margin-bottom: 0.4rem;
-    padding-left: 1.5rem; /* Recuo para subitens H3 (ex: 4.1) */
-    font-size: 0.92rem;
-}
-
-/* Tom azul dos links idêntico ao site de referência */
-.toc-container a {
-    color: #337ab7;
-    text-decoration: none;
-}
-
-.toc-container a:hover {
-    color: #23527c;
-    text-decoration: underline;
 }
