@@ -13,14 +13,14 @@ Analisamos todos os detalhes de desempenho, conforto e custo-benefício deste mo
 
 ---
 
-<div class="table-of-contents">
-<details open>
-<summary><strong>Conteúdo</strong></summary>
+<div class="toc-container" markdown="1">
+
+* Conteúdo
+{: #toc-title}
 
 1. TOC
-{:toc}
+{: #markdown-toc}
 
-</details>
 </div>
 
 ---
