@@ -78,7 +78,7 @@ Vendido a partir de **R$ 467,41 no Pix** (ou R$ 549,90 em até 10x), o headset r
 
 <div class="product-intro-box">
   
-  <!-- Imagem otimizada para SEO e visível para usuários e buscadores -->
+  <!-- Imagem do Produto com caminho dinâmico do Jekyll -->
   <div class="product-intro-img">
     <img src="{{ '/assets/images/posts/bluetooth-anker.webp' | relative_url }}" 
          alt="Fone de Ouvido Anker Soundcore Space 2 - Review e Ficha Técnica" 
