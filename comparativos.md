@@ -81,31 +81,21 @@ permalink: /comparativos/
     <p>Confira nossos guias completos e comparações lado a lado para encontrar o produto ideal para o seu perfil e orçamento.</p>
   </div>
 
-<div class="comparativos-grid">
-  {% assign comparativos_posts = site.posts | where: "category", "Comparativos" %}
-  
-  {% if comparativos_posts.size == 0 %}
-    {% assign comparativos_posts = "" | split: "" %}
+  <div class="comparativos-grid">
     {% for post in site.posts %}
-      {% if post.title contains "Melhores" or post.title contains "vs" %}
-        {% assign comparativos_posts = comparativos_posts | push: post %}
+      {% if post.category == "Comparativos" or post.categories contains "Comparativos" %}
+        <article class="comparativo-card">
+          <a href="{{ post.url | relative_url }}">
+            <div class="comparativo-img-wrapper">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+            </div>
+            <div class="comparativo-content">
+              <h2>{{ post.title }}</h2>
+              <p>{{ post.description }}</p>
+            </div>
+          </a>
+        </article>
       {% endif %}
     {% endfor %}
-    {% assign comparativos_posts = comparativos_posts | uniq %}
-  {% endif %}
-
-  {% for post in comparativos_posts %}
-    <article class="comparativo-card">
-      <a href="{{ post.url | relative_url }}">
-        <div class="comparativo-img-wrapper">
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-        </div>
-        <div class="comparativo-content">
-          <h2>{{ post.title }}</h2>
-          <p>{{ post.description }}</p>
-        </div>
-      </a>
-    </article>
-  {% endfor %}
-</div>
+  </div>
 </div>
