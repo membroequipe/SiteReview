@@ -13,14 +13,14 @@ Abaixo, detalhamos a ficha técnica completa, prós, contras e a opinião real d
 
 ---
 
-<div class="table-of-contents">
-<details open markdown="1">
-<summary><strong>Conteúdo</strong></summary>
+<div class="toc-container" markdown="1">
+
+* Conteúdo
+{: #toc-title}
 
 1. TOC
-{:toc}
+{: #markdown-toc}
 
-</details>
 </div>
 
 ---
