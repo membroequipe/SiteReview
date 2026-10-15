@@ -4,18 +4,28 @@ title: "Reviews e Análises Recentes"
 description: "Confira todas as nossas análises, reviews e guias publicados."
 ---
 
-<h1>Nossos Reviews e Análises</h1>
-<p style="color: #64748b; margin-bottom: 2rem;">Explore todos os artigos publicados em nosso portal:</p>
+<h1 style="font-size: 2.2rem; font-weight: 700; color: #0f172a; margin-bottom: 0.5rem; text-align: center;">Reviews</h1>
+<p style="color: #64748b; margin-bottom: 2.5rem; text-align: center;">Análises detalhadas, testes práticos e opiniões sinceras sobre os melhores produtos.</p>
 
-<div class="posts-list">
+<div class="reviews-grid">
   {% for post in site.posts %}
-    <article style="margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #e2e8f0;">
-      <h2 style="font-size: 1.4rem; margin-bottom: 0.5rem;">
-        <a href="{{ post.url | relative_url }}" style="color: #0f172a; text-decoration: none;">{{ post.title }}</a>
-      </h2>
-      <p style="color: #64748b; font-size: 0.85rem; margin-bottom: 0.75rem;">Publicado em {{ post.date | date: "%d/%m/%Y" }}</p>
-      <p style="color: #334155; margin-bottom: 1rem;">{{ post.excerpt | strip_html | truncate: 150 }}</p>
-      <a href="{{ post.url | relative_url }}" style="color: #0d9488; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Ler review completo &rarr;</a>
+    <article class="review-card">
+      <a href="{{ post.url | relative_url }}" class="card-image-link">
+        {% if post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+        {% else %}
+          <div class="placeholder-img">Sem imagem</div>
+        {% endif %}
+      </a>
+      <div class="card-content">
+        <span class="card-category">{{ post.category | default: "REVIEWS" | upcase }}</span>
+        <h2 class="card-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p class="card-meta">Por {{ post.author | default: "Redação" }} • {{ post.date | date: "%b %d, %Y" }}</p>
+        <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+        <a href="{{ post.url | relative_url }}" class="card-read-more">LER MAIS &rarr;</a>
+      </div>
     </article>
   {% endfor %}
 </div>
