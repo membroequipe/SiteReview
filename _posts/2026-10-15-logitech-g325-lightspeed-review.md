@@ -11,6 +11,64 @@ Se você está procurando um headset gamer leve, com áudio nítido e sem atraso
 
 Analisamos todos os detalhes de desempenho, conforto e custo-benefício deste modelo.
 
+## Principais Características do Anker Soundcore Space 2
+
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Característica</th>
+        <th>Descrição</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Modelo</td>
+        <td>Anker Soundcore Space 2 (A3027)</td>
+      </tr>
+      <tr>
+        <td>Tipo de Fone</td>
+        <td>Over-Ear (Circumaural sem fio)</td>
+      </tr>
+      <tr>
+        <td>Conectividade</td>
+        <td>Bluetooth 6.1 e P2 (3,5 mm)</td>
+      </tr>
+      <tr>
+        <td>Tecnologia de Áudio</td>
+        <td>Drivers de 40mm, Suporte a Hi-Res LDAC</td>
+      </tr>
+      <tr>
+        <td>Cancelamento de Ruído</td>
+        <td>ANC Ativo Adaptativo de 4 Estágios</td>
+      </tr>
+      <tr>
+        <td>Autonomia da Bateria</td>
+        <td>Até 70h (ANC desligado) / 50h (ANC ligado)</td>
+      </tr>
+      <tr>
+        <td>Carregamento Rápido</td>
+        <td>5 minutos de carga garantem 4 horas de uso</td>
+      </tr>
+      <tr>
+        <td>Conexão Multiponto</td>
+        <td>Sim (conecta a 2 dispositivos simultaneamente)</td>
+      </tr>
+      <tr>
+        <td>Peso Aproximado</td>
+        <td>260g</td>
+      </tr>
+      <tr>
+        <td>Acessórios Inclusos</td>
+        <td>Case rígida de transporte, cabo USB-C e cabo P2</td>
+      </tr>
+      <tr>
+        <td>Garantia</td>
+        <td>12 meses (fabricante)</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Apresentação e Posicionamento
 
