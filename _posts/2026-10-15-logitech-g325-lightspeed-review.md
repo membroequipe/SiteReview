@@ -22,7 +22,7 @@ Vendido a partir de **R$ 467,41 no Pix** (ou R$ 549,90 em até 10x), o headset r
   
   <!-- Imagem do Produto -->
   <div class="product-intro-img">
-    <img src="/assets/images/posts/bluetooth-anker.webp" alt="Anker Soundcore Space 2">
+    <img src="{{ '/assets/images/posts/bluetooth-anker.webp' | relative_url }}" alt="Anker Soundcore Space 2">
   </div>
 
   <!-- Título e Breve Descrição -->
@@ -34,14 +34,17 @@ Vendido a partir de **R$ 467,41 no Pix** (ou R$ 549,90 em até 10x), o headset r
   <!-- Botões de Ação -->
   <div class="product-intro-buttons">
     <a href="SEU_LINK_DE_AFILIADO_ML" target="_blank" rel="nofollow" class="btn-intro btn-ml">
-      <img src="/assets/images/posts/mercadolivre-logo.png" alt="Mercado Livre">
+      <img src="{{ '/assets/images/posts/mercadolivre-logo.png' | relative_url }}" alt="Mercado Livre">
       <span>Melhor Preço</span>
     </a>
 
     <a href="#avaliacoes-dos-compradores" class="btn-intro btn-orange">
-      👍 Avaliações
+      <i class="icon-thumbs-up"></i>
+      <span>Avaliações</span>
     </a>
   </div>
+
+</div>
 
 </div>
 
