@@ -94,3 +94,170 @@ body {
     color: var(--text-muted);
     font-size: 0.9rem;
 }
+
+/* =========================================
+   ESTILOS PARA ARTIGOS DE REVIEW E COMPONENTES
+   ========================================= */
+
+/* Cabeçalho do Artigo */
+.article-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.article-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--primary);
+    line-height: 1.25;
+    margin-bottom: 0.5rem;
+}
+
+.article-meta {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+}
+
+/* Tipografia e Espaçamento no Artigo */
+.article-body h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.article-body h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.article-body p {
+    margin-bottom: 1.25rem;
+    color: #334155;
+}
+
+.article-body ul, .article-body ol {
+    margin-bottom: 1.5rem;
+    padding-left: 1.25rem;
+}
+
+.article-body li {
+    margin-bottom: 0.5rem;
+}
+
+.article-body hr {
+    border: 0;
+    height: 1px;
+    background: var(--border-color);
+    margin: 2.5rem 0;
+}
+
+/* Botões de Chamada para Ação (CTA / Afiliados) */
+.btn-cta {
+    display: inline-block;
+    background-color: var(--accent);
+    color: #ffffff !important;
+    font-weight: 600;
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(13, 148, 136, 0.2);
+    margin: 0.5rem 0.5rem 0.5rem 0;
+}
+
+.btn-cta:hover {
+    background-color: #0f766e;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px rgba(13, 148, 136, 0.3);
+}
+
+.btn-cta-secondary {
+    background-color: #2563eb;
+    box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+}
+
+.btn-cta-secondary:hover {
+    background-color: #1d4ed8;
+}
+
+/* Bloco de Citação / Destaque */
+.article-body blockquote {
+    background-color: #f1f5f9;
+    border-left: 4px solid var(--accent);
+    padding: 1.25rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1.5rem 0;
+}
+
+.article-body blockquote p {
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+/* Caixas de Prós e Contras (Grid de 2 Colunas) */
+.pros-cons-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+@media (max-width: 640px) {
+    .pros-cons-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.pros-box, .cons-box {
+    padding: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+}
+
+.pros-box {
+    background-color: #f0fdf4;
+    border-color: #bbf7d0;
+}
+
+.cons-box {
+    background-color: #fef2f2;
+    border-color: #fecaca;
+}
+
+.pros-box h4 {
+    color: #166534;
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+}
+
+.cons-box h4 {
+    color: #991b1b;
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+}
+
+.pros-box ul, .cons-box ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.pros-box li::before {
+    content: "✓ ";
+    color: #16a34a;
+    font-weight: bold;
+}
+
+.cons-box li::before {
+    content: "✕ ";
+    color: #dc2626;
+    font-weight: bold;
+}
