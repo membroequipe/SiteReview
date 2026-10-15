@@ -446,9 +446,9 @@ body {
 }
 
 /* =========================================
-   ESTILO DO ÍNDICE RETRÁTIL (TOC)
+   ESTILO DO ÍNDICE RETRÁTIL (TOC JEYKLL)
    ========================================= */
-.table-of-contents {
+.toc-container {
     background-color: #f8fafc;
     border: 1px solid var(--border-color);
     border-radius: 8px;
@@ -456,49 +456,31 @@ body {
     margin: 2rem 0;
 }
 
-.table-of-contents details summary {
-    cursor: pointer;
+/* Título e Estilização do cabeçalho do ToC */
+#toc-title {
+    font-weight: 700;
     font-size: 1rem;
     color: var(--primary);
-    user-select: none;
-    list-style: none; /* Remove a setinha padrão do navegador */
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    list-style: none;
+    margin-bottom: 0.5rem;
 }
 
-/* Cria o texto dinâmico [esconder] / [mostrar] */
-.table-of-contents details summary::after {
-    content: "[esconder]";
-    font-size: 0.85rem;
-    color: var(--accent);
-    font-weight: normal;
-}
-
-.table-of-contents details:not([open]) summary::after {
-    content: "[mostrar]";
-}
-
-.table-of-contents details summary::-webkit-details-marker {
-    display: none; /* Esconde marcadores antigos no Safari/Chrome */
-}
-
-/* Estilização da lista gerada pelo Jekyll dentro do índice */
-.table-of-contents ul {
+/* Transforma o índice gerado pelo Kramdown em lista elegante */
+#markdown-toc {
     padding-left: 1.25rem;
     margin-bottom: 0;
 }
 
-.table-of-contents li {
+#markdown-toc li {
     margin-bottom: 0.35rem;
     font-size: 0.92rem;
 }
 
-.table-of-contents a {
+#markdown-toc a {
     color: #2563eb;
     text-decoration: none;
 }
 
-.table-of-contents a:hover {
+#markdown-toc a:hover {
     text-decoration: underline;
 }
