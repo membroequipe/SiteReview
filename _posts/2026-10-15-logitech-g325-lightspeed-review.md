@@ -11,19 +11,6 @@ Se você está procurando um headset gamer leve, com áudio nítido e sem atraso
 
 Analisamos todos os detalhes de desempenho, conforto e custo-benefício deste modelo.
 
----
-
-<div class="toc-container" markdown="1">
-
-* Conteúdo
-{: #toc-title}
-
-1. TOC
-{: #markdown-toc}
-
-</div>
-
----
 
 ## Apresentação e Posicionamento
 
