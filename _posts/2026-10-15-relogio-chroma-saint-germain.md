@@ -3,7 +3,7 @@ layout: post
 title: "Relógio Chroma Masculino Preto Saint Germain: Vale a Pena? Análise Completa"
 description: "Análise do Relógio Chroma Saint Germain: design clássico, movimento quartzo e preço acessível. Veja prós, contras e avaliações reais antes de comprar."
 image: "/assets/images/posts/relogio-germain.webp"
-category: "Relogios"
+category: "Reviews"
 author: "Equipe Guia Especializado"
 ---
 
