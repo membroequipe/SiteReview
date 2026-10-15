@@ -8,11 +8,13 @@ layout: default
     <p class="post-meta">Publicado em {{ page.date | date: "%d/%m/%Y" }}</p>
   </header>
 
-  <!-- CAIXA DO ÍNDICE RETRÁTIL AUTOMÁTICA -->
+  <!-- CAIXA DO ÍNDICE RETRÁTIL MODELO ASPIRADORES -->
   <div class="toc-container" id="toc-box" style="display: none;">
     <details open>
-      <summary><strong>Conteúdo</strong></summary>
-      <ol id="auto-toc"></ol>
+      <summary>
+        <span class="toc-title">Conteúdo</span>
+      </summary>
+      <ul id="auto-toc" class="toc-list"></ul>
     </details>
   </div>
 
@@ -29,12 +31,13 @@ layout: default
     
     if (!content || !tocList) return;
 
-    // Seleciona todos os títulos H2 e H3 do artigo
     const headings = content.querySelectorAll("h2, h3");
 
     if (headings.length > 0) {
+      let h2Count = 0;
+      let h3Count = 0;
+
       headings.forEach((heading, index) => {
-        // Cria um ID para o título se não existir
         if (!heading.id) {
           heading.id = "secao-" + (index + 1);
         }
@@ -42,18 +45,26 @@ layout: default
         const li = document.createElement("li");
         const a = document.createElement("a");
         a.href = "#" + heading.id;
-        a.textContent = heading.textContent;
 
-        // Se for H3, adiciona um pequeno recuo
-        if (heading.tagName.toLowerCase() === "h3") {
-          li.style.marginLeft = "1.25rem";
+        const isH3 = heading.tagName.toLowerCase() === "h3";
+
+        if (isH3) {
+          h3Count++;
+          li.className = "toc-subitem";
+          // Formato: 4.1 Nome do Tópico (Sem ponto após a numeração)
+          a.textContent = `${h2Count}.${h3Count} ${heading.textContent}`;
+        } else {
+          h2Count++;
+          h3Count = 0; // reseta a contagem do H3 para o próximo H2
+          li.className = "toc-item";
+          // Formato: 1 Nome do Tópico (Sem ponto após o número)
+          a.textContent = `${h2Count} ${heading.textContent}`;
         }
 
         li.appendChild(a);
         tocList.appendChild(li);
       });
 
-      // Exibe a caixa do índice caso haja títulos
       tocBox.style.display = "block";
     }
   });
