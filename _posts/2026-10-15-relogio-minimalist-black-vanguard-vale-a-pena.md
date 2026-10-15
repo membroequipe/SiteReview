@@ -9,7 +9,7 @@ author: "Equipe Guia Especializado"
 
 <div class="product-intro-box">
   <div class="product-intro-img">
-    <img src="{{ '/assets/images/posts/relogio-vanguard.webp' | relative_url }}" 
+    <img src="{{ '/assets/images/posts/relogio-germain.webp' | relative_url }}" 
          alt="Relógio Minimalist Black Vanguard - Review e Ficha Técnica" 
          title="Relógio Minimalist Black Vanguard" 
          loading="lazy">
