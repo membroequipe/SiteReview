@@ -3,7 +3,7 @@ layout: post
 title: "Os 3 Melhores Relógios Masculinos Pretos para Comprar em 2026"
 description: "Dúvida sobre qual relógio preto escolher? Comparamos os 3 melhores modelos em estilo, durabilidade e custo-benefício para facilitar sua compra."
 image: "/assets/images/posts/relogio-germain.webp"
-category: "Relogios"
+category: "Comparativos"
 author: "Equipe Guia Especializado"
 ---
 
