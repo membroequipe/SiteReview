@@ -261,3 +261,73 @@ body {
     color: #dc2626;
     font-weight: bold;
 }
+
+/* =========================================
+   ESTILOS DE TABELAS COMPARATIVAS E ÍNDICE (ToC)
+   ========================================= */
+
+/* Caixa do Índice / Tabela de Conteúdo */
+.table-of-contents {
+    background-color: #f8fafc;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+}
+
+.table-of-contents h4 {
+    font-size: 1.05rem;
+    color: var(--primary);
+    margin-bottom: 0.75rem;
+}
+
+.table-of-contents ul {
+    padding-left: 1.25rem;
+    margin-bottom: 0;
+}
+
+.table-of-contents li {
+    margin-bottom: 0.4rem;
+    font-size: 0.95rem;
+}
+
+.table-of-contents a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.table-of-contents a:hover {
+    text-decoration: underline;
+}
+
+/* Tabela Comparativa Responsiva */
+.table-wrapper {
+    overflow-x: auto;
+    margin: 2rem 0;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    font-size: 0.95rem;
+}
+
+.comparison-table th, .comparison-table td {
+    padding: 0.85rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.comparison-table th {
+    background-color: #f1f5f9;
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.comparison-table tr:last-child td {
+    border-bottom: none;
+}
