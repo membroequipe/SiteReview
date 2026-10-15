@@ -18,11 +18,32 @@ O **Logitech G325 LIGHTSPEED** é um headset gamer sem fio em formato *over-ear*
 
 Vendido a partir de **R$ 467,41 no Pix** (ou R$ 549,90 em até 10x), o headset registra nota **4.8 de 5 estrelas** em mais de 123 opiniões de compradores.
 
-<blockquote>
-<p><strong>Onde Comprar com o Melhor Preço:</strong></p>
-<a href="#" class="btn-cta">Conferir Oferta no Mercado Livre</a>
-<a href="#" class="btn-cta btn-cta-secondary">Ver Preço na Amazon</a>
-</blockquote>
+<div class="product-intro-box">
+  
+  <!-- Imagem do Produto -->
+  <div class="product-intro-img">
+    <img src="/assets/images/posts/bluetooth-anker.webp" alt="Anker Soundcore Space 2">
+  </div>
+
+  <!-- Título e Breve Descrição -->
+  <div class="product-intro-details">
+    <h3>Anker Soundcore Space 2</h3>
+    <p>O Anker Soundcore Space 2 é um fone over-ear compacto, potente e com excelente cancelamento de ruído e custo-benefício para uso diário e viagens.</p>
+  </div>
+
+  <!-- Botões de Ação -->
+  <div class="product-intro-buttons">
+    <a href="SEU_LINK_DE_AFILIADO_ML" target="_blank" rel="nofollow" class="btn-intro btn-ml">
+      <img src="/assets/images/mercadolivre-logo.png" alt="Mercado Livre">
+      <span>Melhor Preço</span>
+    </a>
+
+    <a href="#avaliacoes-dos-compradores" class="btn-intro btn-orange">
+      👍 Avaliações
+    </a>
+  </div>
+
+</div>
 
 ---
 
