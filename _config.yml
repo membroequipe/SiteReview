@@ -1,7 +1,7 @@
 title: "Guia Especializado"
 description: "Análises aprofundadas, comparativos e guias de compra para ajudar você a escolher o melhor produto."
-url: "https://seudominio.com.br"
-baseurl: "https://membroequipe.github.io/SiteReview/"
+url: "https://membroequipe.github.io"
+baseurl: "/SiteReview"
 
 markdown: kramdown
 plugins:
