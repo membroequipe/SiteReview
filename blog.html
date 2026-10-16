@@ -1,0 +1,181 @@
+---
+layout: default
+title: "Blog & Dicas Úteis"
+permalink: /blog/
+---
+
+<style>
+  .blog-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 15px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  .blog-header {
+    margin-bottom: 35px;
+    text-align: left;
+  }
+
+  .blog-header h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin: 0 0 12px 0;
+    line-height: 1.2;
+  }
+
+  .blog-header p {
+    font-size: 1.05rem;
+    color: #64748b;
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  .blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+  }
+
+  .blog-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .blog-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+  }
+
+  .blog-card a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .blog-img-wrapper {
+    width: 100%;
+    height: 200px;
+    background: #f8fafc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #edf2f7;
+  }
+
+  .blog-img-wrapper img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    display: block;
+  }
+
+  .blog-content {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  .blog-badge {
+    align-self: flex-start;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #0d9488;
+    background-color: #ccfbf1;
+    padding: 4px 10px;
+    border-radius: 20px;
+    margin-bottom: 12px;
+  }
+
+  .blog-content h2 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin: 0 0 10px 0;
+    line-height: 1.4;
+  }
+
+  .blog-content p {
+    font-size: 0.9rem;
+    color: #475569;
+    margin: 0 0 15px 0;
+    line-height: 1.5;
+  }
+
+  .blog-date {
+    font-size: 0.82rem;
+    color: #94a3b8;
+    margin-top: auto;
+  }
+
+  .no-posts {
+    text-align: center;
+    padding: 40px;
+    color: #64748b;
+    background: #f8fafc;
+    border-radius: 12px;
+    border: 1px dashed #cbd5e1;
+  }
+
+  /* Responsividade Mobile */
+  @media (max-width: 640px) {
+    .blog-header h1 {
+      font-size: 1.65rem !important;
+      line-height: 1.25 !important;
+    }
+  }
+</style>
+
+<div class="blog-container">
+  
+  <div class="blog-header">
+    <h1>Blog & Dicas do Nicho</h1>
+    <p>Artigos informativos, tutoriais e dicas práticas para ajudar você no dia a dia.</p>
+  </div>
+
+  {% assign blog_posts = site.posts | where_exp: "item", "item.category == 'Blog' or item.category == 'Dicas' or item.categories contains 'Blog' or item.categories contains 'Dicas'" %}
+
+  {% if blog_posts.size > 0 %}
+    <div class="blog-grid">
+      {% for post in blog_posts %}
+        <article class="blog-card">
+          <a href="{{ post.url | relative_url }}">
+            {% if post.image %}
+              <div class="blog-img-wrapper">
+                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+              </div>
+            {% endif %}
+            
+            <div class="blog-content">
+              <span class="blog-badge">{{ post.category | default: "Blog" }}</span>
+              <h2>{{ post.title }}</h2>
+              {% if post.description %}
+                <p>{{ post.description }}</p>
+              {% endif %}
+              <div class="blog-date">
+                {{ post.date | date: "%d/%m/%Y" }}
+              </div>
+            </div>
+          </a>
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <div class="no-posts">
+      <p>Nenhum artigo publicado no blog ainda. Em breve traremos novidades e tutoriais!</p>
+    </div>
+  {% endif %}
+
+</div>
