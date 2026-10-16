@@ -433,19 +433,6 @@ publicação.
   </div>
 </div>
 
-<div class="product-intro-box">
-  <div class="product-intro-details">
-    <h3>Notebook ASUS VivoBook Go 15</h3>
-    <p>Confira o preço e a disponibilidade atualizada:</p>
-  </div>
-  <div class="product-intro-buttons">
-    <a href="SEU_LINK_DE_AFILIADO_ML" target="_blank" rel="nofollow" class="btn-intro btn-ml">
-      <img src="{{ '/assets/images/posts/mercadolivre-logo.png' | relative_url }}" alt="Mercado Livre">
-      <span>Ver Preço no Mercado Livre</span>
-    </a>
-  </div>
-</div>
-
 ------------------------------------------------------------------------
 
 **Nota editorial:** este conteúdo é uma análise técnica baseada nas
