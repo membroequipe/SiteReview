@@ -145,11 +145,11 @@ permalink: /blog/
     <p>Artigos informativos, tutoriais e dicas práticas para ajudar você no dia a dia.</p>
   </div>
 
-  {% assign blog_posts = site.posts | where_exp: "item", "item.category == 'Blog' or item.category == 'Dicas' or item.categories contains 'Blog' or item.categories contains 'Dicas'" %}
-
-  {% if blog_posts.size > 0 %}
-    <div class="blog-grid">
-      {% for post in blog_posts %}
+  <div class="blog-grid">
+    {% assign has_blog_posts = false %}
+    {% for post in site.posts %}
+      {% if post.category == "Blog" or post.category == "Dicas" %}
+        {% assign has_blog_posts = true %}
         <article class="blog-card">
           <a href="{{ post.url | relative_url }}">
             {% if post.image %}
@@ -159,7 +159,7 @@ permalink: /blog/
             {% endif %}
             
             <div class="blog-content">
-              <span class="blog-badge">{{ post.category | default: "Blog" }}</span>
+              <span class="blog-badge">{{ post.category }}</span>
               <h2>{{ post.title }}</h2>
               {% if post.description %}
                 <p>{{ post.description }}</p>
@@ -170,9 +170,11 @@ permalink: /blog/
             </div>
           </a>
         </article>
-      {% endfor %}
-    </div>
-  {% else %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if has_blog_posts == false %}
     <div class="no-posts">
       <p>Nenhum artigo publicado no blog ainda. Em breve traremos novidades e tutoriais!</p>
     </div>
