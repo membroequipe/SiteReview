@@ -131,8 +131,8 @@ permalink: /reviews/
   <div class="reviews-grid">
     {% assign has_reviews = false %}
     {% for post in site.posts %}
-      <!-- Filtro universal: puxa estritamente o que tiver category: Reviews -->
-      {% if post.category == "Reviews" %}
+      <!-- Garante que posts da categoria Comparativos ou Blog NUNCA apareçam aqui -->
+      {% if post.category != "Comparativos" and post.category != "Blog" and post.category != "Dicas" %}
         {% assign has_reviews = true %}
         <article class="review-card">
           <a href="{{ post.url | relative_url }}">
@@ -143,7 +143,7 @@ permalink: /reviews/
             {% endif %}
             
             <div class="review-content">
-              <span class="review-badge">{{ post.category }}</span>
+              <span class="review-badge">{{ post.category | default: "Reviews" }}</span>
               <h2>{{ post.title }}</h2>
               {% if post.description %}
                 <p>{{ post.description }}</p>
