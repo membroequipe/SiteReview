@@ -145,11 +145,11 @@ permalink: /reviews/
     <p>Avaliações completas, testes de desempenho e fichas técnicas para você decidir com segurança.</p>
   </div>
 
-  <div class="reviews-grid">
+ <div class="reviews-grid">
     {% assign has_reviews = false %}
     {% for post in site.posts %}
-      <!-- Puxa exclusivamente posts com categoria Reviews -->
-      {% if post.category == "Reviews" %}
+      <!-- Filtro universal e reutilizável: puxa apenas posts onde a categoria é estritamente "Reviews" -->
+      {% if post.category == "Reviews" or post.categories contains "Reviews" %}
         {% assign has_reviews = true %}
         <article class="review-card">
           <a href="{{ post.url | relative_url }}">
@@ -174,7 +174,7 @@ permalink: /reviews/
       {% endif %}
     {% endfor %}
   </div>
-
+  
   {% if has_reviews == false %}
     <div class="no-posts">
       <p>Nenhum review publicado no momento. Em breve novas análises!</p>
