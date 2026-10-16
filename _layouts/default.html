@@ -27,7 +27,7 @@
       }
 
       .site-logo-img {
-        height: 36px;
+        height: 40px; /* Altura ideal para logo retangular */
         width: auto;
         object-fit: contain;
         display: block;
@@ -40,11 +40,7 @@
         }
         
         .site-logo-img {
-          height: 30px;
-        }
-
-        .site-logo-text {
-          font-size: 1.05rem !important;
+          height: 32px; /* Reduz ligeiramente no mobile para dar mais espaço ao menu */
         }
 
         .nav-list {
@@ -59,15 +55,13 @@
 </head>
 <body>
 
-   <!-- Menu Superior com Logo e Navegação -->
+   <!-- Menu Superior apenas com Logotipo Retangular -->
     <header class="site-header" style="background: #ffffff; border-bottom: 1px solid #e2e8f0; width: 100%;">
         <div class="site-header-container">
             
-            <!-- Logo + Nome do Site -->
-            <a href="{{ '/' | relative_url }}" class="site-logo-link" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
-                <!-- Placeholder do Logotipo (Salvar em assets/images/logo.png) -->
-                <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo Guia Especializado" class="site-logo-img" onerror="this.style.display='none';">
-                <span class="site-logo-text" style="font-weight: 700; font-size: 1.25rem; color: #1a202c;">Guia Especializado</span>
+            <!-- Logo do Site -->
+            <a href="{{ '/' | relative_url }}" class="site-logo-link" style="display: flex; align-items: center; text-decoration: none;">
+                <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Guia Especializado" class="site-logo-img">
             </a>
             
             <!-- Menu de Navegação -->
