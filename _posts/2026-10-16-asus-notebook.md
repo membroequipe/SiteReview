@@ -114,7 +114,6 @@ código do produto e as informações do vendedor antes de fechar a compra.
   Uso indicado                        Estudos, escritório, navegação,
                                       videochamadas e entretenimento
                                       cotidiano
-  -----------------------------------------------------------------------
 
 <div class="pros-cons-grid">
   <div class="pros-box">
