@@ -9,10 +9,24 @@ permalink: /comparativos/
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px 15px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
   }
   .comparativos-header {
     margin-bottom: 30px;
     text-align: left;
+  }
+  .comparativos-header h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #1a202c;
+    margin: 0 0 12px 0;
+    line-height: 1.2;
+  }
+  .comparativos-header p {
+    font-size: 1.05rem;
+    color: #4a5568;
+    margin: 0;
+    line-height: 1.6;
   }
   .comparativos-grid {
     display: grid;
@@ -72,6 +86,14 @@ permalink: /comparativos/
     color: #4a5568;
     margin: 0;
     line-height: 1.5;
+  }
+
+  /* Correção do espaçamento no Mobile */
+  @media (max-width: 640px) {
+    .comparativos-header h1 {
+      font-size: 1.65rem !important;
+      line-height: 1.25 !important;
+    }
   }
 </style>
 
