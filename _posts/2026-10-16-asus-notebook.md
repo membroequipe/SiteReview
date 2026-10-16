@@ -116,43 +116,25 @@ código do produto e as informações do vendedor antes de fechar a compra.
                                       cotidiano
   -----------------------------------------------------------------------
 
-### Pontos positivos
-
--   **Processador adequado para produtividade cotidiana:** o Ryzen 5
-    7520U oferece uma base competente para documentos, navegação, aulas
-    e aplicativos de escritório.
--   **SSD para respostas mais rápidas:** o armazenamento em estado
-    sólido contribui para inicialização e carregamento ágeis, embora 256
-    GB exijam organização se guardarmos muitos arquivos.
--   **Tela Full HD de 15,6 polegadas:** a área de visualização é
-    conveniente para leitura, planilhas, cursos e multitarefa leve.
--   **Formato relativamente portátil para um notebook de tela grande:**
-    a ASUS divulga cerca de 1,63 kg para a família, mas devemos
-    confirmar o peso da variante e considerar carregador e acessórios.
--   **Recursos úteis para o dia a dia:** a linha inclui tampa física
-    para a webcam e dobradiça que pode abrir até 180 graus, conforme a
-    versão.
-
-### Pontos negativos e limitações
-
--   **8 GB de RAM podem limitar a multitarefa intensa:** é suficiente
-    para várias rotinas comuns, mas oferece menos margem para aplicações
-    pesadas e muitas tarefas abertas ao mesmo tempo.
--   **Possível ausência de expansão de memória:** em configurações com
-    RAM soldada, não é possível adicionar um módulo convencional
-    posteriormente. Precisamos confirmar a especificação exata antes da
-    compra.
--   **SSD de 256 GB pode ficar pequeno:** sistema, programas,
-    documentos, fotos e vídeos consomem espaço; usuários com grandes
-    bibliotecas podem preferir 512 GB ou mais.
--   **Gráficos integrados de entrada:** a Radeon 610M não substitui uma
-    GPU dedicada para jogos exigentes, renderização ou edição gráfica
-    pesada.
--   **A tela pode variar entre versões:** Full HD indica resolução, não
-    garante cores profissionais, alto brilho ou ângulos de visão amplos.
--   **A configuração do sistema operacional precisa ser conferida:**
-    existem versões da família vendidas com Windows e outras com Linux.
-    Não devemos presumir que todo anúncio corresponde à mesma edição.
+<div class="pros-cons-grid">
+  <div class="pros-box">
+    <h4>O que consideramos positivo</h4>
+    <ul>
+      <li>SSD NVMe que favorece inicialização rápida e abertura fluida de programas.</li>
+      <li>Processador Ryzen 5 7520U adequado para tarefas cotidianas e estudos.</li>
+      <li>Tela Full HD de 15,6 polegadas com bom espaço útil para planilhas e textos.</li>
+      <li>Webcam equipada com tampa física de privacidade.</li>
+    </ul>
+  </div>
+  <div class="cons-box">
+    <h4>O que merece atenção</h4>
+    <ul>
+      <li>Os 8 GB de memória RAM são soldados e podem limitar multitarefas mais pesadas.</li>
+      <li>O brilho e a cobertura de cores do painel são básicos para uso externo.</li>
+      <li>Não é uma máquina recomendada para jogos exigentes ou edição profissional pesada.</li>
+    </ul>
+  </div>
+</div>
 
 No balanço, os componentes formam um conjunto coerente para
 produtividade básica e intermediária, desde que o preço seja competitivo
@@ -438,6 +420,19 @@ modelo, a política de devolução e as condições de garantia. Os valores e
 a disponibilidade mudam conforme o vendedor e a configuração. Os botões
 abaixo devem receber os links de afiliado válidos do site antes da
 publicação.
+
+<div class="product-intro-box">
+  <div class="product-intro-details">
+    <h3>Notebook ASUS VivoBook Go 15</h3>
+    <p>Confira o preço e a disponibilidade atualizada:</p>
+  </div>
+  <div class="product-intro-buttons">
+    <a href="SEU_LINK_DE_AFILIADO_ML" target="_blank" rel="nofollow" class="btn-intro btn-ml">
+      <img src="{{ '/assets/images/posts/mercadolivre-logo.png' | relative_url }}" alt="Mercado Livre">
+      <span>Ver Preço no Mercado Livre</span>
+    </a>
+  </div>
+</div>
 
 <div class="product-intro-box">
   <div class="product-intro-details">
