@@ -36,6 +36,7 @@ title: "Início"
     font-weight: 700;
     color: #0f172a;
     margin: 0 0 12px 0;
+    line-height: 1.2; /* Melhora a proporção geral das linhas */
   }
 
   .hero-section p {
@@ -76,7 +77,7 @@ title: "Início"
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
   }
 
- .post-card-img-container {
+  .post-card-img-container {
     width: 100%;
     height: 200px;
     background-color: #f8fafc;
@@ -92,7 +93,7 @@ title: "Início"
     max-height: 100%;
     width: auto;
     height: auto;
-    object-fit: contain; /* Mantém a proporção exata da imagem sem cortar */
+    object-fit: contain;
     display: block;
   }
 
@@ -146,6 +147,17 @@ title: "Início"
     background: #f8fafc;
     border-radius: 12px;
     border: 1px dashed #cbd5e1;
+  }
+
+  /* Correção do espaçamento no Mobile */
+  @media (max-width: 640px) {
+    .hero-section h1 {
+      font-size: 1.65rem !important;
+      line-height: 1.25 !important;
+    }
+    .hero-section {
+      padding: 30px 15px 35px 15px !important;
+    }
   }
 </style>
 
