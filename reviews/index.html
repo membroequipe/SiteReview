@@ -145,39 +145,33 @@ permalink: /reviews/
   </div>
 
   <div class="reviews-grid">
-    {% assign has_reviews = false %}
-    {% for post in site.posts %}
-      {% assign post_cat = post.category | downcase %}
-      {% assign post_cats = post.categories | join: ' ' | downcase %}
-
-      <!-- Condição Estrita: Aceita apenas "reviews" e rejeita explicitamente "comparativos" ou "blog" -->
-      {% if post_cat == "reviews" or post_cats contains "reviews" %}
-        {% unless post_cat == "comparativos" or post_cats contains "comparativos" or post_cat == "blog" or post_cats contains "blog" %}
-          {% assign has_reviews = true %}
-          <article class="review-card">
-            <a href="{{ post.url | relative_url }}">
-              {% if post.image %}
-                <div class="review-img-wrapper">
-                  <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-                </div>
-              {% endif %}
-              
-              <div class="review-content">
-                <span class="review-badge">{{ post.category }}</span>
-                <h2>{{ post.title }}</h2>
-                {% if post.description %}
-                  <p>{{ post.description }}</p>
-                {% endif %}
-                <div class="review-date">
-                  Por {{ post.author | default: "Equipe Guia Especializado" }} • {{ post.date | date: "%d/%m/%Y" }}
-                </div>
-              </div>
-            </a>
-          </article>
-        {% endunless %}
-      {% endif %}
-    {% endfor %}
-  </div>
+  {% assign has_reviews = false %}
+  {% for post in site.posts %}
+    {% if post.category == "Reviews" %}
+      {% assign has_reviews = true %}
+      <article class="review-card">
+        <a href="{{ post.url | relative_url }}">
+          {% if post.image %}
+            <div class="review-img-wrapper">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+            </div>
+          {% endif %}
+          
+          <div class="review-content">
+            <span class="review-badge">{{ post.category }}</span>
+            <h2>{{ post.title }}</h2>
+            {% if post.description %}
+              <p>{{ post.description }}</p>
+            {% endif %}
+            <div class="review-date">
+              Por {{ post.author | default: "Equipe Guia Especializado" }} • {{ post.date | date: "%d/%m/%Y" }}
+            </div>
+          </div>
+        </a>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
 
   {% if has_reviews == false %}
     <div class="no-posts">
