@@ -4,37 +4,6 @@ title: "Reviews e Análises Detalhadas"
 permalink: /reviews/
 ---
 
-<div class="main-content">
-  <div class="page-header">
-    <h1>Reviews e Análises Detalhadas</h1>
-    <p>Avaliações completas, testes de desempenho e fichas técnicas para você decidir com segurança.</p>
-  </div>
-
-  <div class="reviews-grid">
-    {% assign has_reviews = false %}
-    {% for post in site.posts %}
-      {% if post.category == "Reviews" %}Que excelente notícia que o build ficou verde! 
-
-Ao analisar a imagem que enviou, é possível notar duas coisas importantes:
-
-1. **A filtragem funcionou!** O artigo que apagámos/desativámos sumiu completamente da listagem.
-2. **Problema de layout (CSS/Imagens):** As imagens estão "vazando" para fora dos cartões e cortadas do lado esquerdo, e o estilo visual dos cartões perdeu os fundos e bordas bonitos de antes.
-
-Isso acontece porque as imagens não estão contidas com `max-width: 100%` ou faltam as classes CSS corretas no ficheiro de reviews.
-
----
-
-### Como corrigir o Layout dos Cartões
-
-Para corrigir o tamanho das imagens e devolver o aspeto visual limpo (com cartões bem delimitados), abra o ficheiro **`reviews/index.html`** e substitua o código por esta versão com os estilos CSS embutidos:
-
-```html
----
-layout: default
-title: "Reviews e Análises Detalhadas"
-permalink: /reviews/
----
-
 <style>
   .reviews-container {
     max-width: 1200px;
@@ -82,7 +51,7 @@ permalink: /reviews/
   .review-img-wrapper img {
     width: 100%;
     height: 100%;
-    object-fit: contain; /* Garante que a imagem cabe inteira sem cortar */
+    object-fit: contain;
     padding: 10px;
   }
   .review-content {
