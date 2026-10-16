@@ -3,6 +3,17 @@ layout: default
 title: "Início"
 ---
 
+<!-- Script de Redirecionamento Inteligente -->
+<script>
+  (function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    // Se NÃO tiver o parâmetro ?home=true na URL, redireciona para /reviews/
+    if (urlParams.get('home') !== 'true') {
+      window.location.replace("{{ '/reviews/' | relative_url }}");
+    }
+  })();
+</script>
+
 <style>
   .home-container {
     max-width: 1000px;
@@ -127,7 +138,7 @@ title: "Início"
 
 <div class="home-container">
   
-  <!-- Banner de Destaque / Boas-vindas -->
+  <!-- Banner de Destaque -->
   <div class="hero-section">
     <h1>Análises e Guias de Compra Imparciais</h1>
     <p>Encontre as melhores recomendações, comparativos detalhados e reviews completos para fazer a melhor escolha.</p>
