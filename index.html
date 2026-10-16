@@ -76,11 +76,24 @@ title: "Início"
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
   }
 
-  .post-card-img {
+ .post-card-img-container {
     width: 100%;
-    height: 180px;
-    object-fit: cover;
-    background-color: #f1f5f9;
+    height: 200px;
+    background-color: #f8fafc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    box-sizing: border-box;
+  }
+
+  .post-card-img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain; /* Mantém a proporção exata da imagem sem cortar */
+    display: block;
   }
 
   .post-card-content {
