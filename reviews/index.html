@@ -8,24 +8,30 @@ description: "Confira todas as nossas análises, reviews e guias publicados."
 <p style="color: #64748b; margin-bottom: 2.5rem; text-align: center;">Análises detalhadas, testes práticos e opiniões sinceras sobre os melhores produtos.</p>
 
 <div class="reviews-grid">
-  {% for post in site.posts %}
-    <article class="review-card">
-      <a href="{{ post.url | relative_url }}" class="card-image-link">
-        {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-        {% else %}
-          <div class="placeholder-img">Sem imagem</div>
-        {% endif %}
-      </a>
-      <div class="card-content">
-        <span class="card-category">REVIEWS</span>
-        <h2 class="card-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </h2>
-        <p class="card-meta">Por {{ post.author | default: "Redação" }} • {{ post.date | date: "%b %d, %Y" }}</p>
-        <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
-        <a href="{{ post.url | relative_url }}" class="card-read-more">LER MAIS &rarr;</a>
-      </div>
-    </article>
-  {% endfor %}
-</div>
+    {% for post in site.posts %}
+      <!-- Filtra estritamente para exibir apenas posts cuja categoria seja exatamente "Reviews" -->
+      {% assign cat_down = post.category | downcase %}
+      {% if cat_down == "reviews" %}
+        <article class="review-card">
+          <a href="{{ post.url | relative_url }}">
+            {% if post.image %}
+              <div class="review-img-wrapper">
+                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+              </div>
+            {% endif %}
+            
+            <div class="review-content">
+              <span class="review-badge">{{ post.category }}</span>
+              <h2>{{ post.title }}</h2>
+              {% if post.description %}
+                <p>{{ post.description }}</p>
+              {% endif %}
+              <div class="review-date">
+                Por {{ post.author | default: "Equipe Guia Especializado" }} • {{ post.date | date: "%b %d, %Y" }}
+              </div>
+            </div>
+          </a>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
