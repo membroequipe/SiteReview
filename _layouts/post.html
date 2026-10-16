@@ -8,6 +8,13 @@ layout: default
     <p class="post-meta">Publicado em {{ page.date | date: "%d/%m/%Y" }}</p>
   </header>
 
+  <!-- IMAGEM DE DESTAQUE DO POST -->
+  {% if page.image %}
+    <div class="post-featured-image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy">
+    </div>
+  {% endif %}
+
   <!-- CAIXA DO ÍNDICE RETRÁTIL MODELO ASPIRADORES -->
   <div class="toc-container" id="toc-box" style="display: none;">
     <details open>
