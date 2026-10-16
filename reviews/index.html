@@ -11,10 +11,12 @@ permalink: /reviews/
     padding: 20px 15px;
     font-family: 'Plus Jakarta Sans', sans-serif;
   }
+
   .reviews-header {
     margin-bottom: 35px;
     text-align: left;
   }
+
   .reviews-header h1 {
     font-size: 2.2rem;
     font-weight: 700;
@@ -22,17 +24,20 @@ permalink: /reviews/
     margin: 0 0 12px 0;
     line-height: 1.2;
   }
+
   .reviews-header p {
     font-size: 1.05rem;
     color: #64748b;
     margin: 0;
     line-height: 1.6;
   }
+
   .reviews-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 25px;
   }
+
   .review-card {
     background: #ffffff;
     border: 1px solid #e2e8f0;
@@ -42,10 +47,12 @@ permalink: /reviews/
     display: flex;
     flex-direction: column;
   }
+
   .review-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
   }
+
   .review-card a {
     text-decoration: none;
     color: inherit;
@@ -53,6 +60,7 @@ permalink: /reviews/
     flex-direction: column;
     height: 100%;
   }
+
   .review-img-wrapper {
     width: 100%;
     height: 200px;
@@ -64,18 +72,21 @@ permalink: /reviews/
     box-sizing: border-box;
     border-bottom: 1px solid #edf2f7;
   }
+
   .review-img-wrapper img {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
     display: block;
   }
+
   .review-content {
     padding: 20px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
   }
+
   .review-badge {
     align-self: flex-start;
     font-size: 0.75rem;
@@ -87,6 +98,7 @@ permalink: /reviews/
     border-radius: 20px;
     margin-bottom: 12px;
   }
+
   .review-content h2 {
     font-size: 1.15rem;
     font-weight: 700;
@@ -94,17 +106,20 @@ permalink: /reviews/
     margin: 0 0 10px 0;
     line-height: 1.4;
   }
+
   .review-content p {
     font-size: 0.9rem;
     color: #475569;
     margin: 0 0 15px 0;
     line-height: 1.5;
   }
+
   .review-date {
     font-size: 0.82rem;
     color: #94a3b8;
     margin-top: auto;
   }
+
   .no-posts {
     text-align: center;
     padding: 40px;
@@ -113,6 +128,7 @@ permalink: /reviews/
     border-radius: 12px;
     border: 1px dashed #cbd5e1;
   }
+
   @media (max-width: 640px) {
     .reviews-header h1 {
       font-size: 1.65rem !important;
@@ -131,13 +147,12 @@ permalink: /reviews/
   <div class="reviews-grid">
     {% assign has_reviews = false %}
     {% for post in site.posts %}
-      <!-- Converte as categorias do post para string em minúsculas para evitar falhas de maiúsculas/minúsculas -->
+      {% assign post_cat = post.category | downcase %}
       {% assign post_cats = post.categories | join: ' ' | downcase %}
-      {% assign single_cat = post.category | downcase %}
 
-      <!-- Verifica estritamente se o post é de Reviews e NÃO é de Comparativos nem Blog -->
-      {% if single_cat == "reviews" or post_cats contains "reviews" %}
-        {% unless single_cat == "comparativos" or post_cats contains "comparativos" or single_cat == "blog" or post_cats contains "blog" %}
+      <!-- Condição Estrita: Aceita apenas "reviews" e rejeita explicitamente "comparativos" ou "blog" -->
+      {% if post_cat == "reviews" or post_cats contains "reviews" %}
+        {% unless post_cat == "comparativos" or post_cats contains "comparativos" or post_cat == "blog" or post_cats contains "blog" %}
           {% assign has_reviews = true %}
           <article class="review-card">
             <a href="{{ post.url | relative_url }}">
@@ -148,7 +163,7 @@ permalink: /reviews/
               {% endif %}
               
               <div class="review-content">
-                <span class="review-badge">{{ post.category | default: "Reviews" }}</span>
+                <span class="review-badge">{{ post.category }}</span>
                 <h2>{{ post.title }}</h2>
                 {% if post.description %}
                   <p>{{ post.description }}</p>
