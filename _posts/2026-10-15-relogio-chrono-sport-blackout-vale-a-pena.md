@@ -41,7 +41,7 @@ Para economizar seu tempo e dinheiro, analisamos e selecionamos os **3 melhores 
 
 <div class="product-intro-box">
   <div class="product-intro-img">
-    <img src="{{ '/assets/images/posts/relogio-vanguard.webp' | relative_url }}" alt="Relógio Minimalist Black Vanguard" loading="lazy">
+    <img src="{{ '/assets/images/posts/relogio-germain.webp' | relative_url }}" alt="Relógio Minimalist Black Vanguard" loading="lazy">
   </div>
   <div class="product-intro-details">
     <span class="compare-badge-winner">2º Lugar — Campeão em Conforto</span>
