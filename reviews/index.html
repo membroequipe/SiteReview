@@ -11,12 +11,10 @@ permalink: /reviews/
     padding: 20px 15px;
     font-family: 'Plus Jakarta Sans', sans-serif;
   }
-
   .reviews-header {
     margin-bottom: 35px;
     text-align: left;
   }
-
   .reviews-header h1 {
     font-size: 2.2rem;
     font-weight: 700;
@@ -24,20 +22,17 @@ permalink: /reviews/
     margin: 0 0 12px 0;
     line-height: 1.2;
   }
-
   .reviews-header p {
     font-size: 1.05rem;
     color: #64748b;
     margin: 0;
     line-height: 1.6;
   }
-
   .reviews-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 25px;
   }
-
   .review-card {
     background: #ffffff;
     border: 1px solid #e2e8f0;
@@ -47,12 +42,10 @@ permalink: /reviews/
     display: flex;
     flex-direction: column;
   }
-
   .review-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.08);
   }
-
   .review-card a {
     text-decoration: none;
     color: inherit;
@@ -60,7 +53,6 @@ permalink: /reviews/
     flex-direction: column;
     height: 100%;
   }
-
   .review-img-wrapper {
     width: 100%;
     height: 200px;
@@ -72,21 +64,18 @@ permalink: /reviews/
     box-sizing: border-box;
     border-bottom: 1px solid #edf2f7;
   }
-
   .review-img-wrapper img {
     max-width: 100%;
     max-height: 100%;
     object-fit: contain;
     display: block;
   }
-
   .review-content {
     padding: 20px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
   }
-
   .review-badge {
     align-self: flex-start;
     font-size: 0.75rem;
@@ -98,7 +87,6 @@ permalink: /reviews/
     border-radius: 20px;
     margin-bottom: 12px;
   }
-
   .review-content h2 {
     font-size: 1.15rem;
     font-weight: 700;
@@ -106,20 +94,17 @@ permalink: /reviews/
     margin: 0 0 10px 0;
     line-height: 1.4;
   }
-
   .review-content p {
     font-size: 0.9rem;
     color: #475569;
     margin: 0 0 15px 0;
     line-height: 1.5;
   }
-
   .review-date {
     font-size: 0.82rem;
     color: #94a3b8;
     margin-top: auto;
   }
-
   .no-posts {
     text-align: center;
     padding: 40px;
@@ -128,8 +113,6 @@ permalink: /reviews/
     border-radius: 12px;
     border: 1px dashed #cbd5e1;
   }
-
-  /* Responsividade Mobile */
   @media (max-width: 640px) {
     .reviews-header h1 {
       font-size: 1.65rem !important;
@@ -145,11 +128,11 @@ permalink: /reviews/
     <p>Avaliações completas, testes de desempenho e fichas técnicas para você decidir com segurança.</p>
   </div>
 
- <div class="reviews-grid">
+  <div class="reviews-grid">
     {% assign has_reviews = false %}
     {% for post in site.posts %}
-      <!-- Filtro universal e reutilizável: puxa apenas posts onde a categoria é estritamente "Reviews" -->
-      {% if post.category == "Reviews" or post.categories contains "Reviews" %}
+      <!-- Filtro universal: puxa estritamente o que tiver category: Reviews -->
+      {% if post.category == "Reviews" %}
         {% assign has_reviews = true %}
         <article class="review-card">
           <a href="{{ post.url | relative_url }}">
@@ -174,7 +157,7 @@ permalink: /reviews/
       {% endif %}
     {% endfor %}
   </div>
-  
+
   {% if has_reviews == false %}
     <div class="no-posts">
       <p>Nenhum review publicado no momento. Em breve novas análises!</p>
