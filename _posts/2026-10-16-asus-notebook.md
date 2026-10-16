@@ -439,21 +439,18 @@ a disponibilidade mudam conforme o vendedor e a configuração. Os botões
 abaixo devem receber os links de afiliado válidos do site antes da
 publicação.
 
-::: product-intro-box
-::: product-intro-details
+<div class="product-intro-box">
+  <div class="product-intro-details">
     <h3>Notebook ASUS VivoBook Go 15</h3>
-    <p>Confira os melhores preços e disponibilidade atualizados:</p>
-:::
-
-::: product-intro-buttons
-    <a href="LINK_ML" target="_blank" rel="nofollow sponsored noopener" class="btn-intro btn-ml">
+    <p>Confira o preço e a disponibilidade atualizada:</p>
+  </div>
+  <div class="product-intro-buttons">
+    <a href="SEU_LINK_DE_AFILIADO_ML" target="_blank" rel="nofollow" class="btn-intro btn-ml">
+      <img src="{{ '/assets/images/posts/mercadolivre-logo.png' | relative_url }}" alt="Mercado Livre">
       <span>Ver Preço no Mercado Livre</span>
     </a>
-    <a href="LINK_AMAZON" target="_blank" rel="nofollow sponsored noopener" class="btn-intro btn-amazon">
-      <span>Ver Preço na Amazon</span>
-    </a>
-:::
-:::
+  </div>
+</div>
 
 ------------------------------------------------------------------------
 
