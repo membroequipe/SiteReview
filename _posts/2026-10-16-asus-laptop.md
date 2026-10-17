@@ -32,6 +32,19 @@ recomendamos conferir o código completo do modelo no anúncio, pois
 versões visualmente parecidas podem vir com sistema operacional, tela e
 armazenamento diferentes.
 
+<div class="product-intro-box">
+  <div class="product-intro-details">
+    <h3>Notebook ASUS VivoBook Go 15</h3>
+    <p>Confira o preço e a disponibilidade atualizada:</p>
+  </div>
+  <div class="product-intro-buttons">
+    <a href="SEU_LINK_DE_AFILIADO_ML" target="_blank" rel="nofollow" class="btn-intro btn-ml">
+      <img src="{{ '/assets/images/posts/mercadolivre-logo.png' | relative_url }}" alt="Mercado Livre">
+      <span>Ver Preço no Mercado Livre</span>
+    </a>
+  </div>
+</div>
+
 ## 1. Nossas Primeiras Impressões e Contexto
 
 À primeira vista, o ASUS Vivobook Go 15 parece direcionado a quem
@@ -185,6 +198,19 @@ modesto quando comparado a notebooks premium. Por isso, para estudar em
 bibliotecas, trabalhar perto de janelas ou usar o equipamento em locais
 externos, recomendamos procurar a especificação de brilho da versão
 anunciada e, se possível, avaliar o painel pessoalmente.
+
+<div class="product-intro-box">
+  <div class="product-intro-details">
+    <h3>Notebook ASUS VivoBook Go 15</h3>
+    <p>Confira o preço e a disponibilidade atualizada:</p>
+  </div>
+  <div class="product-intro-buttons">
+    <a href="SEU_LINK_DE_AFILIADO_ML" target="_blank" rel="nofollow" class="btn-intro btn-ml">
+      <img src="{{ '/assets/images/posts/mercadolivre-logo.png' | relative_url }}" alt="Mercado Livre">
+      <span>Ver Preço no Mercado Livre</span>
+    </a>
+  </div>
+</div>
 
 ## 4. Teste de Desempenho Prático
 
