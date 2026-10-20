@@ -55,22 +55,18 @@
 </head>
 <body>
 
-   <!-- Menu Superior apenas com Logotipo Retangular -->
-    <header class="site-header" style="background: #ffffff; border-bottom: 1px solid #e2e8f0; width: 100%;">
+ <!-- Menu Superior com Logotipo -->
+    <header class="site-header">
         <div class="site-header-container">
-            
-            <!-- Logo do Site -->
-            <a href="{{ '/' | relative_url }}" class="site-logo-link" style="display: flex; align-items: center; text-decoration: none;">
+            <a href="{{ '/' | relative_url }}" class="site-logo-link">
                 <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Guia Especializado" class="site-logo-img">
             </a>
-            
-            <!-- Menu de Navegação -->
             <nav class="site-nav">
-              <ul class="nav-list" style="display: flex; gap: 20px; list-style: none; margin: 0; padding: 0; align-items: center;">
-                <li><a href="{{ '/?home=true' | relative_url }}" style="text-decoration: none; color: #4a5568; font-weight: 500;">Início</a></li>
-                <li><a href="{{ '/comparativos/' | relative_url }}" style="text-decoration: none; color: #4a5568; font-weight: 500;">Comparativos</a></li>
-                <li><a href="{{ '/reviews/' | relative_url }}" style="text-decoration: none; color: #4a5568; font-weight: 500;">Reviews</a></li>
-                <li><a href="{{ '/blog/' | relative_url }}" style="text-decoration: none; color: #4a5568; font-weight: 500;">Blog</a></li>
+              <ul>
+                <li><a href="{{ '/?home=true' | relative_url }}">Início</a></li>
+                <li><a href="{{ '/comparativos/' | relative_url }}">Comparativos</a></li>
+                <li><a href="{{ '/reviews/' | relative_url }}">Reviews</a></li>
+                <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
               </ul>
             </nav>
         </div>
