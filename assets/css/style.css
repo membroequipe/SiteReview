@@ -650,3 +650,155 @@ body {
 .btn-shopee-red:hover {
     background-color: #ea580c;
 }
+
+/* =========================================
+   HERO BANNER PREMIUM REUTILIZÁVEL (HOME)
+   ========================================= */
+.hero-banner-custom {
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #0d0f12;
+    background-size: cover;
+    background-position: center right;
+    color: #ffffff;
+    padding: 3rem 3rem 2rem 3rem;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+/* Gradiente escuro para garantir leitura do texto no lado esquerdo */
+.hero-banner-custom::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(13,15,18,0.95) 0%, rgba(13,15,18,0.8) 50%, rgba(13,15,18,0.2) 100%);
+    z-index: 1;
+}
+
+.hero-banner-content {
+    position: relative;
+    z-index: 2;
+    max-width: 580px;
+}
+
+.hero-tag {
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #f59e0b;
+    letter-spacing: 1.5px;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.hero-banner-title {
+    font-size: 2.6rem;
+    font-weight: 800;
+    line-height: 1.15;
+    color: #ffffff;
+    margin: 0 0 1.25rem 0;
+}
+
+.hero-banner-title span {
+    color: #f59e0b; /* Cor de destaque amarela/dourada */
+}
+
+.hero-banner-description {
+    font-size: 0.98rem;
+    color: #94a3b8;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+}
+
+/* Botões do Banner */
+.hero-banner-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 3rem;
+}
+
+.btn-hero-primary {
+    background-color: #f59e0b;
+    color: #0f172a !important;
+    font-weight: 700;
+    font-size: 0.95rem;
+    padding: 0.85rem 1.6rem;
+    border-radius: 10px;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+}
+
+.btn-hero-primary:hover {
+    background-color: #fbbf24;
+    transform: translateY(-2px);
+}
+
+.btn-hero-secondary {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #ffffff !important;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.85rem 1.6rem;
+    border-radius: 10px;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+}
+
+.btn-hero-secondary:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+/* Rodapé Interno do Banner (4 Colunas com Destaques) */
+.hero-banner-footer {
+    position: relative;
+    z-index: 2;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+.hero-footer-item h4 {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 0 0 0.25rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.hero-footer-item p {
+    font-size: 0.78rem;
+    color: #64748b;
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* Responsividade Mobile */
+@media (max-width: 868px) {
+    .hero-banner-custom {
+        padding: 2rem 1.5rem 1.5rem 1.5rem;
+        background-position: center;
+    }
+    .hero-banner-title {
+        font-size: 1.8rem;
+    }
+    .hero-banner-buttons {
+        flex-direction: column;
+    }
+    .hero-banner-footer {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.25rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-banner-footer {
+        grid-template-columns: 1fr;
+    }
+}
