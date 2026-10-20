@@ -427,20 +427,29 @@ body {
    ========================================= */
 .post-featured-image {
     width: 100%;
-    max-height: 420px;
+    max-height: 450px;
     margin: 1.5rem 0 2rem 0;
     border-radius: 12px;
     overflow: hidden;
-    background-color: #f8fafc;
+    background-color: #ffffff; /* Fundo branco em vez de cinza */
     border: 1px solid var(--border-color);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
 }
 
 .post-featured-image img {
     width: 100%;
-    max-height: 420px;
-    object-fit: contain;
+    height: 100%;
+    max-height: 450px;
+    object-fit: cover; /* Preenche todo o container recortando suavemente as sobras */
+    object-position: center; /* Mantém o produto centralizado */
     display: block;
+}
+
+@media (max-width: 640px) {
+    .post-featured-image {
+        max-height: 280px;
+    }
+    .post-featured-image img {
+        max-height: 280px;
+    }
 }
