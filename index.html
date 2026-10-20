@@ -245,45 +245,51 @@ title: "Início"
 
 <div class="home-container" style="max-width: 1000px; margin: 2rem auto; padding: 0 20px; font-family: 'Plus Jakarta Sans', sans-serif;">
   
-  <!-- Hero Section -->
-  <section class="home-hero">
-    <h1>Escolha a <span>parafusadeira certa</span> para o seu projeto.</h1>
-    <p>Comparativos, análises e guias práticos com dados conferidos e os melhores preços do mercado para você não errar na compra.</p>
+ <!-- BANNER HERO REUTILIZÁVEL -->
+<section class="hero-banner-custom" style="background-image: url('{{ '/assets/images/hero-bg.jpg' | relative_url }}');">
+  
+  <div class="hero-banner-content">
+    <!-- Subtítulo Superior / Categoria -->
+    <span class="hero-tag">Guias de Compra de Parafusadeiras</span>
     
-    <div class="hero-features">
-      <span>✓ Dados conferidos</span>
-      <span>✓ Comparativos A-B</span>
-      <span>✓ Conteúdo atualizado</span>
-      <span>✓ Limitações à vista</span>
+    <!-- Título Principal (Palavra destacada dentro da tag <span>) -->
+    <h1 class="hero-banner-title">Escolha a <span>parafusadeira certa</span> para o seu projeto.</h1>
+    
+    <!-- Texto Descritivo -->
+    <p class="hero-banner-description">
+      Comparativos, análises e guias para escolher a parafusadeira certa para o seu uso, com dados conferidos e os pontos fracos de cada modelo.
+    </p>
+    
+    <!-- Botões de Ação -->
+    <div class="hero-banner-buttons">
+      <a href="#situacao" class="btn-hero-primary">Escolher pelo meu uso</a>
+      <a href="{{ '/comparativos/' | relative_url }}" class="btn-hero-secondary">Guias de compra →</a>
     </div>
-  </section>
+  </div>
 
-  <!-- Seção Qual é a sua situação? -->
-  <section class="situation-section">
-    <div class="situation-title">Qual é a sua situação? Escolha o caminho mais direto e chegue à sua máquina ideal por especificação.</div>
-    <div class="situation-grid">
-      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
-        <span>🗄️</span> Quero montar móveis de MDF e madeira
-      </a>
-      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
-        <span>🏠</span> Quero para uso doméstico geral
-      </a>
-      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
-        <span>🧱</span> Preciso furar paredes de tijolo
-      </a>
-      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
-        <span>💰</span> Tenho orçamento até R$ 600
-      </a>
-      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
-        <span>🔋</span> Já tenho baterias de outra marca
-      </a>
-      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
-        <span>🪶</span> Quero uma parafusadeira leve
-      </a>
+  <!-- Rodapé com os 4 Pilares / Selos -->
+  <div class="hero-banner-footer">
+    <div class="hero-footer-item">
+      <h4>🛡️ Dados conferidos</h4>
+      <p>Anúncios e fichas dos fabricantes</p>
     </div>
-  </section>
+    <div class="hero-footer-item">
+      <h4>⚖️ Comparativos A×B</h4>
+      <p>Compare antes de decidir</p>
+    </div>
+    <div class="hero-footer-item">
+      <h4>🔄 Conteúdo revisado</h4>
+      <p>Atualizamos quando a ficha muda</p>
+    </div>
+    <div class="hero-footer-item">
+      <h4>🔍 Limitações à vista</h4>
+      <p>Os pontos fracos de cada modelo</p>
+    </div>
+  </div>
 
-  <!-- Lista de Artigos Recentes -->
+</section>
+
+ <!-- Lista de Artigos Recentes -->
   <h2 class="section-header-title">Últimas Publicações & Reviews</h2>
 
   {% if site.posts.size > 0 %}
