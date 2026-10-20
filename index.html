@@ -3,195 +3,309 @@ layout: default
 title: "Início"
 ---
 
-<!-- Script de Redirecionamento Inteligente -->
-<script>
-  (function() {
-    const urlParams = new URLSearchParams(window.location.search);
-    // Se NÃO tiver o parâmetro ?home=true na URL, redireciona para /reviews/
-    if (urlParams.get('home') !== 'true') {
-      window.location.replace("{{ '/reviews/' | relative_url }}");
-    }
-  })();
-</script>
-
 <style>
-  .home-container {
-    max-width: 1000px;
-    margin: 40px auto;
-    padding: 0 20px;
-    font-family: 'Plus Jakarta Sans', sans-serif;
-  }
-
-  .hero-section {
+  .home-hero {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 3rem 2.5rem;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
-    padding: 40px 20px 50px 20px;
-    background: #f8fafc;
-    border-radius: 16px;
-    border: 1px solid #e2e8f0;
-    margin-bottom: 50px;
   }
 
-  .hero-section h1 {
-    font-size: 2.2rem;
-    font-weight: 700;
-    color: #0f172a;
-    margin: 0 0 12px 0;
-    line-height: 1.2; /* Melhora a proporção geral das linhas */
+  .home-hero h1 {
+    font-size: 2.4rem;
+    font-weight: 800;
+    margin: 0 0 1rem 0;
+    line-height: 1.25;
+    color: #ffffff;
   }
 
-  .hero-section p {
+  .home-hero h1 span {
+    color: #f59e0b;
+  }
+
+  .home-hero p {
     font-size: 1.05rem;
-    color: #64748b;
-    max-width: 650px;
-    margin: 0 auto;
+    color: #94a3b8;
+    max-width: 680px;
+    margin: 0 0 2rem 0;
     line-height: 1.6;
   }
 
-  .section-title {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #0f172a;
-    margin-bottom: 24px;
-    border-bottom: 2px solid #f1f5f9;
-    padding-bottom: 10px;
+  .hero-features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    font-size: 0.88rem;
+    color: #cbd5e1;
+    font-weight: 600;
   }
 
-  .posts-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 30px;
+  .hero-features span {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
   }
 
-  .post-card {
+  /* Seção de Dilemas / Situações */
+  .situation-section {
     background: #ffffff;
     border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 3rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+  }
+
+  .situation-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 1.25rem;
+  }
+
+  .situation-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1rem;
+  }
+
+  .situation-card {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
     border-radius: 12px;
+    padding: 1rem 1.25rem;
+    text-decoration: none;
+    color: #334155;
+    font-size: 0.92rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    transition: all 0.2s ease;
+  }
+
+  .situation-card:hover {
+    background: #f1f5f9;
+    border-color: #cbd5e1;
+    transform: translateY(-2px);
+    color: #0f172a;
+  }
+
+  .situation-card span {
+    font-size: 1.25rem;
+  }
+
+  /* Títulos de Seção */
+  .section-header-title {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: #0f172a;
+    margin: 2.5rem 0 1.25rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* Grid de Posts / Reviews */
+  .home-posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 25px;
+    margin-bottom: 3rem;
+  }
+
+  .home-post-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 14px;
     overflow: hidden;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     display: flex;
     flex-direction: column;
   }
 
-  .post-card:hover {
+  .home-post-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
   }
 
-  .post-card-img-container {
+  .home-post-img-link {
     width: 100%;
-    height: 200px;
-    background-color: #f8fafc;
+    height: 190px;
+    background: #f8fafc;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 15px;
-    box-sizing: border-box;
+    border-bottom: 1px solid #f1f5f9;
   }
 
-  .post-card-img {
+  .home-post-img-link img {
     max-width: 100%;
     max-height: 100%;
-    width: auto;
-    height: auto;
     object-fit: contain;
-    display: block;
   }
 
-  .post-card-content {
-    padding: 20px;
+  .home-post-body {
+    padding: 1.25rem;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
   }
 
-  .post-badge {
+  .home-post-badge {
     align-self: flex-start;
-    font-size: 0.75rem;
-    font-weight: 700;
+    font-size: 0.72rem;
+    font-weight: 800;
     text-transform: uppercase;
-    color: #005f87;
-    background-color: #e0f2fe;
-    padding: 4px 10px;
+    color: #0d9488;
+    background-color: #ccfbf1;
+    padding: 3px 10px;
     border-radius: 20px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
   }
 
-  .post-card-title {
+  .home-post-title {
     font-size: 1.1rem;
     font-weight: 700;
     color: #0f172a;
-    margin: 0 0 10px 0;
-    line-height: 1.4;
+    margin: 0 0 8px 0;
+    line-height: 1.35;
   }
 
-  .post-card-title a {
+  .home-post-title a {
     text-decoration: none;
     color: inherit;
+    transition: color 0.2s;
   }
 
-  .post-card-title a:hover {
-    color: #005f87;
+  .home-post-title a:hover {
+    color: #0d9488;
   }
 
-  .post-card-date {
-    font-size: 0.82rem;
+  .home-post-date {
+    font-size: 0.8rem;
     color: #94a3b8;
     margin-top: auto;
-    padding-top: 15px;
+    padding-top: 10px;
   }
 
-  .no-posts {
-    text-align: center;
-    padding: 40px;
-    color: #64748b;
-    background: #f8fafc;
-    border-radius: 12px;
-    border: 1px dashed #cbd5e1;
+  /* Caixa de Transparência / Metodologia (E-E-A-T) */
+  .methodology-box {
+    background: #0f172a;
+    color: #ffffff;
+    border-radius: 16px;
+    padding: 2rem;
+    margin-top: 3rem;
   }
 
-  /* Correção do espaçamento no Mobile */
+  .methodology-box h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0 0 1rem 0;
+    color: #ffffff;
+  }
+
+  .methodology-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .methodology-item h4 {
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: #f59e0b;
+    margin: 0 0 0.3rem 0;
+  }
+
+  .methodology-item p {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin: 0;
+    line-height: 1.5;
+  }
+
   @media (max-width: 640px) {
-    .hero-section h1 {
-      font-size: 1.65rem !important;
-      line-height: 1.25 !important;
+    .home-hero {
+      padding: 2rem 1.25rem;
     }
-    .hero-section {
-      padding: 30px 15px 35px 15px !important;
+    .home-hero h1 {
+      font-size: 1.8rem;
     }
   }
 </style>
 
-<div class="home-container">
+<div class="home-container" style="max-width: 1000px; margin: 2rem auto; padding: 0 20px; font-family: 'Plus Jakarta Sans', sans-serif;">
   
-  <!-- Banner de Destaque -->
-  <div class="hero-section">
-    <h1>Análises e Guias de Compra Imparciais</h1>
-    <p>Encontre as melhores recomendações, comparativos detalhados e reviews completos para fazer a melhor escolha.</p>
-  </div>
+  <!-- Hero Section -->
+  <section class="home-hero">
+    <h1>Escolha a <span>parafusadeira certa</span> para o seu projeto.</h1>
+    <p>Comparativos, análises e guias práticos com dados conferidos e os melhores preços do mercado para você não errar na compra.</p>
+    
+    <div class="hero-features">
+      <span>✓ Dados conferidos</span>
+      <span>✓ Comparativos A-B</span>
+      <span>✓ Conteúdo atualizado</span>
+      <span>✓ Limitações à vista</span>
+    </div>
+  </section>
+
+  <!-- Seção Qual é a sua situação? -->
+  <section class="situation-section">
+    <div class="situation-title">Qual é a sua situação? Escolha o caminho mais direto e chegue à sua máquina ideal por especificação.</div>
+    <div class="situation-grid">
+      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
+        <span>🗄️</span> Quero montar móveis de MDF e madeira
+      </a>
+      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
+        <span>🏠</span> Quero para uso doméstico geral
+      </a>
+      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
+        <span>🧱</span> Preciso furar paredes de tijolo
+      </a>
+      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
+        <span>💰</span> Tenho orçamento até R$ 600
+      </a>
+      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
+        <span>🔋</span> Já tenho baterias de outra marca
+      </a>
+      <a href="{{ '/reviews/' | relative_url }}" class="situation-card">
+        <span>🪶</span> Quero uma parafusadeira leve
+      </a>
+    </div>
+  </section>
 
   <!-- Lista de Artigos Recentes -->
-  <h2 class="section-title">Últimas Publicações</h2>
+  <h2 class="section-header-title">Últimas Publicações & Reviews</h2>
 
   {% if site.posts.size > 0 %}
-    <div class="posts-grid">
-      {% for post in site.posts %}
-        <article class="post-card">
+    <div class="home-posts-grid">
+      {% for post in site.posts limit: 6 %}
+        <article class="home-post-card">
           {% if post.image %}
-            <a href="{{ post.url | relative_url }}" class="post-card-img-container">
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-img">
+            <a href="{{ post.url | relative_url }}" class="home-post-img-link">
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
             </a>
           {% endif %}
           
-          <div class="post-card-content">
+          <div class="home-post-body">
             {% if post.category %}
-              <span class="post-badge">{{ post.category }}</span>
+              <span class="home-post-badge">{{ post.category }}</span>
             {% endif %}
 
-            <h3 class="post-card-title">
+            <h3 class="home-post-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h3>
 
-            <div class="post-card-date">
+            <div class="home-post-date">
               {{ post.date | date: "%d/%m/%Y" }}
             </div>
           </div>
@@ -199,9 +313,32 @@ title: "Início"
       {% endfor %}
     </div>
   {% else %}
-    <div class="no-posts">
-      <p>Nenhum artigo publicado ainda. Novos guias e comparativos em breve!</p>
+    <div style="text-align: center; padding: 40px; color: #64748b; background: #f8fafc; border-radius: 12px; border: 1px dashed #cbd5e1;">
+      <p>Nenhum artigo publicado ainda. Novos guias em breve!</p>
     </div>
   {% endif %}
+
+  <!-- Bloco de Metodologia / Transparência (E-E-A-T) -->
+  <section class="methodology-box">
+    <h3>Como fazemos as análises</h3>
+    <div class="methodology-grid">
+      <div class="methodology-item">
+        <h4>Dados conferidos</h4>
+        <p>Analisamos as fichas técnicas oficiais dos fabricantes e manuais de cada modelo.</p>
+      </div>
+      <div class="methodology-item">
+        <h4>Comparativos a fundo</h4>
+        <p>Colocamos marcas lado a lado para destacar o que muda na prática do uso.</p>
+      </div>
+      <div class="methodology-item">
+        <h4>Limitações à vista</h4>
+        <p>Dizemos claramente o que a ferramenta NÃO faz bem para evitar frustrações.</p>
+      </div>
+      <div class="methodology-item">
+        <h4>Links de lojas</h4>
+        <p>Indicamos onde comprar com segurança no Mercado Livre, Amazon e Shopee.</p>
+      </div>
+    </div>
+  </section>
 
 </div>
