@@ -8,8 +8,8 @@
     --card-bg: #ffffff;
     --text-main: #334155;
     --text-muted: #64748b;
-    --primary: #0f172a;       /* Azul Escuro / Grafite Oficina */
-    --accent: #f59e0b;        /* Amarelo/Laranja Ferramenta */
+    --primary: #0f172a;        /* Azul Escuro / Grafite Oficina */
+    --accent: #f59e0b;         /* Amarelo/Laranja Ferramenta */
     --accent-hover: #d97706;
     --border-color: #e2e8f0;
     --success-bg: #f0fdf4;
@@ -265,7 +265,77 @@ body {
 }
 
 /* =========================================
-   6. GRID DE PRÓS E CONTRAS (ESTILO MODERNO)
+   6. BLOCO DE AVALIAÇÃO GERAL / NOTA COM PRÓS E CONTRAS
+   ========================================= */
+.review-summary-card {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 1.75rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.03);
+}
+
+.review-summary-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+@media (max-width: 640px) {
+    .review-summary-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+}
+
+.score-badge-box {
+    background-color: #0d9488;
+    color: #ffffff;
+    border-radius: 12px;
+    width: 100px;
+    min-width: 100px;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 10px rgba(13, 148, 136, 0.25);
+}
+
+.score-number-val {
+    font-size: 2.3rem;
+    font-weight: 800;
+    padding: 0.5rem 0 0.2rem 0;
+    line-height: 1;
+}
+
+.score-label-txt {
+    background-color: #0f172a;
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 0.35rem 0;
+    letter-spacing: 0.8px;
+}
+
+.review-summary-text h3 {
+    margin: 0 0 0.4rem 0 !important;
+    font-size: 1.4rem !important;
+    color: #0f172a !important;
+    font-weight: 800 !important;
+}
+
+.review-summary-text p {
+    margin: 0 !important;
+    font-size: 0.98rem;
+    line-height: 1.6;
+    color: #475569;
+}
+
+/* =========================================
+   GRID DE PRÓS E CONTRAS (ESTILO MODERNO)
    ========================================= */
 .pros-cons-grid {
     display: grid;
@@ -344,7 +414,7 @@ body {
 }
 
 /* =========================================
-   7. BLOCO DE AFILIADO / CTA MERCADO LIVRE
+   7. BLOCO DE AFILIADO / CTA MERCADO LIVRE (ANTIGO)
    ========================================= */
 .product-intro-box {
     display: flex;
@@ -431,7 +501,7 @@ body {
     margin: 1.5rem 0 2rem 0;
     border-radius: 12px;
     overflow: hidden;
-    background-color: #ffffff; /* Fundo branco em vez de cinza */
+    background-color: #ffffff;
     border: 1px solid var(--border-color);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
 }
@@ -440,8 +510,8 @@ body {
     width: 100%;
     height: 100%;
     max-height: 450px;
-    object-fit: cover; /* Preenche todo o container recortando suavemente as sobras */
-    object-position: center; /* Mantém o produto centralizado */
+    object-fit: cover;
+    object-position: center;
     display: block;
 }
 
@@ -455,11 +525,11 @@ body {
 }
 
 /* =========================================
-   BLOCO DE COMPRA COM MÚLTIPLAS LOJAS
+   9. BLOCO DE COMPRA COM MÚLTIPLAS LOJAS (NOVO)
    ========================================= */
 .product-card-affiliate {
-    background-color: #f6fbf8; /* Fundo verde-claro bem suave */
-    border: 1.5px solid #a3e635; /* Borda verde arredondada */
+    background-color: #f6fbf8;
+    border: 1.5px solid #a3e635;
     border-radius: 20px;
     padding: 1.25rem 1.5rem;
     margin: 2rem 0;
@@ -484,7 +554,6 @@ body {
     }
 }
 
-/* Imagem do Produto */
 .product-card-img {
     width: 90px;
     height: 90px;
@@ -504,7 +573,6 @@ body {
     object-fit: contain;
 }
 
-/* Informações do Produto */
 .product-card-info {
     flex: 1;
 }
@@ -524,7 +592,6 @@ body {
     line-height: 1.4 !important;
 }
 
-/* Grid de Botões */
 .product-card-buttons {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
@@ -557,7 +624,6 @@ body {
     box-shadow: 0 5px 12px rgba(0,0,0,0.15);
 }
 
-/* Botão Amazon (Verde) */
 .btn-amazon-green {
     background-color: #10b981;
     color: #ffffff !important;
@@ -567,7 +633,6 @@ body {
     background-color: #059669;
 }
 
-/* Botão Mercado Livre (Amarelo) */
 .btn-ml-yellow {
     background-color: #ffeb3b;
     color: #1e293b !important;
@@ -577,7 +642,6 @@ body {
     background-color: #fbc02d;
 }
 
-/* Botão Shopee (Laranja / Vermelho) */
 .btn-shopee-red {
     background-color: #f97316;
     color: #ffffff !important;
