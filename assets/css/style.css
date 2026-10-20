@@ -47,7 +47,7 @@ body {
 }
 
 .site-header-container {
-    max-width: 1000px;
+    max-width: 1140px;
     margin: 0 auto;
     padding: 12px 20px;
     display: flex;
@@ -84,12 +84,12 @@ body {
 }
 
 /* =========================================
-   3. CONTEÚDO PRINCIPAL E TELA DO POST
+   3. CONTEÚDO PRINCIPAL (CONTAINER EXPANDIDO 1140px)
    ========================================= */
 .site-content {
-    max-width: 900px;
-    margin: 2.5rem auto;
-    padding: 2.5rem 3rem;
+    max-width: 1140px; /* Largura idêntica ao concorrente de referência */
+    margin: 2rem auto;
+    padding: 2.5rem 2.5rem;
     background-color: var(--card-bg);
     border-radius: 16px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
@@ -97,10 +97,24 @@ body {
     min-height: 60vh;
 }
 
+body.home-page .site-content {
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+    padding: 0 1rem;
+}
+
+@media (max-width: 1200px) {
+    .site-content {
+        margin: 1.5rem 1rem;
+        padding: 2rem 1.5rem;
+    }
+}
+
 @media (max-width: 640px) {
     .site-content {
-        margin: 1rem auto;
-        padding: 1.5rem 1.25rem;
+        margin: 0.75rem auto;
+        padding: 1.25rem 1rem;
         border-radius: 8px;
     }
 }
@@ -662,12 +676,11 @@ body {
     background-size: cover;
     background-position: center right;
     color: #ffffff;
-    padding: 3rem 3rem 2rem 3rem;
+    padding: 3.5rem 3.5rem 2.5rem 3.5rem;
     margin-bottom: 2.5rem;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
 }
 
-/* Gradiente escuro para garantir leitura do texto no lado esquerdo */
 .hero-banner-custom::before {
     content: "";
     position: absolute;
@@ -679,7 +692,7 @@ body {
 .hero-banner-content {
     position: relative;
     z-index: 2;
-    max-width: 580px;
+    max-width: 620px;
 }
 
 .hero-tag {
@@ -693,7 +706,7 @@ body {
 }
 
 .hero-banner-title {
-    font-size: 2.6rem;
+    font-size: 2.8rem;
     font-weight: 800;
     line-height: 1.15;
     color: #ffffff;
@@ -701,7 +714,7 @@ body {
 }
 
 .hero-banner-title span {
-    color: #f59e0b; /* Cor de destaque amarela/dourada */
+    color: #f59e0b;
 }
 
 .hero-banner-description {
@@ -711,7 +724,6 @@ body {
     margin-bottom: 2rem;
 }
 
-/* Botões do Banner */
 .hero-banner-buttons {
     display: flex;
     gap: 1rem;
@@ -751,12 +763,12 @@ body {
     border-color: rgba(255, 255, 255, 0.4);
 }
 
-/* Rodapé Interno do Banner (4 Colunas com Destaques) */
 .hero-banner-footer {
     position: relative;
     z-index: 2;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    padding-top: 1.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    padding-top: 1.75rem;
+    margin-top: 1rem;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1.5rem;
@@ -779,17 +791,12 @@ body {
     line-height: 1.4;
 }
 
-/* Responsividade Mobile */
-@media (max-width: 868px) {
+@media (max-width: 900px) {
     .hero-banner-custom {
-        padding: 2rem 1.5rem 1.5rem 1.5rem;
-        background-position: center;
+        padding: 2.5rem 2rem 2rem 2rem;
     }
     .hero-banner-title {
-        font-size: 1.8rem;
-    }
-    .hero-banner-buttons {
-        flex-direction: column;
+        font-size: 2.1rem;
     }
     .hero-banner-footer {
         grid-template-columns: repeat(2, 1fr);
@@ -797,8 +804,19 @@ body {
     }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 640px) {
+    .hero-banner-custom {
+        padding: 2rem 1.25rem 1.5rem 1.25rem;
+        border-radius: 16px;
+    }
+    .hero-banner-title {
+        font-size: 1.75rem;
+    }
+    .hero-banner-buttons {
+        flex-direction: column;
+    }
     .hero-banner-footer {
         grid-template-columns: 1fr;
+        gap: 1rem;
     }
 }
