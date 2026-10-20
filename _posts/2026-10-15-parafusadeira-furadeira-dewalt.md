@@ -159,13 +159,39 @@ Se você pesquisar o mesmo modelo no exterior, vai vê-lo como **18V**. Não é 
 
 ## 7. Qual versão do kit comprar?
 
-| Versão | O que vem | Para quem faz sentido |
-|---|---|---|
-| **DCD7781D2-BR** | Ferramenta, 2 baterias de 2,0 Ah, carregador bivolt e maleta | Quem está começando na plataforma e quer trabalhar sem parar para carregar |
-| **DCD7781D1-BR** | Ferramenta, 1 bateria, carregador bivolt e bolsa (ou maleta, conforme o anúncio) | Uso mais leve, ou para quem pretende comprar outra bateria depois |
-| **DCD7781B-B3** | Só a ferramenta | Quem já tem baterias e carregador DeWalt 20V MAX |
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th colspan="3">Versões do kit DeWalt DCD7781</th>
+      </tr>
+      <tr>
+        <th>Versão</th>
+        <th>O que vem</th>
+        <th>Para quem faz sentido</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>DCD7781D2-BR</td>
+        <td>Ferramenta, 2 baterias de 2,0 Ah, carregador bivolt e maleta</td>
+        <td>Quem está começando na plataforma e quer trabalhar sem parar para carregar</td>
+      </tr>
+      <tr>
+        <td>DCD7781D1-BR</td>
+        <td>Ferramenta, 1 bateria, carregador bivolt e bolsa (ou maleta, conforme o anúncio)</td>
+        <td>Uso mais leve, ou para quem pretende comprar outra bateria depois</td>
+      </tr>
+      <tr>
+        <td>DCD7781B-B3</td>
+        <td>Só a ferramenta</td>
+        <td>Quem já tem baterias e carregador DeWalt 20V MAX</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-Dica rápida: compare o preço do kit D2 com o da versão D1 mais uma bateria avulsa. Muitas vezes o kit com duas baterias compensa.
+**Dica rápida:** compare o preço do kit D2 com o da versão D1 mais uma bateria avulsa. Muitas vezes o kit com duas baterias compensa.
 
 ## 8. Comparativo com os concorrentes
 
