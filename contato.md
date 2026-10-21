@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Contato e Política de Privacidade"
 permalink: /contato/
 description: "Entre em contato com a Equipe de Análises e conheça os nossos compromissos com a sua privacidade."
