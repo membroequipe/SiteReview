@@ -832,3 +832,47 @@ body.home-page .site-content {
         gap: 1rem;
     }
 }
+
+/* ==========================================
+   Ajuste Responsivo Forçado para Menu Mobile
+   ========================================== */
+@media screen and (max-width: 768px) {
+  .site-header-container {
+    flex-direction: column !important;
+    align-items: center !important;
+    padding: 10px 15px !important;
+    gap: 10px !important;
+  }
+
+  .site-logo-img {
+    height: 32px !important;
+    width: auto !important;
+  }
+
+  .site-nav {
+    width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 5px !important;
+  }
+
+  .site-nav ul {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    justify-content: center !important;
+    gap: 10px !important;
+    padding: 0 !important;
+    margin: 0 auto !important;
+    width: max-content !important;
+  }
+
+  .site-nav li {
+    margin: 0 !important;
+  }
+
+  .site-nav a {
+    font-size: 0.85rem !important;
+    padding: 6px 8px !important;
+    white-space: nowrap !important;
+  }
+}
