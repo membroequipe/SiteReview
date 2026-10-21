@@ -7,7 +7,7 @@ description: "Entre em contato com a Equipe de Análises e conheça os nossos co
 
 # Contato & Política de Privacidade
 
-Tem alguma dúvida técnica sobre uma análise, sugestão de comparativo ou encontrou alguma informação desatualizada em nossas tabelas? Envie uma mensagem para a nossa equipe.
+Tem alguma dúvida sugestão de produto, comparativo ou encontrou alguma informação desatualizada em nossas tabelas? Envie uma mensagem para a nossa equipe.
 
 <!-- Substitua 'seu-id-do-formspree' pelo código que o Formspree te der ao criar o formulário -->
 <form action="https://formspree.io/f/seu-id-do-formspree" method="POST" style="max-width: 600px; margin-top: 2rem; display: flex; flex-direction: column; gap: 1.2rem;">
