@@ -87,7 +87,7 @@ body {
    3. CONTEÚDO PRINCIPAL (CONTAINER EXPANDIDO 1140px)
    ========================================= */
 .site-content {
-    max-width: 1140px; /* Largura idêntica ao concorrente de referência */
+    max-width: 1140px; /* Largura idêntica ao concorrente de referência para páginas internas */
     margin: 2rem auto;
     padding: 2.5rem 2.5rem;
     background-color: var(--card-bg);
@@ -97,11 +97,20 @@ body {
     min-height: 60vh;
 }
 
+/* Configuração específica para a Home: elimina o cartão branco e alarga o container */
 body.home-page .site-content {
-    background-color: transparent;
-    box-shadow: none;
-    border: none;
-    padding: 0 1rem;
+    max-width: 1240px; /* Alarga o limite máximo da home no desktop */
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 1.5rem !important; /* Margens laterais bem estreitas e elegantes */
+    margin: 1.5rem auto !important;
+}
+
+@media (max-width: 1300px) {
+    body.home-page .site-content {
+        padding: 0 1rem !important;
+    }
 }
 
 @media (max-width: 1200px) {
@@ -118,7 +127,6 @@ body.home-page .site-content {
         border-radius: 8px;
     }
 }
-
 .post-title {
     font-size: 2.2rem;
     line-height: 1.25;
