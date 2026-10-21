@@ -104,7 +104,7 @@ O resultado mostra uma ferramenta honesta para montar móveis e fazer reparos le
 <div class="product-card-affiliate">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/wap-bpf-12k3.jpg' | relative_url }}" alt="WAP BPF 12K3 (12V)">
+      <img src="{{ '/assets/images/posts/wap-bpf-12k3.wepb' | relative_url }}" alt="WAP BPF 12K3 (12V)">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">WAP BPF 12K3 (12V) — leve, com 18 níveis de torque e maleta</h3>
