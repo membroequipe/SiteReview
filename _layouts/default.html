@@ -53,25 +53,25 @@
       }
     </style>
 </head>
-<body>
-
 <body class="{% if page.url == '/' or page.url == '/index.html' %}home-page{% endif %}">
 
- <!-- Menu Superior com Logotipo -->
+    <!-- Menu Superior com Logotipo -->
     <header class="site-header">
-        <div class="site-header-container">
-            <a href="{{ '/' | relative_url }}" class="site-logo-link">
-                <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Guia Especializado" class="site-logo-img">
-            </a>
-            <nav class="site-nav">
-              <ul>
-                <li><a href="{{ '/?home=true' | relative_url }}">Início</a></li>
-                <li><a href="{{ '/comparativos/' | relative_url }}">Comparativos</a></li>
-                <li><a href="{{ '/reviews/' | relative_url }}">Reviews</a></li>
-                <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-              </ul>
-            </nav>
-        </div>
+      <div class="site-header-container">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Parafusadeira Certa" class="site-logo-img">
+        </a>
+        
+        <nav class="site-nav">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Início</a></li>
+            <li><a href="{{ '/comparativos/' | relative_url }}">Comparativos</a></li>
+            <li><a href="{{ '/reviews/' | relative_url }}">Reviews</a></li>
+            <li><a href="{{ '/guias/' | relative_url }}">Guias</a></li>
+            <li><a href="{{ '/sobre/' | relative_url }}">Sobre</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
 
     <!-- Conteúdo Principal -->
@@ -108,14 +108,6 @@
                     <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" style="width: 38px; height: 38px; background-color: #e2e8f0; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #334155; text-decoration: none; transition: background 0.2s, color 0.2s;" title="Twitter">
                         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"></path></svg>
                     </a>
-                    <!-- LinkedIn 
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" style="width: 38px; height: 38px; background-color: #e2e8f0; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #334155; text-decoration: none; transition: background 0.2s, color 0.2s;" title="LinkedIn">
-                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>
-                    </a> -->
-                    <!-- TikTok 
-                    <a href="https://tiktok.com" target="_blank" rel="noopener noreferrer" style="width: 38px; height: 38px; background-color: #e2e8f0; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #334155; text-decoration: none; transition: background 0.2s, color 0.2s;" title="TikTok">
-                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5"></path></svg>
-                    </a> -->
                 </div>
             </div>
 
@@ -124,9 +116,9 @@
                 <h4 style="font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #0f172a; margin: 0 0 16px 0;">Legal & Informações</h4>
                 <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px;">
                     <li><a href="{{ '/sobre/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Sobre Nós</a></li>
-                    <li><a href="{{ '/contato/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Contato</a></li>
-                    <li><a href="{{ '/politica-de-privacidade/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Política de Privacidade</a></li>
-                    <li><a href="{{ '/termos-de-uso/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Termos de Uso</a></li>
+                    <li><a href="{{ '/como-pesquisamos/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Como Pesquisamos</a></li>
+                    <li><a href="{{ '/aviso-de-afiliados/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Aviso de Afiliados</a></li>
+                    <li><a href="{{ '/contato/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Contato e Privacidade</a></li>
                 </ul>
             </div>
 
