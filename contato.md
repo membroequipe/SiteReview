@@ -7,19 +7,34 @@ description: "Entre em contato com a Equipe de Análises e conheça os nossos co
 
 # Contato & Política de Privacidade
 
-## Fale Conosco
+Tem alguma dúvida técnica sobre uma análise, sugestão de comparativo ou encontrou alguma informação desatualizada em nossas tabelas? Envie uma mensagem para a nossa equipe.
 
-Tem alguma dúvida técnica sobre uma análise, sugestão de comparativo ou encontrou alguma informação desatualizada em nossas tabelas? Fale diretamente com a nossa equipe[cite: 13, 16].
+<!-- Substitua 'seu-id-do-formspree' pelo código que o Formspree te der ao criar o formulário -->
+<form action="https://formspree.io/f/seu-id-do-formspree" method="POST" style="max-width: 600px; margin-top: 2rem; display: flex; flex-direction: column; gap: 1.2rem;">
+  
+  <div>
+    <label for="name" style="display: block; margin-bottom: 0.5rem; font-weight: 600; color: #0f172a;">Seu Nome:</label>
+    <input type="text" id="name" name="name" required style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-family: 'Plus Jakarta Sans', sans-serif;">
+  </div>
 
-* **E-mail de Atendimento:** `contato@seudominio.com.br` 
-* **Horário de Resposta:** Respondemos à maioria das mensagens em até 48 horas úteis.
+  <div>
+    <label for="email" style="display: block; margin-bottom: 0.5rem; font-weight: 600; color: #0f172a;">Seu E-mail:</label>
+    <input type="email" id="email" name="email" required style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-family: 'Plus Jakarta Sans', sans-serif;">
+  </div>
+
+  <div>
+    <label for="message" style="display: block; margin-bottom: 0.5rem; font-weight: 600; color: #0f172a;">Sua Mensagem:</label>
+    <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 10px; border: 1px solid #cbd5e1; border-radius: 6px; font-family: 'Plus Jakarta Sans', sans-serif;"></textarea>
+  </div>
+
+  <button type="submit" style="background-color: #0f172a; color: #ffffff; padding: 12px 20px; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; transition: background 0.2s;">
+    Enviar Mensagem
+  </button>
+
+</form>
 
 ---
 
 ## Resumo da Política de Privacidade
 
-Respeitamos rigorosamente a sua privacidade e a proteção dos seus dados pessoais.
-
-1. **Coleta de Dados:** Não coletamos dados pessoais identificáveis (como nome, CPF ou endereço) a menos que você os envie voluntariamente através de nossos canais de contato direto.
-2. **Navegação e Cookies:** Utilizamos serviços padrão de análise de tráfego (como o Google Analytics) para entender como as páginas são navegadas, medir a audiência e melhorar a experiência de leitura[cite: 16].
-3. **Links Externos:** Nosso site contém links para lojas e plataformas de e-commerce parceiras (Amazon, Mercado Livre, Shopee)[cite: 10, 16]. Ao clicar em um link externo, você estará sujeito aos termos de uso e às políticas de privacidade da respectiva loja.
+Respeitamos rigorosamente a sua privacidade e a proteção dos seus dados pessoais. Os dados enviados por este formulário serão utilizados exclusivamente para responder à sua solicitação e não serão compartilhados com terceiros.
