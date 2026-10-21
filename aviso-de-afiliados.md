@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Aviso de Afiliados"
 permalink: /aviso-de-afiliados/
 description: "Transparência sobre monetização e participação nos programas de afiliados da Amazon, Mercado Livre e Shopee."
