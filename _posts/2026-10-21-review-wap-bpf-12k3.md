@@ -18,12 +18,12 @@ O resultado mostra uma ferramenta honesta para montar móveis e fazer reparos le
   <ul style="margin-bottom:0; padding-left: 20px; color: #005f87;">
     <li><a href="#resumo-executivo">Resumo Executivo e Nota</a></li>
     <li><a href="#ficha-tecnica">Ficha Técnica Completa</a></li>
-    <li><a href="#construcao-e-ergonomia">1. Construção e Ergonomia</a></li>
-    <li><a href="#desempenho-pratico">2. Desempenho Prático</a></li>
-    <li><a href="#opiniao-dos-compradores">3. O Que Dizem os Compradores (ML, Amazon, Shopee)</a></li>
-    <li><a href="#concorrentes-diretos">4. Comparativo de Mercado</a></li>
-    <li><a href="#perguntas-frequentes">5. Perguntas Frequentes</a></li>
-    <li><a href="#veredito-final">6. Veredito e Recomendação</a></li>
+    <li><a href="#construcao-e-ergonomia">Construção e Ergonomia</a></li>
+    <li><a href="#desempenho-pratico">Desempenho Prático</a></li>
+    <li><a href="#opiniao-dos-compradores">O Que Dizem os Compradores (ML, Amazon, Shopee)</a></li>
+    <li><a href="#concorrentes-diretos">Comparativo de Mercado</a></li>
+    <li><a href="#perguntas-frequentes">Perguntas Frequentes</a></li>
+    <li><a href="#veredito-final">Veredito e Recomendação</a></li>
   </ul>
 </div>
 
