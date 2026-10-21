@@ -4,7 +4,7 @@ title: "Review WAP BPF 12K3: Vale a Pena em 2026? Análise Completa!"
 description: "Review WAP BPF 12K3: torque real de 17 Nm, autonomia, defeitos relatados e se a parafusadeira 12V compensa. Leia antes de comprar e evite dor de cabeça!"
 slug: "review-wap-bpf-12k3"
 category: "Reviews"
-image: "/assets/images/posts/wap-bpf-12k3.jpg"
+image: "/assets/images/posts/wap-bpf-12k3.webp"
 date: 2026-10-21
 author: "Equipe de Análises"
 ---
@@ -208,7 +208,7 @@ Nota final: **8,0 de 10** para uso doméstico.
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/wap-bpf-12k3.jpg' | relative_url }}" alt="WAP BPF 12K3 (12V)">
+      <img src="{{ '/assets/images/posts/wap-bpf-12k3.webp' | relative_url }}" alt="WAP BPF 12K3 (12V)">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">WAP BPF 12K3 (12V) — leve, com 18 níveis de torque e maleta</h3>
