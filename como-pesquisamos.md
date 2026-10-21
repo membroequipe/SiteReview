@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Como Pesquisamos e Analisamos"
 permalink: /como-pesquisamos/
 description: "Entenda a nossa metodologia de análise técnica: cruzamento de manuais oficiais e consolidado de avaliações de compradores reais."
