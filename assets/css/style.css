@@ -876,3 +876,23 @@ body.home-page .site-content {
     white-space: nowrap !important;
   }
 }
+
+/* Ajuste de espaçamento de títulos em dispositivos móveis */
+@media screen and (max-width: 768px) {
+  /* Reduz as margens superior e inferior dos títulos principais e de seção */
+  h1, h2, h3, 
+  .post-title, 
+  .page-title, 
+  .entry-title {
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+    line-height: 1.25 !important;
+  }
+
+  /* Compacta o espaçamento do topo das páginas institucionais (como "Sobre") */
+  .site-content, 
+  .page-content, 
+  .post-content {
+    padding-top: 10px !important;
+  }
+}
