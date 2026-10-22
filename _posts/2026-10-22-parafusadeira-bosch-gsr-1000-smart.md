@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Review [Nome do Produto]: Vale a Pena em 2026? Análise Completa!"
-description: "[Meta description de 140 a 160 caracteres com a palavra-chave e gatilho de clique]"
-slug: "[slug-da-url-em-letras-minusculas-com-hifen]"
+title: "Review Parafusadeira Bosch GSR 1000 Smart: Vale a Pena em 2026? Análise Completa!"
+description: "Análise técnica da Parafusadeira Bosch GSR 1000 Smart: torque, autonomia, conectividade e veredito real de compradores. Confira antes de comprar."
+slug: "parafusadeira-bosch-gsr-1000-smart-review"
 category: "Reviews"
-image: "/assets/images/posts/[slug-imagem].jpg"
+image: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.jpg"
 date: 2026-10-22
 author: "Equipe de Análises"
 ---
