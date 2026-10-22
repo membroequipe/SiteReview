@@ -35,7 +35,7 @@ body {
 }
 
 /* =========================================
-   2. CABEÇALHO E MENU
+   2. CABEÇALHO E MENU NAVEGAÇÃO
    ========================================= */
 .site-header {
     background-color: #ffffff;
@@ -71,6 +71,10 @@ body {
     align-items: center;
 }
 
+.site-nav li {
+    position: relative;
+}
+
 .site-nav a {
     text-decoration: none;
     color: #4a5568;
@@ -83,8 +87,54 @@ body {
     color: var(--accent);
 }
 
+/* SUBMENUS / DROPDOWNS DO MENU */
+.site-nav .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #ffffff;
+    min-width: 230px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+    padding: 8px 0;
+    z-index: 1010;
+    list-style: none !important;
+}
+
+.site-nav .dropdown-menu li {
+    width: 100%;
+}
+
+.site-nav .dropdown-menu a {
+    display: block;
+    padding: 8px 16px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-main);
+    white-space: nowrap;
+}
+
+.site-nav .dropdown-menu a:hover {
+    background-color: #f8fafc;
+    color: var(--accent);
+}
+
+@media screen and (min-width: 769px) {
+    .site-nav li.has-dropdown:hover .dropdown-menu {
+        display: block;
+        animation: fadeIn 0.2s ease-in-out;
+    }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
 /* =========================================
-   3. CONTEÚDO PRINCIPAL (CONTAINER EXPANDIDO 1140px)
+   3. CONTEÚDO PRINCIPAL (CONTAINER EXPANDIDO)
    ========================================= */
 .site-content {
     max-width: 1140px;
@@ -232,7 +282,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   5. TABELA DE ESPECIFICAÇÕES TÉCNICAS (CORRIGIDA MOBILE)
+   5. TABELA DE ESPECIFICAÇÕES TÉCNICAS (RESPONSIVA)
    ========================================= */
 .specs-table-wrapper {
     width: 100% !important;
@@ -756,7 +806,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   10. AJUSTES RESPONSIVOS MOBILE (MENU E TÍTULOS)
+   10. AJUSTES RESPONSIVOS MOBILE
    ========================================= */
 @media screen and (max-width: 768px) {
   .site-header-container {
@@ -773,19 +823,15 @@ body.home-page .site-content {
 
   .site-nav {
     width: 100% !important;
-    overflow-x: auto !important;
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: 5px !important;
   }
 
   .site-nav ul {
     display: flex !important;
-    flex-wrap: nowrap !important;
+    flex-wrap: wrap !important;
     justify-content: center !important;
-    gap: 10px !important;
+    gap: 8px 12px !important;
     padding: 0 !important;
     margin: 0 auto !important;
-    width: max-content !important;
   }
 
   .site-nav li {
@@ -794,8 +840,15 @@ body.home-page .site-content {
 
   .site-nav a {
     font-size: 0.85rem !important;
-    padding: 6px 8px !important;
-    white-space: nowrap !important;
+    padding: 4px 6px !important;
+  }
+
+  .site-nav .dropdown-menu {
+    position: static;
+    box-shadow: none;
+    border: none;
+    padding-left: 10px;
+    display: none;
   }
 
   /* Reduz margens de títulos no mobile */
@@ -814,69 +867,4 @@ body.home-page .site-content {
   .post-content {
     padding-top: 10px !important;
   }
-}
-
-/* =========================================
-   DROPDOWN E SUBMENUS DA NAVEGAÇÃO
-   ========================================= */
-.site-nav li {
-    position: relative;
-}
-
-/* Esconde o submenu por padrão */
-.site-nav .dropdown-menu {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    background-color: #ffffff;
-    min-width: 220px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    border: 1px solid var(--border-color);
-    padding: 8px 0;
-    z-index: 1010;
-    list-style: none !important;
-}
-
-.site-nav .dropdown-menu li {
-    width: 100%;
-}
-
-.site-nav .dropdown-menu a {
-    display: block;
-    padding: 8px 16px;
-    font-size: 0.9rem;
-    font-weight: 500;
-    color: var(--text-main);
-    white-space: nowrap;
-}
-
-.site-nav .dropdown-menu a:hover {
-    background-color: #f8fafc;
-    color: var(--accent);
-}
-
-/* Mostra o dropdown ao passar o mouse (Desktop) */
-@media screen and (min-width: 769px) {
-    .site-nav li.has-dropdown:hover .dropdown-menu {
-        display: block;
-        animation: fadeIn 0.2s ease-in-out;
-    }
-}
-
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(6px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-/* Ajuste Responsivo para Dispositivos Móveis */
-@media screen and (max-width: 768px) {
-    .site-nav .dropdown-menu {
-        position: static;
-        box-shadow: none;
-        border: none;
-        padding-left: 10px;
-        display: none; /* Pode ser expandido com clique no mobile */
-    }
 }
