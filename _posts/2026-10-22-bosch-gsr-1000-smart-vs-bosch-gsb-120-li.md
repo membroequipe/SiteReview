@@ -5,9 +5,9 @@ description: "Comparativo completo entre a Bosch GSR 1000 Smart e a GSB 120-LI: 
 slug: "bosch-gsr-1000-smart-vs-bosch-gsb-120-li"
 image: "/assets/images/posts/bosch-gsr-1000-smart-vs-bosch-gsb-120-li.jpg"
 permalink: /bosch-gsr-1000-smart-vs-bosch-gsb-120-li/
-categories: comparativos
-author: "Equipe de Análises"
+categories: Comparativos
 date: 2026-10-22
+author: "Equipe de Análises"
 ---
 
 Escolher entre a **Bosch GSR 1000 Smart** e a **Bosch GSB 120-LI** é um dos dilemas mais frequentes para quem está montando ou renovando o kit de ferramentas em 2026. Ambas pertencem à plataforma 12V da marca alemã, compartilham DNA de qualidade e têm preços que orbitam a mesma faixa de investimento, mas nasceram para resolver problemas distintos. A GSR 1000 Smart aposta na inteligência embarcada e no torque bruto para parafusamento pesado, enquanto a GSB 120-LI traz a versatilidade do martelete para quem precisa furar alvenaria no dia a dia. Entender onde cada uma brilha — e onde fica devendo — é o segredo para não gastar dinheiro com a ferramenta errada.
