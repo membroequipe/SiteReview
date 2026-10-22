@@ -3,6 +3,7 @@ description: "Análises aprofundadas, comparativos e guias de compra para ajudar
 url: "https://sitereview-4cu.pages.dev"
 baseurl: ""
 markdown: kramdown
+permalink: /:categories/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
