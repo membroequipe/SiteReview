@@ -373,21 +373,18 @@ Se o orçamento permite e seu escopo cobre **ambos os mundos** (marcenaria fina 
 Duas ferramentas especializadas, cada uma no seu ponto ótimo, compartilhando o mesmo pool de baterias de alta capacidade. Peso total no cinto: ~2 kg. Autonomia para dia inteiro de obra. Zero compromisso.
 
 <div class="product-card-affiliate">
-  <div class="product-card-affiliate-inner">
-    <div class="product-image">
-      <img src="/assets/images/products/bosch-12v-combo.jpg" alt="Combo Bosch 12V" loading="lazy">
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Bosch GSR 1000 Smart">
     </div>
-    <div class="product-info">
-      <h3>Monte Seu Kit 12V Ideal</h3>
-      <p class="product-tagline">Escolha a ferramenta certa para cada tarefa — compartilhe baterias, maximize versatilidade</p>
-      <div class="product-specs-mini">
-        <span>🔋 Plataforma única • 🔄 Intercambiável • ⚡ ProCORE 4,0 Ah</span>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart</h3>
+      <p class="product-card-subtitle">35 Nm • Bluetooth • Brushless • 156 mm • 10 mm Metálico</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Ver Preço na Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Conferir Oferta no Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Consultar Valor na Shopee</a>
       </div>
-    </div>
-    <div class="product-cta-group">
-      <a href="https://www.amazon.com.br/s?k=Bosch+12V+ProCORE+4.0+Ah" target="_blank" rel="noopener sponsored" class="btn-affiliate amazon">Ver Baterias ProCORE na Amazon</a>
-      <a href="https://lista.mercadolivre.com.br/bosch-12v-carregador-rapido" target="_blank" rel="noopener sponsored" class="btn-affiliate mercadolivre">Carregador Rápido no Mercado Livre</a>
-      <a href="https://shopee.com.br/search?keyword=Bosch%2012V%20kit%20ferramentas" target="_blank" rel="noopener sponsored" class="btn-affiliate shopee">Kits Completos na Shopee</a>
     </div>
   </div>
 </div>
