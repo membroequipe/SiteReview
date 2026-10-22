@@ -10,7 +10,7 @@
     <!-- Google Fonts: Plus Jakarta Sans -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
     <!-- CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -18,7 +18,7 @@
 </head>
 <body class="{% if page.url == '/' or page.url == '/index.html' %}home-page{% endif %}">
 
-    <!-- Menu Superior com Logotipo -->
+    <!-- Menu Superior Otimizado por Categorias e Dropdowns -->
     <header class="site-header">
       <div class="site-header-container">
         <a href="{{ '/' | relative_url }}">
@@ -27,10 +27,49 @@
         
         <nav class="site-nav">
           <ul>
+            <!-- 1. Início -->
             <li><a href="{{ '/' | relative_url }}">Início</a></li>
-            <li><a href="{{ '/comparativos/' | relative_url }}">Comparativos</a></li>
-            <li><a href="{{ '/reviews/' | relative_url }}">Reviews</a></li>
-            <li><a href="{{ '/guias/' | relative_url }}">Guias</a></li>
+
+            <!-- 2. Parafusadeiras (Categoria Principal - Artigo Pilar) -->
+            <li class="has-dropdown">
+              <a href="{{ '/parafusadeiras/' | relative_url }}">Parafusadeiras ▾</a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ '/melhores-parafusadeiras/' | relative_url }}">Melhores Parafusadeiras (Guia Geral)</a></li>
+                <li><a href="{{ '/parafusadeiras-12v-vs-18v/' | relative_url }}">Parafusadeiras 12V vs 18V</a></li>
+                <li><a href="{{ '/uso-profissional/' | relative_url }}">Uso Profissional</a></li>
+              </ul>
+            </li>
+
+            <!-- 3. Reviews (Análises de Modelos Específicos) -->
+            <li class="has-dropdown">
+              <a href="{{ '/reviews/' | relative_url }}">Reviews ▾</a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ '/review-bosch-gsr-1000-smart/' | relative_url }}">Bosch GSR 1000 Smart</a></li>
+                <li><a href="{{ '/review-bosch-gsb-120-li/' | relative_url }}">Bosch GSB 120-LI</a></li>
+                <li><a href="{{ '/review-makita-hp333d/' | relative_url }}">Makita HP333D</a></li>
+                <li><a href="{{ '/reviews/' | relative_url }}"><strong>Ver Todos os Reviews</strong></a></li>
+              </ul>
+            </li>
+
+            <!-- 4. Comparativos (Artigos Versus e Guia de Marcas) -->
+            <li class="has-dropdown">
+              <a href="{{ '/comparativos/' | relative_url }}">Comparativos ▾</a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ '/bosch-vs-makita/' | relative_url }}">Bosch vs Makita</a></li>
+                <li><a href="{{ '/gsr-1000-vs-gsb-120-li/' | relative_url }}">GSR 1000 vs GSB 120-LI</a></li>
+              </ul>
+            </li>
+
+            <!-- 5. Dicas & Acessórios (Conteúdo Informativo) -->
+            <li class="has-dropdown">
+              <a href="{{ '/dicas-acessorios/' | relative_url }}">Dicas & Acessórios ▾</a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ '/kits-de-bits-e-pontas/' | relative_url }}">Kits de Bits e Pontas</a></li>
+                <li><a href="{{ '/como-usar-manutencao/' | relative_url }}">Como Usar / Manutenção</a></li>
+              </ul>
+            </li>
+
+            <!-- 6. Sobre (Transparência) -->
             <li><a href="{{ '/sobre/' | relative_url }}">Sobre</a></li>
           </ul>
         </nav>
@@ -48,7 +87,7 @@
             
             <!-- Coluna 1: Marca e Apresentação -->
             <div style="flex: 1 1 380px; max-width: 450px;">
-                <h3 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0 0 12px 0;">Guia Especializado</h3>
+                <h3 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0 0 12px 0;">Parafusadeira Certa</h3>
                 <p style="font-size: 0.92rem; line-height: 1.6; color: #475569; margin: 0 0 20px 0;">
                     Reviews independentes, análises detalhadas e guias de compra dos melhores produtos do mercado para ajudar você a fazer a escolha certa.
                 </p>
@@ -63,24 +102,4 @@
                     <li><a href="{{ '/aviso-de-afiliados/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Aviso de Afiliados</a></li>
                     <li><a href="{{ '/contato/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Contato</a></li>
                     <li><a href="{{ '/politica-de-privacidade/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Política de Privacidade</a></li>
-                    <li><a href="{{ '/termos-de-uso/' | relative_url }}" style="text-decoration: none; color: #475569; font-size: 0.92rem;">Termos de Uso</a></li>
-                </ul>
-            </div>
-
-        </div>
-
-        <!-- Linha Inferior: Divulgação de Afiliado e Copyright -->
-        <div style="border-top: 1px solid #cbd5e1; padding: 20px; text-align: center; background-color: #e2e8f0; font-size: 0.82rem; color: #64748b; line-height: 1.5;">
-            <div style="max-width: 1000px; margin: 0 auto;">
-                <p style="margin: 0 0 6px 0;">
-                    Quando você compra por meio de links em nosso site, podemos ganhar uma comissão de afiliado sem nenhum custo adicional para você.
-                </p>
-                <p style="margin: 0;">
-                    Guia Especializado &copy; {{ 'now' | date: "%Y" }} Todos os direitos reservados.
-                </p>
-            </div>
-        </div>
-    </footer>
-
-</body>
-</html>
+                    <li><a href="{{
