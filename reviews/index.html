@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reviews e Análises Detalhadas"<article class="review-card">
+title: "Reviews e Análises Detalhadas"
 permalink: "/reviews/"
 ---
 
@@ -10,7 +10,7 @@ permalink: "/reviews/"
     margin: 0 auto;
     padding: 20px 15px;
   }
- .reviews-header {
+  .reviews-header {
     margin-bottom: 30px;
     text-align: left;
   }
@@ -110,35 +110,36 @@ permalink: "/reviews/"
     <p>Avaliações completas e fichas técnicas para decidir com segurança.</p>
   </div>
 
- <div class="reviews-grid">
-  {% assign has_reviews = false %}
-  {% for post in site.posts %}
-    {% assign post_cats = post.categories | downcase %}
-    {% assign post_cat = post.category | downcase %}
-    
-    {% if post_cat == "reviews" or post_cats contains "reviews" %}
-      {% assign has_reviews = true %}
-     <article class="review-card">
-        <a href="{{ post.url | relative_url }}">
-          <div class="review-img-wrapper">
-            <img src="{{ post.image | default: '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
-          </div>
-          <div class="review-content">
-            <span class="review-badge">Reviews</span>
-            <h2>{{ post.title }}</h2>
-            {% if post.description %}
-              <p>{{ post.description }}</p>
-            {% endif %}
-            <div class="review-date">
-              Por {{ post.author | default: "Equipe de Análises" }} • {{ post.date | date: "%d/%m/%Y" }}
+  <div class="reviews-grid">
+    {% assign has_reviews = false %}
+    {% for post in site.posts %}
+      {% assign post_cats = post.categories | downcase %}
+      {% assign post_cat = post.category | downcase %}
+      
+      {% if post_cat == "reviews" or post_cats contains "reviews" %}
+        {% assign has_reviews = true %}
+        <article class="review-card">
+          <a href="{{ post.url | relative_url }}">
+            <div class="review-img-wrapper">
+              <img src="{{ post.image | default: '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
             </div>
-          </div>
-        </a>
-      </article>
-    {% endif %}
-  {% endfor %}
-</div>
+            <div class="review-content">
+              <span class="review-badge">Reviews</span>
+              <h2>{{ post.title }}</h2>
+              {% if post.description %}
+                <p>{{ post.description }}</p>
+              {% endif %}
+              <div class="review-date">
+                Por {{ post.author | default: "Equipe de Análises" }} • {{ post.date | date: "%d/%m/%Y" }}
+              </div>
+            </div>
+          </a>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
 
-{% if has_reviews == false %}
-  <p>Nenhum review publicado no momento.</p>
-{% endif %}
+  {% if has_reviews == false %}
+    <p>Nenhum review publicado no momento.</p>
+  {% endif %}
+</div>
