@@ -152,15 +152,20 @@ O mandril de **aperto rápido 3/8" (10 mm)** aceita brocas e bits padrão, e a i
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
-</div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 > **Review completo:** [Teste Bosch GSR 1000 Smart: Vale a pena a conectividade?](/reviews/bosch-gsr-1000-smart)
@@ -197,15 +202,20 @@ O design "FatBody" com empunhadura emborrachada *Softgrip* distribui o peso (1,1
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
-</div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 > **Review completo:** [Bosch GSB 120-LI vs GSR 1000: Qual 12V comprar?](/comparativos/bosch-12v-gsb-vs-gsr)
@@ -242,15 +252,20 @@ O mandril de aperto rápido 3/8" aceita bits de 1/4" e brocas até 10 mm. A velo
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
-</div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -328,15 +343,20 @@ A plataforma **WAP 12V** cresceu exponencialmente no Brasil (furadeiras, parafus
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
-</div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -371,17 +391,21 @@ O sistema **Electronic Motor Protection (EMP)** protege contra sobrecarga e supe
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
-</div>
-
 ---
 
 ### Makita DHP484RTJ — A Precisão Japonesa para Marcenaria Pesada
