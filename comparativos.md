@@ -109,7 +109,7 @@ permalink: "/comparativos/"
         <article class="comparativo-card">
           <a href="{{ post.url | relative_url }}">
             <div class="comparativo-img-wrapper">
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+              <img src="{{ post.image | default: '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
             </div>
             <div class="comparativo-content">
               <h2>{{ post.title }}</h2>
