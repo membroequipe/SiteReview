@@ -1,391 +1,339 @@
+
 ---
 layout: post
-title: "Bosch GSR 1000 Smart vs Bosch GSB 120-LI: Qual Comprar em 2026?"
+title: Bosch GSR 1000 Smart vs Bosch GSB 120-LI: Qual Vale Mais a Pena em 2026?
 description: "Comparativo completo entre a Bosch GSR 1000 Smart e a GSB 120-LI: torque, função martelete, conectividade e veredito para cada tipo de uso."
 slug: "bosch-gsr-1000-smart-vs-bosch-gsb-120-li"
 image: "/assets/images/posts/bosch-gsr-1000-smart-vs-bosch-gsb-120-li.jpg"
-permalink: /bosch-gsr-1000-smart-vs-bosch-gsb-120-li/
 categories: Comparativos
-date: 2026-10-22
 author: "Equipe de Análises"
+date: 2026-10-22
 ---
 
-Escolher entre a **Bosch GSR 1000 Smart** e a **Bosch GSB 120-LI** é um dos dilemas mais frequentes para quem está montando ou renovando o kit de ferramentas em 2026. Ambas pertencem à plataforma 12V da marca alemã, compartilham DNA de qualidade e têm preços que orbitam a mesma faixa de investimento, mas nasceram para resolver problemas distintos. A GSR 1000 Smart aposta na inteligência embarcada e no torque bruto para parafusamento pesado, enquanto a GSB 120-LI traz a versatilidade do martelete para quem precisa furar alvenaria no dia a dia. Entender onde cada uma brilha — e onde fica devendo — é o segredo para não gastar dinheiro com a ferramenta errada.
+Escolher entre a Bosch GSR 1000 Smart e a Bosch GSB 120-LI exige entender uma diferença fundamental: enquanto uma foi projetada para tarefas leves de parafusamento e perfuração, a outra oferece mais versatilidade para quem também precisa furar alvenaria. Embora ambas pertençam à categoria de ferramentas compactas a bateria, existem diferenças importantes no torque, no mandril, nas velocidades e na autonomia que influenciam diretamente a experiência de uso.
+
+A GSR 1000 Smart chama a atenção pela simplicidade, pelo tamanho compacto e pela bateria integrada. Já a GSB 120-LI entrega dois níveis de velocidade, maior torque e função de impacto. Neste comparativo, analisamos as especificações publicadas pela Bosch Professional e as evidências disponíveis em plataformas de comércio eletrônico e discussões de usuários para ajudar você a escolher a ferramenta mais adequada à sua rotina.
+
+## Índice do artigo
 
 <ul>
-  <li><a href="#diferencas-chaves">Principais Diferenças Práticas Entre os Dois Modelos</a></li>
-  <li><a href="#analise-gsr-1000">Análise Detalhada: Parafusadeira Bosch GSR 1000 Smart</a></li>
-  <li><a href="#analise-gsb-120">Análise Detalhada: Parafusadeira Bosch GSB 120-LI</a></li>
-  <li><a href="#opiniao-compradores">O que Dizem os Compradores Reais</a></li>
-  <li><a href="#perguntas-frequentes">Perguntas Frequentes</a></li>
-  <li><a href="#veredito-final">Veredito Final: Qual Modelo Você Deve Escolher</a></li>
+<li><a href="#comparativo-rapido">Comparativo rápido</a></li>
+<li><a href="#produto-1">Análise detalhada: Bosch GSR 1000 Smart</a></li>
+<li><a href="#compradores-gsr">O que dizem os compradores da GSR 1000 Smart</a></li>
+<li><a href="#produto-2">Análise detalhada: Bosch GSB 120-LI</a></li>
+<li><a href="#compradores-gsb">O que dizem os compradores da GSB 120-LI</a></li>
+<li><a href="#diferencas-praticas">As principais diferenças na prática</a></li>
+<li><a href="#qual-escolher">Qual vale mais a pena?</a></li>
+<li><a href="#perguntas-frequentes">Perguntas frequentes</a></li>
 </ul>
+
+## <a id="comparativo-rapido"></a>Comparativo rápido: GSR 1000 Smart vs GSB 120-LI
 
 <div class="specs-table-wrapper">
 <table class="specs-table">
-  <thead>
-    <tr>
-      <th>Especificação</th>
-      <th>Bosch GSR 1000 Smart</th>
-      <th>Bosch GSB 120-LI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tipo</td>
-      <td>Parafusadeira / Furadeira</td>
-      <td>Parafusadeira / Furadeira de Impacto</td>
-    </tr>
-    <tr>
-      <td>Função Martelete</td>
-      <td>Não</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>Motor</td>
-      <td>Brushless (Sem Escovas)</td>
-      <td>Brushless (Sem Escovas)</td>
-    </tr>
-    <tr>
-      <td>Torque Máximo (Duro)</td>
-      <td>35 Nm</td>
-      <td>30 Nm</td>
-    </tr>
-    <tr>
-      <td>Torque Máximo (Macio)</td>
-      <td>17 Nm</td>
-      <td>15 Nm</td>
-    </tr>
-    <tr>
-      <td>Configurações de Torque</td>
-      <td>20 + 1 + 1 (Perfuração)</td>
-      <td>20 + 1 + 1 (Perfuração) + Martelete</td>
-    </tr>
-    <tr>
-      <td>Velocidade 1 (RPM)</td>
-      <td>0 - 460</td>
-      <td>0 - 460</td>
-    </tr>
-    <tr>
-      <td>Velocidade 2 (RPM)</td>
-      <td>0 - 1.750</td>
-      <td>0 - 1.750</td>
-    </tr>
-    <tr>
-      <td>Mandril</td>
-      <td>10 mm (Aperto Rápido)</td>
-      <td>10 mm (Aperto Rápido)</td>
-    </tr>
-    <tr>
-      <td>Conectividade</td>
-      <td>Bluetooth (App Bosch Toolbox)</td>
-      <td>Não possui</td>
-    </tr>
-    <tr>
-      <td>Peso (sem bateria)</td>
-      <td>~0,85 kg</td>
-      <td>~0,95 kg</td>
-    </tr>
-    <tr>
-      <td>Comprimento da Cabeça</td>
-      <td>156 mm</td>
-      <td>176 mm</td>
-    </tr>
-    <tr>
-      <td>Bateria Inclusa (Kit Padrão)</td>
-      <td>2x 2,0 Ah ou 1x 4,0 Ah</td>
-      <td>2x 2,0 Ah</td>
-    </tr>
-    <tr>
-      <td>Carregador</td>
-      <td>GAL 12V-40 (Standard)</td>
-      <td>GAL 12V-40 (Standard)</td>
-    </tr>
-    <tr>
-      <td>Proteção Eletrônica (ECP)</td>
-      <td>Sim</td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>Luz LED</td>
-      <td>Sim (Após-brilho)</td>
-      <td>Sim (Após-brilho)</td>
-    </tr>
-    <tr>
-      <td>Garantia Bosch</td>
-      <td>2 anos (1 + 1 registro)</td>
-      <td>2 anos (1 + 1 registro)</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Característica</th>
+<th>Bosch GSR 1000 Smart</th>
+<th>Bosch GSB 120-LI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Categoria</td>
+<td>Furadeira e parafusadeira</td>
+<td>Furadeira de impacto e parafusadeira</td>
+</tr>
+<tr>
+<td>Tensão nominal</td>
+<td>10,8 V (categoria comercial 12 V)</td>
+<td>12 V</td>
+</tr>
+<tr>
+<td>Torque suave/duro</td>
+<td>6/15 Nm</td>
+<td>14/30 Nm</td>
+</tr>
+<tr>
+<td>Velocidade sem carga</td>
+<td>0–700 rpm</td>
+<td>0–400 / 0–1.500 rpm</td>
+</tr>
+<tr>
+<td>Velocidades mecânicas</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Função de impacto</td>
+<td>Não</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>Mandril</td>
+<td>Encaixe de 6 mm</td>
+<td>10 mm (3/8")</td>
+</tr>
+<tr>
+<td>Bateria</td>
+<td>1,5 Ah integrada</td>
+<td>2,0 Ah nas configurações de kit indicadas pela Bosch</td>
+</tr>
+<tr>
+<td>Peso aproximado</td>
+<td>0,93 kg</td>
+<td>0,9 kg sem bateria</td>
+</tr>
+<tr>
+<td>Uso recomendado</td>
+<td>Móveis, MDF e reparos leves</td>
+<td>Parafusamento, perfuração e trabalhos ocasionais em alvenaria</td>
+</tr>
+</tbody>
 </table>
 </div>
 
-## <a id="diferencas-chaves"></a>Principais Diferenças Práticas Entre os Dois Modelos
+*Fonte: fichas técnicas e catálogos da Bosch Professional. A configuração comercial pode variar conforme o código do produto. O peso da GSB 120-LI informado acima não inclui a bateria, portanto não deve ser comparado diretamente ao peso da GSR com bateria.*
 
-A decisão entre esses dois modelos quase sempre passa por três pilares: a necessidade (ou não) de furar parede de tijolo e concreto, a valorização de recursos conectados e a ergonomia para uso prolongado. Vamos dissecar cada um.
+## <a id="produto-1"></a>Análise detalhada: Bosch GSR 1000 Smart
 
-### Martelete vs Rotação Pura: O Divisor de Águas
+A <a href="https://www.bosch-professional.com/br/pt/products/gsr-1000-06019F40E3">Bosch GSR 1000 Smart</a> é uma ferramenta compacta que combina as funções de furadeira e parafusadeira em um equipamento voltado principalmente para trabalhos leves. Sua proposta é simplificar tarefas domésticas, montagem de móveis e pequenos serviços de manutenção, sem exigir uma ferramenta maior ou mais complexa.
 
-A diferença mais objetiva e impactante está no seletor de modo. A **GSB 120-LI** possui a terceira posição no anel de seleção — o ícone do martelo —, que aciona o mecanismo de impacto axial. Na prática, isso significa que ela consegue perfurar alvenaria, tijolo baiano, blocos de concreto e argamassa dura combinando rotação com percussão de alta frequência (até 26.250 IPM na velocidade 2). Não é uma furadeira de impacto pesada (como as 18V ou a cabo), mas resolve com competência a instalação de buchas 6mm, 8mm e 10mm, fixação de prateleiras, suportes de TV e pequenos reparos em paredes.
+O modelo possui bateria de íons de lítio integrada, capacidade de 1,5 Ah, velocidade de até 700 rotações por minuto e torque de até 15 Nm em parafusamento duro. O conjunto prioriza praticidade e facilidade de manuseio, mas apresenta limitações quando o serviço exige força elevada, perfurações maiores ou operação prolongada.
 
-A **GSR 1000 Smart**, por outro lado, é uma "drill driver" pura. Seu anel para no modo perfuração (ícone da broca). Se você tentar furar concreto com ela, o motor vai girar, a broca vai esquentar e o furo não sai — ou sai com sofrimento extremo, risco de travar a broca e desgaste precoce do mandril. Ela existe para madeira, metal, plástico, drywall e, claro, parafusamento. Se sua rotina **nunca** envolve parede de alvenaria, a ausência do martelete não é falta, é economia de peso e comprimento.
+### Torque de 15 Nm: suficiente para móveis e reparos
 
-### Conectividade Smart: Gimmick ou Ferramenta de Trabalho?
+O torque é uma das especificações mais importantes de uma parafusadeira. Ele representa a capacidade de produzir força de rotação e influencia a facilidade com que a ferramenta consegue apertar parafusos.
 
-A GSR 1000 Smart carrega o sobrenome "Smart" por um motivo: o módulo Bluetooth Low Energy integrado ao corpo da máquina. Pareado ao aplicativo **Bosch Toolbox** (Android/iOS), ela desbloqueia recursos que, à primeira vista, parecem supérfluos, mas que profissionais e entusiastas organizados aprendem a valorizar.
+Na GSR 1000 Smart, os valores oficiais são de 6 Nm para parafusamento suave e 15 Nm para parafusamento duro. Essa faixa atende a muitas tarefas comuns, como montar armários, instalar ferragens e realizar reparos em madeira e MDF.
 
-Pelo app você pode: criar perfis de torque personalizados para materiais específicos (ex: "Deck de Ipê", "Drywall", "Móvel MDF") e enviar para a ferramenta — a máquina ajusta eletronicamente a sensibilidade do gatilho e o limitador de corrente para aquele perfil; monitorar temperatura da bateria e da carcaça do motor em tempo real; receber alertas de manutenção preventiva baseados em horas de uso reais; travar a ferramenta remotamente (anti-furto em canteiro); e geolocalizar a última posição conhecida via smartphone.
+Na prática, o desempenho depende também do comprimento do parafuso, da dureza do material, do diâmetro do furo-guia e do acessório utilizado. Um parafuso pequeno em MDF não exige o mesmo esforço de uma fixação longa em madeira maciça. Por isso, os 15 Nm devem ser entendidos como uma especificação técnica, não como garantia de desempenho idêntico em qualquer material.
 
-A GSB 120-LI não tem nada disso. É analógica, direta, ligou-usou. Para quem valoriza simplicidade absoluta e não quer depender de smartphone, firmware ou bateria do celular no bolso, a GSB vence no quesito "pronto para trabalhar em 2 segundos".
+Para trabalhos que exigem torque maior e ajustes mais versáteis, a GSB 120-LI oferece uma margem superior.
 
-### Torque e Entrega de Potência: Números na Prática
+### Bateria integrada: praticidade com uma limitação
 
-No papel, a GSR 1000 Smart leva vantagem: **35 Nm** no modo duro contra **30 Nm** da GSB 120-LI. Na bancada, essa diferença de 5 Nm (cerca de 16%) se traduz em capacidade de afundar parafusos maiores em madeiras mais densas sem travar, ou soltar parafusos travados/oxidados com mais autoridade. A curva de torque da GSR 1000 é mais "cheia" em baixa rotação, graças à calibração eletrônica mais agressiva permitida pelo controle via app.
+A bateria de 1,5 Ah é integrada ao corpo da GSR 1000 Smart. Isso elimina a necessidade de retirar e substituir uma bateria durante o trabalho, mas também significa que o usuário não pode simplesmente colocar outra bateria carregada para continuar o serviço.
 
-A GSB 120-LI compensa com uma entrega mais linear e previsível no modo perfuração com impacto. Seu mecanismo de martelete adiciona massa interna (o conjunto de came e engrenagem de percussão), o que explica os ~100g a mais e os 20mm extras de comprimento da cabeça. Em madeira e metal, a diferença de torque real é perceptível mas raramente decisiva — ambas passam por parafusos 6x80mm em pinus sem pestanejar.
+A Bosch informa carregamento com carregador bivolt, com duração aproximada de uma hora nas especificações do modelo. A autonomia efetiva varia conforme a resistência do material, o tamanho dos parafusos, a pressão aplicada e o estado da bateria.
 
-### Ergonomia e Acesso a Espaços Apertados
+O catálogo da fabricante apresenta resultados de referência para aplicações em MDF. Esses números são obtidos em condições específicas e não devem ser interpretados como uma quantidade garantida de parafusamentos em qualquer projeto.
 
-Aqui a GSR 1000 Smart brilha. Com **156 mm de cabeça**, ela é notavelmente mais curta que a GSB 120-LI (176 mm). Em armários planejados, entre vigas, dentro de caixas de elétrica ou atrás de eletrodomésticos, esses 2 centímetros fazem a diferença entre conseguir encaixar a broca reta ou ter que usar extensão flexível (que rouba torque). O punho da GSR 1000 também é ligeiramente mais fino na base, acomodando melhor mãos menores.
+Para quem utiliza a ferramenta esporadicamente, a bateria integrada pode ser uma solução conveniente. Já para quem trabalha durante várias horas seguidas, a impossibilidade de troca rápida é uma limitação relevante.
 
-A GSB 120-LI compensa com melhor equilíbrio quando equipada com baterias 4,0 Ah ou 6,0 Ah — o peso extra na cabeça contrabalanceia a bateria traseira. Com baterias 2,0 Ah (comuns nos kits de entrada), a GSR 1000 fica mais "neutra" na mão.
+### Mandril de 6 mm e velocidade única
 
----
+Outro ponto importante é o sistema de encaixe. A GSR 1000 Smart utiliza um mandril de 6 mm, destinado a acessórios compatíveis com essa medida. Isso exige atenção ao comprar pontas, brocas e adaptadores: nem todo acessório convencional será compatível diretamente.
 
-## <a id="analise-gsr-1000"></a>Análise Detalhada: Parafusadeira Bosch GSR 1000 Smart
+A velocidade máxima de 700 rpm é adequada para diversas operações de parafusamento e perfuração leve. Entretanto, o equipamento não possui uma segunda velocidade mecânica para adaptar melhor a rotação à tarefa.
 
-A GSR 1000 Smart posiciona-se como a **para-fusadeira 12V mais avançada tecnicamente** do portfólio Bosch atual. Não é apenas uma GSR 12V-35 com Bluetooth; a eletrônica de controle foi reescrita para tirar proveito do feedback em malha fechada entre motor brushless, sensor de efeito Hall no gatilho e microcontrolador conectado.
+A ferramenta também não possui função de impacto. Portanto, não é a escolha apropriada para quem pretende perfurar alvenaria regularmente. Para esse tipo de serviço, o mecanismo de impacto da GSB 120-LI representa uma vantagem funcional importante.
 
-### Impressões Técnicas Profundas
+### Construção, ergonomia e proteção da bateria
 
-O motor brushless de 4 polos entrega partida instantânea e resposta de gatilho praticamente sem latência. A curva de aceleração é progressiva e previsível — essencial para iniciar parafusos em ponto cruzado sem "pular" a cabeça. O mandril metálico de 10 mm com catraca de travamento único aperta brocas e bits com firmeza ímpar; não há folga radial perceptível mesmo após meses de uso intenso.
+O peso informado pela Bosch é de aproximadamente 0,93 kg, e o corpo compacto facilita o manuseio em locais apertados, como o interior de armários e gavetas. A iluminação LED ajuda a visualizar o ponto de trabalho em ambientes pouco iluminados.
 
-A grande sacada está nos **perfis personalizáveis via app**. Imagine configurar um perfil "MDF 15mm" com torque máximo limitado a 12 Nm, partida suave (ramp-up de 300ms) e freio motor ativo. Você salva, envia para a ferramenta (leva 3 segundos via Bluetooth 5.0) e a máquina *fica* com aquele comportamento até você trocar o perfil — mesmo sem o celular por perto. Para marceneiros que alternam materiais o dia todo, isso elimina a dança do anel de torque e o chute de "será que é no 14 ou no 16?".
+A fabricante também descreve proteção eletrônica das células da bateria, destinada a prevenir condições prejudiciais, como sobrecarga, sobreaquecimento e descarga profunda. Esses recursos ajudam a preservar o conjunto, embora não eliminem o desgaste natural decorrente do tempo e do uso.
 
-O sistema **Electronic Cell Protection (ECP)** monitora célula a célula da bateria (via barramento SMBus nos packs 2.0Ah/4.0Ah/6.0Ah novos), desligando a ferramenta antes de descarga profunda, superaquecimento ou sobrecorrente. Na prática, baterias duram mais ciclos de carga.
-
-A autonomia com bateria 4,0 Ah (kit "Professional" comum no Brasil) impressiona: **até 450 parafusos 4x40mm em pinus por carga** em testes padronizados Bosch. Com 2,0 Ah, a conta cai para ~200 parafusos — ainda respeitável para uso intermitente.
+A GSR 1000 Smart faz sentido para quem valoriza simplicidade, baixo peso e praticidade. Sua principal limitação não é a qualidade da proposta, mas a faixa de aplicação: ela não substitui uma ferramenta de maior torque ou uma furadeira de impacto quando o trabalho exige esses recursos.
 
 <div class="pros-cons-grid">
-  <div class="pros-column">
-    <h4>✅ Pontos Fortes</h4>
+  <div class="pros-box">
+    <h4>👍 O que consideramos positivo</h4>
     <ul>
-      <li>Torque máximo da categoria 12V (35 Nm) — autoridade real em parafusamento pesado</li>
-      <li>Conectividade Bluetooth útil: perfis salvos, telemetria, anti-furto, geolocalização</li>
-      <li>Mais compacta (156 mm) e leve (~850g) — acesso superior em espaços confinados</li>
-      <li>Mandril metálico robusto com catraca de travamento preciso</li>
-      <li>Motor brushless de última geração: partida instantânea, freio eletrônico, eficiência térmica</li>
-      <li>ECP célula a célula prolonga vida útil das baterias</li>
-      <li>LED de alta intensidade com após-brilho de 10s (ilumina a área de trabalho depois de soltar o gatilho)</li>
+      <li>Corpo compacto e peso reduzido, favoráveis à montagem de móveis e aos reparos domésticos.</li>
+      <li>Bateria integrada e carregador bivolt, com operação simples para quem utiliza a ferramenta ocasionalmente.</li>
+      <li>LED integrado e proteção eletrônica da bateria, recursos úteis para o uso cotidiano.</li>
     </ul>
   </div>
-  <div class="cons-column">
-    <h4>⚠️ Pontos de Atenção</h4>
+  <div class="cons-box">
+    <h4>👎 O que merece atenção</h4>
     <ul>
-      <li>**Não fura alvenaria/concreto** — limitação física, não de software</li>
-      <li>Preço de entrada mais elevado (categoria "premium" dentro do 12V)</li>
-      <li>Dependência do app para configurar perfis avançados (funciona sem, mas perde o diferencial)</li>
-      <li>Bluetooth pode apresentar pareamento instável em ambientes com muita interferência 2.4 GHz</li>
-      <li>Kit padrão costuma vir com baterias 2,0 Ah; a 4,0 Ah encarece significativamente o conjunto</li>
+      <li>Torque máximo de 15 Nm e apenas uma velocidade mecânica limitam a versatilidade em tarefas mais exigentes.</li>
+      <li>A bateria não pode ser substituída rapidamente por outra carregada durante o trabalho.</li>
+      <li>Não possui função de impacto e utiliza encaixe de 6 mm, que exige atenção à compatibilidade dos acessórios.</li>
     </ul>
   </div>
 </div>
-
-<div class="product-card-affiliate">
-  <div class="product-card-affiliate-inner">
-    <div class="product-image">
-      <img src="/assets/images/products/bosch-gsr-1000-smart.jpg" alt="Bosch GSR 1000 Smart" loading="lazy">
-    </div>
-    <div class="product-info">
-      <h3>Bosch GSR 1000 Smart</h3>
-      <p class="product-tagline">A parafusadeira 12V mais inteligente e potente da categoria</p>
-      <div class="product-specs-mini">
-        <span>⚡ 35 Nm • 📱 Bluetooth • 🔋 Brushless • 📏 156 mm</span>
-      </div>
-    </div>
-    <div class="product-cta-group">
-      <a href="https://www.amazon.com.br/s?k=Bosch+GSR+1000+Smart" target="_blank" rel="noopener sponsored" class="btn-affiliate amazon">Ver Preço na Amazon</a>
-      <a href="https://lista.mercadolivre.com.br/bosch-gsr-1000-smart" target="_blank" rel="noopener sponsored" class="btn-affiliate mercadolivre">Conferir Oferta no Mercado Livre</a>
-      <a href="https://shopee.com.br/search?keyword=Bosch%20GSR%201000%20Smart" target="_blank" rel="noopener sponsored" class="btn-affiliate shopee">Consultar Valor na Shopee</a>
-    </div>
-  </div>
-</div>
-
----
-
-## <a id="analise-gsb-120"></a>Análise Detalhada: Parafusadeira e Furadeira de Impacto Bosch GSB 120-LI
-
-A GSB 120-LI é a **evolução direta da lendária GSB 120** — a furadeira de impacto 12V mais vendida da história da Bosch no Brasil. A atualização "LI" (Lithium-Ion) trouxe motor brushless, novo design de carcaça, mandril metálico e a mesma plataforma de baterias 12V Slide (compatível com toda a linha: GSR, GDR, GKS, GSA, GST, GLI, etc.).
-
-### Impressões Técnicas Profundas
-
-O grande trunfo continua sendo o **mecanismo de impacto axial de duas massas**. Diferente de furadeiras de impacto baratas que usam came simples (ruidoso, vibração excessiva, desgaste rápido), a GSB 120-LI emprega um conjunto de engrenagens planetárias com came endurecido que gera **26.250 IPM (impactos por minuto)** na velocidade 2. A percussão é "seca", eficiente e transfere energia para a broca sem sacudir o pulso do operador de forma descontrolada.
-
-Em testes de bancada padronizados (bloco de concreto C25, broca SDS adaptada 6mm x 100mm), a GSB 120-LI executa **~45 furos de 50mm profundidade por carga de bateria 2,0 Ah**. Com 4,0 Ah, dobra a conta. Números respeitáveis para uma 12V — obviamente não substitui uma 18V ou uma furadeira a cabo em obra, mas para o instalador de ar-condicionado, eletricista, montador de móveis ou DIY que precisa furar 10, 20 furos por dia em parede, ela entrega.
-
-No modo parafusamento/perfuração (sem impacto), o torque de 30 Nm coloca-a no topo da categoria "compacta com martelete". O anel de 20 posições + perfuração + martelete tem detentes firmes, sem folga entre modos. A transição perfuração → martelete é suave; o came só engata sob carga axial, poupando o mecanismo em uso acidental.
-
-A ergonomia foi refinada: punho com *softgrip* texturizado em área maior, gatilho de curso curto com resposta progressiva, seletor de velocidade na lateral esquerda (acessível pelo polegar destro). O clipe de cinto é reversível (lado direito/esquerdo) e tem bit holder integrado — detalhe que quem usa no dia a dia agradece.
-
-<div class="pros-cons-grid">
-  <div class="pros-column">
-    <h4>✅ Pontos Fortes</h4>
-    <ul>
-      <li>Única da comparação com **função martelete real** — fura alvenaria, tijolo, concreto leve</li>
-      <li>Mecanismo de impacto de duas massas: percussão eficiente, menos vibração, maior durabilidade</li>
-      <li>Motor brushless: mais autonomia, zero manutenção de escovas, resposta imediata</li>
-      <li>Compatibilidade total com ecossistema 12V Bosch (baterias, carregadores, ferramentas)</li>
-      <li>Mandril metálico 10 mm de alta precisão — runout mínimo</li>
-      <li>Equilíbrio excelente com baterias 4,0/6,0 Ah — menos fadiga em uso contínuo</li>
-      <li>Preço mais acessível que a GSR 1000 Smart (categoria "intermediário premium")</li>
-      <li>Simplicidade absoluta: sem app, sem firmware, sem pareamento — ligou, furou</li>
-    </ul>
-  </div>
-  <div class="cons-column">
-    <h4>⚠️ Pontos de Atenção</h4>
-    <ul>
-      <li>Torque máximo inferior (30 Nm vs 35 Nm) — sente a diferença em parafusos longos/grossos em madeira densa</li>
-      <li>Mais longa (176 mm) e pesada (~950g) — acesso limitado em cavidades rasas</li>
-      <li>Sem conectividade/recursos inteligentes — não há perfis programáveis ou telemetria</li>
-      <li>Martelete **não substitui furadeira de impacto 18V/20V ou a cabo** em concreto armado ou furos >10mm</li>
-      <li>Ruído de impacto perceptível (normal da categoria) — usar EPI auditivo em uso prolongado</li>
-      <li>Kit padrão costuma vir apenas com 2x baterias 2,0 Ah — autonomia justa para martelete</li>
-    </ul>
-  </div>
-</div>
-
-<div class="product-card-affiliate">
-  <div class="product-card-affiliate-inner">
-    <div class="product-image">
-      <img src="/assets/images/products/bosch-gsb-120-li.jpg" alt="Bosch GSB 120-LI" loading="lazy">
-    </div>
-    <div class="product-info">
-      <h3>Bosch GSB 120-LI</h3>
-      <p class="product-tagline">A furadeira de impacto 12V mais equilibrada do mercado</p>
-      <div class="product-specs-mini">
-        <span>🔨 Martelete • ⚡ 30 Nm • 🔋 Brushless • 📏 176 mm</span>
-      </div>
-    </div>
-    <div class="product-cta-group">
-      <a href="https://www.amazon.com.br/s?k=Bosch+GSB+120-LI" target="_blank" rel="noopener sponsored" class="btn-affiliate amazon">Ver Preço na Amazon</a>
-      <a href="https://lista.mercadolivre.com.br/bosch-gsb-120-li" target="_blank" rel="noopener sponsored" class="btn-affiliate mercadolivre">Conferir Oferta no Mercado Livre</a>
-      <a href="https://shopee.com.br/search?keyword=Bosch%20GSB%20120-LI" target="_blank" rel="noopener sponsored" class="btn-affiliate shopee">Consultar Valor na Shopee</a>
-    </div>
-  </div>
-</div>
-
----
-
-## <a id="opiniao-compradores"></a>O que Dizem os Compradores Reais (Amazon, ML e Shopee)
-
-A análise de centenas de avaliações verificadas nos três maiores marketplaces brasileiros (dados consolidados até outubro/2026) revela padrões consistentes que confirmam — e em alguns casos matizam — as fichas técnicas.
-
-### Bosch GSR 1000 Smart
-
-### 👍 Elogios Mais Frequentes
-- **Compactação real**: "Cabe onde nenhuma outra entrau" — relato recorrente de eletricistas trabalhando em quadros lotados e marceneiros em ferragens de móveis.
-- **Torque que impressiona**: Muitos usuários relatam afundar parafusos 8x100mm em peroba/ipê sem travar, algo que 12V antigas não faziam.
-- **App útil no dia a dia**: Perfis salvos para "drywall", "deck", "metal" economizam tempo de ajuste; recurso de "localizar ferramenta" já salvou equipamento em obra grande.
-- **Qualidade do mandril**: "Não solta broca nem bit, mesmo em impacto reverso forte" — elogio constante ao mandril metálico com catraca.
-- **Bateria 4,0 Ah dura o dia todo** em uso misto (parafusamento + perfuração madeira/metal).
-
-### 👎 Reclamações Mais Frequentes
-- **Preço do kit com bateria 4,0 Ah**: "Custa quase o dobro do kit 2,0 Ah" — queixa legítima; a 2,0 Ah fica "curta" para profissional.
-- **Bluetooth instável em galpão metálico**: Interferência de rede Wi-Fi, máquinas de solda e inversores de frequência derruba conexão.
-- **Não fura parede**: Compradores que não leram a ficha técnica reclamam — "comprei achando que furava concreto porque é Bosch".
-- **App exige localização/permissões excessivas**: Alguns usuários Android relatam solicitações de permissão de localização em segundo plano desnecessárias.
-
-### Bosch GSB 120-LI
-
-### 👍 Elogios Mais Frequentes
-- **Martelete "que funciona de verdade"**: Relatos de 50+ furos em bloco de concreto com uma carga 2,0 Ah; "fura laje, viga, coluna sem chorar".
-- **Robustez percebida**: "Caiu de 1,5m no cimento, bateu na parede, continua perfeita" — durabilidade mecânica elogiada.
-- **Custo-benefício imbatível**: "Entrega 90% do que uma 18V faz em alvenaria leve por fração do peso e preço".
-- **Equilíbrio com bateria 4,0 Ah**: "Vira extensão do braço" — profissionais que usam 8h/dia destacam ergonomia.
-- **Compatibilidade total 12V**: Quem já tem bateria/carregador de outras ferramentas Bosch economiza na compra "somente corpo".
-
-### 👎 Reclamações Mais Frequentes
-- **Comprimento da cabeça**: "Não entra no furo de 16mm da dobradiça de 35mm" — limitação física real para marcenaria fina.
-- **Torque "fraco" para parafuso grosso**: Comparada à GSR 1000 Smart, trava mais cedo em 6x100mm em madeira dura.
-- **Ruído do martelete**: "Incomoda em apartamento, vizinho reclama" — característica da tecnologia, não defeito.
-- **Kit "somente corpo" confunde**: Listagens no ML/Shopee às vezes não deixam claro que não vem bateria/carregador.
-- **Mandril pode travar broca de impacto SDS adaptada** se não lubrificado — dica de usuários experientes: passe graxa no encaixe.
-
----
-
-## <a id="perguntas-frequentes"></a>Perguntas Frequentes (FAQ)
-
-<details>
-<summary>Posso usar a GSR 1000 Smart para furar parede de tijolo ou concreto se for devagar e com broca boa?</summary>
-<p><strong>Não recomendado.</strong> A GSR 1000 Smart não possui mecanismo de percussão (martelete). Tentar furar alvenaria apenas com rotação aquece a broca, desgasta o mandril, sobrecarrega o motor brushless e o resultado é um furo ruim, ovalado, com risco de travar a broca. Para furos eventuais em tijolo furado (bloco cerâmico), uma furadeira de impacto de entrada a cabo ou a GSB 120-LI são as escolhas corretas. Se você já tem a GSR 1000 e precisa furar parede <em>uma vez</em>, alugue uma furadeira de impacto ou peça ajuda a um vizinho — não force a ferramenta fora da especificação.</p>
-</details>
-
-<details>
-<summary>A GSB 120-LI consegue furar concreto armado (laje/viga com vergalhão)?</summary>
-<p><strong>Com muitas ressalvas.</strong> A GSB 120-LI fura concreto <em>não armado</em> (bloco, laje sem ferragem, viga sem vergalhão no caminho) com brocas de videa 5-10mm com competência. Ao encontrar vergalhão, o impacto 12V <strong>não</strong> tem energia para cortar aço — a broca vai dançar, superaquecer e travar. Para concreto armado, a categoria mínima é furadeira de impacto 18V/20V brushless (ex: Bosch GSB 18V-60, Makita DHP484) ou, idealmente, martelete rotativo SDS-Plus (Bosch GBH 2-26, Makita HR2630). Use a GSB 120-LI para buchas 6/8mm em parede, teto, coluna — não para instalação de estrutura metálica em laje.</p>
-</details>
-
-<details>
-<summary>Vale a pena pagar a mais pela GSR 1000 Smart só pelo Bluetooth/App?</summary>
-<p><strong>Depende do seu fluxo de trabalho.</strong> Se você é marceneiro, montador de móveis, instalador de drywall ou faz manutenção industrial onde alterna materiais (madeira, metal, plástico, compósito) várias vezes ao dia, a capacidade de salvar e alternar perfis de torque/partida/freio com um toque no celular <strong>paga a diferença em horas economizadas e parafusos não estragados</strong>. Se você é DIY de fim de semana, faz 90% do trabalho em madeira macia/MDF e usa torque "no feeling", o app vira enfeite — a GSB 120-LI (ou até uma GSR 12V-15/30 mais simples) entrega o mesmo resultado prático por menos. Avalie: "quantas vezes por dia eu giro o anel de torque?" Se a resposta for "muitas", o Smart faz sentido.</p>
-</details>
-
-<details>
-<summary>As baterias 12V da Bosch são intercambiáveis entre GSR 1000 Smart e GSB 120-LI?</summary>
-<p><strong>Sim, 100%.</strong> Ambas usam a plataforma **Bosch 12V Slide** (baterias de encaixe lateral). Qualquer bateria 12V Li-Ion da Bosch — 1,5 Ah, 2,0 Ah, 3,0 Ah, 4,0 Ah, 6,0 Ah, incluindo as novas "ProCORE 12V" (células 21700) — funciona nas duas ferramentas, nos carregadores GAL 12V-20, 12V-40, 12V-80 e no carregador rápido GAX 18V-30 (via adaptador, mas não recomendado como padrão). O sistema ECP (Proteção Eletrônica de Células) da GSR 1000 Smart lê dados das baterias mais novas (2.0Ah/4.0Ah/6.0Ah ProCORE) célula a célula; nas baterias 1,5/3,0 Ah antigas (sem barramento SMBus), a proteção funciona por tensão total — ainda segura, apenas menos granular.</p>
-</details>
-
----
-
-## <a id="veredito-final"></a>Veredito Final: Qual Modelo Você Deve Escolher?
-
-A resposta curta: **são ferramentas para usuários diferentes**, com pouca sobreposição real de público-alvo. Não há "melhor" absoluta — há a certa para <em>seu</em> caso.
-
-### Compre a **Bosch GSR 1000 Smart** se:
-
-- **Você NÃO fura alvenaria/concreto** (nunca, ou tão raro que alugar/emprestar resolve).
-- **Parafusamento é 80%+ do seu uso**: montagem de móveis, decks, drywall, estruturas de madeira, metalomecânica leve, automação, manutenção.
-- **Valoriza precisão e repetibilidade**: perfis de torque por material eliminam erro humano e retrabalho.
-- **Trabalha em espaços apertados**: 156 mm de cabeça entram onde 176 mm não entram — armários, eletrodutos, entre vigas.
-- **Já vive no ecossistema Bosch 12V** e quer a ferramenta "topo de linha" da categoria para completar o kit.
-- **Gosta de dados**: telemetria de bateria, horas de uso, alertas de manutenção ajudam a gestão de ativos (mesmo para autônomo).
-
-> **Perfil ideal**: Marceneiro, montador de móveis planejados, instalador de drywall/steel frame, eletricista de automação/baixa tensão, maker avançado, DIY exigente que não fura parede.
-
-### Compre a **Bosch GSB 120-LI** se:
-
-- **Você PRECISA furar parede** (alvenaria, tijolo, bloco, concreto leve) com regularidade — instalação de buchas, prateleiras, suportes, fixação em laje/coluna sem vergalhão.
-- **Quer uma ferramenta única "faz tudo"**: parafusa, fura madeira/metal, fura alvenaria — sem carregar duas máquinas.
-- **Prefere simplicidade analógica**: pega, usa, guarda. Sem app, sem firmware, sem pareamento, sem distração.
-- **Já tem baterias 12V Bosch** e quer só o corpo (body only) — melhor custo-benefício de entrada na plataforma com martelete.
-- **Equilíbrio com bateria grande importa**: uso contínuo 4h+ com 4,0/6,0 Ah cansa menos o pulso que a GSR 1000 (mais leve na cabeça, mais "batida" na mão).
-- **Orçamento mais enxuto**: investimento intermediário acessível, deixa verba para comprar bateria 4,0 Ah à parte.
-
-> **Perfil ideal**: Eletricista predial, instalador de ar-condicionado/aquecedor, marido de aluguel/manutenção geral, DIY de casa própria (fura parede + faz móvel), pequeno empreiteiro, técnico de manutenção industrial.
-
----
-
-### O "Pulo do Gato" para Quem Tem Verba
-
-Se o orçamento permite e seu escopo cobre **ambos os mundos** (marcenaria fina + instalação em alvenaria), a combinação imbatível em 2026 é:
-
-> **GSR 1000 Smart (corpo) + GSB 120-LI (corpo) + 2x Bateria ProCORE 12V 4,0 Ah + Carregador Rápido GAL 12V-80**
-
-Duas ferramentas especializadas, cada uma no seu ponto ótimo, compartilhando o mesmo pool de baterias de alta capacidade. Peso total no cinto: ~2 kg. Autonomia para dia inteiro de obra. Zero compromisso.
 
 <div class="product-card-affiliate">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Bosch GSR 1000 Smart">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart</h3>
-      <p class="product-card-subtitle">35 Nm • Bluetooth • Brushless • 156 mm • 10 mm Metálico</p>
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Ver Preço na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Conferir Oferta no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Consultar Valor na Shopee</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
       </div>
     </div>
   </div>
 </div>
+
+## <a id="compradores-gsr"></a>O que dizem os compradores da GSR 1000 Smart
+
+A página do produto no Mercado Livre apresenta avaliação de 4,7 de 5, baseada em mais de seis mil opiniões no resultado consultado. Esse volume sugere uma experiência de compra amplamente avaliada, mas a nota isolada não comprova desempenho em todas as aplicações nem substitui a leitura dos comentários individuais.
+
+<a href="https://www.mercadolivre.com.br/furadeira-parafusadeira-sem-fio-de-6mm-bosch-gsr-1000-smart-12v-com-maleta-127220v-700rpm-azul/p/MLB18339419">Consultar avaliações da GSR 1000 Smart no Mercado Livre</a>.
+
+### 👍 Elogios Mais Frequentes
+
+- **Facilidade de uso:** o formato compacto e o funcionamento sem fio são características adequadas a montagens e pequenos reparos.
+- **Praticidade no uso doméstico:** a proposta de ferramenta leve, com iluminação e carregamento simples, atende a quem não precisa de uma máquina para trabalhos pesados.
+
+### 👎 Reclamações Mais Frequentes
+
+- **Limites de aplicação:** o torque e a ausência de impacto restringem o uso em serviços que exigem maior força ou perfuração de alvenaria.
+- **Autonomia e bateria integrada:** a impossibilidade de trocar a bateria rapidamente pode incomodar quem precisa executar muitas tarefas consecutivas.
+
+*Nota editorial: os pontos acima refletem as características do modelo e os limites de aplicação identificáveis nas fontes consultadas; não representam uma contagem estatística de reclamações individuais. Não foi possível confirmar uma amostra comparável de avaliações verificadas da Amazon e da Shopee para consolidar uma frequência de elogios e queixas nessas plataformas.*
+
+## <a id="produto-2"></a>Análise detalhada: Bosch GSB 120-LI
+
+A <a href="https://www.bosch-professional.com/br/pt/products/gsb-120-li-06019G81E4">Bosch GSB 120-LI</a> é uma furadeira de impacto e parafusadeira a bateria que oferece mais possibilidades de uso. Ela conserva um formato compacto, mas combina maior torque, duas velocidades mecânicas, mandril de 10 mm e mecanismo de impacto para trabalhos em alvenaria.
+
+De acordo com a ficha técnica oficial, o modelo apresenta torque suave de 14 Nm e torque duro de 30 Nm, além de rotação de até 1.500 rpm na segunda velocidade. Esses números representam uma vantagem relevante em comparação com a GSR 1000 Smart, principalmente para quem alterna entre parafusamento e perfuração.
+
+### Torque de 30 Nm e duas velocidades
+
+O torque máximo de 30 Nm amplia a capacidade de fixação em comparação com os 15 Nm da GSR 1000 Smart. A diferença pode ser útil em parafusos maiores e materiais que exigem mais força, respeitando sempre os limites da ferramenta e do acessório.
+
+A caixa de duas velocidades mecânicas oferece outra vantagem. A primeira trabalha entre 0 e 400 rpm, favorecendo tarefas que pedem mais controle; a segunda chega a 1.500 rpm, sendo mais apropriada para diversas operações de perfuração.
+
+O modelo também oferece 20 posições de ajuste de torque e duas configurações adicionais relacionadas à perfuração e ao impacto. Esse conjunto permite adaptar melhor o funcionamento à tarefa, embora a seleção correta continue dependendo do material, do parafuso e da broca.
+
+### Função de impacto para perfurações em alvenaria
+
+A característica que mais diferencia a GSB 120-LI é o mecanismo de impacto, com taxa máxima de 22.500 impactos por minuto. Ele combina rotação e golpes axiais para facilitar perfurações em materiais de alvenaria, desde que sejam utilizados brocas apropriadas e condições de trabalho compatíveis.
+
+A Bosch informa capacidades máximas de perfuração de 20 mm em madeira, 10 mm em aço e 8 mm em concreto. Esses limites não significam que todos os furos serão igualmente rápidos ou simples: a dureza do material, o diâmetro da broca e a intensidade de uso alteram o resultado.
+
+Também é importante entender que uma furadeira de impacto compacta não equivale a um martelete SDS. Para perfurações frequentes em concreto duro, concreto estrutural ou serviços pesados, um equipamento específico pode ser mais adequado. A função de impacto da GSB 120-LI é um recurso de versatilidade, não uma garantia de desempenho profissional em qualquer alvenaria.
+
+### Bateria removível e autonomia
+
+Nas configurações de kit indicadas pela Bosch, a GSB 120-LI acompanha bateria de íons de lítio de 12 V e 2,0 Ah. Há versões comerciais com diferentes combinações de baterias, carregador e maleta, portanto é importante conferir o código do produto e o conteúdo da embalagem.
+
+A bateria removível facilita a continuidade do trabalho quando o usuário possui uma unidade reserva compatível. Além disso, a plataforma Bosch Professional 12V permite compartilhar baterias e carregadores compatíveis da mesma classe de tensão, respeitando os modelos e as condições de compatibilidade da fabricante.
+
+A Bosch também incorpora o sistema Electronic Cell Protection (ECP), que ajuda a proteger a bateria contra condições elétricas prejudiciais. Ainda assim, autonomia real depende do esforço aplicado e não pode ser deduzida apenas da capacidade em ampere-hora.
+
+### Mandril de 10 mm e ergonomia
+
+O mandril de 10 mm amplia as opções de brocas em comparação com o encaixe de 6 mm da GSR 1000 Smart. Isso oferece mais flexibilidade para perfurações comuns em madeira e metal, além de permitir o uso de acessórios compatíveis com a capacidade especificada.
+
+A ferramenta pesa aproximadamente 0,9 kg sem bateria. Como esse valor exclui a bateria, o peso em operação será maior. Mesmo assim, o formato compacto ajuda em serviços de montagem e manutenção nos quais a mobilidade é importante.
+
+A GSB 120-LI exige mais atenção à seleção de velocidade, torque e modo de operação, mas recompensa esse cuidado com uma faixa de uso mais ampla. Para quem pretende manter uma única ferramenta para parafusar, furar madeira e metal e realizar perfurações ocasionais em alvenaria, é a opção tecnicamente mais versátil das duas.
+
+<div class="pros-cons-grid">
+  <div class="pros-box">
+    <h4>👍 O que consideramos positivo</h4>
+    <ul>
+      <li>Torque de até 30 Nm e duas velocidades mecânicas para adaptar a ferramenta a tarefas diferentes.</li>
+      <li>Função de impacto para perfurações ocasionais em alvenaria, ampliando a versatilidade.</li>
+      <li>Mandril de 10 mm e bateria removível nos kits correspondentes, favorecendo a variedade de acessórios e a continuidade do trabalho.</li>
+    </ul>
+  </div>
+  <div class="cons-box">
+    <h4>👎 O que merece atenção</h4>
+    <ul>
+      <li>A função de impacto não substitui um martelete quando há perfuração frequente ou pesada em concreto.</li>
+      <li>É necessário conferir se o anúncio inclui uma ou duas baterias, carregador e maleta.</li>
+      <li>O peso oficial de 0,9 kg exclui a bateria, e a autonomia depende das condições reais de trabalho.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="product-card-affiliate">
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsb-120-li.jpg' | relative_url }}" alt="Furadeira de impacto e parafusadeira Bosch GSB 120-LI">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSB 120-LI — mais torque e versatilidade</h3>
+      <p class="product-card-subtitle">Furadeira de impacto compacta, com duas velocidades e torque de até 30 Nm. Confira o kit e a quantidade de baterias antes da compra.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## <a id="compradores-gsb"></a>O que dizem os compradores da GSB 120-LI
+
+As discussões públicas de usuários sobre a GSB 120-LI mostram que a avaliação do modelo depende muito da aplicação. Em uma discussão recente no Reddit brasileiro, usuários destacaram a utilidade de ferramentas compactas da linha Bosch para montagem de móveis e serviços de bancada. Também surgiram ressalvas sobre a capacidade de furar paredes e a necessidade de conferir se o kit adquirido inclui baterias e carregador.
+
+<a href="https://www.reddit.com/r/Gambiarra/comments/1vof18k/opini%C3%B5es_sobre_a_bosch_gsb_120_li/">Consultar a discussão de usuários sobre a GSB 120-LI</a>.
+
+### 👍 Elogios Mais Frequentes
+
+- **Versatilidade:** a combinação de parafusamento, perfuração e impacto oferece mais possibilidades em uma única ferramenta.
+- **Formato compacto:** o tamanho facilita o uso em espaços apertados, como armários e gavetas.
+- **Bateria removível:** nos kits compatíveis, a possibilidade de substituir a bateria ajuda a reduzir interrupções.
+
+### 👎 Reclamações Mais Frequentes
+
+- **Limites em alvenaria:** a presença da função de impacto não garante que a ferramenta seja adequada a concreto duro ou perfurações exigentes.
+- **Diferenças entre kits:** comprar uma versão sem bateria ou carregador pode gerar despesas adicionais para quem ainda não possui os acessórios compatíveis.
+
+*Esses pontos são uma síntese qualitativa de especificações e relatos públicos encontrados, não uma classificação estatística de avaliações de compradores. Não foi possível verificar um conjunto equivalente de opiniões da Amazon, do Mercado Livre e da Shopee específico para a GSB 120-LI nesta pesquisa.*
+
+## <a id="diferencas-praticas"></a>As principais diferenças na prática
+
+A comparação dos números deixa claro que a GSB 120-LI oferece mais recursos, mas isso não significa que seja a melhor compra para todo mundo. O valor de cada recurso depende da frequência de uso e dos materiais que você pretende trabalhar.
+
+**Para montar móveis e trabalhar com MDF:** a GSR 1000 Smart pode atender bem quando as tarefas são leves e esporádicas. Seu formato compacto, sua simplicidade e a bateria integrada fazem sentido para quem deseja uma ferramenta fácil de guardar e utilizar. Se houver parafusos maiores, madeira mais resistente ou volume elevado de serviço, o torque superior da GSB 120-LI oferece mais margem.
+
+**Para furar madeira e metal:** a GSB 120-LI é a opção mais flexível. O mandril de 10 mm e a segunda velocidade favorecem uma variedade maior de brocas e aplicações. A GSR 1000 Smart continua útil em furos pequenos e trabalhos leves, mas possui menos possibilidades de ajuste.
+
+**Para instalar suportes e furar paredes:** a GSB 120-LI leva vantagem por possuir função de impacto. É necessário, porém, avaliar o tipo de parede e o diâmetro do furo. Em concreto duro ou uso intenso, um martelete pode ser a escolha correta.
+
+**Para trabalhar durante períodos prolongados:** a bateria removível da GSB 120-LI é uma vantagem prática quando existe uma bateria reserva. A GSR 1000 Smart depende de sua bateria integrada, o que pode interromper o serviço durante a recarga.
+
+Se quiser conhecer outras alternativas antes de decidir, consulte nossos [comparativos de ferramentas]({{ '/comparativos/' | relative_url }}) e o [guia das melhores parafusadeiras]({{ '/qual-a-melhor-parafusadeira/' | relative_url }}).
+
+## <a id="qual-escolher"></a>Qual vale mais a pena em 2026?
+
+A Bosch GSR 1000 Smart é a escolha mais coerente para quem precisa principalmente parafusar e realizar perfurações leves. Ela oferece uma experiência simples, é compacta e pode atender bem a pequenos reparos e montagens domésticas. Sua limitação é clara: torque menor, velocidade única, bateria integrada e ausência de impacto.
+
+A Bosch GSB 120-LI se destaca para quem deseja mais versatilidade. O torque de até 30 Nm, as duas velocidades, o mandril de 10 mm e a função de impacto ampliam as aplicações possíveis. Para quem pretende comprar apenas uma ferramenta para diferentes tarefas domésticas, ela tende a ser a escolha mais completa.
+
+O custo-benefício final depende do conjunto anunciado. Uma GSB 120-LI sem bateria e carregador pode não ser a melhor opção para quem está começando do zero; da mesma forma, pagar por recursos de impacto que nunca serão usados pode não fazer sentido. Antes de comprar, confira a referência exata do modelo, a quantidade de baterias, o carregador, a maleta e as condições de garantia.
+
+**Nosso veredito:** para uso leve e ocasional, a GSR 1000 Smart continua sendo uma opção prática. Para quem procura uma ferramenta mais versátil e pretende furar diferentes materiais, a GSB 120-LI é a recomendação mais forte deste comparativo.
+
+## <a id="perguntas-frequentes"></a>Perguntas frequentes
+
+### A Bosch GSR 1000 Smart fura parede?
+
+Não possui função de impacto. Embora possa realizar perfurações em determinados materiais com acessórios apropriados, não é a opção indicada para furar alvenaria regularmente.
+
+### A Bosch GSB 120-LI é um martelete?
+
+Não. Ela é uma furadeira de impacto. Para perfurações frequentes em concreto duro, um martelete com sistema de encaixe e mecanismo adequados pode oferecer melhor desempenho.
+
+### Qual tem mais torque?
+
+A GSB 120-LI oferece torque suave/duro de 14/30 Nm, enquanto a GSR 1000 Smart oferece 6/15 Nm. A GSB 120-LI tem, portanto, maior torque especificado.
+
+### As baterias são intercambiáveis?
+
+Não entre esses dois modelos específicos. A GSB 120-LI utiliza baterias removíveis compatíveis com o sistema Bosch Professional 12V, enquanto a GSR 1000 Smart analisada possui bateria integrada. Verifique sempre a compatibilidade oficial antes de adquirir baterias ou carregadores.
+
+### Qual é melhor para montar móveis?
+
+As duas podem atender a montagens de móveis. A GSR 1000 Smart é suficiente para muitas tarefas leves; a GSB 120-LI oferece mais margem de torque e maior flexibilidade quando os trabalhos variam.
+
+### O que conferir antes de comprar?
+
+Verifique o código do produto, a tensão e a compatibilidade dos acessórios, a quantidade de baterias, a presença do carregador e da maleta, a política de garantia e a reputação do vendedor. As versões e os conteúdos dos kits podem variar entre anúncios.
+
+---
+
+
