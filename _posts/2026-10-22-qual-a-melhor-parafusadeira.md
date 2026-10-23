@@ -300,15 +300,20 @@ São **15 posições de embreagem + perfuração** e duas velocidades mecânicas
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
-</div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
