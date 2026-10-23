@@ -869,9 +869,22 @@ body.home-page .site-content {
   }
 }
 
+.home-post-img-link {
+  display: block;
+  width: 100%;
+  height: 180px;
+  background-color: #f1f5f9; /* Fundo cinza claro elegante para a área da imagem */
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  text-decoration: none;
+  color: #334155 !important; /* Força a cor do texto/alt para cinza escuro visível */
+  font-size: 0.85rem;
+}
+
 .home-post-img-link img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  color: transparent; /* Esconde o texto alt caso a imagem não carregue */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  color: #334155; /* Cor do texto alternativo caso falhe o carregamento */
 }
