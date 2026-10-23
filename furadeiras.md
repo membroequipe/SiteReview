@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Furadeiras: Análises e Guias de Compra"
-description: "Compare furadeiras por potência, impacto, mandril e capacidade de perfuração. Veja guias para escolher o modelo ideal."
+layout: page
+title: "Guia Completo de Furadeiras"
+description: "Descubra os modelos ideais para perfuração em alvenaria, concreto e superfícies rígidas com segurança."
 permalink: /furadeiras/
 ---
 
