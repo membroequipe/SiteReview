@@ -30,113 +30,18 @@ Neste guia definitivo, nossa equipe de analistas técnicos testou, comparou e ra
 
 ## <a id="ranking-resumo"></a>Tabela Comparativa: Top 10 Lado a Lado
 
-<div class="specs-table-wrapper">
-<table class="specs-table">
-<thead>
-<tr>
-<th>Modelo</th>
-<th>Categoria de Uso</th>
-<th>Voltagem</th>
-<th>Torque Máx. (Nm)</th>
-<th>Motor</th>
-<th>Mandril</th>
-<th>Ponto Forte</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Bosch GSR 1000 Smart</td>
-<td>Entrada / Doméstico</td>
-<td>12V</td>
-<td>30 Nm</td>
-<td>Brushed</td>
-<td>3/8" Aperto Rápido</td>
-<td>Leveza e conectividade Bluetooth</td>
-</tr>
-<tr>
-<td>Bosch GSB 120-LI</td>
-<td>Doméstico / Reparos Leves</td>
-<td>12V</td>
-<td>30 Nm</td>
-<td>Brushed</td>
-<td>3/8" Aperto Rápido</td>
-<td>Função martelete + 2 baterias</td>
-</tr>
-<tr>
-<td>Makita HP333DSAJ</td>
-<td>Marcenaria / Uso Frequente</td>
-<td>12V Max</td>
-<td>35 Nm</td>
-<td>Brushed</td>
-<td>3/8" Aperto Rápido</td>
-<td>Equilíbrio torque/tamanho + 21 posições</td>
-</tr>
-<tr>
-<td>DeWalt DCD700D2-BR</td>
-<td>Marcenaria / Profissional Leve</td>
-<td>12V Max</td>
-<td>40 Nm</td>
-<td>Brushless</td>
-<td>1/2" Aperto Rápido</td>
-<td>Motor brushless compacto + mandril 1/2"</td>
-</tr>
-<tr>
-<td>WAP BPF 12K3</td>
-<td>Custo-Benefício / Doméstico</td>
-<td>12V</td>
-<td>30 Nm</td>
-<td>Brushed</td>
-<td>3/8" Aperto Rápido</td>
-<td>Kit completo com 3 baterias</td>
-</tr>
-<tr>
-<td>Bosch GSB 18V-55</td>
-<td>Profissional / Obra</td>
-<td>18V</td>
-<td>55 Nm</td>
-<td>Brushless</td>
-<td>1/2" Aperto Rápido</td>
-<td>Torque bruto + plataforma Professional 18V</td>
-</tr>
-<tr>
-<td>Makita DHP484RTJ</td>
-<td>Profissional / Marcenaria Pesada</td>
-<td>18V LXT</td>
-<td>62 Nm</td>
-<td>Brushless</td>
-<td>1/2" Aperto Rápido</td>
-<td>2 velocidades mecânicas + 21 embreagens</td>
-</tr>
-<tr>
-<td>DeWalt DCD796D2-BR</td>
-<td>Profissional Heavy Duty</td>
-<td>20V Max</td>
-<td>70 Nm</td>
-<td>Brushless</td>
-<td>1/2" Aperto Rápido</td>
-<td>3 modos (perfuração/parafusamento/martelete) + LED triplo</td>
-</tr>
-<tr>
-<td>Bosch GSR 18V-150C</td>
-<td>Topo de Linha / Industrial</td>
-<td>18V</td>
-<td>130 Nm</td>
-<td>Brushless EC</td>
-<td>1/2" Aperto Rápido</td>
-<td>Torque extremo + conectividade Connected Tool</td>
-</tr>
-<tr>
-<td>Makita XPH14Z (DHP485)</td>
-<td>Topo de Linha / Industrial</td>
-<td>18V LXT</td>
-<td>115 Nm</td>
-<td>Brushless</td>
-<td>1/2" Aperto Rápido</td>
-<td>Velocidade variável eletrônica + freio instantâneo</td>
-</tr>
-</tbody>
-</table>
-</div>
+| Modelo | Categoria de Uso | Voltagem | Torque Máx. (Nm) | Motor | Mandril | Ponto Forte |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Bosch GSR 1000 Smart | Entrada / Doméstico | 12V | 30 Nm | Brushed | 3/8" Aperto Rápido | Leveza e conectividade Bluetooth |
+| Bosch GSB 120-LI | Doméstico / Reparos Leves | 12V | 30 Nm | Brushed | 3/8" Aperto Rápido | Função martelete + 2 baterias |
+| Makita HP333DSAJ | Marcenaria / Uso Frequente | 12V Max | 35 Nm | Brushed | 3/8" Aperto Rápido | Equilíbrio torque/tamanho + 21 posições |
+| DeWalt DCD700D2-BR | Marcenaria / Profissional Leve | 12V Max | 40 Nm | Brushless | 1/2" Aperto Rápido | Motor brushless compacto + mandril 1/2" |
+| WAP BPF 12K3 | Custo-Benefício / Doméstico | 12V | 30 Nm | Brushed | 3/8" Aperto Rápido | Kit completo com 3 baterias |
+| Bosch GSB 18V-55 | Profissional / Obra | 18V | 55 Nm | Brushless | 1/2" Aperto Rápido | Torque bruto + plataforma Professional 18V |
+| Makita DHP484RTJ | Profissional / Marcenaria Pesada | 18V LXT | 62 Nm | Brushless | 1/2" Aperto Rápido | 2 velocidades mecânicas + 21 embreagens |
+| DeWalt DCD796D2-BR | Profissional Heavy Duty | 20V Max | 70 Nm | Brushless | 1/2" Aperto Rápido | 3 modos (perfuração/parafusamento/martelete) + LED triplo |
+| Bosch GSR 18V-150C | Topo de Linha / Industrial | 18V | 130 Nm | Brushless EC | 1/2" Aperto Rápido | Torque extremo + conectividade Connected Tool |
+| Makita XPH14Z (DHP485) | Topo de Linha / Industrial | 18V LXT | 115 Nm | Brushless | 1/2" Aperto Rápido | Velocidade variável eletrônica + freio instantâneo |
 
 ## <a id="ranking-melhores"></a>Ranking das 10 Melhores Parafusadeiras de 2026
 
