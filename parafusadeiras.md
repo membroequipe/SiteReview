@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: default
 title: "Guia Completo de Parafusadeiras"
 description: "Tudo o que você precisa saber para escolher a parafusadeira ideal para marcenaria, montagem de móveis e uso doméstico."
 permalink: /parafusadeiras/
 ---
 
+<div class="site-content">
+  <div class="post-content">
+    
 # Parafusadeiras: como escolher a ideal
 
 Encontre análises, comparativos e guias de compra
@@ -21,3 +24,6 @@ o controle de velocidade e os acessórios disponíveis.
 Confira nossos artigos para comparar modelos,
 identificar diferenças técnicas e avaliar o
 custo-benefício de cada opção.
+
+</div>
+  </div>
