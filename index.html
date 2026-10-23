@@ -282,40 +282,46 @@ title: "Início"
 
 </section>
 
- <!-- Lista de Artigos Recentes -->
-  <h2 class="section-header-title">Últimas Publicações & Reviews</h2>
+<!-- Lista de Artigos Recentes -->
+<h2 class="section-header-title">Últimas Publicações & Reviews</h2>
 
-  {% if site.posts.size > 0 %}
-    <div class="home-posts-grid">
-      {% for post in site.posts limit: 6 %}
-        <article class="home-post-card">
+{% if site.posts.size > 0 %}
+  <div class="home-posts-grid">
+    {% for post in site.posts limit: 6 %}
+      <article class="home-post-card">
+        
+        <a href="{{ post.url | relative_url }}" class="home-post-img-link">
           {% if post.image %}
-            <a href="{{ post.url | relative_url }}" class="home-post-img-link">
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-            </a>
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+          {% else %}
+            <!-- Imagem padrão caso o post não tenha imagem definida -->
+            <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy">
           {% endif %}
-          
-          <div class="home-post-body">
-            {% if post.category %}
-              <span class="home-post-badge">{{ post.category }}</span>
-            {% endif %}
+        </a>
+        
+        <div class="home-post-body">
+          {% if post.category %}
+            <span class="home-post-badge">{{ post.category }}</span>
+          {% elsif post.categories.first %}
+            <span class="home-post-badge">{{ post.categories.first }}</span>
+          {% endif %}
 
-            <h3 class="home-post-title">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h3>
+          <h3 class="home-post-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
 
-            <div class="home-post-date">
-              {{ post.date | date: "%d/%m/%Y" }}
-            </div>
+          <div class="home-post-date">
+            {{ post.date | date: "%d/%m/%Y" }}
           </div>
-        </article>
-      {% endfor %}
-    </div>
-  {% else %}
-    <div style="text-align: center; padding: 40px; color: #64748b; background: #f8fafc; border-radius: 12px; border: 1px dashed #cbd5e1;">
-      <p>Nenhum artigo publicado ainda. Novos guias em breve!</p>
-    </div>
-  {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+{% else %}
+  <div style="text-align: center; padding: 40px; color: #64748b; background: #f8fafc; border-radius: 12px; border: 1px dashed #cbd5e1;">
+    <p>Nenhum artigo publicado ainda. Novos guias em breve!</p>
+  </div>
+{% endif %}
 
   <!-- Bloco de Metodologia / Transparência (E-E-A-T) -->
   <section class="methodology-box">
