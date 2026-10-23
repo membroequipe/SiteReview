@@ -438,17 +438,21 @@ O mandril **1/2" de aperto rápido** com anel de metal tem runout (desvio radial
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
-</div>
-
 ---
 
 ### DeWalt DCD796D2-BR — A Furadeira de Impacto 20V Max Mais Versátil
@@ -481,15 +485,20 @@ O grande destaque é o **LED triplo "Tri-Mode"** com 3 níveis de intensidade (b
 </div>
 
 <div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
-</div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
+      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -655,24 +664,58 @@ A **função martelete** adiciona um movimento axial de "marteladas" (IPM — im
 
 ---
 
-### Bateria (Ah) e Carregadores Rápidos: Autonomia Real
+<h3>Bateria (Ah) e Carregadores Rápidos: Autonomia Real</h3>
 
-**Ah (Ampere-hora) = Capacidade de carga.** Multiplique pela tensão para obter **Wh (Watt-hora) — energia real**:
-- 12V 2.0Ah = 24 Wh
-- 12V 4.0Ah = 48 Wh
-- 18V 2.0Ah = 36 Wh
-- 18V 5.0Ah = 90 Wh
-- 18V 8.0Ah ProCORE = 144 Wh
-- 18V 12.0Ah ProCORE = 216 Wh
+<p><strong>Ah (Ampere-hora) = Capacidade de carga.</strong> Multiplique pela tensão para obter <strong>Wh (Watt-hora) — energia real</strong>:</p>
+<ul>
+  <li>12V 2.0Ah = 24 Wh</li>
+  <li>12V 4.0Ah = 48 Wh</li>
+  <li>18V 2.0Ah = 36 Wh</li>
+  <li>18V 5.0Ah = 90 Wh</li>
+  <li>18V 8.0Ah ProCORE = 144 Wh</li>
+  <li>18V 12.0Ah ProCORE = 216 Wh</li>
+</ul>
 
-**Autonomia prática (parafusos 5×50 mm em pinus):**
-| Bateria | Parafusos aprox. | Tempo carga (rápido) |
-|---------|------------------|---------------------|
-| 12V 2.0Ah | 40–50 | 30–45 min |
-| 12V 4.0Ah | 90–110 | 60–75 min |
-| 18V 2.0Ah | 60–70 | 30–40 min |
-| 18V 5.0Ah | 180–220 | 45–55 min |
-| 18V 8.0Ah | 300–350 | 60–70 min |
+<p><strong>Autonomia prática (parafusos 5×50 mm em pinus):</strong></p>
+
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Bateria</th>
+        <th>Parafusos aprox.</th>
+        <th>Tempo carga (rápido)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>12V 2.0Ah</td>
+        <td>40–50</td>
+        <td>30–45 min</td>
+      </tr>
+      <tr>
+        <td>12V 4.0Ah</td>
+        <td>90–110</td>
+        <td>60–75 min</td>
+      </tr>
+      <tr>
+        <td>18V 2.0Ah</td>
+        <td>60–70</td>
+        <td>30–40 min</td>
+      </tr>
+      <tr>
+        <td>18V 5.0Ah</td>
+        <td>180–220</td>
+        <td>45–55 min</td>
+      </tr>
+      <tr>
+        <td>18V 8.0Ah</td>
+        <td>300–350</td>
+        <td>60–70 min</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Carregadores rápidos (30–60 min) vs padrão (60–120 min):** Em obra, **carregador rápido paga-se no primeiro mês** — elimina tempo morto. Marcas como Makita (DC18RC), Bosch (GAL 18V-40), DeWalt (DCB115) incluem nos kits profissionais. **Baterias com indicador de carga (LED na bateria)** são obrigatórias para gestão de frota.
 
