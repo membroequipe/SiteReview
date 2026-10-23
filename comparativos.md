@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Guias Comparativos e Melhores Opções"
-permalink: /comparativos/
+permalink: "/comparativos/"
 ---
 
 <style>
