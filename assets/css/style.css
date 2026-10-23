@@ -908,3 +908,176 @@ body.home-page .site-content {
   display: block;
   color: #334155; /* Cor do texto alternativo caso falhe o carregamento */
 }
+
+/* =========================================
+   11. AJUSTES HERO PREMIUM
+   ========================================= */
+
+  /* Seção de Dilemas / Situações (Versão Premium & SEO-Otimizada) */
+  .premium-situation-section {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 24px;
+    padding: 3.5rem 2.5rem;
+    margin-bottom: 4rem;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.04);
+    position: relative;
+    overflow: hidden;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  /* Decoração radial de fundo para elegância */
+  .premium-situation-section::before {
+    content: "";
+    position: absolute;
+    top: -10%;
+    left: -5%;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(217, 119, 6, 0.04) 0%, transparent 60%);
+    border-radius: 50%;
+    pointer-events: none;
+  }
+
+  .premium-situation-header {
+    text-align: center;
+    max-width: 850px;
+    margin: 0 auto 3rem auto;
+    position: relative;
+    z-index: 1;
+  }
+
+  .premium-situation-title {
+    font-size: clamp(1.5rem, 3.5vw, 2.4rem);
+    font-weight: 800;
+    color: #0f172a;
+    margin-bottom: 1rem;
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+  }
+
+  .premium-situation-title span {
+    color: #d97706; /* Tom laranja de destaque da sua marca */
+  }
+
+  .premium-situation-subtitle {
+    font-size: 1.05rem;
+    color: #475569;
+    line-height: 1.6;
+    font-weight: 400;
+    margin: 0;
+  }
+
+  /* Grid de 3 colunas no desktop, responsivo */
+  .premium-situation-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    position: relative;
+    z-index: 1;
+  }
+
+  @media (max-width: 900px) {
+    .premium-situation-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .premium-situation-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Card Premium */
+  .premium-situation-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 18px;
+    padding: 1.75rem;
+    text-decoration: none;
+    color: #334155;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.02);
+  }
+
+  .premium-situation-card:hover {
+    transform: translateY(-6px);
+    border-color: #cbd5e1;
+    box-shadow: 0 20px 25px -5px rgba(15, 23, 42, 0.08);
+    color: #0f172a;
+  }
+
+  /* Ícones coloridos arredondados */
+  .premium-card-icon-wrapper {
+    width: 60px;
+    height: 60px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.9rem;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+  }
+
+  .premium-situation-card:hover .premium-card-icon-wrapper {
+    transform: scale(1.08) rotate(-3deg);
+  }
+
+  /* Cores de fundo dos ícones por categoria */
+  .icon-mdf { background-color: #fff7ed; color: #9a3412; }
+  .icon-domestico { background-color: #ecfeff; color: #155e75; }
+  .icon-tijolo { background-color: #fef2f2; color: #9f1239; }
+  .icon-orcamento { background-color: #f0fdf4; color: #166534; }
+  .icon-iniciante { background-color: #f5f3ff; color: #6d28d9; }
+  .icon-leve { background-color: #f8fafc; color: #475569; }
+
+  /* Texturas do Card */
+  .premium-card-title {
+    font-size: 1.12rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin: 0;
+    line-height: 1.35;
+  }
+
+  .premium-card-desc {
+    font-size: 0.88rem;
+    color: #64748b;
+    line-height: 1.55;
+    margin: 0;
+    font-weight: 400;
+  }
+
+  /* Botão de seta flutuante no hover */
+  .premium-card-arrow {
+    position: absolute;
+    bottom: 1.25rem;
+    right: 1.25rem;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: #f1f5f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #475569;
+    font-size: 1.1rem;
+    opacity: 0;
+    transform: translateX(10px);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .premium-situation-card:hover .premium-card-arrow {
+    opacity: 1;
+    transform: translateX(0);
+    background: #d97706;
+    color: #ffffff;
+  }
+
