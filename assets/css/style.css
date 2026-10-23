@@ -468,6 +468,24 @@ body.home-page .site-content {
     line-height: 1.5;
 }
 
+/* Ícones automáticos para os Prós */
+.pros-box li::before {
+  content: "👍";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 0.9rem;
+}
+
+/* Ícones automáticos para os Contras */
+.cons-box li::before {
+  content: "👎";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 0.9rem;
+}
+
 .pros-box li { color: #14532d; }
 .cons-box li { color: #7f1d1d; }
 
