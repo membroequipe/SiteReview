@@ -123,6 +123,23 @@ body {
     color: var(--accent);
 }
 
+/* Forçar exibição do submenu ao passar o mouse */
+.site-nav li.has-dropdown {
+    position: relative !important;
+}
+
+.site-nav li.has-dropdown:hover > .dropdown-menu {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* Evita que o cabeçalho esconda o menu suspenso */
+.site-header, 
+.site-header-container {
+    overflow: visible !important;
+}
+
 @media screen and (min-width: 769px) {
     .site-nav li.has-dropdown:hover .dropdown-menu {
         display: block;
