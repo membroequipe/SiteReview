@@ -157,8 +157,8 @@ O mandril de **aperto rápido 3/8" (10 mm)** aceita brocas e bits padrão, e a i
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">Bosch GSR 1000 Smart — Compacta para o Dia a Dia</h3>
+      <p class="product-card-subtitle">Conectividade Bluetooth e trava eletrônica antifurto via app.</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -207,8 +207,8 @@ O design "FatBody" com empunhadura emborrachada *Softgrip* distribui o peso (1,1
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">Bosch GSB 120-LI - A Mais Vendida do Brasil</h3>
+      <p class="product-card-subtitle">Ferramenta com excelente ergonomia, LED com afterglow e função nartelete</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -257,8 +257,8 @@ O mandril de aperto rápido 3/8" aceita bits de 1/4" e brocas até 10 mm. A velo
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">Makita HP333DSAJ — Perfeita para Marcenaria Fina</h3>
+      <p class="product-card-subtitle">Ferramenta com curva de torque suave ideal para marcenaria</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -305,8 +305,8 @@ São **15 posições de embreagem + perfuração** e duas velocidades mecânicas
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">DeWalt DCD700D2-BR — Brushless Compacto com Mandril 1/2</h3>
+      <p class="product-card-subtitle">Ferramenta equipada com LED triplo ao redor do mandril que elimina sombras.</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -353,8 +353,8 @@ A plataforma **WAP 12V** cresceu exponencialmente no Brasil (furadeiras, parafus
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">WAP BPF 12K3 —  Kit Completo com 3 Baterias</h3>
+      <p class="product-card-subtitle">Ferramenta com ótimo custo-benefício inicial.</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -401,8 +401,8 @@ O sistema **Electronic Motor Protection (EMP)** protege contra sobrecarga e supe
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">Bosch GSB 18V-55 — A Porta de Entrada Profissional 18V</h3>
+      <p class="product-card-subtitle">Ferramenta com proteção contra sobrecarga e superaquecimento.</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -448,8 +448,8 @@ O mandril **1/2" de aperto rápido** com anel de metal tem runout (desvio radial
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">Makita DHP484RTJ — Ótima para Marcenaria Pesada</h3>
+      <p class="product-card-subtitle">Precisão do gatilho eletrônico com aceleração é progressiva e linear.</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -495,8 +495,8 @@ O grande destaque é o **LED triplo "Tri-Mode"** com 3 níveis de intensidade (b
       <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
-      <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
+      <h3 class="product-card-title">DeWalt DCD796D2-BR - Furadeira de Impacto 20V</h3>
+      <p class="product-card-subtitle">Ferramenta com 3 modos dedicados (perfuração/parafuso/martelete).</p>
       <div class="product-card-buttons">
         <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
@@ -537,16 +537,21 @@ A revolução está no **Connected Tool System**: via Bluetooth, o app **Bosch T
 </div>
 </div>
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">
-    🛒 Ver na Amazon
-  </a>
-</div>
-
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">
-    🛒 Ver no Mercado Livre
-  </a>
+<div class="product-card-affiliate">
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Bosch GSR 18V-150C - Torque com Cérebro Digital</h3>
+      <p class="product-card-subtitle"> Com app Bosch Toolbox que permite criar perfis de torque por aplicação.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -580,16 +585,21 @@ São **21 posições de embreagem + perfuração + martelete** (31.500 IPM), man
 </div>
 </div>
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">
-    🛒 Ver na Amazon
-  </a>
-</div>
-
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">
-    🛒 Ver no Mercado Livre
-  </a>
+<div class="product-card-affiliate">
+  <div class="product-card-body">
+    <div class="product-card-img">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+    </div>
+    <div class="product-card-info">
+      <h3 class="product-card-title">Makita XPH14Z (DHP485) — Velocidade Variável Eletrônica </h3>
+      <p class="product-card-subtitle"> Ótima escolha para marceneiros de alto padrão, instaladores de esquadrias e profissionais.</p>
+      <div class="product-card-buttons">
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## <a id="guia-de-compra"></a>Guia do Comprador: Como Escolher a Parafusadeira Ideal
@@ -790,17 +800,6 @@ Marcas do grupo Stanley Black & Decker focadas no **consumidor final (DIY leve)*
 3. **Teste a ergonomia:** Se possível, segure a ferramenta — peso, equilíbrio, gatilho, vibração
 4. **Compre de revendedor autorizado** — garante nota fiscal, garantia estendida e peça de reposição
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">
-    🛒 Ver na Amazon
-  </a>
-</div>
-
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">
-    🛒 Ver no Mercado Livre
-  </a>
-</div>
 ---
 
 *Artigo atualizado em 22 de outubro de 2026 pela Equipe de Análises. Especificações baseadas em fichas técnicas oficiais dos fabricantes (Bosch Professional, Makita, DeWalt, WAP) e testes comparativos em cenários reais de marcenaria, instalação elétrica, drywall e obra. Preços e disponibilidade de kits variam por canal de venda — use os botões acima para consultar valores atuais.*
