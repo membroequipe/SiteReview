@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Parafusadeiras: Análises e Guias de Compra"
-description: "Compare parafusadeiras por torque, bateria, ergonomia e preço. Veja análises e encontre modelos adequados para seus projetos."
+layout: page
+title: "Guia Completo de Parafusadeiras"
+description: "Tudo o que você precisa saber para escolher a parafusadeira ideal para marcenaria, montagem de móveis e uso doméstico."
 permalink: /parafusadeiras/
 ---
 
