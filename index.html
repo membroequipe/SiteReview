@@ -37,20 +37,132 @@ title: "Início"
     line-height: 1.6;
   }
 
-  .hero-features {
+  /* Estilos do Novo Banner Inspirado no Concorrente (Sem perder o padrão) */
+  .hero-banner-custom {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    border-radius: 20px;
+    color: #ffffff;
+    padding: 40px;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.15);
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1.5rem;
-    font-size: 0.88rem;
-    color: #cbd5e1;
-    font-weight: 600;
+    flex-direction: column;
+    gap: 30px;
   }
 
-  .hero-features span {
+  .hero-top-grid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .hero-content-left {
+    max-width: 650px;
+  }
+
+  .hero-tag {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: #f59e0b;
+    margin-bottom: 12px;
+    display: block;
+  }
+
+  .hero-banner-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin: 0 0 16px 0;
+    color: #ffffff;
+  }
+
+  .hero-banner-title span {
+    color: #fbbf24;
+  }
+
+  .hero-banner-description {
+    font-size: 1.05rem;
+    color: #94a3b8;
+    line-height: 1.6;
+    margin: 0 0 24px 0;
+  }
+
+  .hero-buttons {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary-yellow {
+    background-color: #fbbf24;
+    color: #0f172a;
+    font-weight: 700;
+    padding: 12px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.2s, transform 0.2s;
+    box-shadow: 0 4px 12px rgba(251, 191, 36, 0.3);
+  }
+
+  .btn-primary-yellow:hover {
+    background-color: #f59e0b;
+    transform: translateY(-2px);
+  }
+
+  .btn-outline-light {
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    font-weight: 600;
+    padding: 12px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: border-color 0.2s, background 0.2s;
+  }
+
+  .btn-outline-light:hover {
+    border-color: #ffffff;
+    background: rgba(255, 255, 255, 0.05);
+  }
+
+  .hero-image-right {
+    flex-shrink: 0;
+    max-width: 340px;
+  }
+
+  .hero-image-right img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));
+  }
+
+  /* Rodapé com os 4 Pilares do Banner */
+  .hero-banner-footer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding-top: 25px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .hero-footer-item h4 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 0 0 4px 0;
     display: flex;
     align-items: center;
-    gap: 0.4rem;
+    gap: 6px;
+  }
+
+  .hero-footer-item p {
+    font-size: 0.82rem;
+    color: #94a3b8;
+    margin: 0;
   }
 
   /* Seção de Dilemas / Situações */
@@ -233,11 +345,28 @@ title: "Início"
     line-height: 1.5;
   }
 
-  @media (max-width: 640px) {
-    .home-hero {
-      padding: 2rem 1.25rem;
+  @media (max-width: 900px) {
+    .hero-top-grid {
+      flex-direction: column;
+      text-align: center;
     }
-    .home-hero h1 {
+    .hero-buttons {
+      justify-content: center;
+    }
+    .hero-image-right {
+      max-width: 250px;
+    }
+    .hero-banner-footer {
+      grid-template-columns: repeat(2, 1fr);
+      text-align: left;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .hero-banner-custom {
+      padding: 25px 20px;
+    }
+    .hero-banner-title {
       font-size: 1.8rem;
     }
   }
@@ -245,82 +374,114 @@ title: "Início"
 
 <div class="home-container" style="max-width: 1000px; margin: 2rem auto; padding: 0 20px; font-family: 'Plus Jakarta Sans', sans-serif;">
   
- <!-- BANNER HERO REUTILIZÁVEL -->
-<section class="hero-banner-custom" style="background-image: url('{{ '/assets/images/hero-bg.jpg' | relative_url }}');">
-  
-  <div class="hero-banner-content">
-    <!-- Subtítulo Superior / Categoria -->
-    <span class="hero-tag">Guias de Compra de Parafusadeiras</span>
+  <!-- BANNER HERO MODERNO (Inspirado no Concorrente) -->
+  <section class="hero-banner-custom">
     
-    <!-- Título Principal (Palavra destacada dentro da tag <span>) -->
-    <h1 class="hero-banner-title">Escolha as <span>Ferramentas Certas</span> para o seu Projeto.</h1>
-    
-    <!-- Texto Descritivo -->
-    <p class="hero-banner-description">
-      Comparativos, análises e guias para escolher a melhor parafusadeira para o seu uso, com dados conferidos e os pontos fracos de cada modelo.
-    </p>
-    
-  <!-- Rodapé com os 4 Pilares / Selos -->
-  <div class="hero-banner-footer">
-    <div class="hero-footer-item">
-      <h4>🛡️ Dados Conferidos</h4>
-      <p>Dados Oficiais dos Fabricantes</p>
-    </div>
-    <div class="hero-footer-item">
-      <h4>⚖️ Comparativos A×B</h4>
-      <p>Compare Antes de Decidir</p>
-    </div>
-    <div class="hero-footer-item">
-      <h4>🔄 Conteúdos Revisados</h4>
-      <p>Dados Atualizados</p>
-    </div>
-    <div class="hero-footer-item">
-      <h4>🔍 Limitações do Produto</h4>
-      <p>Os Pontos Fracos Que Merecem Atenção</p>
-    </div>
-  </div>
-
-</section>
-
-<!-- Lista de Artigos Recentes -->
-<h2 class="section-header-title">Últimas Publicações & Reviews</h2>
-
-{% if site.posts.size > 0 %}
-  <div class="home-posts-grid">
-    {% for post in site.posts limit: 6 %}
-      <article class="home-post-card">
+    <div class="hero-top-grid">
+      <div class="hero-content-left">
+        <span class="hero-tag">Guias de Compra de Parafusadeiras</span>
+        <h1 class="hero-banner-title">Escolha a <span>parafusadeira certa</span> para o seu projeto.</h1>
+        <p class="hero-banner-description">
+          Comparativos, análises e guias para escolher a melhor parafusadeira para o seu uso, com dados conferidos e os pontos fracos de cada modelo.
+        </p>
         
-        <a href="{{ post.url | relative_url }}" class="home-post-img-link">
-          {% if post.image %}
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
-          {% else %}
-            <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy">
-          {% endif %}
-        </a>
-        
-        <div class="home-post-body">
-          {% if post.category %}
-            <span class="home-post-badge">{{ post.category }}</span>
-          {% elsif post.categories.first %}
-            <span class="home-post-badge">{{ post.categories.first }}</span>
-          {% endif %}
-
-          <h3 class="home-post-title">
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h3>
-
-          <div class="home-post-date">
-            {{ post.date | date: "%d/%m/%Y" }}
-          </div>
+        <div class="hero-buttons">
+          <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="btn-primary-yellow">Escolher pelo meu uso</a>
+          <a href="{{ '/comparativos/' | relative_url }}" class="btn-outline-light">Guias de compra →</a>
         </div>
-      </article>
-    {% endfor %}
+      </div>
+
+      <div class="hero-image-right">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Parafusadeira Certa Destaque" loading="lazy">
+      </div>
+    </div>
+    
+    <!-- Rodapé com os 4 Pilares / Selos -->
+    <div class="hero-banner-footer">
+      <div class="hero-footer-item">
+        <h4>🛡️ Dados Conferidos</h4>
+        <p>Anúncios e fichas dos fabricantes</p>
+      </div>
+      <div class="hero-footer-item">
+        <h4>⚖️ Comparativos A×B</h4>
+        <p>Compare antes de decidir</p>
+      </div>
+      <div class="hero-footer-item">
+        <h4>🔄 Conteúdo Revisado</h4>
+        <p>Atualizamos quando a ficha muda</p>
+      </div>
+      <div class="hero-footer-item">
+        <h4>🔍 Limitações à vista</h4>
+        <p>Os pontos fracos de cada modelo</p>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- SEÇÃO DE DILEMAS / SITUAÇÕES (Opcional, caso queira manter abaixo do banner) -->
+  <div class="situation-section">
+    <div class="situation-title">Qual é a sua situação?</div>
+    <div class="situation-grid">
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
+        <span>🪑</span> Quero montar móveis de MDF
+      </a>
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
+        <span>🏠</span> Quero para uso doméstico geral
+      </a>
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
+        <span>🧱</span> Preciso furar paredes de tijolo
+      </a>
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
+        <span>💰</span> Tenho orçamento até R$ 300
+      </a>
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
+        <span>✨</span> É minha primeira ferramenta
+      </a>
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
+        <span>🪶</span> Quero uma parafusadeira leve
+      </a>
+    </div>
   </div>
-{% else %}
-  <div style="text-align: center; padding: 40px; color: #64748b; background: #f8fafc; border-radius: 12px; border: 1px dashed #cbd5e1;">
-    <p>Nenhum artigo publicado ainda. Novos guias em breve!</p>
-  </div>
-{% endif %}
+
+  <!-- Lista de Artigos Recentes -->
+  <h2 class="section-header-title">Últimas Publicações & Reviews</h2>
+
+  {% if site.posts.size > 0 %}
+    <div class="home-posts-grid">
+      {% for post in site.posts limit: 6 %}
+        <article class="home-post-card">
+          
+          <a href="{{ post.url | relative_url }}" class="home-post-img-link">
+            {% if post.image %}
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
+            {% else %}
+              <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy">
+            {% endif %}
+          </a>
+          
+          <div class="home-post-body">
+            {% if post.category %}
+              <span class="home-post-badge">{{ post.category }}</span>
+            {% elsif post.categories.first %}
+              <span class="home-post-badge">{{ post.categories.first }}</span>
+            {% endif %}
+
+            <h3 class="home-post-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+
+            <div class="home-post-date">
+              {{ post.date | date: "%d/%m/%Y" }}
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  {% else %}
+    <div style="text-align: center; padding: 40px; color: #64748b; background: #f8fafc; border-radius: 12px; border: 1px dashed #cbd5e1;">
+      <p>Nenhum artigo publicado ainda. Novos guias em breve!</p>
+    </div>
+  {% endif %}
 
   <!-- Bloco de Metodologia / Transparência (E-E-A-T) -->
   <section class="methodology-box">
