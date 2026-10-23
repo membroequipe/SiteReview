@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reviews e Análises Detalhadas"
+title: "Reviews e Análises Detalhadas"<article class="review-card">
 permalink: "/reviews/"
 ---
 
@@ -104,13 +104,11 @@ permalink: "/reviews/"
     
     {% if post_cat == "reviews" or post_cats contains "reviews" %}
       {% assign has_reviews = true %}
-      <article class="review-card">
+     <article class="review-card">
         <a href="{{ post.url | relative_url }}">
-          {% if post.image %}
-            <div class="review-img-wrapper">
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-            </div>
-          {% endif %}
+          <div class="review-img-wrapper">
+            <img src="{{ post.image | default: '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
+          </div>
           <div class="review-content">
             <span class="review-badge">Reviews</span>
             <h2>{{ post.title }}</h2>
