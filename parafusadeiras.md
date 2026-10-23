@@ -7,23 +7,15 @@ permalink: /parafusadeiras/
 
 <div class="site-content">
   <div class="post-content">
-    
-# Parafusadeiras: como escolher a ideal
 
-Encontre análises, comparativos e guias de compra
-para escolher uma parafusadeira conforme o tipo de
-trabalho, os recursos necessários e o seu orçamento.
+    <h1>Parafusadeiras: como escolher a ideal</h1>
+    <p>Encontre análises, comparativos e guias de compra para escolher uma parafusadeira conforme o tipo de trabalho, os recursos necessários e o seu orçamento.</p>
 
-## Como escolher uma parafusadeira
+    <h2>Como escolher uma parafusadeira</h2>
+    <p>Considere o torque, a autonomia da bateria, o peso, o controle de velocidade e os acessórios disponíveis.</p>
 
-Considere o torque, a autonomia da bateria, o peso,
-o controle de velocidade e os acessórios disponíveis.
+    <h2>Análises e comparativos</h2>
+    <p>Confira nossos artigos para comparar modelos, identificar diferenças técnicas e avaliar o custo-benefício de cada opção.</p>
 
-## Análises e comparativos
-
-Confira nossos artigos para comparar modelos,
-identificar diferenças técnicas e avaliar o
-custo-benefício de cada opção.
-
-</div>
   </div>
+</div>
