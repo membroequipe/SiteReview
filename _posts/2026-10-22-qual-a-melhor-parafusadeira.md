@@ -129,7 +129,7 @@ A **Bosch GSR 1000 Smart** representa a evolução da categoria de entrada ao tr
 O mandril de **aperto rápido 3/8" (10 mm)** aceita brocas e bits padrão, e a iluminação **LED frontal** com afterglow facilita trabalho em armários e cantos escuros. A plataforma **12V Bosch** compartilha baterias com mais de 40 ferramentas (serras tico-tico, lixadeiras, multiprocessadores), o que torna este modelo a "porta de entrada" ideal para quem quer começar um ecossistema sem fio. Acompanha **1 bateria 2.0Ah** e carregador bivolt (1h30 para carga completa).
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>Conectividade Bluetooth com app dedicado</li>
@@ -139,7 +139,7 @@ O mandril de **aperto rápido 3/8" (10 mm)** aceita brocas e bits padrão, e a i
 <li>Trava eletrônica antifurto via app</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Apenas 1 bateria no kit padrão</li>
@@ -179,7 +179,7 @@ Se a GSR 1000 Smart aposta em tecnologia, a **Bosch GSB 120-LI** aposta no **ess
 O design "FatBody" com empunhadura emborrachada *Softgrip* distribui o peso (1,1 kg com bateria) de forma equilibrada, reduzindo fadiga em sessões longas. O mandril de aperto rápido 3/8" tem trava de eixo automática para troca de bits com uma mão. A luz LED com afterglow de 10 segundos ilumina a área de trabalho mesmo após soltar o gatilho. É a escolha racional para **manutenção predial, instalação de ar-condicionado, fixação em paredes de blocos** e marcenaria leve.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>Função martelete real (27.000 IPM)</li>
@@ -189,7 +189,7 @@ O design "FatBody" com empunhadura emborrachada *Softgrip* distribui o peso (1,1
 <li>Compatível com toda linha 12V Professional</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Motor brushed — desgaste de escovas</li>
@@ -229,7 +229,7 @@ A **Makita HP333DSAJ** ocupa um espaço único: é uma 12V Max com **torque de 3
 O mandril de aperto rápido 3/8" aceita bits de 1/4" e brocas até 10 mm. A velocidade variável em duas faixas (0–450 / 0–1.700 RPM) permite iniciar parafusos em baixa rotação e perfurar madeira em alta. O kit traz **2 baterias 2.0Ah LXT** (compatíveis com toda a plataforma 12V Max da Makita — mais de 60 ferramentas) e carregador bivolt DC18WA (carrega em ~45 min). Peso de 1,1 kg com bateria e comprimento de 182 mm mantêm a agilidade em espaços confinados (dentro de armários, gavetas, painéis).
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>35 Nm de torque — líder na classe 12V</li>
@@ -239,7 +239,7 @@ O mandril de aperto rápido 3/8" aceita bits de 1/4" e brocas até 10 mm. A velo
 <li>Carregador rápido DC18WA incluso (45 min)</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Motor brushed (não brushless)</li>
@@ -277,7 +277,7 @@ A **DeWalt DCD700** quebra um paradigma: traz **motor brushless** e **mandril de
 São **15 posições de embreagem + perfuração** e duas velocidades mecânicas (0–450 / 0–1.500 RPM) com gatilho de velocidade variável progressiva. O kit D2 inclui **2 baterias 2.0Ah XR** (compatíveis com toda linha 12V/20V Max DeWalt via adaptador) e carregador rápido bivolt (1h). O **LED triplo (3 LEDs)** ao redor do mandril elimina sombras — vital para perfuração precisa em cantos. É a escolha de marceneiros que precisam de **versatilidade de brocas grandes** sem subir para 18V.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>Motor brushless em plataforma 12V</li>
@@ -287,7 +287,7 @@ São **15 posições de embreagem + perfuração** e duas velocidades mecânicas
 <li>Baterias XR 2.0Ah + carregador rápido</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Sem função martelete</li>
@@ -320,7 +320,7 @@ A **WAP BPF 12K3** é a surpresa de **custo-benefício** em 2026. Por um investi
 A plataforma **WAP 12V** cresceu exponencialmente no Brasil (furadeiras, parafusadeiras de impacto, serras circulares, lixadeiras, sopradores), e as baterias são intercambiáveis. Para o usuário doméstico que faz reparos esporádicos, monta móveis ocasionais e precisa de autonomia para não parar no meio do trabalho, as **3 baterias** são o grande trunfo: enquanto duas carregam, uma trabalha. A assistência técnica WAP expandiu para mais de 200 postos autorizados.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>Kit com 3 baterias 2.0Ah + acessórios</li>
@@ -330,7 +330,7 @@ A plataforma **WAP 12V** cresceu exponencialmente no Brasil (furadeiras, parafus
 <li>Ótimo custo-benefício inicial</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Motor brushed — durabilidade inferior</li>
@@ -368,7 +368,7 @@ Subir para **18V** muda o patamar de potência. A **Bosch GSB 18V-55** traz **mo
 O sistema **Electronic Motor Protection (EMP)** protege contra sobrecarga e superaquecimento. A bateria **ProCORE 18V 4.0Ah** (vendida separadamente ou no kit) usa células 21700 de alta densidade, mantendo potência constante até o fim da carga. O **LED duplo** ilumina a área sem sombras. A plataforma **Bosch Professional 18V** é a maior do mundo: mais de 150 ferramentas compartilham a mesma bateria — de serras circulares a aspiradores de pó. É a escolha padrão para **eletricistas, encanadores, instaladores de drywall e marceneiros de obra**.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>Motor brushless EC + proteção eletrônica EMP</li>
@@ -378,7 +378,7 @@ O sistema **Electronic Motor Protection (EMP)** protege contra sobrecarga e supe
 <li>Baterias ProCORE 21700 de alta densidade</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Peso: 1,7 kg com bateria 4.0Ah</li>
@@ -415,7 +415,7 @@ A **Makita DHP484RTJ** é a furadeira de impacto 18V LXT mais equilibrada para *
 O mandril **1/2" de aperto rápido** com anel de metal tem runout (desvio radial) inferior a 0,3 mm — essencial para brocas forstner e serra-copo. O kit **RTJ** traz **2 baterias BL1850B 5.0Ah** (indicador de carga embutido) e carregador rápido DC18RC (45 min para 5.0Ah). A proteção **XPT (eXtreme Protection Technology)** veda o motor contra poeira e respingos — vital em obras. Peso de 1,8 kg com bateria 5.0Ah.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>62 Nm + 21 embreagens + 2 velocidades mecânicas</li>
@@ -425,7 +425,7 @@ O mandril **1/2" de aperto rápido** com anel de metal tem runout (desvio radial
 <li>Proteção XPT contra poeira/umidade</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Investimento alto (kit completo profissional)</li>
@@ -458,7 +458,7 @@ A **DeWalt DCD796** (conhecida como DCD796 no mercado internacional, DCD796D2-BR
 O grande destaque é o **LED triplo "Tri-Mode"** com 3 níveis de intensidade (baixo/médio/alto) + modo *Spotlight* que mantém a luz acesa por 20 min após soltar o gatilho — funciona como lanterna de inspeção. Duas velocidades mecânicas (0–550 / 0–2.000 RPM) e martelete a **34.000 IPM** perfuram concreto até 13 mm com brocas SDS-Plus via adaptador. Kit D2: **2 baterias 20V Max 2.0Ah XR** + carregador rápido (1h). Peso: 1,6 kg com bateria.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>3 modos dedicados (perfuração/parafuso/martelete)</li>
@@ -468,7 +468,7 @@ O grande destaque é o **LED triplo "Tri-Mode"** com 3 níveis de intensidade (b
 <li>Plataforma 20V Max ampla no Brasil</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Baterias 2.0Ah no kit (autonomia limitada)</li>
@@ -501,7 +501,7 @@ No topo da cadeia alimentar 18V, a **Bosch GSR 18V-150C Professional** entrega *
 A revolução está no **Connected Tool System**: via Bluetooth, o app **Bosch Toolbox** permite criar **perfis de torque por aplicação** (ex: "Deck Ipê", "Estrutura Metálica", "Drywall"), limitar velocidade máxima, travar a ferramenta geograficamente (geofence), gerar relatórios de uso para gestão de frota e receber alertas de manutenção preditiva. O **KickBack Control** desliga o motor instantaneamente se a broca travar — segurança crítica em torque alto. Mandril 1/2" metálico, 2 velocidades (0–460 / 0–1.800 RPM), LED duplo. Corpo: 199 mm, 1,8 kg (sem bateria). Requer bateria **ProCORE 18V 8.0Ah ou 12.0Ah** para entregar os 130 Nm sustentados.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>130 Nm — torque líder de mercado compacto</li>
@@ -511,7 +511,7 @@ A revolução está no **Connected Tool System**: via Bluetooth, o app **Bosch T
 <li>Perfis de torque programáveis por app</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Sem função martelete (apenas parafusamento/perfuração)</li>
@@ -544,7 +544,7 @@ Fechando o ranking, a **Makita XPH14Z / DHP485** traz **115 Nm** com motor **bru
 São **21 posições de embreagem + perfuração + martelete** (31.500 IPM), mandril 1/2" com runout < 0,25 mm, proteção **XPT** e **ADT (Automatic Torque Drive)**: a eletrônica detecta a carga e ajusta torque/velocidade automaticamente em perfuração e martelete, otimizando desempenho e vida da bateria. Compatível com baterias **LXT 18V 3.0Ah a 6.0Ah**. LED duplo com afterglow. Peso: 1,9 kg com 5.0Ah. É a escolha de **marceneiros de alto padrão, instaladores de esquadrias e profissionais que exigem controle total**.
 
 <div class="pros-cons-grid">
-<div class="pros">
+<div class="pros-box">
 <h4>Pontos Fortes</h4>
 <ul>
 <li>115 Nm + controle eletrônico de velocidade contínua</li>
@@ -554,7 +554,7 @@ São **21 posições de embreagem + perfuração + martelete** (31.500 IPM), man
 <li>Proteção XPT + construção robusta</li>
 </ul>
 </div>
-<div class="cons">
+<div class="cons-box">
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Vendido só como "body only" (corpo apenas) no Brasil</li>
