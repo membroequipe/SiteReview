@@ -290,14 +290,14 @@ title: "Início"
     {% for post in site.posts limit: 6 %}
       <article class="home-post-card">
         
-        <a href="{{ post.url | relative_url }}" class="home-post-img-link">
-          {% if post.image %}
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-          {% else %}
-            <!-- Imagem padrão caso o post não tenha imagem definida -->
-            <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy">
-          {% endif %}
-        </a>
+  <a href="{{ post.url | relative_url }}" class="home-post-img-link">
+     {% if post.image %}
+        <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+     {% else %}
+       <!-- Força o caminho exato a partir da raiz do site -->
+       <img src="{{ site.baseurl }}/assets/images/logo.png" alt="{{ post.title }}" loading="lazy">
+      {% endif %}
+    </a>
         
         <div class="home-post-body">
           {% if post.category %}
