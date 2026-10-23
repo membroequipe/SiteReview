@@ -37,14 +37,15 @@ title: "Início"
     line-height: 1.6;
   }
 
-  /* Estilos do Novo Banner Inspirado no Concorrente (Sem perder o padrão) */
+  /* Banner Principal Iluminado e Original */
   .hero-banner-custom {
-    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    background: linear-gradient(135deg, #1e293b 100%, #334155 0%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 20px;
     color: #ffffff;
-    padding: 40px;
+    padding: 45px;
     margin-bottom: 2.5rem;
-    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.15);
+    box-shadow: 0 15px 35px rgba(15, 23, 42, 0.2);
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -66,13 +67,13 @@ title: "Início"
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1.2px;
-    color: #f59e0b;
+    color: #38bdf8; /* Azul claro moderno para destacar a marca */
     margin-bottom: 12px;
     display: block;
   }
 
   .hero-banner-title {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
     font-weight: 800;
     line-height: 1.2;
     margin: 0 0 16px 0;
@@ -85,7 +86,7 @@ title: "Início"
 
   .hero-banner-description {
     font-size: 1.05rem;
-    color: #94a3b8;
+    color: #cbd5e1;
     line-height: 1.6;
     margin: 0 0 24px 0;
   }
@@ -104,7 +105,7 @@ title: "Início"
     border-radius: 8px;
     text-decoration: none;
     transition: background 0.2s, transform 0.2s;
-    box-shadow: 0 4px 12px rgba(251, 191, 36, 0.3);
+    box-shadow: 0 4px 12px rgba(251, 191, 36, 0.25);
   }
 
   .btn-primary-yellow:hover {
@@ -113,40 +114,39 @@ title: "Início"
   }
 
   .btn-outline-light {
-    background: transparent;
+    background: rgba(255, 255, 255, 0.08);
     color: #ffffff;
-    border: 2px solid rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.2);
     font-weight: 600;
     padding: 12px 22px;
     border-radius: 8px;
     text-decoration: none;
-    transition: border-color 0.2s, background 0.2s;
+    transition: background 0.2s;
   }
 
   .btn-outline-light:hover {
-    border-color: #ffffff;
-    background: rgba(255, 255, 255, 0.05);
+    background: rgba(255, 255, 255, 0.15);
   }
 
   .hero-image-right {
     flex-shrink: 0;
-    max-width: 340px;
+    max-width: 320px;
   }
 
   .hero-image-right img {
     width: 100%;
     height: auto;
     object-fit: contain;
-    filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));
+    filter: drop-shadow(0 12px 24px rgba(0,0,0,0.25));
   }
 
-  /* Rodapé com os 4 Pilares do Banner */
+  /* Rodapé do Banner com Indicadores de Qualidade */
   .hero-banner-footer {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
     padding-top: 25px;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
   }
 
   .hero-footer-item h4 {
@@ -354,7 +354,7 @@ title: "Início"
       justify-content: center;
     }
     .hero-image-right {
-      max-width: 250px;
+      max-width: 240px;
     }
     .hero-banner-footer {
       grid-template-columns: repeat(2, 1fr);
@@ -367,60 +367,60 @@ title: "Início"
       padding: 25px 20px;
     }
     .hero-banner-title {
-      font-size: 1.8rem;
+      font-size: 1.7rem;
     }
   }
 </style>
 
 <div class="home-container" style="max-width: 1000px; margin: 2rem auto; padding: 0 20px; font-family: 'Plus Jakarta Sans', sans-serif;">
   
-  <!-- BANNER HERO MODERNO (Inspirado no Concorrente) -->
+  <!-- BANNER HERO ILUMINADO E ORIGINAL -->
   <section class="hero-banner-custom">
     
     <div class="hero-top-grid">
       <div class="hero-content-left">
-        <span class="hero-tag">Guias de Compra de Parafusadeiras</span>
-        <h1 class="hero-banner-title">Escolha a <span>parafusadeira certa</span> para o seu projeto.</h1>
+        <span class="hero-tag">Portal Especializado Parafusadeira Certa</span>
+        <h1 class="hero-banner-title">Descubra a <span>ferramenta perfeita</span> para o seu trabalho.</h1>
         <p class="hero-banner-description">
-          Comparativos, análises e guias para escolher a melhor parafusadeira para o seu uso, com dados conferidos e os pontos fracos de cada modelo.
+          Análises independentes, testes de torque real e comparativos lado a lado para você investir seu dinheiro sem arrependimentos.
         </p>
         
         <div class="hero-buttons">
-          <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="btn-primary-yellow">Escolher pelo meu uso</a>
-          <a href="{{ '/comparativos/' | relative_url }}" class="btn-outline-light">Guias de compra →</a>
+          <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="btn-primary-yellow">Encontrar pelo uso ideal</a>
+          <a href="{{ '/comparativos/' | relative_url }}" class="btn-outline-light">Ver Comparativos</a>
         </div>
       </div>
 
       <div class="hero-image-right">
-        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Parafusadeira Certa Destaque" loading="lazy">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Parafusadeira Certa" loading="lazy">
       </div>
     </div>
     
-    <!-- Rodapé com os 4 Pilares / Selos -->
+    <!-- Rodapé com Diferenciais Próprios -->
     <div class="hero-banner-footer">
       <div class="hero-footer-item">
-        <h4>🛡️ Dados Conferidos</h4>
-        <p>Anúncios e fichas dos fabricantes</p>
+        <h4>⚡ Autonomia Real</h4>
+        <p>Testes de capacidade e carga</p>
       </div>
       <div class="hero-footer-item">
-        <h4>⚖️ Comparativos A×B</h4>
-        <p>Compare antes de decidir</p>
+        <h4>⚖️ Prós & Contras</h4>
+        <p>O que o fabricante não conta</p>
       </div>
       <div class="hero-footer-item">
-        <h4>🔄 Conteúdo Revisado</h4>
-        <p>Atualizamos quando a ficha muda</p>
+        <h4>🎯 Foco no Perfil</h4>
+        <p>Do hobby ao uso profissional</p>
       </div>
       <div class="hero-footer-item">
-        <h4>🔍 Limitações à vista</h4>
-        <p>Os pontos fracos de cada modelo</p>
+        <h4>🛡️ Análise Neutra</h4>
+        <p>Independência em cada review</p>
       </div>
     </div>
 
   </section>
 
-  <!-- SEÇÃO DE DILEMAS / SITUAÇÕES (Opcional, caso queira manter abaixo do banner) -->
+  <!-- SEÇÃO DE DILEMAS / SITUAÇÕES -->
   <div class="situation-section">
-    <div class="situation-title">Qual é a sua situação?</div>
+    <div class="situation-title">Qual é a sua necessidade hoje?</div>
     <div class="situation-grid">
       <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
         <span>🪑</span> Quero montar móveis de MDF
