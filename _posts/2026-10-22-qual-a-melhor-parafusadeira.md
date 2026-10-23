@@ -517,16 +517,16 @@ A revolução está no **Connected Tool System**: via Bluetooth, o app **Bosch T
 </div>
 </div>
 
-<div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">
+    🛒 Ver na Amazon
+  </a>
 </div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">
+    🛒 Ver no Mercado Livre
+  </a>
 </div>
 
 ---
@@ -560,16 +560,16 @@ São **21 posições de embreagem + perfuração + martelete** (31.500 IPM), man
 </div>
 </div>
 
-<div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Preço na Amazon</a>
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">
+    🛒 Ver na Amazon
+  </a>
 </div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Oferta no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Valor na Shopee</a>
-</div>
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">
+    🛒 Ver no Mercado Livre
+  </a>
 </div>
 
 ## <a id="guia-de-compra"></a>Guia do Comprador: Como Escolher a Parafusadeira Ideal
@@ -736,18 +736,17 @@ Marcas do grupo Stanley Black & Decker focadas no **consumidor final (DIY leve)*
 3. **Teste a ergonomia:** Se possível, segure a ferramenta — peso, equilíbrio, gatilho, vibração
 4. **Compre de revendedor autorizado** — garante nota fiscal, garantia estendida e peça de reposição
 
-<div class="product-card-affiliate">
-<div class="card-amazon">
-<a href="#" target="_blank" rel="noopener sponsored">Ver Top 10 na Amazon</a>
-</div>
-<div class="card-mercadolivre">
-<a href="#" target="_blank" rel="noopener sponsored">Conferir Ofertas no Mercado Livre</a>
-</div>
-<div class="card-shopee">
-<a href="#" target="_blank" rel="noopener sponsored">Consultar Preços na Shopee</a>
-</div>
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">
+    🛒 Ver na Amazon
+  </a>
 </div>
 
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="SEU_LINK_AQUI" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">
+    🛒 Ver no Mercado Livre
+  </a>
+</div>
 ---
 
 *Artigo atualizado em 22 de outubro de 2026 pela Equipe de Análises. Especificações baseadas em fichas técnicas oficiais dos fabricantes (Bosch Professional, Makita, DeWalt, WAP) e testes comparativos em cenários reais de marcenaria, instalação elétrica, drywall e obra. Preços e disponibilidade de kits variam por canal de venda — use os botões acima para consultar valores atuais.*
