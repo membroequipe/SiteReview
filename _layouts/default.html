@@ -18,7 +18,7 @@
 </head>
 <body class="{% if page.url == '/' or page.url == '/index.html' %}home-page{% endif %}">
 
-    <!-- Menu Superior Otimizado por Categorias e Dropdowns -->
+    <!-- Menu Superior Limpo e Direto -->
     <header class="site-header">
       <div class="site-header-container">
         <a href="{{ '/' | relative_url }}">
@@ -30,46 +30,16 @@
             <!-- 1. Início -->
             <li><a href="{{ '/' | relative_url }}">Início</a></li>
 
-            <!-- 2. Parafusadeiras (Categoria Principal - Artigo Pilar) -->
-            <li class="has-dropdown">
-              <a href="{{ '/parafusadeiras/' | relative_url }}">Parafusadeiras ▾</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}">Melhores Parafusadeiras (Guia Geral)</a></li>
-                <li><a href="{{ '/parafusadeiras-12v-vs-18v/' | relative_url }}">Parafusadeiras 12V vs 18V</a></li>
-                <li><a href="{{ '/uso-profissional/' | relative_url }}">Uso Profissional</a></li>
-              </ul>
-            </li>
+            <!-- 2. Reviews -->
+            <li><a href="{{ '/reviews/' | relative_url }}">Reviews</a></li>
 
-            <!-- 3. Reviews (Análises de Modelos Específicos) -->
-            <li class="has-dropdown">
-              <a href="{{ '/reviews/' | relative_url }}">Reviews ▾</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ '/review-bosch-gsr-1000-smart/' | relative_url }}">Bosch GSR 1000 Smart</a></li>
-                <li><a href="{{ '/review-bosch-gsb-120-li/' | relative_url }}">Bosch GSB 120-LI</a></li>
-                <li><a href="{{ '/review-makita-hp333d/' | relative_url }}">Makita HP333D</a></li>
-                <li><a href="{{ '/reviews/' | relative_url }}"><strong>Ver Todos os Reviews</strong></a></li>
-              </ul>
-            </li>
+            <!-- 3. Comparativos -->
+            <li><a href="{{ '/comparativos/' | relative_url }}">Comparativos</a></li>
 
-            <!-- 4. Comparativos (Artigos Versus e Guia de Marcas) -->
-            <li class="has-dropdown">
-              <a href="{{ '/comparativos/' | relative_url }}">Comparativos ▾</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ '/bosch-vs-makita/' | relative_url }}">Bosch vs Makita</a></li>
-                <li><a href="{{ '/bosch-gsr-1000-smart-vs-bosch-gsb-120-li/' | relative_url }}">GSR 1000 vs GSB 120-LI</a></li>
-              </ul>
-            </li>
+            <!-- 4. Guia Principal -->
+            <li><a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}">Guia de Compra</a></li>
 
-            <!-- 5. Dicas & Acessórios (Conteúdo Informativo) -->
-            <li class="has-dropdown">
-              <a href="{{ '/dicas-acessorios/' | relative_url }}">Dicas & Acessórios ▾</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ '/kits-de-bits-e-pontas/' | relative_url }}">Kits de Bits e Pontas</a></li>
-                <li><a href="{{ '/como-usar-manutencao/' | relative_url }}">Como Usar / Manutenção</a></li>
-              </ul>
-            </li>
-
-            <!-- 6. Sobre (Transparência) -->
+            <!-- 5. Sobre -->
             <li><a href="{{ '/sobre/' | relative_url }}">Sobre</a></li>
           </ul>
         </nav>
