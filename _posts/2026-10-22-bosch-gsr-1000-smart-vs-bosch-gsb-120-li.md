@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Bosch GSR 1000 Smart vs Bosch GSB 120-LI: Qual Vale Mais a Pena em 2026?
