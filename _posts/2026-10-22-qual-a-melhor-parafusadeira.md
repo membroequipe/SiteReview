@@ -4,7 +4,7 @@ title: "As 10 Melhores Parafusadeiras de 2026: Guia de Compra Completo e Testes"
 description: "Descubra qual a melhor parafusadeira para o seu perfil em 2026. Comparativo completo de marcas, voltagens (12V vs 18V), torque e custo-benefício."
 slug: "qual-a-melhor-parafusadeira"
 permalink: /qual-a-melhor-parafusadeira/
-image: "/assets/images/posts/qual-a-melhor-parafusadeira.jpg"
+image: "/assets/images/teste-dewalt.jpg"
 category: "Guias"
 author: "Equipe de Análises"
 date: 2026-10-22
