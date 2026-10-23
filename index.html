@@ -3,328 +3,50 @@ layout: default
 title: "Início"
 ---
 
-<style>
-  /* Seção de Dilemas / Situações (Estilo Exclusivo do Portal) */
-  .situation-section {
-    background: #ffffff;
-    border: 1px solid #e2e8f0;
-    border-radius: 16px;
-    padding: 2rem;
-    margin-bottom: 3rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
-  }
-
-  .situation-title {
-    font-size: 1.15rem;
-    font-weight: 700;
-    color: #0f172a;
-    margin-bottom: 1.25rem;
-  }
-
-  .situation-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 1rem;
-  }
-
-  .situation-card {
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
-    padding: 1rem 1.25rem;
-    text-decoration: none;
-    color: #334155;
-    font-size: 0.92rem;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    transition: all 0.2s ease;
-  }
-
-  .situation-card:hover {
-    background: #f1f5f9;
-    border-color: #cbd5e1;
-    transform: translateY(-2px);
-    color: #0f172a;
-  }
-
-  .situation-card span {
-    font-size: 1.25rem;
-  }
-
-  /* Títulos de Seção */
-  .section-header-title {
-    font-size: 1.5rem;
-    font-weight: 800;
-    color: #0f172a;
-    margin: 2.5rem 0 1.25rem 0;
-  }
-
-  /* Grid de Posts / Reviews */
-  .home-posts-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 25px;
-    margin-bottom: 3rem;
-  }
-
-  .home-post-card {
-    background: #ffffff;
-    border: 1px solid #e2e8f0;
-    border-radius: 14px;
-    overflow: hidden;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    display: flex;
-    flex-direction: column;
-  }
-
-  .home-post-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
-  }
-
-  .home-post-img-link {
-    width: 100%;
-    height: 190px;
-    background: #f8fafc;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 15px;
-    border-bottom: 1px solid #f1f5f9;
-  }
-
-  .home-post-img-link img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-  }
-
-  .home-post-body {
-    padding: 1.25rem;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-  }
-
-  .home-post-badge {
-    align-self: flex-start;
-    font-size: 0.72rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    color: #0d9488;
-    background-color: #ccfbf1;
-    padding: 3px 10px;
-    border-radius: 20px;
-    margin-bottom: 10px;
-  }
-
-  .home-post-title {
-    font-size: 1.1rem;
-    font-weight: 700;
-    color: #0f172a;
-    margin: 0 0 8px 0;
-    line-height: 1.35;
-  }
-
-  .home-post-title a {
-    text-decoration: none;
-    color: inherit;
-    transition: color 0.2s;
-  }
-
-  .home-post-title a:hover {
-    color: #0d9488;
-  }
-
-  .home-post-date {
-    font-size: 0.8rem;
-    color: #94a3b8;
-    margin-top: auto;
-    padding-top: 10px;
-  }
-
-  /* Caixa de Metodologia / Transparência (E-E-A-T) */
-  .methodology-box {
-    background: #0f172a;
-    color: #ffffff;
-    border-radius: 16px;
-    padding: 2rem;
-    margin-top: 3rem;
-  }
-
-  .methodology-box h3 {
-    font-size: 1.25rem;
-    font-weight: 700;
-    margin: 0 0 1rem 0;
-    color: #ffffff;
-  }
-
-  .methodology-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1.5rem;
-  }
-
-  .methodology-item h4 {
-    font-size: 0.92rem;
-    font-weight: 700;
-    color: #f59e0b;
-    margin: 0 0 0.3rem 0;
-  }
-
-  .methodology-item p {
-    font-size: 0.85rem;
-    color: #94a3b8;
-    margin: 0;
-    line-height: 1.5;
-  }
-</style>
-
-<div class="home-container" style="max-width: 1050px; margin: 2rem auto; padding: 0 20px; font-family: 'Plus Jakarta Sans', sans-serif;">
-  
-  <!-- HERO BANNER UTILIZANDO AS SUAS CLASSES JÁ EXISTENTES DO CSS -->
-  <section class="hero-banner-custom" style="position: relative; overflow: hidden; border-radius: 20px; padding: 3rem 2.5rem; margin-bottom: 2.5rem; background-image: url('{{ '/assets/images/logo.png' | relative_url }}'); background-size: cover; background-position: center;">
-    
-    <!-- Camada de sobreposição (before do seu CSS) -->
-    
-    <div class="hero-banner-content">
-      <span class="hero-tag">Portal Especializado Parafusadeira Certa</span>
-      <h1 class="hero-banner-title">Escolha a <span>parafusadeira certa</span> para o seu projeto.</h1>
-      <p class="hero-banner-description">
-        Comparativos, análises técnicas de autonomia e guias práticos para você escolher a ferramenta ideal sem erro e sem desperdiçar dinheiro.
-      </p>
-      
-      <div class="hero-banner-buttons">
-        <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="btn-hero-primary">Escolher pelo meu uso</a>
-        <a href="{{ '/comparativos/' | relative_url }}" class="btn-hero-secondary">Ver Comparativos</a>
+<main class="pc-home">
+  <section class="pc-hero" aria-labelledby="pc-main-title">
+    <div class="pc-hero-main">
+      <div>
+        <span class="pc-eyebrow">Minha Ferramenta Certa · Guia de escolha</span>
+        <h1 id="pc-main-title">Qual a <strong>melhor parafusadeira</strong> para o seu tipo de trabalho?</h1>
+        <p class="pc-lead">Compare parafusadeiras para montar móveis, fazer reparos em casa ou enfrentar tarefas mais exigentes. Entenda torque, bateria, mandril e função impacto antes de escolher.</p>
+        <div class="pc-actions">
+          <a class="pc-action pc-action-primary" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}">Encontrar minha parafusadeira <span aria-hidden="true">&nbsp;→</span></a>
+          <a class="pc-action pc-action-secondary" href="{{ '/comparativos/' | relative_url }}">Explorar comparativos</a>
+        </div>
       </div>
+      <aside class="pc-feature" aria-label="O que considerar na escolha">
+        <span class="pc-feature-kicker">Escolha com critério</span>
+        <h2>Mais do que potência: a melhor ferramenta para cada tarefa.</h2>
+        <p>Nem sempre a opção mais cara é a mais adequada. Comece pelo que realmente importa para seu uso.</p>
+        <ul>
+          <li>Torque e controle para cada material</li>
+          <li>Autonomia e tipo de bateria</li>
+          <li>Ergonomia, peso e frequência de uso</li>
+        </ul>
+      </aside>
     </div>
-
-    <!-- Rodapé do Banner com os 4 Pilares -->
-    <div class="hero-banner-footer">
-      <div class="hero-footer-item">
-        <h4>🛡️ Dados Conferidos</h4>
-        <p>Especificações técnicas reais</p>
-      </div>
-      <div class="hero-footer-item">
-        <h4>⚖️ Comparativos A×B</h4>
-        <p>Compare antes de decidir</p>
-      </div>
-      <div class="hero-footer-item">
-        <h4>🔄 Conteúdo Atualizado</h4>
-        <p>Fichas revistas para 2026</p>
-      </div>
-      <div class="hero-footer-item">
-        <h4>🔍 Limitações à Vista</h4>
-        <p>Os pontos fracos de cada modelo</p>
-      </div>
+    <div class="pc-trust" aria-label="Critérios editoriais">
+      <div class="pc-trust-item"><b>01 · Fichas técnicas</b><span>Dados de fabricantes e manuais</span></div>
+      <div class="pc-trust-item"><b>02 · Comparação prática</b><span>Diferenças que importam no uso</span></div>
+      <div class="pc-trust-item"><b>03 · Pontos de atenção</b><span>Limitações de cada categoria</span></div>
+      <div class="pc-trust-item"><b>04 · Compra consciente</b><span>Escolhas alinhadas ao orçamento</span></div>
     </div>
-
   </section>
 
-    <!-- SEÇÃO DE DILEMAS / SITUAÇÕES (VERSÃO PREMIUM SEO) -->
-  <div class="premium-situation-section">
-    
-    <!-- Cabeçalho da Seção -->
-    <div class="premium-situation-header">
-      <h2 class="premium-situation-title">Qual é a sua <span>situação</span> ou necessidade hoje?</h2>
-      <p class="premium-situation-subtitle">
-        Escolha o caminho mais direto e chegue à lista certa sem comparar especificação por especificação. 
-        Nossa curadoria técnica guia você de acordo com o seu uso real, otimizando seu tempo e evitando erros de compra.
-      </p>
+  <section class="pc-situations" aria-labelledby="pc-situation-title">
+    <p class="pc-section-kicker">Encontre seu caminho</p>
+    <h2 id="pc-situation-title">Para que você vai usar a parafusadeira ou furadeira?</h2>
+    <p class="pc-situations-intro">Selecione sua necessidade e descubra quais características procurar antes de comprar.</p>
+    <div class="pc-situation-grid">
+      <a class="pc-situation-card" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}"><span class="pc-situation-icon" aria-hidden="true">🪑</span><span class="pc-situation-copy"><b>Montagem de móveis e MDF</b><small>Controle de torque e cuidado com as peças.</small></span></a>
+      <a class="pc-situation-card" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}"><span class="pc-situation-icon" aria-hidden="true">🏠</span><span class="pc-situation-copy"><b>Reparos e manutenção da casa</b><small>Versatilidade para tarefas do dia a dia.</small></span></a>
+      <a class="pc-situation-card" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}"><span class="pc-situation-icon" aria-hidden="true">🧱</span><span class="pc-situation-copy"><b>Perfuração de alvenaria</b><small>Entenda quando é necessário impacto.</small></span></a>
+      <a class="pc-situation-card" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}"><span class="pc-situation-icon" aria-hidden="true">💰</span><span class="pc-situation-copy"><b>Opções de até R$ 300</b><small>Priorize os recursos que valem o investimento.</small></span></a>
+      <a class="pc-situation-card" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}"><span class="pc-situation-icon" aria-hidden="true">🧰</span><span class="pc-situation-copy"><b>Minha primeira parafusadeira</b><small>O essencial para começar sem complicação.</small></span></a>
+      <a class="pc-situation-card" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}"><span class="pc-situation-icon" aria-hidden="true">🪶</span><span class="pc-situation-copy"><b>Leveza e conforto no uso</b><small>Mais ergonomia para trabalhos prolongados.</small></span></a>
     </div>
-
-    <!-- Grid de Necessidades (6 Cards com SEO ricos) -->
-    <div class="premium-situation-grid">
-      
-      <!-- Card 1: MDF -->
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="premium-situation-card">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-          <div class="premium-card-icon-wrapper icon-mdf">
-            🪑
-          </div>
-        </div>
-        <div>
-          <h3 class="premium-card-title">Quero montar móveis de MDF</h3>
-          <p class="premium-card-desc">Modelos com controle de torque preciso para não danificar o painel e evitar furos errados na estrutura.</p>
-        </div>
-        <span class="premium-card-arrow">→</span>
-      </a>
-
-      <!-- Card 2: Doméstico -->
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="premium-situation-card">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-          <div class="premium-card-icon-wrapper icon-domestico">
-            🏠
-          </div>
-        </div>
-        <div>
-          <h3 class="premium-card-title">Quero para uso doméstico geral</h3>
-          <p class="premium-card-desc">Ferramentas versáteis para furar, pendurar quadros, montar prateleiras e pequenos reparos cotidianos.</p>
-        </div>
-        <span class="premium-card-arrow">→</span>
-      </a>
-
-      <!-- Card 3: Tijolo / Alvenaria -->
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="premium-situation-card">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-          <div class="premium-card-icon-wrapper icon-tijolo">
-            🧱
-          </div>
-        </div>
-        <div>
-          <h3 class="premium-card-title">Preciso furar paredes de tijolo</h3>
-          <p class="premium-card-desc">Modelos com impacto ou alta rotação específicos para alvenaria doméstica e paredes de média densidade.</p>
-        </div>
-        <span class="premium-card-arrow">→</span>
-      </a>
-
-      <!-- Card 4: Orçamento -->
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="premium-situation-card">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-          <div class="premium-card-icon-wrapper icon-orcamento">
-            💰
-          </div>
-        </div>
-        <div>
-          <h3 class="premium-card-title">Tenho orçamento até R$ 300</h3>
-          <p class="premium-card-desc">Seleção de modelos econômicos com excelente custo-benefício e confiabilidade comprovada pelo mercado.</p>
-        </div>
-        <span class="premium-card-arrow">→</span>
-      </a>
-
-      <!-- Card 5: Primeira ferramenta -->
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="premium-situation-card">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-          <div class="premium-card-icon-wrapper icon-iniciante">
-            ✨
-          </div>
-        </div>
-        <div>
-          <h3 class="premium-card-title">É minha primeira ferramenta</h3>
-          <p class="premium-card-desc">Modelos simples de usar, com segurança embutida e design ergonômico para iniciantes se sentirem à vontade.</p>
-        </div>
-        <span class="premium-card-arrow">→</span>
-      </a>
-
-      <!-- Card 6: Leve -->
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="premium-situation-card">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-          <div class="premium-card-icon-wrapper icon-leve">
-            🪶
-          </div>
-        </div>
-        <div>
-          <h3 class="premium-card-title">Quero uma parafusadeira leve</h3>
-          <p class="premium-card-desc">Para sessões longas de trabalho sem cansar o braço, mantendo a potência e durabilidade necessárias.</p>
-        </div>
-        <span class="premium-card-arrow">→</span>
-      </a>
-
-    </div>
-  </div>
+  </section>
 
   <!-- LISTA DE ÚLTIMAS PUBLICAÇÕES -->
   <h2 class="section-header-title">Últimas Publicações & Reviews</h2>
@@ -389,4 +111,5 @@ title: "Início"
     </div>
   </section>
 
-</div>
+
+</main>
