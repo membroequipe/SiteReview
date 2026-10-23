@@ -4,233 +4,201 @@ title: "Início"
 ---
 
 <style>
-  .home-hero {
-    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-    color: #ffffff;
-    border-radius: 20px;
-    padding: 3rem 2.5rem;
-    margin-bottom: 2.5rem;
-    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.15);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .home-hero h1 {
-    font-size: 2.4rem;
-    font-weight: 800;
-    margin: 0 0 1rem 0;
-    line-height: 1.25;
-    color: #ffffff;
-  }
-
-  .home-hero h1 span {
-    color: #f59e0b;
-  }
-
-  .home-hero p {
-    font-size: 1.05rem;
-    color: #94a3b8;
-    max-width: 680px;
-    margin: 0 0 2rem 0;
-    line-height: 1.6;
-  }
-
-  /* Banner Principal Iluminado e Original */
-  .hero-banner-custom {
-    background: linear-gradient(135deg, #1e293b 100%, #334155 0%);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    border-radius: 20px;
-    color: #ffffff;
-    padding: 45px;
-    margin-bottom: 2.5rem;
-    box-shadow: 0 15px 35px rgba(15, 23, 42, 0.2);
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-  }
-
-  .hero-top-grid {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 30px;
-  }
-
-  .hero-content-left {
-    max-width: 650px;
-  }
-
-  .hero-tag {
-    font-size: 0.8rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 1.2px;
-    color: #38bdf8; /* Azul claro moderno para destacar a marca */
-    margin-bottom: 12px;
-    display: block;
-  }
-
-  .hero-banner-title {
-    font-size: 2.4rem;
-    font-weight: 800;
-    line-height: 1.2;
-    margin: 0 0 16px 0;
-    color: #ffffff;
-  }
-
-  .hero-banner-title span {
-    color: #fbbf24;
-  }
-
-  .hero-banner-description {
-    font-size: 1.05rem;
-    color: #cbd5e1;
-    line-height: 1.6;
-    margin: 0 0 24px 0;
-  }
-
-  .hero-buttons {
-    display: flex;
-    gap: 15px;
-    flex-wrap: wrap;
-  }
-
-  .btn-primary-yellow {
-    background-color: #fbbf24;
-    color: #0f172a;
-    font-weight: 700;
-    padding: 12px 22px;
-    border-radius: 8px;
-    text-decoration: none;
-    transition: background 0.2s, transform 0.2s;
-    box-shadow: 0 4px 12px rgba(251, 191, 36, 0.25);
-  }
-
-  .btn-primary-yellow:hover {
-    background-color: #f59e0b;
-    transform: translateY(-2px);
-  }
-
-  .btn-outline-light {
-    background: rgba(255, 255, 255, 0.08);
-    color: #ffffff;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    font-weight: 600;
-    padding: 12px 22px;
-    border-radius: 8px;
-    text-decoration: none;
-    transition: background 0.2s;
-  }
-
-  .btn-outline-light:hover {
-    background: rgba(255, 255, 255, 0.15);
-  }
-
-  .hero-image-right {
-    flex-shrink: 0;
-    max-width: 320px;
-  }
-
-  .hero-image-right img {
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    filter: drop-shadow(0 12px 24px rgba(0,0,0,0.25));
-  }
-
-  /* Rodapé do Banner com Indicadores de Qualidade */
-  .hero-banner-footer {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
-    padding-top: 25px;
-    border-top: 1px solid rgba(255, 255, 255, 0.12);
-  }
-
-  .hero-footer-item h4 {
-    font-size: 0.9rem;
-    font-weight: 700;
-    color: #ffffff;
-    margin: 0 0 4px 0;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-  }
-
-  .hero-footer-item p {
-    font-size: 0.82rem;
-    color: #94a3b8;
-    margin: 0;
-  }
-
-  /* Seção de Dilemas / Situações */
-  .situation-section {
+  /* =========================================
+     NOVA HERO SECTION (CLEAN & MODERNA)
+     ========================================= */
+  .hero-clean-container {
     background: #ffffff;
     border: 1px solid #e2e8f0;
     border-radius: 16px;
-    padding: 2rem;
-    margin-bottom: 3rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+    padding: 3.5rem 2.5rem;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    position: relative;
+    border-top: 5px solid #0d9488; /* Linha de destaque na cor principal do site */
   }
 
-  .situation-title {
-    font-size: 1.15rem;
+  .hero-clean-text {
+    max-width: 580px;
+  }
+
+  .hero-clean-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    color: #166534;
+    font-size: 0.82rem;
     font-weight: 700;
-    color: #0f172a;
+    padding: 6px 14px;
+    border-radius: 20px;
     margin-bottom: 1.25rem;
   }
 
-  .situation-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 1rem;
+  .hero-clean-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.2;
+    margin: 0 0 1rem 0;
+    letter-spacing: -0.5px;
   }
 
-  .situation-card {
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
-    padding: 1rem 1.25rem;
-    text-decoration: none;
-    color: #334155;
-    font-size: 0.92rem;
-    font-weight: 600;
+  .hero-clean-title span {
+    color: #0d9488; /* Verde/Azul Petróleo da sua marca */
+  }
+
+  .hero-clean-subtitle {
+    font-size: 1.05rem;
+    color: #475569;
+    line-height: 1.6;
+    margin: 0 0 2rem 0;
+  }
+
+  .hero-clean-actions {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-main-action {
+    background-color: #0d9488;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 14px 28px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 0.98rem;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 12px rgba(13, 148, 136, 0.2);
+  }
+
+  .btn-main-action:hover {
+    background-color: #0f766e;
+    transform: translateY(-2px);
+  }
+
+  .btn-secondary-action {
+    background-color: #f8fafc;
+    color: #334155;
+    border: 1px solid #cbd5e1;
+    font-weight: 700;
+    padding: 14px 24px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 0.98rem;
     transition: all 0.2s ease;
   }
 
-  .situation-card:hover {
-    background: #f1f5f9;
-    border-color: #cbd5e1;
-    transform: translateY(-2px);
+  .btn-secondary-action:hover {
+    background-color: #f1f5f9;
+    border-color: #94a3b8;
+  }
+
+  .hero-clean-image {
+    max-width: 280px;
+    flex-shrink: 0;
+    text-align: center;
+  }
+
+  .hero-clean-image img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  /* =========================================
+     NOVO SELETOR POR PERFIL (EXCLUSIVO)
+     ========================================= */
+  .profile-finder-container {
+    margin-bottom: 3.5rem;
+  }
+
+  .profile-finder-header {
+    margin-bottom: 1.5rem;
+  }
+
+  .profile-finder-header h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
     color: #0f172a;
+    margin: 0 0 0.4rem 0;
   }
 
-  .situation-card span {
-    font-size: 1.25rem;
+  .profile-finder-header p {
+    font-size: 0.95rem;
+    color: #64748b;
+    margin: 0;
   }
 
-  /* Títulos de Seção */
+  .profile-finder-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .profile-card-item {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-left: 4px solid #0d9488;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .profile-card-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+    border-color: #cbd5e1;
+    border-left-color: #f59e0b; /* Altera a cor de acento no hover */
+  }
+
+  .profile-card-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin: 0 0 0.4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .profile-card-desc {
+    font-size: 0.88rem;
+    color: #64748b;
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .profile-card-arrow {
+    color: #0d9488;
+    font-weight: 800;
+    font-size: 1.1rem;
+  }
+
+  /* Títulos de Seção e Posts */
   .section-header-title {
     font-size: 1.5rem;
     font-weight: 800;
     color: #0f172a;
     margin: 2.5rem 0 1.25rem 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
   }
 
-  /* Grid de Posts / Reviews */
   .home-posts-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 25px;
-    margin-bottom: 3rem;
+    margin-bottom: 3.5rem;
   }
 
   .home-post-card {
@@ -309,19 +277,18 @@ title: "Início"
     padding-top: 10px;
   }
 
-  /* Caixa de Transparência / Metodologia (E-E-A-T) */
+  /* Caixa de Metodologia */
   .methodology-box {
     background: #0f172a;
     color: #ffffff;
     border-radius: 16px;
-    padding: 2rem;
-    margin-top: 3rem;
+    padding: 2.25rem;
   }
 
   .methodology-box h3 {
     font-size: 1.25rem;
     font-weight: 700;
-    margin: 0 0 1rem 0;
+    margin: 0 0 1.25rem 0;
     color: #ffffff;
   }
 
@@ -345,106 +312,107 @@ title: "Início"
     line-height: 1.5;
   }
 
-  @media (max-width: 900px) {
-    .hero-top-grid {
+  @media (max-width: 850px) {
+    .hero-clean-container {
       flex-direction: column;
+      padding: 2.5rem 1.5rem;
       text-align: center;
     }
-    .hero-buttons {
+    .hero-clean-actions {
       justify-content: center;
     }
-    .hero-image-right {
-      max-width: 240px;
-    }
-    .hero-banner-footer {
-      grid-template-columns: repeat(2, 1fr);
-      text-align: left;
-    }
-  }
-
-  @media (max-width: 640px) {
-    .hero-banner-custom {
-      padding: 25px 20px;
-    }
-    .hero-banner-title {
-      font-size: 1.7rem;
+    .hero-clean-image {
+      max-width: 220px;
     }
   }
 </style>
 
-<div class="home-container" style="max-width: 1000px; margin: 2rem auto; padding: 0 20px; font-family: 'Plus Jakarta Sans', sans-serif;">
+<div class="home-container" style="max-width: 1050px; margin: 2rem auto; padding: 0 20px; font-family: 'Plus Jakarta Sans', sans-serif;">
   
-  <!-- BANNER HERO ILUMINADO E ORIGINAL -->
-  <section class="hero-banner-custom">
-    
-    <div class="hero-top-grid">
-      <div class="hero-content-left">
-        <span class="hero-tag">Portal Especializado Parafusadeira Certa</span>
-        <h1 class="hero-banner-title">Descubra a <span>ferramenta perfeita</span> para o seu trabalho.</h1>
-        <p class="hero-banner-description">
-          Análises independentes, testes de torque real e comparativos lado a lado para você investir seu dinheiro sem arrependimentos.
-        </p>
-        
-        <div class="hero-buttons">
-          <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="btn-primary-yellow">Encontrar pelo uso ideal</a>
-          <a href="{{ '/comparativos/' | relative_url }}" class="btn-outline-light">Ver Comparativos</a>
-        </div>
+  <!-- HERO SECTION TOTALMENTE RENOVADA (CLEAN E AUTÊNTICA) -->
+  <section class="hero-clean-container">
+    <div class="hero-clean-text">
+      <div class="hero-clean-badge">
+        <span>✓</span> Guia de Compras 2026
       </div>
-
-      <div class="hero-image-right">
-        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Parafusadeira Certa" loading="lazy">
-      </div>
-    </div>
-    
-    <!-- Rodapé com Diferenciais Próprios -->
-    <div class="hero-banner-footer">
-      <div class="hero-footer-item">
-        <h4>⚡ Autonomia Real</h4>
-        <p>Testes de capacidade e carga</p>
-      </div>
-      <div class="hero-footer-item">
-        <h4>⚖️ Prós & Contras</h4>
-        <p>O que o fabricante não conta</p>
-      </div>
-      <div class="hero-footer-item">
-        <h4>🎯 Foco no Perfil</h4>
-        <p>Do hobby ao uso profissional</p>
-      </div>
-      <div class="hero-footer-item">
-        <h4>🛡️ Análise Neutra</h4>
-        <p>Independência em cada review</p>
+      <h1 class="hero-clean-title">
+        Encontre a <span>parafusadeira ideal</span> para a sua necessidade.
+      </h1>
+      <p class="hero-clean-subtitle">
+        Análises imparciais, dados de autonomia de bateria e recomendações diretas para acertar na escolha da sua ferramenta sem complicação.
+      </p>
+      
+      <div class="hero-clean-actions">
+        <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="btn-main-action">Guias Por Necessidade</a>
+        <a href="{{ '/comparativos/' | relative_url }}" class="btn-secondary-action">Ver Comparativos</a>
       </div>
     </div>
 
+    <div class="hero-clean-image">
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Parafusadeira Certa Logo" loading="lazy">
+    </div>
   </section>
 
-  <!-- SEÇÃO DE DILEMAS / SITUAÇÕES -->
-  <div class="situation-section">
-    <div class="situation-title">Qual é a sua necessidade hoje?</div>
-    <div class="situation-grid">
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
-        <span>🪑</span> Quero montar móveis de MDF
+  <!-- SELETOR POR PERFIL E USO (SUBSTITUI A GRID DE SITUAÇÕES ANTERIOR) -->
+  <section class="profile-finder-container">
+    <div class="profile-finder-header">
+      <h2>O que você pretende fazer?</h2>
+      <p>Selecione o seu objetivo principal e veja os modelos mais recomendados:</p>
+    </div>
+
+    <div class="profile-finder-cards">
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="profile-card-item">
+        <div class="profile-card-title">
+          <span>Móveis e Marcenaria MDF</span>
+          <span class="profile-card-arrow">→</span>
+        </div>
+        <p class="profile-card-desc">Controle preciso de torque para não espanar parafusos ou danificar o MDF.</p>
       </a>
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
-        <span>🏠</span> Quero para uso doméstico geral
+
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="profile-card-item">
+        <div class="profile-card-title">
+          <span>Paredes e Alvenaria</span>
+          <span class="profile-card-arrow">→</span>
+        </div>
+        <p class="profile-card-desc">Modelos com função martelete com impacto para furar tijolo e concreto leve.</p>
       </a>
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
-        <span>🧱</span> Preciso furar paredes de tijolo
+
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="profile-card-item">
+        <div class="profile-card-title">
+          <span>Uso Doméstico Geral</span>
+          <span class="profile-card-arrow">→</span>
+        </div>
+        <p class="profile-card-desc">Ferramentas versáteis para pendurar quadros, suportes e pequenos reparos.</p>
       </a>
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
-        <span>💰</span> Tenho orçamento até R$ 300
+
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="profile-card-item">
+        <div class="profile-card-title">
+          <span>Econômicas (Até R$ 300)</span>
+          <span class="profile-card-arrow">→</span>
+        </div>
+        <p class="profile-card-desc">Opções de entrada com o melhor custo-benefício comprovado.</p>
       </a>
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
-        <span>✨</span> É minha primeira ferramenta
+
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="profile-card-item">
+        <div class="profile-card-title">
+          <span>Iniciantes & Primeira Compra</span>
+          <span class="profile-card-arrow">→</span>
+        </div>
+        <p class="profile-card-desc">Kits práticos e intuitivos, prontos para uso logo ao sair da caixa.</p>
       </a>
-      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="situation-card">
-        <span>🪶</span> Quero uma parafusadeira leve
+
+      <a href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}" class="profile-card-item">
+        <div class="profile-card-title">
+          <span>Ultraleves e Compactas</span>
+          <span class="profile-card-arrow">→</span>
+        </div>
+        <p class="profile-card-desc">Design ergonómico para trabalhar em locais apertados e sem cansar os braços.</p>
       </a>
     </div>
-  </div>
+  </section>
 
-  <!-- Lista de Artigos Recentes -->
-  <h2 class="section-header-title">Últimas Publicações & Reviews</h2>
+  <!-- LISTA DE POSTS E REVIEWS RECENTES -->
+  <h2 class="section-header-title">Últimas Análises e Comparativos</h2>
 
   {% if site.posts.size > 0 %}
     <div class="home-posts-grid">
@@ -471,7 +439,7 @@ title: "Início"
             </h3>
 
             <div class="home-post-date">
-              {{ post.date | date: "%d/%m/%Y" }}
+              Por {{ post.author | default: "Equipe de Análises" }} • {{ post.date | date: "%d/%m/%Y" }}
             </div>
           </div>
         </article>
@@ -483,24 +451,24 @@ title: "Início"
     </div>
   {% endif %}
 
-  <!-- Bloco de Metodologia / Transparência (E-E-A-T) -->
+  <!-- METODOLOGIA E TRANSPARÊNCIA (E-E-A-T) -->
   <section class="methodology-box">
-    <h3>Como fazemos as análises</h3>
+    <h3>Como avaliamos cada produto</h3>
     <div class="methodology-grid">
       <div class="methodology-item">
-        <h4>Dados conferidos</h4>
-        <p>Analisamos as fichas técnicas oficiais dos fabricantes e manuais de cada modelo.</p>
+        <h4>Fichas Técnicas Verificadas</h4>
+        <p>Conferimos torque, voltagem e IPM com os dados reais dos fabricantes.</p>
       </div>
       <div class="methodology-item">
-        <h4>Comparativos a fundo</h4>
-        <p>Colocamos marcas lado a lado para destacar o que muda na prática do uso.</p>
+        <h4>Autonomia em Prática</h4>
+        <p>Avaliamos o rendimento real das baterias por tipo de aplicação.</p>
       </div>
       <div class="methodology-item">
-        <h4>Limitações à vista</h4>
-        <p>Dizemos claramente o que a ferramenta NÃO faz bem para evitar frustrações.</p>
+        <h4>Prós e Contras Reais</h4>
+        <p>Mostramos abertamente as limitações de cada modelo antes da compra.</p>
       </div>
       <div class="methodology-item">
-        <h4>Links de lojas</h4>
+        <h4>Lojas de Confiança</h4>
         <p>Indicamos onde comprar com segurança no Mercado Livre, Amazon e Shopee.</p>
       </div>
     </div>
