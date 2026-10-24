@@ -25,7 +25,14 @@
           <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Sua Melhor Ferramenta" class="site-logo-img">
         </a>
         
-        <nav class="site-nav">
+        <!-- Botão Hambúrguer Mobile -->
+        <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Abrir Menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <nav class="site-nav" id="site-nav">
           <ul>
             <!-- 1. Início -->
             <li><a href="{{ '/' | relative_url }}">Início</a></li>
@@ -96,6 +103,21 @@
             </div>
         </div>
     </footer>
+
+    <!-- Script de ativação do Menu Hambúrguer -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const menuToggle = document.getElementById('mobile-menu-toggle');
+        const siteNav = document.getElementById('site-nav');
+
+        if (menuToggle && siteNav) {
+          menuToggle.addEventListener('click', function() {
+            menuToggle.classList.toggle('active');
+            siteNav.classList.toggle('active');
+          });
+        }
+      });
+    </script>
 
 </body>
 </html>
