@@ -686,86 +686,56 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   10. AJUSTES RESPONSIVOS MOBILE (COMPACTO)
+   10. AJUSTES RESPONSIVOS MOBILE (NATIVO & LIMPO)
    ========================================= */
 @media screen and (max-width: 768px) {
   .site-header-container {
     flex-direction: column !important;
     align-items: center !important;
-    padding: 8px 12px !important;
-    gap: 6px !important;
+    padding: 10px 12px !important;
+    gap: 8px !important;
   }
 
   .site-logo-img {
-    height: 28px !important;
+    height: 30px !important;
     width: auto !important;
   }
 
   .site-nav {
     width: 100% !important;
+    overflow-x: auto !important; /* Permite deslizar suavemente se a tela for muito pequena */
+    -webkit-overflow-scrolling: touch;
   }
 
-  /* Organiza os links em uma grelha compacta de duas linhas */
-  .site-nav ul {
+  /* Lista Principal organizada numa linha contínua e bem espaçada */
+  .site-nav > ul {
     display: flex !important;
-    flex-wrap: wrap !important;
+    flex-wrap: nowrap !important;
     justify-content: center !important;
-    gap: 4px 10px !important;
-    padding: 0 !important;
-    margin: 4px 0 0 0 !important;
+    align-items: center !important;
+    gap: 12px !important;
+    padding: 4px 10px !important;
+    margin: 0 !important;
     list-style: none !important;
+    white-space: nowrap !important;
   }
 
   .site-nav li {
     margin: 0 !important;
+    position: relative !important;
   }
 
   .site-nav a {
-    font-size: 0.82rem !important;
-    padding: 4px 8px !important;
-    color: #475569 !important;
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
+    padding: 6px 8px !important;
+    color: #334155 !important;
   }
 
-  /* Submenu limpo e discreto (sem caixa grande) */
+  /* Esconde os subitens no mobile para não quebrar o layout,
+     mantendo os links principais (Início, Reviews, Comparativos, Guia, Sobre) num menu limpo */
   .site-nav .dropdown-menu {
-    position: static !important;
-    display: flex !important;
-    flex-direction: row !important; /* Coloca Parafusadeiras e Furadeiras lado a lado */
-    justify-content: center !important;
-    gap: 12px !important;
-    background: transparent !important;
-    box-shadow: none !important;
-    border: none !important;
-    padding: 2px 0 !important;
-    margin: 0 auto !important;
-    width: 100% !important;
-  }
-
-  .site-nav .dropdown-menu li {
-    width: auto !important;
-  }
-
-  .site-nav .dropdown-menu a {
-    font-size: 0.78rem !important;
-    color: #64748b !important;
-    padding: 2px 4px !important;
-  }
-
-  /* Reduz margens de títulos no mobile */
-  h1, h2, h3, 
-  .post-title, 
-  .page-title, 
-  .entry-title {
-    margin-top: 15px !important;
-    margin-bottom: 10px !important;
-    line-height: 1.25 !important;
-  }
-
-  /* Compacta topo das páginas no mobile */
-  .site-content, 
-  .page-content, 
-  .post-content {
-    padding-top: 10px !important;
+    display: none !important;
   }
 }
 
