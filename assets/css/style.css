@@ -686,18 +686,18 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   10. AJUSTES RESPONSIVOS MOBILE
+   10. AJUSTES RESPONSIVOS MOBILE (COMPACTO)
    ========================================= */
 @media screen and (max-width: 768px) {
   .site-header-container {
     flex-direction: column !important;
     align-items: center !important;
-    padding: 10px 15px !important;
-    gap: 10px !important;
+    padding: 8px 12px !important;
+    gap: 6px !important;
   }
 
   .site-logo-img {
-    height: 32px !important;
+    height: 28px !important;
     width: auto !important;
   }
 
@@ -705,52 +705,50 @@ body.home-page .site-content {
     width: 100% !important;
   }
 
-  /* Organiza os itens do menu em coluna centralizada no mobile */
+  /* Organiza os links em uma grelha compacta de duas linhas */
   .site-nav ul {
     display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
+    flex-wrap: wrap !important;
     justify-content: center !important;
-    gap: 6px !important;
+    gap: 4px 10px !important;
     padding: 0 !important;
-    margin: 8px auto 0 auto !important;
+    margin: 4px 0 0 0 !important;
     list-style: none !important;
   }
 
   .site-nav li {
     margin: 0 !important;
-    width: 100% !important;
-    text-align: center !important;
   }
 
   .site-nav a {
-    font-size: 0.9rem !important;
-    padding: 6px 12px !important;
-    display: inline-block !important;
+    font-size: 0.82rem !important;
+    padding: 4px 8px !important;
+    color: #475569 !important;
   }
 
-  /* Comportamento limpo e centralizado para o Submenu/Dropdown no mobile */
+  /* Submenu limpo e discreto (sem caixa grande) */
   .site-nav .dropdown-menu {
     position: static !important;
     display: flex !important;
-    flex-direction: column !important;
+    flex-direction: row !important; /* Coloca Parafusadeiras e Furadeiras lado a lado */
+    justify-content: center !important;
+    gap: 12px !important;
+    background: transparent !important;
     box-shadow: none !important;
     border: none !important;
-    background-color: #f1f5f9 !important; /* Fundo suave para destacar os subitens */
-    border-radius: 8px !important;
-    padding: 4px 0 !important;
-    margin: 4px auto !important;
-    width: 80% !important;
-  }
-
-  .site-nav .dropdown-menu li {
+    padding: 2px 0 !important;
+    margin: 0 auto !important;
     width: 100% !important;
   }
 
+  .site-nav .dropdown-menu li {
+    width: auto !important;
+  }
+
   .site-nav .dropdown-menu a {
-    font-size: 0.82rem !important;
-    color: #475569 !important;
-    padding: 5px 10px !important;
+    font-size: 0.78rem !important;
+    color: #64748b !important;
+    padding: 2px 4px !important;
   }
 
   /* Reduz margens de títulos no mobile */
@@ -775,11 +773,11 @@ body.home-page .site-content {
   display: block;
   width: 100%;
   height: 180px;
-  background-color: #f1f5f9; /* Fundo cinza claro elegante para a área da imagem */
+  background-color: #f1f5f9;
   border-radius: 8px 8px 0 0;
   overflow: hidden;
   text-decoration: none;
-  color: #334155 !important; /* Força a cor do texto/alt para cinza escuro visível */
+  color: #334155 !important;
   font-size: 0.85rem;
 }
 
@@ -788,9 +786,8 @@ body.home-page .site-content {
   height: 100%;
   object-fit: cover;
   display: block;
-  color: #334155; /* Cor do texto alternativo caso falhe o carregamento */
+  color: #334155;
 }
-
 
 /* =========================================
    11. HOME INDEX
