@@ -25,27 +25,60 @@ permalink: /furadeiras/
       </details>
     </div>
 
-    <!-- 2. CARDS DE ACESSO RÁPIDO (PERFIS) -->
-    <h2 id="escolha-por-perfil">Para que você vai usar a furadeira?</h2>
-    <p>Selecione a sua necessidade para entender qual categoria atende melhor ao seu projeto:</p>
-    
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin: 1.5rem 0 2.5rem 0;">
-      
-      <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
-        <span style="font-size: 1.8rem;">🧱</span>
-        <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Perfuração de Alvenaria</h3>
-        <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Modelos com função impacto indispensáveis para furar paredes, tijolos e concreto leve.</p>
-        <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver opções recomendadas →</a>
-      </div>
+   <h2 id="escolha-por-perfil">Para que você vai usar a furadeira?</h2>
+<p>Selecione a sua necessidade para entender qual categoria atende melhor ao seu projeto:</p>
 
-      <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
-        <span style="font-size: 1.8rem;">🏠</span>
-        <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Uso Doméstico Geral</h3>
-        <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Versatilidade para pendurar quadros, instalar suportes e realizar pequenos reparos em casa.</p>
-        <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver guias práticos →</a>
-      </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin: 1.5rem 0 2.5rem 0;">
 
-    </div>
+  <!-- Card 1 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🧱</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Perfuração de Alvenaria</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Furadeiras com função impacto para perfurar paredes, tijolos e concreto com facilidade.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver modelos de impacto →</a>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🏠</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Reparos e Manutenção da Casa</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Pendurar quadros, prateleiras, suportes de TV e cortinas com precisão.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver opções para uso doméstico →</a>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">💰</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Opções de até R$ 300</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Furadeiras potentes e acessíveis com excelente custo-benefício.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver furadeiras até R$ 300 →</a>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🧰</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Minha Primeira Furadeira</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Modelos fáceis de manusear com empunhadura auxiliar e chave de mandril intuitiva.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver opções para iniciantes →</a>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🪵</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Trabalhos em Madeira e Metal</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Furadeiras sem impacto com alta rotação e controle de velocidade para furos limpos.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver modelos de alta precisão →</a>
+  </div>
+
+  <!-- Card 6 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🔌</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Com Fio vs. A Bateria</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Entenda quando vale a pena ter potência contínua (com fio) ou mobilidade (a bateria).</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver comparativo de alimentação →</a>
+  </div>
+
+</div>
 
     <!-- 3. CONTEÚDO TÉCNICO EDUCATIVO -->
     <h2 id="tipos-de-furadeira">Tipos de Furadeira: Qual a diferença?</h2>
