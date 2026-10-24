@@ -837,21 +837,3 @@ body.home-page .site-content {
   .pc-home .pc-hero h1 {font-size:clamp(29px,8vw,34px)}
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
-
-/* Remove qualquer caixa de sumário automática gerada pelo tema no topo do post */
-div.toc,
-#toc,
-.toc,
-#toc_container,
-.toc_container,
-#markdown-toc,
-.post-content > *:first-child:not(.toc-box),
-.entry-content > *:first-child:not(.toc-box) {
-  display: none !important;
-}
-
-/* Garante que a SUA caixa .toc-box nunca seja afetada e apareça sempre */
-.post-content > .toc-box:first-of-type,
-.entry-content > .toc-box:first-of-type {
-  display: block !important;
-}
