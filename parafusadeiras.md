@@ -25,27 +25,60 @@ permalink: /parafusadeiras/
       </details>
     </div>
 
-    <!-- 2. CARDS DE ACESSO RÁPIDO (PERFIS) -->
     <h2 id="perfis-de-uso">Para que você vai usar a parafusadeira?</h2>
-    <p>Selecione o seu objetivo principal para ir direto às recomendações mais adequadas:</p>
-    
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin: 1.5rem 0 2.5rem 0;">
-      
-      <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
-        <span style="font-size: 1.8rem;">🪑</span>
-        <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Montagem de Móveis & MDF</h3>
-        <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Modelos leves com controle de torque para não espanar parafusos em móveis planejados.</p>
-        <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver análises recomendadas →</a>
-      </div>
+<p>Selecione o seu objetivo principal para ir direto às recomendações mais adequadas:</p>
 
-      <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
-        <span style="font-size: 1.8rem;">💰</span>
-        <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Custo-Benefício (Até R$ 300)</h3>
-        <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Opções de entrada duráveis para quem quer economizar sem comprar ferramentas descartáveis.</p>
-        <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver opções testadas →</a>
-      </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin: 1.5rem 0 2.5rem 0;">
 
-    </div>
+  <!-- Card 1 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🪑</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Montagem de Móveis & MDF</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Modelos leves com regulagem fina de torque para não espanar MDF e MDP.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver opções para móveis →</a>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🏠</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Reparos e Manutenção</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Modelos versáteis para apertar dobradiças, suportes e pequenas tarefas do dia a dia.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver opções para casa →</a>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">💰</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Opções de até R$ 300</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Ferramentas de entrada com ótimo custo-benefício para quem quer economizar.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver até R$ 300 →</a>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🧰</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Minha Primeira Parafusadeira</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Kits completos com maleta e bits prontos para usar sem complicação.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver kits para iniciantes →</a>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">🪶</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Leveza e Conforto</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Modelos ultra-compactos e ergonômicos para uso prolongado sem cansar a mão.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver modelos ergonômicos →</a>
+  </div>
+
+  <!-- Card 6 -->
+  <div style="border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem; background: #f8fafc;">
+    <span style="font-size: 1.8rem;">⚡</span>
+    <h3 style="font-size: 1.1rem; margin: 0.5rem 0 0.25rem 0; color: #0f172a;">Com Função Impacto (2 em 1)</h3>
+    <p style="font-size: 0.9rem; color: #64748b; margin-bottom: 1rem;">Parafusadeiras a bateria reforçadas que também furam tijolos e alvenaria.</p>
+    <a href="#artigos-relacionados" style="color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Ver modelos com impacto →</a>
+  </div>
+
+</div>
 
     <!-- 3. CONTEÚDO TÉCNICO EDUCATIVO -->
     <h2 id="como-escolher-torque">O que é Torque e Como Afeta a Escolha</h2>
