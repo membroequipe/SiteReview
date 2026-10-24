@@ -838,9 +838,11 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-/* Esconde o índice numerado automático gerado pelo Jekyll/Tema */
+/* Esconde a lista numerada de TOC gerada automaticamente */
 #markdown-toc,
+.post-content > ol:first-of-type,
 .post-content > ul:first-of-type,
+.entry-content > ol:first-of-type,
 .entry-content > ul:first-of-type {
   display: none !important;
 }
