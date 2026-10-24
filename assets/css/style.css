@@ -856,15 +856,15 @@ body.home-page .site-content {
 #markdown-toc {
   display: none !important;
 }
-/* Força a remoção de QUALQUER sumário gerado automaticamente pelo tema */
+/* Remove completamente a caixa inteira do plugin de TOC indesejado */
 #toc_container,
 .toc_container,
-#markdown-toc,
 .table-of-contents,
+#toc,
+.toc,
+#markdown-toc,
 div.toc,
-ul.toc-list,
-.post-content > ul:first-of-type,
-.post-content > ol:first-of-type,
-.post-content > div:first-child {
+.post-content > details:first-of-type,
+.entry-content > details:first-of-type {
   display: none !important;
 }
