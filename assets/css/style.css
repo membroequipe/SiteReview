@@ -871,16 +871,21 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   12. AJUSTE DE TÍTULOS MOBILE (PILARES)
+    12. AJUSTE DE TÍTULOS MOBILE (PILARES)
    ========================================= */
 @media screen and (max-width: 768px) {
-  /* Alvo específico para páginas que usam classe de pilar ou container de categoria */
+  /* Atinge qualquer título principal (h1) ou classe de título em páginas de pilares */
   .page-container h1, 
   .category-container h1,
-  .post-header h1 {
-    font-size: 1.5rem !important; /* Reduz ligeiramente o tamanho para caber melhor */
-    line-height: 1.2 !important;  /* Compacta o espaço entre as linhas */
+  .post-header h1,
+  .page-content h1,
+  .entry-title,
+  .page-title {
+    font-size: 1.4rem !important;
+    line-height: 1.15 !important;
+    letter-spacing: -0.5px !important;
     margin-top: 5px !important;
     margin-bottom: 8px !important;
+    word-break: break-word !important;
   }
 }
