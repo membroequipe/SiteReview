@@ -846,3 +846,13 @@ body.home-page .site-content {
 .entry-content > ul:first-of-type {
   display: none !important;
 }
+
+/* Oculta a caixa de índice gerada pelo plugin/tema ("Conteúdo [ocultar]") */
+#toc_container,
+.toc_container,
+.table-of-contents,
+#toc,
+.toc,
+#markdown-toc {
+  display: none !important;
+}
