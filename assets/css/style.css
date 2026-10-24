@@ -838,33 +838,20 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-/* Esconde a lista numerada de TOC gerada automaticamente */
+/* Remove qualquer caixa de sumário automática gerada pelo tema no topo do post */
+div.toc,
+#toc,
+.toc,
+#toc_container,
+.toc_container,
 #markdown-toc,
-.post-content > ol:first-of-type,
-.post-content > ul:first-of-type,
-.entry-content > ol:first-of-type,
-.entry-content > ul:first-of-type {
+.post-content > *:first-child:not(.toc-box),
+.entry-content > *:first-child:not(.toc-box) {
   display: none !important;
 }
 
-/* Oculta a caixa de índice gerada pelo plugin/tema ("Conteúdo [ocultar]") */
-#toc_container,
-.toc_container,
-.table-of-contents,
-#toc,
-.toc,
-#markdown-toc {
-  display: none !important;
-}
-/* Remove completamente a caixa inteira do plugin de TOC indesejado */
-#toc_container,
-.toc_container,
-.table-of-contents,
-#toc,
-.toc,
-#markdown-toc,
-div.toc,
-.post-content > details:first-of-type,
-.entry-content > details:first-of-type {
-  display: none !important;
+/* Garante que a SUA caixa .toc-box nunca seja afetada e apareça sempre */
+.post-content > .toc-box:first-of-type,
+.entry-content > .toc-box:first-of-type {
+  display: block !important;
 }
