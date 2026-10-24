@@ -856,3 +856,15 @@ body.home-page .site-content {
 #markdown-toc {
   display: none !important;
 }
+/* Força a remoção de QUALQUER sumário gerado automaticamente pelo tema */
+#toc_container,
+.toc_container,
+#markdown-toc,
+.table-of-contents,
+div.toc,
+ul.toc-list,
+.post-content > ul:first-of-type,
+.post-content > ol:first-of-type,
+.post-content > div:first-child {
+  display: none !important;
+}
