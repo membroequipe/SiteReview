@@ -5,6 +5,18 @@ description: "Descubra os modelos ideais para perfuração em alvenaria, concret
 permalink: /furadeiras/
 ---
 
+<style>
+  /* Ajuste cirúrgico do título no Mobile para esta página */
+  @media (max-width: 768px) {
+    .page-header h1, 
+    .category-container h1,
+    h1 {
+      font-size: 1.6rem !important;
+      line-height: 1.25 !important;
+    }
+  }
+</style>
+
 <div class="site-content">
   <div class="post-content">
 
