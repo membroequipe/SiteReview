@@ -705,30 +705,52 @@ body.home-page .site-content {
     width: 100% !important;
   }
 
+  /* Organiza os itens do menu em coluna centralizada no mobile */
   .site-nav ul {
     display: flex !important;
-    flex-wrap: wrap !important;
+    flex-direction: column !important;
+    align-items: center !important;
     justify-content: center !important;
-    gap: 8px 12px !important;
+    gap: 6px !important;
     padding: 0 !important;
-    margin: 0 auto !important;
+    margin: 8px auto 0 auto !important;
+    list-style: none !important;
   }
 
   .site-nav li {
     margin: 0 !important;
+    width: 100% !important;
+    text-align: center !important;
   }
 
   .site-nav a {
-    font-size: 0.85rem !important;
-    padding: 4px 6px !important;
+    font-size: 0.9rem !important;
+    padding: 6px 12px !important;
+    display: inline-block !important;
   }
 
+  /* Comportamento limpo e centralizado para o Submenu/Dropdown no mobile */
   .site-nav .dropdown-menu {
-    position: static;
-    box-shadow: none;
-    border: none;
-    padding-left: 10px;
-    display: none;
+    position: static !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-shadow: none !important;
+    border: none !important;
+    background-color: #f1f5f9 !important; /* Fundo suave para destacar os subitens */
+    border-radius: 8px !important;
+    padding: 4px 0 !important;
+    margin: 4px auto !important;
+    width: 80% !important;
+  }
+
+  .site-nav .dropdown-menu li {
+    width: 100% !important;
+  }
+
+  .site-nav .dropdown-menu a {
+    font-size: 0.82rem !important;
+    color: #475569 !important;
+    padding: 5px 10px !important;
   }
 
   /* Reduz margens de títulos no mobile */
@@ -770,9 +792,8 @@ body.home-page .site-content {
 }
 
 
-
 /* =========================================
-   11. HOME NOVA — INDEX_NOVO.HTML
+   11. HOME INDEX
    Estilos isolados no namespace .pc-home
    ========================================= */
 .pc-home{--pc-ink:#101b2a;--pc-muted:#66758a;--pc-yellow:#ffcb39;--pc-orange:#f59b24;max-width:1100px;margin:28px auto 70px;padding:0 20px;font-family:inherit}
