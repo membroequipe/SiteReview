@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+---
+layout: default
+---
 
 <article class="post-container">
   <header class="post-header">
@@ -8,7 +11,7 @@ layout: default
     <p class="post-meta">Publicado em {{ page.date | date: "%d/%m/%Y" }}</p>
   </header>
 
- <!-- IMAGEM DE DESTAQUE DO POST -->
+  <!-- IMAGEM DE DESTAQUE DO POST -->
   {% if page.image %}
     <div class="post-featured-image">
       <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
@@ -19,21 +22,11 @@ layout: default
     </div>
   {% endif %}
 
-  <!-- CAIXA DO ÍNDICE RETRÁTIL MODELO ASPIRADORES -->
-  <div class="toc-container" id="toc-box" style="display: none;">
-    <details open>
-      <summary>
-        <span class="toc-title">Conteúdo</span>
-      </summary>
-      <ul id="auto-toc" class="toc-list"></ul>
-    </details>
-  </div>
-
+  <!-- CONTEÚDO DO ARTIGO (Sua caixa .toc-box HTML já vai declarada dentro do .md) -->
   <div class="post-content" id="post-content">
     {{ content }}
   </div>
 </article>
-
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const content = document.getElementById("post-content");
