@@ -938,3 +938,24 @@ body.home-page .site-content {
     object-fit: cover !important; /* Estica e preenche o quadrado de ponta a ponta */
     object-position: center !important;
 }
+
+/* =========================================
+   EXPANSÃO DA LARGURA NO DESKTOP (PADRÃO CONCORRENTE)
+   ========================================= */
+@media screen and (min-width: 1024px) {
+    .site-header-container {
+        max-width: 1340px !important;
+    }
+    
+    .site-content {
+        max-width: 1340px !important;
+    }
+
+    body.home-page .site-content {
+        max-width: 1380px !important;
+    }
+
+    .pc-home {
+        max-width: 1320px !important;
+    }
+}
