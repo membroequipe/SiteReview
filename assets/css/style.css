@@ -887,11 +887,11 @@ body.home-page .site-content {
 }
 
 
-/* =========================================
-   GRELHA EM 2 COLUNAS E OCULTAÇÃO DE METADADOS (MOBILE)
-   ========================================= */
+/* ==============================================
+   GRELHA EM 2 COLUNAS E APENAS TÍTULOS NO MOBILE
+   ============================================== */
 @media screen and (max-width: 768px) {
-  /* Força a grelha de 2 colunas na Home, Reviews, Comparativos e Guias */
+  /* 1. Força 2 colunas em todas as grelhas */
   .home-posts-grid,
   .reviews-grid,
   .comparisons-grid,
@@ -915,28 +915,33 @@ body.home-page .site-content {
     padding: 12px 10px !important;
   }
 
+  /* 2. Mantém apenas o título legível e compacto */
   .home-post-title,
   .review-card-title,
   .comparison-card-title,
-  .home-post-card h3 {
+  .home-post-card h3,
+  .review-card h3,
+  .comparison-card h3 {
     font-size: 0.9rem !important;
     line-height: 1.25 !important;
+    display: block !important;
   }
 
- /* Oculta de forma universal qualquer data, autor ou metadado dentro de posts/cards no mobile */
-  article .home-post-date,
-  article .review-card-date,
-  article .post-date,
-  article .entry-date,
-  article .posted-on,
-  article .byline,
-  article .author,
-  article .home-post-meta,
-  article .review-meta,
-  article .post-meta,
-  .home-post-card time,
-  .review-card time,
-  .post-card time {
+  /* 3. Oculta TUDO o resto dentro dos cards (datas, autores, resumos, metadados, etc.) */
+  .home-post-excerpt,
+  .review-card-excerpt,
+  .comparison-card-excerpt,
+  .home-post-date,
+  .review-card-date,
+  .home-post-meta,
+  .review-meta,
+  .comparison-card-date,
+  .comparison-meta,
+  .post-meta,
+  time,
+  .author,
+  .byline,
+  .entry-date {
     display: none !important;
   }
 }
