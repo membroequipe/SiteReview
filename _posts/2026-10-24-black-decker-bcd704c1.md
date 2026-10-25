@@ -90,7 +90,7 @@ A Black+Decker BCD704C1 chega ao mercado como uma proposta consolidada dentro do
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/black-decker-bcd704c1.webp' | relative_url }}" alt="Black+Decker BCD704C1">
+      <img src="{{ '/assets/images/posts/black-decker-bcd704c1.png' | relative_url }}" alt="Black+Decker BCD704C1">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Black+Decker BCD704C1</h3>
