@@ -869,3 +869,15 @@ body.home-page .site-content {
   .pc-home .pc-hero h1 {font-size:clamp(29px,8vw,34px)}
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
+
+/* =========================================
+   12. AJUSTE ESPECÍFICO PARA A GRELHA / CARDS
+   ========================================= */
+.home-post-img-link img,
+.review-post-img-link img {
+    width: 100% !important;
+    height: 100% !important;
+    max-height: 185px !important;
+    object-fit: contain !important; /* Mantém a imagem inteira nos cards sem cortes */
+    object-position: center !important;
+}
