@@ -871,22 +871,29 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   12. ESTILO GLOBAL PARA CARDS DA GRELHA
+   ESTILO GLOBAL PANORÂMICO PARA CARDS DA GRELHA
    ========================================= */
-.home-post-img-link,
-.review-post-img-link {
-    padding: 0 !important;                /* Remove qualquer margem interna ou padding */
-    background: #0f172a !important;       /* Fundo escuro de apoio */
-    border-radius: 16px 16px 0 0 !important; /* Mantém o arredondamento superior do card */
-    overflow: hidden !important;
+
+/* Transforma o container da imagem num banner panorâmico no topo do card */
+.home-post-card {
+    overflow: hidden !important; /* Garante que a imagem respeita os cantos arredondados do card */
 }
 
-.home-post-img-link img,
-.review-post-img-link img {
+.home-post-card .home-post-img-link {
+    display: block !important;
+    width: 100% !important;
+    height: 185px !important;    /* Altura fixa padrão para todos os cards */
+    padding: 0 !important;
+    margin: 0 !important;
+    background: #0f172a !important;
+    border: none !important;
+}
+
+.home-post-card .home-post-img-link img {
     width: 100% !important;
     height: 100% !important;
-    max-height: 185px !important;
-    object-fit: cover !important;       /* Preenche 100% do espaço de ponta a ponta */
+    object-fit: cover !important;       /* Faz a foto preencher 100% de ponta a ponta sem sobras */
     object-position: center !important;
     display: block !important;
+    border-radius: 0 !important;        /* O arredondamento fica a cargo do card principal */
 }
