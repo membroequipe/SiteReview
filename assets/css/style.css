@@ -871,13 +871,22 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   12. AJUSTE PARA A GRELHA/CARDS
+   12. ESTILO GLOBAL PARA CARDS DA GRELHA
    ========================================= */
+.home-post-img-link,
+.review-post-img-link {
+    padding: 0 !important;                /* Remove qualquer margem interna ou padding */
+    background: #0f172a !important;       /* Fundo escuro de apoio */
+    border-radius: 16px 16px 0 0 !important; /* Mantém o arredondamento superior do card */
+    overflow: hidden !important;
+}
+
 .home-post-img-link img,
 .review-post-img-link img {
     width: 100% !important;
     height: 100% !important;
     max-height: 185px !important;
-    object-fit: contain !important; /* Mantém a imagem inteira nos cards sem cortes */
+    object-fit: cover !important;       /* Preenche 100% do espaço de ponta a ponta */
     object-position: center !important;
+    display: block !important;
 }
