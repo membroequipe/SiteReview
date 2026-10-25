@@ -922,3 +922,19 @@ body.home-page .site-content {
     padding: 0 !important;       /* Remove o padding de 10px que encolhia a imagem */
     border-radius: 0 !important;
 }
+
+/* =========================================
+   AJUSTE DA MINIATURA NO BLOCO DE AFILIADO
+   ========================================= */
+.product-card-img {
+    background-color: #ffffff !important;
+    overflow: hidden !important;
+    padding: 0 !important; /* Remove o padding interno que deixava a imagem menor */
+}
+
+.product-card-img img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important; /* Estica e preenche o quadrado de ponta a ponta */
+    object-position: center !important;
+}
