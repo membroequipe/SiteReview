@@ -5,7 +5,7 @@ description: "Descubra qual a melhor parafusadeira para o seu perfil em 2026. Co
 slug: "qual-a-melhor-parafusadeira"
 permalink: "/qual-a-melhor-parafusadeira/"
 image: "/assets/images/teste-dewalt.jpg"
-categories: [parafusadeiras, guias]
+categories: [guias]
 author: "Equipe de Análises"
 date: 2026-10-22
 ---
