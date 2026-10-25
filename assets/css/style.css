@@ -870,31 +870,36 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-/* =========================================
+/* ==============================================
    ESTILO GLOBAL PANORÂMICO PARA CARDS DA GRELHA
-   ========================================= */
-
-/* Transforma o container da imagem num banner panorâmico no topo do card */
+   ============================================== */
 
 .home-post-card {
-    overflow: hidden !important; /* Garante que a imagem respeite os cantos arredondados do card */
+    overflow: hidden !important;
+    border-radius: 16px !important;
 }
 
+/* Sobrescreve qualquer regra anterior da home para aplicar o banner panorâmico */
+.pc-home .home-post-img-link,
 .home-post-card .home-post-img-link {
     display: block !important;
     width: 100% !important;
-    height: 185px !important;    /* Altura fixa padrão para todos os cards */
+    height: 185px !important;
     padding: 0 !important;
     margin: 0 !important;
     background: #0f172a !important;
     border: none !important;
+    border-bottom: none !important;
 }
 
+.pc-home .home-post-img-link img,
 .home-post-card .home-post-img-link img {
     width: 100% !important;
     height: 100% !important;
-    object-fit: cover !important;       /* Faz a foto preencher 100% de ponta a ponta sem sobras */
+    max-width: 100% !important;
+    max-height: 100% !important;
+    object-fit: cover !important;       /* Preenche de ponta a ponta exatamente como o concorrente */
     object-position: center !important;
     display: block !important;
-    border-radius: 0 !important;        /* O arredondamento fica a cargo do card principal */
+    border-radius: 0 !important;
 }
