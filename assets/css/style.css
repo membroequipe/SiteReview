@@ -923,17 +923,20 @@ body.home-page .site-content {
     line-height: 1.25 !important;
   }
 
-  /* Oculta resumos, datas e autores em todas as páginas no mobile */
-  .home-post-excerpt,
-  .review-card-excerpt,
-  .comparison-card-excerpt,
-  .home-post-date,
-  .review-card-date,
-  .home-post-meta,
-  .review-meta,
-  .comparison-card-date,
-  .comparison-meta,
-  .post-meta {
+ /* Oculta de forma universal qualquer data, autor ou metadado dentro de posts/cards no mobile */
+  article .home-post-date,
+  article .review-card-date,
+  article .post-date,
+  article .entry-date,
+  article .posted-on,
+  article .byline,
+  article .author,
+  article .home-post-meta,
+  article .review-meta,
+  article .post-meta,
+  .home-post-card time,
+  .review-card time,
+  .post-card time {
     display: none !important;
   }
 }
@@ -973,7 +976,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   AJUSTE DA MINIATURA NO BLOCO DE AFILIADO
+   MINIATURA NO BLOCO DE AFILIADO
    ========================================= */
 .product-card-img {
     background-color: #ffffff !important;
@@ -989,7 +992,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   EXPANSÃO DA LARGURA NO DESKTOP 
+   LARGURA NO DESKTOP 
    ========================================= */
 @media screen and (min-width: 1024px) {
     .site-header-container {
