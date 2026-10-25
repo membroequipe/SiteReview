@@ -685,9 +685,9 @@ body.home-page .site-content {
     background-color: #ea580c;
 }
 
-/* =========================================
+/* =================================================
    10. AJUSTES RESPONSIVOS MOBILE (MENU HAMBÚRGUER)
-   ========================================= */
+   ================================================= */
 
 .mobile-menu-toggle {
   display: none;
@@ -857,11 +857,8 @@ body.home-page .site-content {
   @media(max-width:550px){.pc-home{padding:0 12px;margin-top:14px}.pc-hero{border-radius:17px}.pc-hero-main{padding:34px 22px}.pc-hero h1{font-size:34px}.pc-lead{font-size:14px}.pc-actions{flex-direction:column}.pc-action{width:100%}.pc-feature{padding:22px}.pc-trust{padding:19px 22px;gap:19px}.pc-situations{padding:23px 17px}.pc-situation-grid{grid-template-columns:1fr}.pc-situation-card{min-height:unset}.methodology-box{padding:24px}.methodology-grid{grid-template-columns:1fr 1fr;gap:22px}}
   @media(prefers-reduced-motion:reduce){.pc-home *{transition:none!important}}
 
-/* REMOVIDO Integração com regras globais de imagens e títulos */
-/*.pc-home .home-post-img-link {display:flex;height:185px;overflow:hidden;padding:15px;border-radius:16px 16px 0 0;background:#f7f9fb;align-items:center;justify-content:center}
-.pc-home .home-post-img-link img {width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain} */
+/* Integração com regras globais de imagens e títulos */
 
-/* NOVAS REGRAS */
 .pc-home .home-post-img-link {
   display: block;
   width: 100%;
