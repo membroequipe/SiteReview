@@ -112,20 +112,34 @@ permalink: /parafusadeiras/
       <li><strong>Velocidade Variável no Gatilho:</strong> Oferece controle total na hora de iniciar o aperto do parafuso.</li>
     </ul>
 
-    <!-- 4. VITRINE DE ARTIGOS RELACIONADOS -->
+    <!-- 4. VITRINE DINÂMICA DE ARTIGOS RELACIONADOS -->
     <h2 id="artigos-relacionados">Análises e Comparativos de Parafusadeiras</h2>
     <p>Explore nossos artigos detalhados com testes práticos para decidir qual modelo levar para casa:</p>
     
-    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
-      <li style="margin-bottom: 1rem; padding: 1rem; border: 1px solid var(--border-color); border-radius: 8px; background: #ffffff;">
-        <a href="{{ '/comparativos/bosch-gsr-1000-smart-vs-gsb-120-li/' | relative_url }}" style="text-decoration: none; font-weight: 700; color: #0f172a; font-size: 1.05rem;">
-          Bosch GSR 1000 Smart vs Bosch GSB 120-LI: Qual Vale a Pena em 2026?
-        </a>
-        <p style="margin: 0.3rem 0 0 0; font-size: 0.9rem; color: #64748b;">
-          Duelo direto entre duas das opções mais populares do mercado para te ajudar a escolher sem erro.
-        </p>
-      </li>
-    </ul>
+    <div class="reviews-grid" style="margin-top: 1.5rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+        
+        {% assign parafusadeiras_posts = site.posts | where_exp: "post", "post.category == 'parafusadeiras' or post.categories contains 'parafusadeiras'" %}
+        
+        {% if parafusadeiras_posts.size > 0 %}
+          {% for post in parafusadeiras_posts %}
+            <article class="review-card" style="border: 1px solid var(--border-color); border-radius: 8px; overflow: hidden; background: #ffffff;">
+              <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit; display: block;">
+                <div class="review-content" style="padding: 16px;">
+                  <span class="review-badge" style="font-size: 0.75rem; font-weight: 700; color: #2563eb; text-transform: uppercase;">{{ post.categories | join: " / " | default: "Parafusadeiras" }}</span>
+                  <h3 class="review-card-title" style="font-size: 1.1rem; margin: 8px 0; color: #0f172a; line-height: 1.4;">{{ post.title }}</h3>
+                  <p class="review-card-excerpt" style="color: #475569; font-size: 0.9rem; margin: 0 0 12px 0;">{{ post.excerpt | strip_html | truncate: 110 }}</p>
+                  <div class="review-date" style="font-size: 0.8rem; color: #94a3b8;">{{ post.date | date: "%d/%m/%Y" }}</div>
+                </div>
+              </a>
+            </article>
+          {% endfor %}
+        {% else %}
+          <p style="grid-column: 1 / -1; color: #64748b; text-align: center; padding: 30px 0;">Em breve novos reviews e comparativos de parafusadeiras publicados.</p>
+        {% endif %}
+        
+      </div>
+    </div>
 
   </div>
 </div>
