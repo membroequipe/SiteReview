@@ -875,8 +875,9 @@ body.home-page .site-content {
    ========================================= */
 
 /* Transforma o container da imagem num banner panorâmico no topo do card */
+
 .home-post-card {
-    overflow: hidden !important; /* Garante que a imagem respeita os cantos arredondados do card */
+    overflow: hidden !important; /* Garante que a imagem respeite os cantos arredondados do card */
 }
 
 .home-post-card .home-post-img-link {
