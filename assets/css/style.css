@@ -886,8 +886,49 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
+
 /* =========================================
-   CORREÇÃO DEFINITIVA PARA TODOS OS CARDS (HOME E REVIEWS)
+   GRELHA EM 2 COLUNAS NO MOBILE (PADRÃO CONCORRENTE)
+   ========================================= */
+@media screen and (max-width: 768px) {
+  /* Força o container da grelha a ter 2 colunas no mobile */
+  .home-posts-grid,
+  .reviews-grid,
+  .ph6-guides {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important; /* 2 colunas de tamanho igual */
+    gap: 12px !important;                             /* Espaçamento ideal para ecrãs pequenos */
+    padding: 0 10px !important;
+  }
+
+  /* Ajusta os textos e paddings internos dos cards para caberem bem em 2 colunas */
+  .home-post-card,
+  .review-card {
+    margin-bottom: 0 !important;
+  }
+
+  .home-post-content,
+  .review-content {
+    padding: 12px 10px !important;
+  }
+
+  /* Reduz ligeiramente os títulos para não quebrarem muitas linhas */
+  .home-post-title,
+  .review-card-title,
+  .home-post-card h3 {
+    font-size: 0.9rem !important;
+    line-height: 1.25 !important;
+  }
+
+  /* Esconde ou reduz resumos longos no mobile para manter os cards alinhados */
+  .home-post-excerpt,
+  .review-card-excerpt {
+    display: none !important; /* Recomendado no mobile de 2 colunas para ficar limpo */
+  }
+}
+
+/* =========================================
+    CARDS (HOME E REVIEWS)
    ========================================= */
 .home-post-card,
 .review-card {
@@ -937,7 +978,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   EXPANSÃO DA LARGURA NO DESKTOP (PADRÃO CONCORRENTE)
+   EXPANSÃO DA LARGURA NO DESKTOP 
    ========================================= */
 @media screen and (min-width: 1024px) {
     .site-header-container {
