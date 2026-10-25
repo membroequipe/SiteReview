@@ -889,34 +889,36 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-/* ===================================
-   ESTILO PANORÂMICO PARA A GRELHA 
-   =================================== */
-.home-post-card {
-  background: #fff;
-  border: 1px solid #e3e9f0;
-  border-radius: 16px;
-  overflow: hidden; /* Garante o corte dos cantos */
-  display: flex;
-  flex-direction: column;
-  transition: transform .2s, box-shadow .2s;
+/* =========================================
+   CORREÇÃO DEFINITIVA PARA TODOS OS CARDS (HOME E REVIEWS)
+   ========================================= */
+.home-post-card,
+.review-card {
+    overflow: hidden !important;
+    border-radius: 16px !important;
 }
 
-.home-post-img-link {
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 9; /* Mantém 16:9 idêntico ao concorrente */
-  background: #f0ede8;
-  padding: 0;           /* Zera o padding original */
-  border-bottom: 1px solid #edf0f3;
-  overflow: hidden;
+.home-post-img-link,
+.review-img-wrapper {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    padding: 0 !important;       /* Remove totalmente o espaço branco ao redor */
+    margin: 0 !important;
+    background: #0f172a !important;
+    border: none !important;
+    overflow: hidden !important;
 }
 
-.home-post-img-link img {
-  width: 100%;
-  height: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;    /* Preenchimento total */
-  object-position: center;
-  display: block;
+.home-post-img-link img,
+.review-img-wrapper img {
+    width: 100% !important;
+    height: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    object-fit: cover !important;    /* Força o preenchimento total de ponta a ponta */
+    object-position: center !important;
+    display: block !important;
+    padding: 0 !important;       /* Remove o padding de 10px que encolhia a imagem */
+    border-radius: 0 !important;
 }
