@@ -997,3 +997,13 @@ body.home-page .site-content {
         max-width: 1320px !important;
     }
 }
+
+/* =========================================
+   LETRAS MAIÚSCULAS NOS BADGES DE CATEGORIA
+   ========================================= */
+.home-post-badge,
+.review-badge,
+.post-badge {
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important; /* Dá um espaçamento elegante típico de letras maiúsculas */
+}
