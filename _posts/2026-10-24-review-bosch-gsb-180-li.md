@@ -3,7 +3,7 @@ layout: post
 title: "Review Bosch GSB 180-LI: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Bosch GSB 180-LI 18V: torque de 60 Nm, mandril metálico e ecossistema Professional. Descubra se vale a pena comprar em 2026!"
 slug: "review-bosch-gsb-180-li"
-category: "Reviews"
+categories: [furadeiras, reviews]
 image: "/assets/images/posts/review-bosch-gsb-180-li.jpg"
 date: 2026-10-24
 author: "Equipe de Análises"

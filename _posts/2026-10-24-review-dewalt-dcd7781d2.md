@@ -3,7 +3,7 @@ layout: post
 title: "Review DeWalt DCD7781D2: Vale a Pena em 2026? Análise Completa!"
 description: "Review completo da DeWalt DCD7781D2 20V Brushless: torque de 65 Nm, mandril metálico e ergonomia compacta. Descubra se ela vale a pena em 2026!"
 slug: "review-dewalt-dcd7781d2-vale-a-pena-2026"
-category: "Reviews"
+categories: [furadeiras, reviews]
 image: "/assets/images/posts/review-dewalt-dcd7781d2.jpg"
 date: 2026-10-24
 author: "Equipe de Análises"

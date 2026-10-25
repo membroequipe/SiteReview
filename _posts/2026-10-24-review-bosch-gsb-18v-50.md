@@ -3,7 +3,7 @@ layout: post
 title: "Review Bosch GSB 18V-50: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Bosch GSB 18V-50: torque real de 50 Nm, motor brushless e ergonomia profissional. Descubra se ela vale a pena em 2026!"
 slug: "review-bosch-gsb-18v-50"
-category: "Reviews"
+categories: [furadeiras, reviews]
 image: "/assets/images/posts/review-bosch-gsb-18v-50.jpg"
 date: 2026-10-24
 author: "Equipe de Análises"

@@ -3,7 +3,7 @@ layout: post
 title: "Review Black+Decker BCD704C1: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Black+Decker BCD704C1: torque de 42 Nm, mandril metálico e função impacto. Descubra se essa furadeira 20V MAX vale a pena em 2026."
 slug: "review-black-decker-bcd704c1"
-category: "Reviews"
+categories: [furadeiras, reviews]
 image: "/assets/images/posts/black-decker-bcd704c1.webp"
 date: 2026-10-24
 author: "Equipe de Análises"

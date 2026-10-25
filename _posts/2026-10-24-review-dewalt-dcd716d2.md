@@ -3,7 +3,7 @@ layout: post
 title: "Review DeWalt DCD716D2: Vale a Pena em 2026? Análise Completa!"
 description: "Review completo da DeWalt DCD716D2: furadeira 12V brushless com impacto, 30 Nm e 152 mm. Veja desempenho, prós, contras e se vale a pena comprar em 2026."
 slug: "review-dewalt-dcd716d2"
-category: "Reviews"
+categories: [furadeiras, reviews]
 image: "/assets/images/posts/review-dewalt-dcd716d2.jpg"
 date: 2026-10-24
 author: "Equipe de Análises"

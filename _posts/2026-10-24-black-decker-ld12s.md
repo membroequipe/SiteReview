@@ -3,7 +3,7 @@ layout: post
 title: "Review Black+Decker LD12S: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Black+Decker LD12S: torque de 30 Nm, 12V, leve e compacta. Vale a pena em 2026? Veja desempenho real, prós, contras e veredito."
 slug: "review-black-decker-ld12s"
-category: "Reviews"
+categories: [furadeiras, reviews]
 image: "/assets/images/posts/review-black-decker-ld12s.jpg"
 date: 2026-10-24
 author: "Equipe de Análises"

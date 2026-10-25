@@ -3,7 +3,7 @@ layout: post
 title: "Review Makita HP333: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Makita HP333 12V Impacto: motor brushless, 35 Nm, mandril metálico e nota 8,7/10. Veja desempenho real, pontos fortes e vale a pena comprar."
 slug: "review-makita-hp333-12v-impacto"
-category: "Reviews"
+categories: [furadeiras, reviews]
 image: "/assets/images/posts/review-makita-hp333-12v-impacto.jpg"
 date: 2026-10-24
 author: "Equipe de Análises"
