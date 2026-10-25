@@ -870,35 +870,28 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-/* ==============================================
-   ESTILO GLOBAL PANORÂMICO PARA CARDS DA GRELHA
-   ============================================== */
-
-.home-post-card {
-    overflow: hidden !important;
-    border-radius: 16px !important;
-}
-
-/* Sobrescreve qualquer regra anterior da home para aplicar o banner panorâmico */
-.pc-home .home-post-img-link,
+/* =========================================
+    12.FORÇAR BANNER NA GRELHA
+   ========================================= */
+.pc-home .home-post-card .home-post-img-link,
 .home-post-card .home-post-img-link {
     display: block !important;
     width: 100% !important;
     height: 185px !important;
-    padding: 0 !important;
+    padding: 0 !important;       /* Remove qualquer espaço branco interno */
     margin: 0 !important;
-    background: #0f172a !important;
+    background: #0f172a !important; /* Fundo escuro de segurança */
     border: none !important;
-    border-bottom: none !important;
+    overflow: hidden !important;
 }
 
-.pc-home .home-post-img-link img,
+.pc-home .home-post-card .home-post-img-link img,
 .home-post-card .home-post-img-link img {
     width: 100% !important;
     height: 100% !important;
     max-width: 100% !important;
     max-height: 100% !important;
-    object-fit: cover !important;       /* Preenche de ponta a ponta exatamente como o concorrente */
+    object-fit: cover !important;      /* Estica a imagem para preender 100% da largura e altura */
     object-position: center !important;
     display: block !important;
     border-radius: 0 !important;
