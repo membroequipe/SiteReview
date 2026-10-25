@@ -927,21 +927,11 @@ body.home-page .site-content {
     display: block !important;
   }
 
-  /* 3. Oculta TUDO o resto dentro dos cards (datas, autores, resumos, metadados, etc.) */
-  .home-post-excerpt,
-  .review-card-excerpt,
-  .comparison-card-excerpt,
+/* Oculta o resumo, data e autor especificamente nos cards de reviews e posts */
+  .review-card p,
+  .review-date,
   .home-post-date,
-  .review-card-date,
-  .home-post-meta,
-  .review-meta,
-  .comparison-card-date,
-  .comparison-meta,
-  .post-meta,
-  time,
-  .author,
-  .byline,
-  .entry-date {
+  .home-post-excerpt {
     display: none !important;
   }
 }
