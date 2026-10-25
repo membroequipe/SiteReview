@@ -888,13 +888,15 @@ body.home-page .site-content {
 
 
 /* =========================================
-   GRELHA EM 2 COLUNAS E AJUSTES NO MOBILE
+   GRELHA EM 2 COLUNAS E OCULTAÇÃO DE METADADOS (MOBILE)
    ========================================= */
 @media screen and (max-width: 768px) {
-  /* Força o container da grelha a ter 2 colunas no mobile */
+  /* Força a grelha de 2 colunas na Home, Reviews, Comparativos e Guias */
   .home-posts-grid,
   .reviews-grid,
-  .ph6-guides {
+  .comparisons-grid,
+  .ph6-guides,
+  .posts-grid {
     display: grid !important;
     grid-template-columns: repeat(2, 1fr) !important;
     gap: 12px !important;
@@ -902,29 +904,36 @@ body.home-page .site-content {
   }
 
   .home-post-card,
-  .review-card {
+  .review-card,
+  .comparison-card {
     margin-bottom: 0 !important;
   }
 
   .home-post-content,
-  .review-content {
+  .review-content,
+  .comparison-content {
     padding: 12px 10px !important;
   }
 
   .home-post-title,
   .review-card-title,
+  .comparison-card-title,
   .home-post-card h3 {
     font-size: 0.9rem !important;
     line-height: 1.25 !important;
   }
 
-  /* Esconde resumos, datas e autores no mobile */
+  /* Oculta resumos, datas e autores em todas as páginas no mobile */
   .home-post-excerpt,
   .review-card-excerpt,
+  .comparison-card-excerpt,
   .home-post-date,
   .review-card-date,
   .home-post-meta,
-  .review-meta {
+  .review-meta,
+  .comparison-card-date,
+  .comparison-meta,
+  .post-meta {
     display: none !important;
   }
 }
