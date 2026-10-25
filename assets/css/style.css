@@ -870,37 +870,33 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-/* =========================================
-   FORÇAR PREENCHIMENTO TOTAL SEM ESPAÇOS NA GRELHA
-   ========================================= */
-
+/* ===================================
+   ESTILO PANORÂMICO PARA A GRELHA 
+   =================================== */
 .home-post-card {
     overflow: hidden !important;
     border-radius: 16px !important;
 }
 
-/* Remove qualquer padding, margem ou fundo que crie espaço à volta da imagem */
 .pc-home .home-post-card .home-post-img-link,
-.home-post-card .home-post-img-link,
-.pc-home .home-post-img-link {
+.home-post-card .home-post-img-link {
     display: block !important;
     width: 100% !important;
-    height: 185px !important;
-    padding: 0 !important;       /* Zera o espaçamento interno */
+    aspect-ratio: 16 / 9 !important; /* Mantém a proporção panorâmica idêntica à do concorrente */
+    height: auto !important;
+    padding: 0 !important;
     margin: 0 !important;
-    background: #0f172a !important; /* Fundo escuro de segurança */
+    background: #f0ede8 !important; /* Cor de fundo neutra de apoio */
     border: none !important;
+    overflow: hidden !important;
 }
 
-/* Força a imagem a expandir e cobrir 100% da área, eliminando as bordas brancas */
 .pc-home .home-post-card .home-post-img-link img,
-.home-post-card .home-post-img-link img,
-.pc-home .home-post-img-link img {
+.home-post-card .home-post-img-link img {
     width: 100% !important;
     height: 100% !important;
-    max-width: 100% !important;
-    max-height: 100% !important;
-    object-fit: cover !important;       /* Cobre 100% do espaço de ponta a ponta */
+    aspect-ratio: 16 / 9 !important;
+    object-fit: cover !important;    /* Preenche perfeitamente de ponta a ponta */
     object-position: center !important;
     display: block !important;
     border-radius: 0 !important;
