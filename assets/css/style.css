@@ -527,39 +527,37 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   7. IMAGEM DE DESTAQUE DO ARTIGO
+   7. IMAGEM DE DESTAQUE DO ARTIGO (PREENCHIMENTO TOTAL)
    ========================================= */
 .post-featured-image {
     width: 100%;
-    max-height: 450px;
+    max-height: 480px;
     margin: 1.5rem 0 2rem 0;
     border-radius: 12px;
     overflow: hidden;
-    background-color: #ffffff; /* Fundo neutro caso sobra alguma lateral */
+    background-color: #000000; /* Fundo escuro de segurança caso carregue */
     border: 1px solid var(--border-color);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
 }
 
 .post-featured-image img {
     width: 100%;
-    height: auto;           /* Permite que a imagem mantenha a proporção real 4:3 */
-    max-height: 450px;
-    object-fit: contain;    /* ALTERADO DE 'cover' PARA 'contain' PARA NÃO CORTAR NADA */
-    object-position: center;
+    height: 100%;
+    max-height: 480px;
+    object-fit: cover;       /* <--- ISTO ELIMINA OS ESPAÇOS EM BRANCO NAS LATERAIS */
+    object-position: center; /* Centraliza a composição da foto */
     display: block;
 }
 
 @media (max-width: 640px) {
     .post-featured-image {
-        max-height: 280px;
+        max-height: 260px;
     }
     .post-featured-image img {
-        max-height: 280px;
+        max-height: 260px;
     }
 }
+
 /* =========================================
    8. BLOCO DE COMPRA / AFILIADO (MÚLTIPLAS LOJAS)
    ========================================= */
