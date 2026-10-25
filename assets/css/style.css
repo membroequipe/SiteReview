@@ -51,14 +51,14 @@ body {
 .site-header-container {
     max-width: 1340px;
     margin: 0 auto;
-    padding: 12px 20px;
+    padding: 15px 20px; /* Ajustado de 12px para 15px (~20% a mais de altura) */
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .site-logo-img {
-    height: 40px;
+    height: 48px; /* Ajustado de 40px para 48px para acompanhar o crescimento do menu (+20%) */
     width: auto;
     object-fit: contain;
     display: block;
