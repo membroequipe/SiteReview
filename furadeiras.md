@@ -111,20 +111,34 @@ permalink: /furadeiras/
     <h2 id="dicas-de-seguranca">Cuidados essenciais na hora de furar</h2>
     <p>Sempre utilize óculos de proteção para evitar que lascas ou poeira atinjam os olhos. Além disso, antes de iniciar o furo na parede, utilize um detector de cabos para garantir que não há tubulações de água ou fios elétricos ocultos.</p>
 
-    <!-- 4. VITRINE DE ARTIGOS RELACIONADOS -->
+    <!-- 4. VITRINE DINÂMICA DE ARTIGOS RELACIONADOS -->
     <h2 id="artigos-relacionados">Análises e Comparativos de Furadeiras</h2>
     <p>Confira nossos artigos detalhados para comparar marcas e encontrar o modelo ideal para o seu orçamento:</p>
     
-    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
-      <li style="margin-bottom: 1rem; padding: 1rem; border: 1px solid var(--border-color); border-radius: 8px; background: #ffffff;">
-        <a href="{{ '/comparativos/bosch-gsr-1000-smart-vs-gsb-120-li/' | relative_url }}" style="text-decoration: none; font-weight: 700; color: #0f172a; font-size: 1.05rem;">
-          Bosch GSR 1000 Smart vs Bosch GSB 120-LI: Qual Vale a Pena em 2026?
-        </a>
-        <p style="margin: 0.3rem 0 0 0; font-size: 0.9rem; color: #64748b;">
-          Análise prática comparando modelos com e sem função impacto para ajudar na sua escolha.
-        </p>
-      </li>
-    </ul>
+    <div class="reviews-grid" style="margin-top: 1.5rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+        
+        {% assign furadeiras_posts = site.posts | where_exp: "post", "post.category == 'furadeiras' or post.categories contains 'furadeiras'" %}
+        
+        {% if furadeiras_posts.size > 0 %}
+          {% for post in furadeiras_posts %}
+            <article class="review-card" style="border: 1px solid var(--border-color); border-radius: 8px; overflow: hidden; background: #ffffff;">
+              <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit; display: block;">
+                <div class="review-content" style="padding: 16px;">
+                  <span class="review-badge" style="font-size: 0.75rem; font-weight: 700; color: #2563eb; text-transform: uppercase;">{{ post.categories | join: " / " | default: "Furadeiras" }}</span>
+                  <h3 class="review-card-title" style="font-size: 1.1rem; margin: 8px 0; color: #0f172a; line-height: 1.4;">{{ post.title }}</h3>
+                  <p class="review-card-excerpt" style="color: #475569; font-size: 0.9rem; margin: 0 0 12px 0;">{{ post.excerpt | strip_html | truncate: 110 }}</p>
+                  <div class="review-date" style="font-size: 0.8rem; color: #94a3b8;">{{ post.date | date: "%d/%m/%Y" }}</div>
+                </div>
+              </a>
+            </article>
+          {% endfor %}
+        {% else %}
+          <p style="grid-column: 1 / -1; color: #64748b; text-align: center; padding: 30px 0;">Em breve novos reviews e comparativos de furadeiras publicados.</p>
+        {% endif %}
+        
+      </div>
+    </div>
 
   </div>
 </div>
