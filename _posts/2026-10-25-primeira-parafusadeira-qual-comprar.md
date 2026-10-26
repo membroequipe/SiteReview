@@ -2,6 +2,7 @@
 layout: post
 title: "Minha Primeira Parafusadeira - Qual Comprar? Guia Completo para Iniciantes"
 description: "Encontre a melhor parafusadeira para sua primeira compra. Guia rápido com opções fáceis de usar, preços acessíveis e dicas essenciais para iniciantes."
+permalink: /primeira-parafusadeira-qual-comprar/
 slug: "primeira-parafusadeira-qual-comprar-guia-iniciantes"
 categories: [guias]
 image: "/assets/images/posts/primeira-parafusadeira-qual-comprar.webp"
