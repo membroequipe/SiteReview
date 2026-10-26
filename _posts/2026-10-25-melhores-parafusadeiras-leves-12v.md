@@ -2,6 +2,7 @@
 layout: post
 title: "As 3 Melhores Parafusadeiras Leves e Ergonômicas (12V) para Montagem de Móveis em 2026"
 description: "Descubra os modelos mais confortáveis de 12V que evitam fadiga e melhoram seu trabalho com ferramentas."
+permalink: /melhores-parafusadeiras-leves-12v/
 slug: "melhores-parafusadeiras-leves-12v"
 categories: [guias]
 image: "/assets/images/posts/melhores-parafusadeiras-leves-12v.webp"
