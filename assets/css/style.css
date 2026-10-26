@@ -702,11 +702,11 @@ body.home-page .site-content {
     flex-direction: row !important;
     justify-content: space-between !important;
     align-items: center !important;
-    padding: 15px 20px !important; /* Aumentado de 12px para 15px (~20% mais altura) */
+    padding: 15px 20px !important;
   }
 
   .site-logo-img {
-    height: 40px !important; /* Ajustado de 32px para 40px (proporcional ao novo espaço mobile) */
+    height: 40px !important;
     width: auto !important;
   }
 
@@ -744,7 +744,7 @@ body.home-page .site-content {
     transform: translateY(-7px) rotate(-45deg);
   }
 
-  /* Menu Deslizante */
+  /* Menu Deslizante Fechado por Defeito */
   .site-nav {
     display: none !important;
     position: absolute !important;
@@ -800,6 +800,26 @@ body.home-page .site-content {
     color: #64748b !important;
     padding: 6px 0 !important;
     border-bottom: none;
+  }
+
+  /* LIBERTAÇÃO DO CONTEÚDO E GRELHA MOBILE */
+  .site-content, 
+  body.home-page .site-content,
+  .pc-home {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 12px !important;
+    margin: 10px auto !important;
+  }
+
+  .home-posts-grid,
+  .reviews-grid,
+  .comparisons-grid,
+  .posts-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 16px !important;
+    padding: 0 !important;
   }
 }
 
