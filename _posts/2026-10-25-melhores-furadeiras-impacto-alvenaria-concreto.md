@@ -1,5 +1,3 @@
-Abaixo está o texto formatado em Markdown com HTML, seguindo todas as regras obrigatórias.
-
 ---
 layout: post
 title: "Melhores Furadeiras de Impacto para Alvenaria e Concreto: Guia Completo 2026"
