@@ -1,5 +1,3 @@
----
----
 /* =========================================
    1. CONFIGURAÇÕES GLOBAIS E VARIÁVEIS
    ========================================= */
@@ -51,14 +49,14 @@ body {
 .site-header-container {
     max-width: 1340px;
     margin: 0 auto;
-    padding: 15px 20px; /* Ajustado de 12px para 15px (~20% a mais de altura) */
+    padding: 15px 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .site-logo-img {
-    height: 48px; /* Ajustado de 40px para 48px para acompanhar o crescimento do menu (+20%) */
+    height: 48px;
     width: auto;
     object-fit: contain;
     display: block;
@@ -123,7 +121,6 @@ body {
     color: var(--accent);
 }
 
-/* Forçar exibição do submenu ao passar o mouse */
 .site-nav li.has-dropdown {
     position: relative !important;
 }
@@ -134,7 +131,6 @@ body {
     opacity: 1 !important;
 }
 
-/* Evita que o cabeçalho esconda o menu suspenso */
 .site-header, 
 .site-header-container {
     overflow: visible !important;
@@ -153,7 +149,7 @@ body {
 }
 
 /* =========================================
-   3. CONTEÚDO PRINCIPAL (CONTAINER EXPANDIDO)
+   3. CONTEÚDO PRINCIPAL E TIPOGRAFIA (AJUSTADO)
    ========================================= */
 .site-content {
     max-width: 1140px;
@@ -191,7 +187,7 @@ body.home-page .site-content {
 @media (max-width: 640px) {
     .site-content {
         margin: 0.75rem auto;
-        padding: 1.25rem 1rem;
+        padding: 1.5rem 1.15rem !important; /* Mais respiro lateral no mobile */
         border-radius: 8px;
     }
 }
@@ -212,14 +208,15 @@ body.home-page .site-content {
     border-bottom: 1px solid var(--border-color);
 }
 
+/* MELHORIA DE ESPAÇAMENTO E LEITURA DOS PARÁGRAFOS */
 .post-content {
-    font-size: 1.05rem;
-    line-height: 1.8;
+    font-size: 1.08rem; /* Ligeiramente mais legível */
+    line-height: 1.85;  /* Mais arejado como os concorrentes de topo */
     color: var(--text-main);
 }
 
 .post-content p {
-    margin-bottom: 1.6rem;
+    margin-bottom: 1.8rem; /* Elimina o aspeto de texto grudado */
 }
 
 .post-content h2 {
@@ -227,8 +224,8 @@ body.home-page .site-content {
     line-height: 1.35;
     color: var(--primary);
     font-weight: 700;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
+    margin-top: 2.8rem;
+    margin-bottom: 1.1rem;
     padding-bottom: 0.4rem;
     border-bottom: 2px solid #f1f5f9;
 }
@@ -238,8 +235,8 @@ body.home-page .site-content {
     line-height: 1.4;
     color: #1e293b;
     font-weight: 700;
-    margin-top: 2rem;
-    margin-bottom: 0.75rem;
+    margin-top: 2.2rem;
+    margin-bottom: 0.85rem;
 }
 
 .post-content strong {
@@ -301,12 +298,16 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   5. TABELA DE ESPECIFICAÇÕES TÉCNICAS (RESPONSIVA)
+   5. TABELAS (ESPECIFICAÇÕES E CONCORRENTES - CORRIGIDO MOBILE)
    ========================================= */
-.specs-table-wrapper {
+.specs-table-wrapper,
+.competitors-table-wrapper,
+.concorrentes-table-wrapper,
+.table-wrapper {
     width: 100% !important;
     max-width: 100% !important;
     overflow-x: auto !important;
+    display: block !important;
     -webkit-overflow-scrolling: touch;
     margin: 2rem 0;
     border-radius: 12px;
@@ -356,7 +357,7 @@ body.home-page .site-content {
 @media screen and (max-width: 768px) {
   .specs-table th, 
   .specs-table td {
-    padding: 8px 10px !important;
+    padding: 10px 12px !important;
     font-size: 0.85rem !important;
   }
 }
@@ -487,24 +488,6 @@ body.home-page .site-content {
     line-height: 1.5;
 }
 
-/* Ícones automáticos para os Prós */
-.pros-box li::before {
-  content: "👍";
-  position: absolute;
-  left: 0;
-  top: 0;
-  font-size: 0.9rem;
-}
-
-/* Ícones automáticos para os Contras */
-.cons-box li::before {
-  content: "👎";
-  position: absolute;
-  left: 0;
-  top: 0;
-  font-size: 0.9rem;
-}
-
 .pros-box li { color: #14532d; }
 .cons-box li { color: #7f1d1d; }
 
@@ -527,7 +510,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   7. IMAGEM DE DESTAQUE DO ARTIGO (PREENCHIMENTO TOTAL)
+   7. IMAGEM DE DESTAQUE DO ARTIGO
    ========================================= */
 .post-featured-image {
     width: 100%;
@@ -535,7 +518,7 @@ body.home-page .site-content {
     margin: 1.5rem 0 2rem 0;
     border-radius: 12px;
     overflow: hidden;
-    background-color: #000000; /* Fundo escuro de segurança caso carregue */
+    background-color: #000000;
     border: 1px solid var(--border-color);
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
 }
@@ -544,8 +527,8 @@ body.home-page .site-content {
     width: 100%;
     height: 100%;
     max-height: 480px;
-    object-fit: cover;       /* <--- ISTO ELIMINA OS ESPAÇOS EM BRANCO NAS LATERAIS */
-    object-position: center; /* Centraliza a composição da foto */
+    object-fit: cover;
+    object-position: center;
     display: block;
 }
 
@@ -559,7 +542,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   8. BLOCO DE COMPRA / AFILIADO (MÚLTIPLAS LOJAS)
+   8. BLOCO DE COMPRA / AFILIADO
    ========================================= */
 .product-card-affiliate {
     background-color: #f6fbf8;
@@ -688,7 +671,6 @@ body.home-page .site-content {
 /* =================================================
    10. AJUSTES RESPONSIVOS MOBILE (MENU HAMBÚRGUER)
    ================================================= */
-
 .mobile-menu-toggle {
   display: none;
 }
@@ -710,7 +692,6 @@ body.home-page .site-content {
     width: auto !important;
   }
 
-  /* Botão Hambúrguer (Sanduíche) */
   .mobile-menu-toggle {
     display: flex !important;
     flex-direction: column;
@@ -733,7 +714,6 @@ body.home-page .site-content {
     transition: all 0.3s ease;
   }
 
-  /* Animação para X quando ativo */
   .mobile-menu-toggle.active span:nth-child(1) {
     transform: translateY(7px) rotate(45deg);
   }
@@ -744,7 +724,6 @@ body.home-page .site-content {
     transform: translateY(-7px) rotate(-45deg);
   }
 
-  /* Menu Deslizante Fechado por Defeito */
   .site-nav {
     display: none !important;
     position: absolute !important;
@@ -802,7 +781,6 @@ body.home-page .site-content {
     border-bottom: none;
   }
 
-  /* LIBERTAÇÃO DO CONTEÚDO E GRELHA MOBILE */
   .site-content, 
   body.home-page .site-content,
   .pc-home {
@@ -825,7 +803,6 @@ body.home-page .site-content {
 
 /* =========================================
    11. HOME INDEX
-   Estilos isolados no namespace .pc-home
    ========================================= */
 .pc-home{--pc-ink:#101b2a;--pc-muted:#66758a;--pc-yellow:#ffcb39;--pc-orange:#f59b24;max-width:1100px;margin:28px auto 70px;padding:0 20px;font-family:inherit}
   .pc-home *{box-sizing:border-box}
@@ -877,8 +854,6 @@ body.home-page .site-content {
   @media(max-width:550px){.pc-home{padding:0 12px;margin-top:14px}.pc-hero{border-radius:17px}.pc-hero-main{padding:34px 22px}.pc-hero h1{font-size:34px}.pc-lead{font-size:14px}.pc-actions{flex-direction:column}.pc-action{width:100%}.pc-feature{padding:22px}.pc-trust{padding:19px 22px;gap:19px}.pc-situations{padding:23px 17px}.pc-situation-grid{grid-template-columns:1fr}.pc-situation-card{min-height:unset}.methodology-box{padding:24px}.methodology-grid{grid-template-columns:1fr 1fr;gap:22px}}
   @media(prefers-reduced-motion:reduce){.pc-home *{transition:none!important}}
 
-/* Integração com regras globais de imagens e títulos */
-
 .pc-home .home-post-img-link {
   display: block;
   width: 100%;
@@ -906,12 +881,7 @@ body.home-page .site-content {
   .pc-home .pc-trust {grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 
-
-/* ==============================================
-   GRELHA EM 2 COLUNAS E APENAS TÍTULOS NO MOBILE
-   ============================================== */
 @media screen and (max-width: 768px) {
-  /* 1. Força 2 colunas em todas as grelhas */
   .home-posts-grid,
   .reviews-grid,
   .comparisons-grid,
@@ -935,7 +905,6 @@ body.home-page .site-content {
     padding: 12px 10px !important;
   }
 
-  /* 2. Mantém apenas o título legível e compacto */
   .home-post-title,
   .review-card-title,
   .comparison-card-title,
@@ -947,7 +916,6 @@ body.home-page .site-content {
     display: block !important;
   }
 
-/* Oculta o resumo, data e autor especificamente nos cards de reviews e posts */
   .review-card p,
   .review-date,
   .home-post-date,
@@ -956,9 +924,6 @@ body.home-page .site-content {
   }
 }
 
-/* =========================================
-    CARDS (HOME E REVIEWS)
-   ========================================= */
 .home-post-card,
 .review-card {
     overflow: hidden !important;
@@ -971,7 +936,7 @@ body.home-page .site-content {
     width: 100% !important;
     aspect-ratio: 16 / 9 !important;
     height: auto !important;
-    padding: 0 !important;       /* Remove totalmente o espaço branco ao redor */
+    padding: 0 !important;
     margin: 0 !important;
     background: #0f172a !important;
     border: none !important;
@@ -983,32 +948,26 @@ body.home-page .site-content {
     width: 100% !important;
     height: 100% !important;
     aspect-ratio: 16 / 9 !important;
-    object-fit: cover !important;    /* Força o preenchimento total de ponta a ponta */
+    object-fit: cover !important;
     object-position: center !important;
     display: block !important;
-    padding: 0 !important;       /* Remove o padding de 10px que encolhia a imagem */
+    padding: 0 !important;
     border-radius: 0 !important;
 }
 
-/* =========================================
-   MINIATURA NO BLOCO DE AFILIADO
-   ========================================= */
 .product-card-img {
     background-color: #ffffff !important;
     overflow: hidden !important;
-    padding: 0 !important; /* Remove o padding interno que deixava a imagem menor */
+    padding: 0 !important;
 }
 
 .product-card-img img {
     width: 100% !important;
     height: 100% !important;
-    object-fit: cover !important; /* Estica e preenche o quadrado de ponta a ponta */
+    object-fit: cover !important;
     object-position: center !important;
 }
 
-/* =========================================
-   LARGURA NO DESKTOP 
-   ========================================= */
 @media screen and (min-width: 1024px) {
     .site-header-container {
         max-width: 1340px !important;
@@ -1027,12 +986,9 @@ body.home-page .site-content {
     }
 }
 
-/* =========================================
-   LETRAS MAIÚSCULAS NOS BADGES DE CATEGORIA
-   ========================================= */
 .home-post-badge,
 .review-badge,
 .post-badge {
     text-transform: uppercase !important;
-    letter-spacing: 0.5px !important; /* Dá um espaçamento elegante típico de letras maiúsculas */
+    letter-spacing: 0.5px !important;
 }
