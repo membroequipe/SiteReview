@@ -3,7 +3,7 @@ layout: post
 title: "As 3 Melhores Parafusadeiras para Montagem de Móveis em 2026"
 description: "Descubra as 3 melhores parafusadeiras para montagem de móveis em 2026. Comparativo de bateria, torque e custo-benefício para reformas domésticas sem complicação."
 slug: melhores-parafusadeiras-montagem
-permalink: /as-3-melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/
+permalink: /melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/
 categories: [guias]
 image: "/assets/images/posts/parafusadeiras-montagem.webp"
 date: 2026-10-26
