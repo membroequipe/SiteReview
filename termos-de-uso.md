@@ -75,10 +75,10 @@ permalink: /termos-de-uso/
   </div>
 
   <div class="terms-body">
-    <p>Ao acessar e utilizar o site <a href="[URL DO SITE]"><strong>[NOME DO SITE]</strong></a>, você concorda em cumprir e respeitar estes Termos de Uso, todas as leis e regulamentos aplicáveis, e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum destes termos, está proibido de usar ou acessar este site.</p>
+    <p>Ao acessar e utilizar o site <a href="https://suamelhorferramenta.com"><strong>Sua Melhor Ferramenta</strong></a>, você concorda em cumprir e respeitar estes Termos de Uso, todas as leis e regulamentos aplicáveis, e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum destes termos, está proibido de usar ou acessar este site.</p>
 
     <h2>1. Licença de Uso do Conteúdo</h2>
-    <p>É concedida permissão para baixar temporariamente uma cópia dos materiais (informações, guias ou imagens) no site <strong>[NOME DO SITE]</strong>, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode:</p>
+    <p>É concedida permissão para baixar temporariamente uma cópia dos materiais (informações, guias ou imagens) no site <strong>Sua Melhor Ferramenta</strong>, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode:</p>
     <ol>
       <li>Modificar ou copiar os materiais;</li>
       <li>Usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);</li>
@@ -86,36 +86,36 @@ permalink: /termos-de-uso/
       <li>Remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou</li>
       <li>Transferir os materiais para outra pessoa ou "espelhar" os materiais em qualquer outro servidor.</li>
     </ol>
-    <p>Esta licença será automaticamente rescindida se você violar alguma destas restrições e poderá ser cancelada pelo <strong>[NOME DO SITE]</strong> a qualquer momento.</p>
+    <p>Esta licença será automaticamente rescindida se você violar alguma destas restrições e poderá ser cancelada pelo <strong>Sua Melhor Ferramenta</strong> a qualquer momento.</p>
 
     <h2>2. Isenção de Responsabilidade sobre Produtos e Preços</h2>
-    <p>O <strong>[NOME DO SITE]</strong> é um portal informativo independente dedicado a análises e comparativos do segmento de <strong>[NICHO DO SITE]</strong>.</p>
+    <p>O <strong>Sua Melhor Ferramenta</strong> é um portal informativo independente dedicado a análises e comparativos do segmento de <strong>ferramentas</strong>.</p>
     
     <div class="terms-highlight">
-      <p style="margin: 0; font-size: 0.93rem;"><strong>Aviso Importante:</strong> O <strong>[NOME DO SITE]</strong> não vende nem entrega produtos diretamente. Os preços, especificações técnicas, estoques, frete e garantia de qualquer item recomendado são definidos e controlados exclusivamente pelas lojas parceiras (como Mercado Livre, Amazon e outros e-commerces). Verifique sempre as informações atualizadas na página de checkout da loja final antes de concluir sua compra.</p>
+      <p style="margin: 0; font-size: 0.93rem;"><strong>Aviso Importante:</strong> O <strong>Sua Melhor Ferramenta</strong> não vende nem entrega produtos diretamente. Os preços, especificações técnicas, estoques, frete e garantia de qualquer item recomendado são definidos e controlados exclusivamente pelas lojas parceiras (como Mercado Livre, Amazon e outros e-commerces). Verifique sempre as informações atualizadas na página de checkout da loja final antes de concluir sua compra.</p>
     </div>
 
-    <p>Os materiais no site são fornecidos "como estão". O <strong>[NOME DO SITE]</strong> não oferece garantias, expressas ou implícitas, e isenta todas as outras garantias, incluindo, sem limitação, garantias de comercialização, adequação a um fim específico ou não violação de propriedade intelectual.</p>
+    <p>Os materiais no site são fornecidos "como estão". O <strong>Sua Melhor Ferramenta</strong> não oferece garantias, expressas ou implícitas, e isenta todas as outras garantias, incluindo, sem limitação, garantias de comercialização, adequação a um fim específico ou não violação de propriedade intelectual.</p>
 
     <h2>3. Divulgação de Links de Afiliados</h2>
-    <p>Para financiar a criação de novos guias e cobrir custos operacionais, o <strong>[NOME DO SITE]</strong> participa de programas de afiliados. Isso significa que podemos receber uma pequena comissão ao clicar em links e adquirir produtos apresentados no site. Essa compensação não influencia nossas avaliações independentes nem gera custos adicionais para você.</p>
+    <p>Para financiar a criação de novos guias e cobrir custos operacionais, o <strong>Sua Melhor Ferramenta</strong> participa de programas de afiliados. Isso significa que podemos receber uma pequena comissão ao clicar em links e adquirir produtos apresentados no site. Essa compensação não influencia nossas avaliações independentes nem gera custos adicionais para você.</p>
 
     <h2>4. Limitações de Responsabilidade</h2>
-    <p>Em nenhum caso o <strong>[NOME DO SITE]</strong> ou seus fornecedores serão responsáveis por quaisquer danos (incluindo, sem limitação, danos por perda de dados, lucros cessantes ou interrupção de negócios) decorrentes do uso ou da incapacidade de usar os materiais contidos no site, mesmo que tenhamos sido notificados da possibilidade de tais danos.</p>
+    <p>Em nenhum caso o <strong>Sua Melhor Ferramenta</strong> ou seus fornecedores serão responsáveis por quaisquer danos (incluindo, sem limitação, danos por perda de dados, lucros cessantes ou interrupção de negócios) decorrentes do uso ou da incapacidade de usar os materiais contidos no site, mesmo que tenhamos sido notificados da possibilidade de tais danos.</p>
 
     <h2>5. Precisão dos Materiais</h2>
-    <p>Os materiais exibidos no site podem incluir erros técnicos, tipográficos ou fotográficos. O <strong>[NOME DO SITE]</strong> não garante que qualquer material seja 100% preciso, completo ou atualizado. Podemos fazer alterações nos materiais a qualquer momento, sem aviso prévio, embora não nos comprometamos a atualizar o conteúdo continuamente.</p>
+    <p>Os materiais exibidos no site podem incluir erros técnicos, tipográficos ou fotográficos. O <strong>Sua Melhor Ferramenta</strong> não garante que qualquer material seja 100% preciso, completo ou atualizado. Podemos fazer alterações nos materiais a qualquer momento, sem aviso prévio, embora não nos comprometamos a atualizar o conteúdo continuamente.</p>
 
     <h2>6. Links Externos</h2>
-    <p>O <strong>[NOME DO SITE]</strong> não analisou a totalidade dos sites vinculados externamente e não é responsável pelo conteúdo de nenhum site parceiro ou marketplace indicado. A inclusão de qualquer link não implica endosso por nossa parte. O acesso e uso de qualquer site vinculado é por conta e risco do usuário.</p>
+    <p>O <strong>Sua Melhor Ferramenta</strong> não analisou a totalidade dos sites vinculados externamente e não é responsável pelo conteúdo de nenhum site parceiro ou marketplace indicado. A inclusão de qualquer link não implica endosso por nossa parte. O acesso e uso de qualquer site vinculado é por conta e risco do usuário.</p>
 
     <h2>7. Modificações dos Termos</h2>
-    <p>O <strong>[NOME DO SITE]</strong> pode revisar estes Termos de Uso a qualquer momento, sem aviso prévio. Ao continuar utilizando este site, você concorda em ficar vinculado à versão atualizada destes termos.</p>
+    <p>O <strong>Sua Melhor Ferramenta</strong> pode revisar estes Termos de Uso a qualquer momento, sem aviso prévio. Ao continuar utilizando este site, você concorda em ficar vinculado à versão atualizada destes termos.</p>
 
     <h2>8. Lei Aplicável e Foro</h2>
     <p>Estes termos e condições são regidos e interpretados de acordo com as leis da República Federativa do Brasil, e você se submete de forma irrevogável à jurisdição exclusiva dos tribunais brasileiros para dirimir eventuais controvérsias.</p>
 
     <h2>9. Contato</h2>
-    <p>Se você tiver dúvidas sobre estes Termos de Uso, entre em contato conosco pelo e-mail <strong>[E-MAIL DE CONTATO]</strong> ou através da nossa página de <a href="{{ '/contato/' | relative_url }}">Contato</a>.</p>
+    <p>Se você tiver dúvidas sobre estes Termos de Uso, entre em contato conosco através da nossa página de <a href="{{ '/contato/' | relative_url }}">Contato</a>.</p>
   </div>
 </div>
