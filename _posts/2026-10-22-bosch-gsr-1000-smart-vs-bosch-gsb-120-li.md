@@ -164,7 +164,7 @@ A GSR 1000 Smart faz sentido para quem valoriza simplicidade, baixo peso e prati
       <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
       <p class="product-card-subtitle">Ferramenta compacta, com bateria integrada e torque de até 15 Nm. Confira os acessórios e o conteúdo do kit antes de comprar.</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
         <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
       </div>
@@ -256,7 +256,7 @@ A GSB 120-LI exige mais atenção à seleção de velocidade, torque e modo de o
       <h3 class="product-card-title">Bosch GSB 120-LI — mais torque e versatilidade</h3>
       <p class="product-card-subtitle">Furadeira de impacto compacta, com duas velocidades e torque de até 30 Nm. Confira o kit e a quantidade de baterias antes da compra.</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a>
         <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
         <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
       </div>
