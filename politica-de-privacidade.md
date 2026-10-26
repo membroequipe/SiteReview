@@ -75,7 +75,7 @@ permalink: /politica-de-privacidade/
   </div>
 
   <div class="policy-body">
-    <p>A sua privacidade é extremamente importante para nós. É política do <strong>Sua Melhor Ferramenta</strong> respeitar a sua privacidade em relação a qualquer informação que possamos coletar no site <a href="Sua Melhor Ferramenta.com">Sua Melhor Ferramenta</a> e outros sites que possuímos e operamos.</p>
+    <p>A sua privacidade é extremamente importante para nós. É política do <strong>Sua Melhor Ferramenta</strong> respeitar a sua privacidade em relação a qualquer informação que possamos coletar no site <a href="suamelhorferramenta.com">Sua Melhor Ferramenta</a> e outros sites que possuímos e operamos.</p>
 
     <h2>1. Coleta e Uso de Informações</h2>
     <p>Solicitamos informações pessoais (como nome e e-mail) apenas quando realmente precisamos delas para lhe fornecer um serviço, como no envio de mensagens através do nosso formulário de contato. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento.</p>
