@@ -75,14 +75,14 @@ permalink: /politica-de-privacidade/
   </div>
 
   <div class="policy-body">
-    <p>A sua privacidade é extremamente importante para nós. É política do <strong>[NOME DO SITE]</strong> respeitar a sua privacidade em relação a qualquer informação que possamos coletar no site <a href="[URL DO SITE]">[NOME DO SITE]</a> e outros sites que possuímos e operamos.</p>
+    <p>A sua privacidade é extremamente importante para nós. É política do <strong>Sua Melhor Ferramenta</strong> respeitar a sua privacidade em relação a qualquer informação que possamos coletar no site <a href="Sua Melhor Ferramenta.com">Sua Melhor Ferramenta</a> e outros sites que possuímos e operamos.</p>
 
     <h2>1. Coleta e Uso de Informações</h2>
     <p>Solicitamos informações pessoais (como nome e e-mail) apenas quando realmente precisamos delas para lhe fornecer um serviço, como no envio de mensagens através do nosso formulário de contato. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento.</p>
     <p>Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.</p>
 
     <h2>2. Cookies, Publicidade e Programas de Afiliados</h2>
-    <p>O <strong>[NOME DO SITE]</strong> é um portal independente especializado em análises, comparativos e recomendações de produtos do nicho de <strong>[NICHO DO SITE]</strong>. Para manter a gratuidade do nosso conteúdo, utilizamos cookies e tecnologias de rastreamento:</p>
+    <p>O <strong>Sua Melhor Ferramenta</strong> é um portal independente especializado em análises, comparativos e recomendações de produtos do nicho de <strong>ferramentas</strong>. Para manter a gratuidade do nosso conteúdo, utilizamos cookies e tecnologias de rastreamento:</p>
 
     <ul>
       <li><strong>Links de Afiliados:</strong> Participamos de programas de afiliados (incluindo Mercado Livre, Amazon e outros). Quando você clica em um link de recomendação e realiza uma compra, um cookie de rastreamento é temporariamente armazenado no seu navegador para sinalizar à plataforma parceira que a visita se originou em nosso site. Isso nos permite receber uma pequena comissão sem nenhum custo adicional para você.</li>
@@ -99,14 +99,14 @@ permalink: /politica-de-privacidade/
     <p>O nosso site possui links para sites e lojas externas (como marketplaces de e-commerce) que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade.</p>
 
     <h2>4. Direitos do Usuário (LGPD)</h2>
-    <p>Nos termos da Lei Geral de Proteção de Dados (LGPD), você tem o direito de solicitar a confirmação, acesso, alteração ou exclusão definitiva de quaisquer dados pessoais que tenhamos armazenado a seu respeito. Para exercer esses direitos, entre em contato conosco através do e-mail <strong>[E-MAIL DE CONTATO]</strong> ou pela nossa página de <a href="{{ '/contato/' | relative_url }}">Contato</a>.</p>
+    <p>Nos termos da Lei Geral de Proteção de Dados (LGPD), você tem o direito de solicitar a confirmação, acesso, alteração ou exclusão definitiva de quaisquer dados pessoais que tenhamos armazenado a seu respeito. Para exercer esses direitos, entre em contato conosco através da nossa página de <a href="{{ '/contato/' | relative_url }}">Contato</a>.</p>
 
     <h2>5. Compromisso do Usuário</h2>
-    <p>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o <strong>[NOME DO SITE]</strong> oferece no site e com caráter enunciativo, mas não limitativo:</p>
+    <p>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o <strong>Sua Melhor Ferramenta</strong> oferece no site e com caráter enunciativo, mas não limitativo:</p>
     <ul>
       <li>A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé e à ordem pública;</li>
       <li>B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, jogos de sorte ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;</li>
-      <li>C) Não causar danos aos sistemas físicos e lógicos do <strong>[NOME DO SITE]</strong>, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos.</li>
+      <li>C) Não causar danos aos sistemas físicos e lógicos do <strong>Sua Melhor Ferramenta</strong>, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos.</li>
     </ul>
 
     <h2>6. Mais Informações e Contato</h2>
