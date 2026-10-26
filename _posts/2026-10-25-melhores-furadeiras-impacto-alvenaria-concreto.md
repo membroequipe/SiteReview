@@ -2,6 +2,7 @@
 layout: post
 title: "Melhores Furadeiras de Impacto para Alvenaria e Concreto: Guia Completo 2026"
 description: "Conheça as melhores furadeiras de impacto para alvenaria e concreto em 2026. Guia com potência, custo-benefício e modelos compactos para sua reforma."
+permalink: /melhores-furadeiras-impacto-alvenaria-concreto/
 slug: melhores-furadeiras-impacto-alvenaria-concreto-2026
 categories: [guias]
 image: "/assets/images/posts/melhores-furadeiras-impacto-alvenaria.webp"
