@@ -2,6 +2,7 @@
 layout: post
 title: "As 3 Melhores Parafusadeiras Baratas de Até R$300 – Custo-Benefício para Orçamentos Apertados"
 description: "Encontre as parafusadeiras mais baratas e eficientes (até R$300) que realmente funcionam para montagem de móveis, reparos e perfuração leve. Guia de custo-benefício para economizar."
+permalink: /melhores-parafusadeiras-baratas-ate-300-reais/
 slug: "melhores-parafusadeiras-baratas-ate-r-300"
 categories: [guias]
 image: "/assets/images/posts/melhores-parafusadeiras-baratas-ate-300-reais.webp"
