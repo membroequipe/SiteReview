@@ -4,7 +4,7 @@ title: "Review Bosch GSB 180-LI: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Bosch GSB 180-LI 18V: torque de 60 Nm, mandril metálico e ecossistema Professional. Descubra se vale a pena comprar em 2026!"
 slug: "review-bosch-gsb-180-li"
 categories: [furadeiras, reviews]
-image: "/assets/images/posts/review-bosch-gsb-180-li.jpg"
+image: "/assets/images/posts/bosch-gsb-180-li.webp"
 date: 2026-10-24
 author: "Equipe de Análises"
 ---
@@ -80,15 +80,15 @@ A **Bosch GSB 180-LI (18V Impacto)** surge como uma das referências mais sólid
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-bosch-gsb-180-li.jpg' | relative_url }}" alt="Bosch GSB 180-LI">
+      <img src="{{ '/assets/images/posts/bosch-gsb-180-li.png' | relative_url }}" alt="Furadeira Bosch GSB 180-LI">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Bosch GSB 180-LI (18V Impacto)</h3>
       <p class="product-card-subtitle">Furadeira e parafusadeira de impacto 18V com 60 Nm, mandril metálico de 13 mm e ecossistema Professional.</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div>
     </div>
   </div>
@@ -196,15 +196,15 @@ Em síntese: a GSB 180-LI honra o legado Bosch de "ferramenta que trabalha quand
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-bosch-gsb-180-li.jpg' | relative_url }}" alt="Bosch GSB 180-LI">
+      <img src="{{ '/assets/images/posts/bosch-gsb-180-li.png' | relative_url }}" alt="Furadeira Bosch GSB 180-LI">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Bosch GSB 180-LI (18V Impacto)</h3>
       <p class="product-card-subtitle">Furadeira e parafusadeira de impacto 18V com 60 Nm, mandril metálico de 13 mm e ecossistema Professional.</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div>
     </div>
   </div>
