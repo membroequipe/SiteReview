@@ -4,7 +4,7 @@ title: "Review Parafusadeira Bosch GSR 1000 Smart: Vale a Pena em 2026? Análise
 description: "Análise técnica da Parafusadeira Bosch GSR 1000 Smart: torque, autonomia, conectividade e veredito real de compradores. Confira antes de comprar."
 permalink: "/review-bosch-gsr-1000-smart/"
 categories: [furadeiras, reviews]
-image: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.jpg"
+image: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.webp"
 date: 2026-10-22
 author: "Equipe de Análises"
 ---
@@ -73,15 +73,15 @@ A Parafusadeira Bosch GSR 1000 Smart chega ao mercado brasileiro como uma das ap
 <div class="product-card-affiliate"> 
   <div class="product-card-body"> 
     <div class="product-card-img"> 
-      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira Bosch GSR 1000 Smart"> 
+      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.png' | relative_url }}" alt="Parafusadeira Bosch GSR 1000 Smart"> 
     </div> 
     <div class="product-card-info"> 
       <h3 class="product-card-title">Parafusadeira Bosch GSR 1000 Smart</h3> 
       <p class="product-card-subtitle">12V Brushless • 35 Nm • Bluetooth • 169 mm • Mandril 10 mm metal</p> 
       <div class="product-card-buttons"> 
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Ver Preço na Amazon</a> 
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Conferir Oferta no Mercado Livre</a> 
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Consultar Valor na Shopee</a> 
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div> 
     </div> 
   </div> 
@@ -154,15 +154,15 @@ A Bosch GSR 1000 Smart consolida-se como uma das melhores escolhas 12V brushless
 <div class="product-card-affiliate" style="margin: 30px 0;"> 
   <div class="product-card-body"> 
     <div class="product-card-img"> 
-      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira Bosch GSR 1000 Smart"> 
+      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.png' | relative_url }}" alt="Parafusadeira Bosch GSR 1000 Smart"> 
     </div> 
     <div class="product-card-info"> 
       <h3 class="product-card-title">Parafusadeira Bosch GSR 1000 Smart</h3> 
       <p class="product-card-subtitle">12V Brushless • 35 Nm • Bluetooth • 169 mm • Mandril 10 mm metal</p> 
       <div class="product-card-buttons"> 
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Ver Preço na Amazon</a> 
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Conferir Oferta no Mercado Livre</a> 
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Consultar Valor na Shopee</a> 
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div> 
     </div> 
   </div> 
