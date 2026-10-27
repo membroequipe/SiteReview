@@ -657,6 +657,21 @@ body.home-page .site-content {
   }
 }
 
+/* Força a quebra de linha em bloco para o texto de confiança não colar no título */
+.pc-trust-item b {
+  display: block !important;
+  font-size: 12px;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.pc-trust-item span {
+  display: block !important;
+  font-size: 11px;
+  color: #aab7c7;
+  line-height: 1.4;
+}
+
 @media screen and (min-width: 1024px) {
     .site-header-container,
     .site-content {
