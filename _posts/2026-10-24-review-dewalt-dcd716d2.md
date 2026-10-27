@@ -4,7 +4,7 @@ title: "Review DeWalt DCD716D2: Vale a Pena em 2026? Análise Completa!"
 description: "Review completo da DeWalt DCD716D2: furadeira 12V brushless com impacto, 30 Nm e 152 mm. Veja desempenho, prós, contras e se vale a pena comprar em 2026."
 slug: "review-dewalt-dcd716d2"
 categories: [furadeiras, reviews]
-image: "/assets/images/posts/review-dewalt-dcd716d2.jpg"
+image: "/assets/images/posts/dewalt-dcd716d2.webp"
 date: 2026-10-24
 author: "Equipe de Análises"
 ---
@@ -87,16 +87,16 @@ A DeWalt DCD716D2 (12V Impacto) surge como uma das opções mais interessantes n
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-dewalt-dcd716d2.jpg' | relative_url }}" alt="DeWalt DCD716D2">
+      <img src="{{ '/assets/images/posts/dewalt-dcd716d2.webp' | relative_url }}" alt="Furadeira DeWalt DCD716D2">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">DeWalt DCD716D2</h3>
       <p class="product-card-subtitle">Furadeira/Parafusadeira 12V MAX Brushless com Impacto, 30 Nm e LED Triplo</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
-      </div>
+     <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
@@ -196,16 +196,16 @@ Em síntese: **ferramenta de nicho executada com excelência**. Quem precisa do 
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-dewalt-dcd716d2.jpg' | relative_url }}" alt="DeWalt DCD716D2">
+      <img src="{{ '/assets/images/posts/dewalt-dcd716d2.webp' | relative_url }}" alt="Furadeira DeWalt DCD716D2">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">DeWalt DCD716D2</h3>
       <p class="product-card-subtitle">Furadeira/Parafusadeira 12V MAX Brushless com Impacto, 30 Nm e LED Triplo</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
-      </div>
+     <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
