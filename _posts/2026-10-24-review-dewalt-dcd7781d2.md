@@ -4,7 +4,7 @@ title: "Review DeWalt DCD7781D2: Vale a Pena em 2026? Análise Completa!"
 description: "Review completo da DeWalt DCD7781D2 20V Brushless: torque de 65 Nm, mandril metálico e ergonomia compacta. Descubra se ela vale a pena em 2026!"
 slug: "review-dewalt-dcd7781d2-vale-a-pena-2026"
 categories: [furadeiras, reviews]
-image: "/assets/images/posts/review-dewalt-dcd7781d2.jpg"
+image: "/assets/images/posts/dewalt-dcd7781d2.webp"
 date: 2026-10-24
 author: "Equipe de Análises"
 ---
@@ -93,16 +93,16 @@ A DeWalt DCD7781D2 (20V Brushless) chega ao mercado como uma das opções mais e
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-dewalt-dcd7781d2.jpg' | relative_url }}" alt="DeWalt DCD7781D2">
+      <img src="{{ '/assets/images/posts/dewalt-dcd7781d2.png' | relative_url }}" alt="Furadeira DeWalt DCD7781D2">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">DeWalt DCD7781D2</h3>
       <p class="product-card-subtitle">Furadeira/Parafusadeira 20V Brushless, 65 Nm, mandril 1/2" metálico — kit com 2 baterias</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
-      </div>
+     <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
@@ -211,16 +211,16 @@ Não é a furadeira para perfurar viga de fundação, nem a parafusadeira para l
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-dewalt-dcd7781d2.jpg' | relative_url }}" alt="DeWalt DCD7781D2">
+      <img src="{{ '/assets/images/posts/dewalt-dcd7781d2.png' | relative_url }}" alt="Furadeira DeWalt DCD7781D2">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">DeWalt DCD7781D2</h3>
       <p class="product-card-subtitle">Furadeira/Parafusadeira 20V Brushless, 65 Nm, mandril 1/2" metálico — kit com 2 baterias</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
-      </div>
+     <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
