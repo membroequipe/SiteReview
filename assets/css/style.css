@@ -541,7 +541,7 @@ body.home-page .site-content {
 .pc-feature li{font-size:12px;color:#f3f5f8;display:flex;gap:10px;align-items:flex-start}
 .pc-feature li:before{content:"✓";color:var(--pc-yellow);font-weight:900}
 
-/* FAIXA DE CONFIANÇA DO HERO (ORIGINAL RESTAURADA COM DISPLAY BLOCK) */
+/* FAIXA DE CONFIANÇA DO HERO */
 .pc-trust{border-top:1px solid #ffffff24;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;padding:20px 54px 23px;background:#050b1480}
 .pc-trust-item b{display:block;font-size:12px;color:#fff;margin-bottom:5px;font-weight:700}
 .pc-trust-item span{display:block;font-size:11px;color:#aab7c7;line-height:1.5}
@@ -648,7 +648,7 @@ body.home-page .site-content {
   .site-nav li { width: 100% !important; }
   .site-nav a { font-size: 1rem !important; display: block !important; padding: 8px 0 !important; color: #0f172a !important; border-bottom: 1px solid #f1f5f9; }
 
-  /* Grelhas em 1 coluna no mobile para evitar cortes */
+  /* Grelhas em 1 coluna no mobile para evitar cortes em TODAS as páginas de artigos/categorias */
   .site-content, 
   body.home-page .site-content,
   .pc-home {
@@ -662,17 +662,31 @@ body.home-page .site-content {
   .pc-trust { grid-template-columns: repeat(2, 1fr) !important; padding: 18px 22px !important; }
   .pc-situation-grid { grid-template-columns: 1fr !important; }
 
+  /* CORREÇÃO DEFINITIVA: Força 1 coluna em qualquer grelha de listagem no telemóvel */
   .home-posts-grid,
   .reviews-grid,
   .comparisons-grid,
   .ph6-guides,
-  .posts-grid {
+  .posts-grid,
+  .archive-grid,
+  .category-grid,
+  div[class*="grid"] {
     display: grid !important;
     grid-template-columns: 1fr !important;
     gap: 16px !important;
     padding: 0 !important;
     margin: 0 !important;
     width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .home-post-card,
+  .review-card,
+  .comparison-card,
+  .post-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 0 !important;
   }
 
   .specs-table th, 
