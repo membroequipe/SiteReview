@@ -3,7 +3,7 @@ layout: post
 title: "Bosch GSR 1000 Smart vs Bosch GSB 120-LI: Qual Vale Mais a Pena em 2026?"
 description: "Comparativo completo entre a Bosch GSR 1000 Smart e a GSB 120-LI: torque, função martelete, conectividade e veredito para cada tipo de uso."
 slug: "bosch-gsr-1000-smart-vs-bosch-gsb-120-li"
-image: "/assets/images/posts/bosch-gsr-1000-smart-vs-bosch-gsb-120-li.jpg"
+image: "/assets/images/posts/bosch-gsr-1000-smart-vs-bosch-gsb-120-li.webp"
 categories: [furadeiras, comparativos]
 author: "Equipe de Análises"
 date: 2026-10-22
@@ -158,7 +158,7 @@ A GSR 1000 Smart faz sentido para quem valoriza simplicidade, baixo peso e prati
 <div class="product-card-affiliate">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
+      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.png' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Bosch GSR 1000 Smart — praticidade para tarefas leves</h3>
@@ -250,7 +250,7 @@ A GSB 120-LI exige mais atenção à seleção de velocidade, torque e modo de o
 <div class="product-card-affiliate">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsb-120-li.jpg' | relative_url }}" alt="Furadeira de impacto e parafusadeira Bosch GSB 120-LI">
+      <img src="{{ '/assets/images/posts/bosch-gsb-120-li.png' | relative_url }}" alt="Furadeira de impacto e parafusadeira Bosch GSB 120-LI">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Bosch GSB 120-LI — mais torque e versatilidade</h3>
