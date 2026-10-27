@@ -27,7 +27,7 @@ permalink: "/comparativos/"
     <p>Explore nossas análises detalhadas lado a lado:</p>
     
     <div class="reviews-grid" style="margin-top: 1.5rem;">
-      {% assign comparativos_posts = site.posts | where_exp: "post", "post.category == 'Comparativos' or post.categories contains 'Comparativos'" %}
+      {% assign comparativos_posts = site.posts | where_exp: "post", "post.category == 'comparativos' or post.category == 'Comparativos' or post.categories contains 'comparativos' or post.categories contains 'Comparativos'" %}
       
       {% if comparativos_posts.size > 0 %}
         {% for post in comparativos_posts %}
