@@ -4,7 +4,7 @@ title: "Review Bosch GSB 18V-50: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Bosch GSB 18V-50: torque real de 50 Nm, motor brushless e ergonomia profissional. Descubra se ela vale a pena em 2026!"
 slug: "review-bosch-gsb-18v-50"
 categories: [furadeiras, reviews]
-image: "/assets/images/posts/review-bosch-gsb-18v-50.jpg"
+image: "/assets/images/posts/bosch-gsb-18v-50.webp"
 date: 2026-10-24
 author: "Equipe de Análises"
 ---
@@ -79,16 +79,16 @@ A Bosch GSB 18V-50 (18V Brushless) chega ao mercado como uma furadeira de impact
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-bosch-gsb-18v-50.jpg' | relative_url }}" alt="Bosch GSB 18V-50">
+      <img src="{{ '/assets/images/posts/bosch-gsb-18v-50.png' | relative_url }}" alt="Furadeira Bosch GSB 18V-50">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Bosch GSB 18V-50</h3>
       <p class="product-card-subtitle">Furadeira de impacto brushless 18V com 50 Nm e mandril metálico de 13 mm</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
-      </div>
+     <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
@@ -178,15 +178,15 @@ Os pontos de atenção — peso do conjunto com bateria ProCORE, ruído de impac
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-bosch-gsb-18v-50.jpg' | relative_url }}" alt="Bosch GSB 18V-50">
+      <img src="{{ '/assets/images/posts/bosch-gsb-18v-50.png' | relative_url }}" alt="Furadeira Bosch GSB 18V-50">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Bosch GSB 18V-50</h3>
       <p class="product-card-subtitle">Furadeira de impacto brushless 18V com 50 Nm e mandril metálico de 13 mm</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div>
     </div>
   </div>
