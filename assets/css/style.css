@@ -413,37 +413,41 @@ body.home-page .site-content {
 .cons-box li::before { content: "✕"; position: absolute; left: 0; top: 2px; font-weight: 800; color: #dc2626; }
 
 /* =========================================
-   7. IMAGEM DE DESTAQUE DO ARTIGO (CORREÇÃO FINAL)
+   7. IMAGEM DE DESTAQUE DO ARTIGO (ESTILO CLEAN / CONCORRENTE)
    ========================================= */
 .post-featured-image {
     width: 100% !important;
-    aspect-ratio: 16 / 9 !important;
-    max-height: 400px !important;
-    margin: 1.5rem 0 2rem 0 !important;
-    border-radius: 12px !important;
+    max-width: 760px !important; /* Limita a largura máxima para alinhar com o texto */
+    margin: 1.5rem auto 2rem auto !important; /* Centraliza a imagem no artigo */
+    border-radius: 16px !important;
     overflow: hidden !important;
-    background-color: #0f172a !important; /* Fundo escuro elegante para preencher eventuais barras laterais */
-    border: 1px solid var(--border-color) !important;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04) !important;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
+    background-color: transparent !important; /* Fundo transparente (sem caixa escura) */
+    border: none !important; /* Sem borda rígida por fora */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05) !important; /* Sombra suave e elegante */
 }
 
 .post-featured-image img {
     width: 100% !important;
-    height: 100% !important;
-    object-fit: contain !important; /* <--- MUDANÇA CRUCIAL: 'contain' exibe a imagem inteira sem cortar nenhuma parte */
-    object-position: center !important;
+    height: auto !important; /* Respeita a altura natural e proporção da foto */
+    max-height: 480px !important; /* Impede que fique gigante em telas muito grandes */
+    object-fit: contain !important; /* Exibe a foto 100% completa sem nenhum corte */
     display: block !important;
+    margin: 0 auto !important;
+    border-radius: 16px !important;
 }
 
 @media (max-width: 768px) {
     .post-featured-image {
-        max-height: 240px !important;
+        max-width: 100% !important;
+        margin: 1rem auto 1.5rem auto !important;
+        border-radius: 12px !important;
+    }
+    
+    .post-featured-image img {
+        border-radius: 12px !important;
+        max-height: 280px !important;
     }
 }
-
 /* =========================================
    8. GRELHAS E CARTÕES (HOMEPAGE & HUBS)
    ========================================= */
