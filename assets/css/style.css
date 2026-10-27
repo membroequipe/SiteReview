@@ -503,62 +503,114 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   9. BLOCO DE AFILIADOS
+   BLOCO DE AFILIADOS (ESTILO PREMIUM MELHORADO)
    ========================================= */
 .product-card-affiliate {
-    background-color: #f6fbf8;
-    border: 1.5px solid #a3e635;
-    border-radius: 20px;
-    padding: 1.25rem 1.5rem;
-    margin: 2rem 0;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+    background-color: #ffffff !important;
+    border: 2px solid #a3e635 !important; /* Mantém a borda verde elegante */
+    border-radius: 20px !important;
+    padding: 1.75rem 1.5rem !important;
+    margin: 2rem 0 !important;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04) !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
 }
 
-.product-card-body {
-    display: flex;
-    align-items: center;
-    gap: 1.25rem;
-}
-
+/* Imagem do Produto no Topo e Centralizada */
 .product-card-img {
-    width: 90px;
-    height: 90px;
-    min-width: 90px;
-    background-color: #ffffff;
-    border-radius: 12px;
-    overflow: hidden;
+    width: 130px !important;
+    height: 130px !important;
+    min-width: 130px !important;
+    background-color: #f8fafc !important;
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    margin-bottom: 1.25rem !important;
+    border: 1px solid var(--border-color) !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
 }
 
 .product-card-img img {
     width: 100% !important;
     height: 100% !important;
-    object-fit: cover !important;
+    object-fit: contain !important; /* Exibe o produto inteiro sem cortes */
     object-position: center !important;
 }
 
+/* Corpo do texto do cartão */
+.product-card-body {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    width: 100% !important;
+    gap: 0.5rem !important;
+    margin-bottom: 1.25rem !important;
+}
+
+.product-card-body h3, 
+.product-card-body h4 {
+    font-size: 1.2rem !important;
+    color: var(--primary) !important;
+    font-weight: 800 !important;
+    margin-bottom: 0.25rem !important;
+}
+
+.product-card-body p {
+    font-size: 0.95rem !important;
+    color: var(--text-muted) !important;
+    line-height: 1.5 !important;
+    margin: 0 !important;
+    max-width: 90% !important;
+}
+
+/* Grelha de Botões Lado a Lado (Amazon, ML, Shopee) */
 .product-card-buttons {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    gap: 0.75rem;
-    width: 100%;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 0.75rem !important;
+    width: 100% !important;
+    margin-top: 0.5rem !important;
 }
 
 .btn-store {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    padding: 0.7rem 1rem;
-    border-radius: 12px;
-    font-weight: 700;
-    font-size: 0.92rem;
+    flex: 1 1 130px !important;
+    max-width: 180px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 0.5rem !important;
+    padding: 0.75rem 1rem !important;
+    border-radius: 12px !important;
+    font-weight: 700 !important;
+    font-size: 0.9rem !important;
     text-decoration: none !important;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06) !important;
+    transition: transform 0.2s ease, opacity 0.2s ease !important;
 }
 
-.btn-amazon-green { background-color: #10b981; color: #ffffff !important; }
-.btn-ml-yellow { background-color: #ffeb3b; color: #1e293b !important; }
-.btn-shopee-red { background-color: #f97316; color: #ffffff !important; }
+.btn-store:hover {
+    transform: translateY(-2px) !important;
+    opacity: 0.95 !important;
+}
 
+.btn-amazon-green { background-color: #10b981 !important; color: #ffffff !important; }
+.btn-ml-yellow { background-color: #facc15 !important; color: #1e293b !important; }
+.btn-shopee-red { background-color: #f97316 !important; color: #ffffff !important; }
+
+/* Adaptação exata para Mobile */
+@media screen and (max-width: 768px) {
+    .product-card-buttons {
+        flex-direction: column !important;
+    }
+    .btn-store {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+}
 /* =========================================
    10. HOME INDEX (.pc-home)
    ========================================= */
