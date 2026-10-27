@@ -4,7 +4,7 @@ title: "Review Makita HP333: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Makita HP333 12V Impacto: motor brushless, 35 Nm, mandril metálico e nota 8,7/10. Veja desempenho real, pontos fortes e vale a pena comprar."
 slug: "review-makita-hp333-12v-impacto"
 categories: [furadeiras, reviews]
-image: "/assets/images/posts/review-makita-hp333-12v-impacto.jpg"
+image: "/assets/images/posts/makita-hp333-12v-impacto.webp"
 date: 2026-10-24
 author: "Equipe de Análises"
 ---
@@ -88,15 +88,15 @@ A Makita HP333 (12V Impacto) chega ao mercado como uma das opções mais equilib
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-makita-hp333-12v-impacto.jpg' | relative_url }}" alt="Makita HP333 (12V Impacto)">
+      <img src="{{ '/assets/images/posts/makita-hp333-12v-impacto.png' | relative_url }}" alt="Furadeira Makita HP333 (12V Impacto)">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Makita HP333 (12V Impacto)</h3>
       <p class="product-card-subtitle">Furadeira/parafusadeira de impacto brushless 12V com mandril metálico de 10 mm e 35 Nm</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div>
     </div>
   </div>
@@ -184,15 +184,15 @@ A Makita HP333 (12V Impacto) consolida-se como a melhor furadeira/parafusadeira 
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-makita-hp333-12v-impacto.jpg' | relative_url }}" alt="Makita HP333 (12V Impacto)">
+      <img src="{{ '/assets/images/posts/makita-hp333-12v-impacto.png' | relative_url }}" alt="Makita HP333 (12V Impacto)">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Makita HP333 (12V Impacto)</h3>
       <p class="product-card-subtitle">Furadeira/parafusadeira de impacto brushless 12V com mandril metálico de 10 mm e 35 Nm</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div>
     </div>
   </div>
