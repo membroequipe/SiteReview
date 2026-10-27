@@ -4,7 +4,7 @@ title: "Review Parafusadeira Bosch GSB 120-LI: Vale a Pena em 2026? Análise Com
 description: "Análise técnica detalhada da Parafusadeira Bosch GSB 120-LI: specs, desempenho real, opiniões de compradores e comparativo com concorrentes."
 permalink: "/review-bosch-gsb-120-li/"
 categories: [furadeiras, reviews]
-image: "/assets/images/posts/review-parafusadeira-bosch-gsb-120-li.jpg"
+image: "/assets/images/posts/parafusadeira-bosch-gsb-120-li.webp"
 date: 2026-10-22
 author: "Equipe de Análises"
 ---
@@ -82,15 +82,15 @@ A **Parafusadeira Bosch GSB 120-LI** chega ao mercado como uma das apostas mais 
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-parafusadeira-bosch-gsb-120-li.jpg' | relative_url }}" alt="Parafusadeira Bosch GSB 120-LI">
+      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsb-120-li.png' | relative_url }}" alt="Parafusadeira Bosch GSB 120-LI">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Parafusadeira Bosch GSB 120-LI</h3>
       <p class="product-card-subtitle">Motor Brushless 12V | 30 Nm | Martelete | 0,95 kg | Mandril 10 mm</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div>
     </div>
   </div>
@@ -238,15 +238,15 @@ A ergonomia de 0,95 kg com bateria 2.0 Ah redefine o patamar de conforto para tr
 <div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/review-parafusadeira-bosch-gsb-120-li.jpg' | relative_url }}" alt="Parafusadeira Bosch GSB 120-LI">
+      <img src="{{ '/assets/images/posts/parafusadeira-bosch-gsb-120-li.png' | relative_url }}" alt="Parafusadeira Bosch GSB 120-LI">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Parafusadeira Bosch GSB 120-LI</h3>
       <p class="product-card-subtitle">Motor Brushless 12V | 30 Nm | Martelete | 0,95 kg | Mandril 10 mm</p>
       <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Ver na Shopee</a>
+        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
       </div>
     </div>
   </div>
