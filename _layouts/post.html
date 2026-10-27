@@ -8,14 +8,13 @@ layout: default
     <p class="post-meta">Publicado em {{ page.date | date: "%d/%m/%Y" }}</p>
   </header>
 
-  <!-- IMAGEM DE DESTAQUE DO POST -->
+ <!-- IMAGEM DE DESTAQUE DO POST COM LEGENDA -->
   {% if page.image %}
     <div class="post-featured-image">
       <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
-    </div>
-  {% else %}
-    <div class="post-featured-image">
-      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ page.title }}" loading="lazy">
+      {% if page.image_caption %}
+        <p style="text-align: center; font-size: 0.82rem; color: #64748b; margin-top: 8px; margin-bottom: 0; line-height: 1.4;">{{ page.image_caption }}</p>
+      {% endif %}
     </div>
   {% endif %}
 
