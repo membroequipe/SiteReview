@@ -414,8 +414,7 @@ body.home-page .site-content {
    ========================================= */
 .post-featured-image {
     width: 100% !important;
-    aspect-ratio: 16 / 9 !important;
-    max-height: 400px !important;
+    height: 360px !important; /* Altura fixa controlada para desktop */
     margin: 1.5rem 0 2rem 0 !important;
     border-radius: 12px !important;
     overflow: hidden !important;
@@ -427,7 +426,6 @@ body.home-page .site-content {
 .post-featured-image img {
     width: 100% !important;
     height: 100% !important;
-    aspect-ratio: 16 / 9 !important;
     object-fit: cover !important;
     object-position: center !important;
     display: block !important;
@@ -435,7 +433,7 @@ body.home-page .site-content {
 
 @media (max-width: 768px) {
     .post-featured-image {
-        max-height: 240px !important;
+        height: 200px !important; /* Altura fixa proporcional para telemóveis */
     }
 }
 
@@ -449,8 +447,7 @@ body.home-page .site-content {
 .review-img-wrapper {
     display: block !important;
     width: 100% !important;
-    aspect-ratio: 16 / 9 !important;
-    height: auto !important;
+    height: 160px !important; /* Altura fixa garantida para os cartões */
     padding: 0 !important;
     margin: 0 !important;
     background: #0f172a !important;
@@ -460,12 +457,10 @@ body.home-page .site-content {
 .review-img-wrapper img {
     width: 100% !important;
     height: 100% !important;
-    aspect-ratio: 16 / 9 !important;
     object-fit: cover !important;
     object-position: center !important;
     display: block !important;
 }
-
 /* =========================================
    8. BLOCO DE AFILIADOS
    ========================================= */
