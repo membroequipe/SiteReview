@@ -413,26 +413,35 @@ body.home-page .site-content {
 .cons-box li::before { content: "✕"; position: absolute; left: 0; top: 2px; font-weight: 800; color: #dc2626; }
 
 /* =========================================
-   7. IMAGEM DE DESTAQUE DO ARTIGO (CORRIGIDA)
+   7. IMAGEM DE DESTAQUE DO ARTIGO (CORREÇÃO FINAL)
    ========================================= */
 .post-featured-image {
-    width: 100%;
-    max-height: 380px; /* Limita a altura em desktop para não cobrir a tela */
-    margin: 1.5rem 0 2rem 0;
-    border-radius: 12px;
-    overflow: hidden;
-    background-color: #0f172a;
-    border: 1px solid var(--border-color);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    max-height: 400px !important;
+    margin: 1.5rem 0 2rem 0 !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    background-color: #0f172a !important; /* Fundo escuro elegante para preencher eventuais barras laterais */
+    border: 1px solid var(--border-color) !important;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04) !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
 }
 
 .post-featured-image img {
-    width: 100%;
-    height: 100%;
-    max-height: 380px;
-    object-fit: cover;
-    object-position: center;
-    display: block;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important; /* <--- MUDANÇA CRUCIAL: 'contain' exibe a imagem inteira sem cortar nenhuma parte */
+    object-position: center !important;
+    display: block !important;
+}
+
+@media (max-width: 768px) {
+    .post-featured-image {
+        max-height: 240px !important;
+    }
 }
 
 /* =========================================
