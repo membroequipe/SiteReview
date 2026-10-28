@@ -1,0 +1,39 @@
+<!-- Rodapé do Site -->
+<footer class="site-footer">
+    <div class="site-footer-container">
+        
+        <!-- Coluna 1: Marca e Apresentação -->
+        <div class="footer-col-about">
+            <h3 class="footer-title">Sua Melhor Ferramenta</h3>
+            <p class="footer-text">
+                Reviews independentes, análises detalhadas e guias de compra dos melhores produtos do mercado para ajudar você a fazer a escolha certa.
+            </p>
+        </div>
+
+        <!-- Coluna 2: Legal & Informações -->
+        <div class="footer-col-links">
+            <h4 class="footer-subtitle">Legal & Informações</h4>
+            <ul class="footer-nav">
+                <li><a href="{{ '/sobre/' | relative_url }}">Sobre Nós</a></li>
+                <li><a href="{{ '/como-pesquisamos/' | relative_url }}">Como Pesquisamos</a></li>
+                <li><a href="{{ '/aviso-de-afiliados/' | relative_url }}">Aviso de Afiliados</a></li>
+                <li><a href="{{ '/contato/' | relative_url }}">Contato</a></li>
+                <li><a href="{{ '/politica-de-privacidade/' | relative_url }}">Política de Privacidade</a></li>
+                <li><a href="{{ '/termos-de-uso/' | relative_url }}">Termos de Uso</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <!-- Linha Inferior: Divulgação de Afiliado e Copyright -->
+    <div class="footer-bottom">
+        <div class="footer-bottom-container">
+            <p>
+                Quando você compra por meio de links em nosso site, podemos ganhar uma comissão de afiliado sem nenhum custo adicional para você.
+            </p>
+            <p>
+                Sua Melhor Ferramenta &copy; {{ 'now' | date: "%Y" }} Todos os direitos reservados.
+            </p>
+        </div>
+    </div>
+</footer>
