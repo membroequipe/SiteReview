@@ -604,7 +604,7 @@ body.home-page .site-content {
 .btn-shopee-red { background-color: #f97316; color: #ffffff; }
 
 /* =========================================
-   10. HOME INDEX (.pc-home)
+   10. HOME INDEX (.pc-home) - CORRIGIDO E UNIFICADO
    ========================================= */
 .pc-home {
     --pc-ink: #101b2a;
@@ -629,15 +629,7 @@ body.home-page .site-content {
     background: radial-gradient(ellipse at 85% 25%, #3a4652 0%, transparent 42%), linear-gradient(118deg, #0b121c 4%, #192637 70%, #101820);
     color: #fff;
     box-shadow: 0 20px 55px rgba(12, 22, 34, 0.17);
-}
-
-.pc-hero:before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    z-index: -1;
-    opacity: 0.19;
-    background: repeating-linear-gradient(115deg, transparent 0, transparent 75px, #fff 76px, transparent 77px);
+    margin-bottom: 25px;
 }
 
 .pc-hero-main {
@@ -645,7 +637,12 @@ body.home-page .site-content {
     grid-template-columns: minmax(0, 1.25fr) minmax(260px, .75fr);
     align-items: center;
     gap: 30px;
-    padding: 58px 54px 48px;
+    padding: 58px 54px 40px;
+}
+
+.pc-hero-content {
+    display: flex;
+    flex-direction: column;
 }
 
 .pc-eyebrow {
@@ -659,20 +656,11 @@ body.home-page .site-content {
     text-transform: uppercase;
 }
 
-.pc-eyebrow:before {
-    content: "";
-    width: 21px;
-    height: 3px;
-    background: var(--pc-yellow);
-    border-radius: 4px;
-}
-
 .pc-hero h1 {
-    font-size: clamp(32px, 4.5vw, 55px);
+    font-size: clamp(28px, 4vw, 50px);
     line-height: 1.1;
     letter-spacing: -0.045em;
-    margin: 18px 0 20px;
-    max-width: 690px;
+    margin: 15px 0 20px;
     font-weight: 850;
     color: #fff;
 }
@@ -684,10 +672,9 @@ body.home-page .site-content {
 
 .pc-lead {
     font-size: 15px;
-    line-height: 1.8;
+    line-height: 1.7;
     color: #d0d8e3;
-    max-width: 580px;
-    margin: 0 0 28px;
+    margin: 0 0 25px;
 }
 
 .pc-actions {
@@ -700,17 +687,13 @@ body.home-page .site-content {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    min-height: 48px;
-    padding: 13px 21px;
+    min-height: 46px;
+    padding: 12px 20px;
     border-radius: 11px;
     font-size: 13px;
     font-weight: 800;
     text-decoration: none;
     transition: transform 0.2s, background 0.2s;
-}
-
-.pc-action:hover {
-    transform: translateY(-2px);
 }
 
 .pc-action-primary {
@@ -720,7 +703,6 @@ body.home-page .site-content {
 
 .pc-action-primary:hover {
     background: #ffdb70;
-    color: #15191f;
 }
 
 .pc-action-secondary {
@@ -729,34 +711,155 @@ body.home-page .site-content {
     background: rgba(255, 255, 255, 0.04);
 }
 
-.pc-action-secondary:hover {
-    background: rgba(255, 255, 255, 0.1);
-    color: #fff;
-}
-
 .pc-feature {
     border: 1px solid rgba(255, 255, 255, 0.16);
     border-radius: 19px;
     background: linear-gradient(145deg, rgba(255, 255, 255, 0.09), rgba(255, 255, 255, 0.03));
-    padding: 28px;
+    padding: 24px;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.13);
-    backdrop-filter: blur(4px);
-}
-
-.pc-feature-kicker {
-    font-size: 11px;
-    color: var(--pc-yellow);
-    font-weight: 800;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
 }
 
 .pc-feature h2 {
     color: #fff;
-    font-size: 25px;
+    font-size: 22px;
     line-height: 1.2;
-    margin: 13px 0 14px;
-    letter-spacing: -0.025em;
+    margin: 10px 0 12px;
+}
+
+.pc-feature p {
+    color: #d0d8e3;
+    font-size: 13px;
+    line-height: 1.6;
+    margin: 0 0 15px;
+}
+
+.pc-feature ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: grid;
+    gap: 10px;
+}
+
+.pc-feature li {
+    font-size: 12px;
+    color: #f3f5f8;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+}
+
+/* Barra de passos / tópicos logo abaixo do Hero */
+.pc-hero-steps {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    padding: 20px 54px;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    background: rgba(5, 11, 20, 0.4);
+    font-size: 12px;
+    color: #cbd5e1;
+}
+
+.pc-hero-steps div b {
+    display: block;
+    color: #fff;
+    margin-bottom: 3px;
+    font-weight: 700;
+}
+
+/* Grelha de Situações */
+.pc-situations {
+    margin: 30px 0 40px;
+    background: #fff;
+    border: 1px solid #e4e9f0;
+    border-radius: 20px;
+    padding: 28px;
+    box-shadow: 0 9px 35px rgba(20, 34, 56, 0.03);
+}
+
+.pc-situations h2 {
+    color: var(--pc-ink);
+    font-size: clamp(22px, 2.5vw, 28px);
+    margin: 0 0 8px;
+}
+
+.pc-situations-intro {
+    color: var(--pc-muted);
+    font-size: 14px;
+    margin: 0 0 20px;
+}
+
+.pc-situation-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+}
+
+.pc-situation-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: #f8fafc;
+    border: 1px solid #e7ebf0;
+    border-radius: 14px;
+    padding: 16px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.pc-situation-card:hover {
+    border-color: #e8b344;
+    transform: translateY(-2px);
+}
+
+.pc-situation-icon {
+    display: grid;
+    place-items: center;
+    flex: 0 0 38px;
+    height: 38px;
+    border-radius: 10px;
+    background: #fff2cf;
+    font-size: 18px;
+}
+
+.pc-situation-copy b {
+    display: block;
+    color: #152033;
+    font-size: 13px;
+    margin-bottom: 4px;
+}
+
+.pc-situation-copy small {
+    display: block;
+    color: #69788a;
+    font-size: 11px;
+    line-height: 1.4;
+}
+
+/* =========================================
+   RESPONSIVO MOBILE (< 768px)
+   ========================================= */
+@media screen and (max-width: 768px) {
+    .pc-hero-main {
+        grid-template-columns: 1fr;
+        padding: 30px 20px;
+        gap: 20px;
+    }
+
+    .pc-hero-steps {
+        grid-template-columns: 1fr 1fr;
+        padding: 16px 20px;
+        gap: 14px;
+    }
+
+    .pc-situation-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .pc-hero h1 {
+        font-size: 26px;
+    }
 }
 
 /* =========================================
