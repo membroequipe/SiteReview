@@ -750,46 +750,35 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   BARRA DE PASSOS DO HERO (.pc-hero-steps)
+   FAIXA DE CONFIANÇA DO HERO (.pc-trust) CORRIGIDA
    ========================================= */
-.pc-hero-steps {
+.pc-trust {
+    border-top: 1px solid rgba(255, 255, 255, 0.14);
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 16px;
-    margin: 0;
-    padding: 24px 54px;
-    border-top: 1px solid rgba(255, 255, 255, 0.15);
-    background: rgba(5, 11, 20, 0.6);
-    list-style: none;
-    width: 100%;
+    gap: 14px;
+    padding: 20px 54px 23px;
+    background: rgba(5, 11, 20, 0.5);
 }
 
-.pc-hero-steps li,
-.pc-hero-steps div {
-    font-size: 12px;
-    color: #94a3b8;
-    line-height: 1.5;
+.pc-trust-item {
     display: flex;
     flex-direction: column;
 }
 
-.pc-hero-steps li strong,
-.pc-hero-steps li b,
-.pc-hero-steps div strong,
-.pc-hero-steps div b {
+.pc-trust-item b {
     display: block;
-    color: #ffffff;
-    font-size: 13px;
+    font-size: 12px;
+    color: #fff;
+    margin-bottom: 5px;
     font-weight: 700;
-    margin-bottom: 3px;
 }
 
-@media screen and (max-width: 768px) {
-    .pc-hero-steps {
-        grid-template-columns: 1fr 1fr;
-        padding: 20px;
-        gap: 12px;
-    }
+.pc-trust-item span {
+    display: block;
+    font-size: 11px;
+    color: #aab7c7;
+    line-height: 1.5;
 }
 
 /* Grelha de Situações */
@@ -871,10 +860,9 @@ body.home-page .site-content {
         gap: 20px;
     }
 
-    .pc-hero-steps {
+    .pc-trust {
         grid-template-columns: 1fr 1fr;
-        padding: 16px 20px;
-        gap: 14px;
+        padding: 18px 22px;
     }
 
     .pc-situation-grid {
