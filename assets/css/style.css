@@ -496,7 +496,7 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   9. BLOCO DE AFILIADOS (DEFINITIVO E FORMATADO)
+   9. BLOCO DE AFILIADOS (SEMPRE LADO A LADO)
    ========================================= */
 .product-card-affiliate {
     background-color: #ffffff;
@@ -561,9 +561,10 @@ body.home-page .site-content {
 .product-card-buttons {
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap; /* Impede que quebrem de linha */
+    flex-wrap: nowrap !important;
     justify-content: space-between;
-    gap: 8px;
+    align-items: stretch;
+    gap: 6px;
     width: 100%;
     margin-top: 0.5rem;
 }
@@ -575,12 +576,12 @@ body.home-page .site-content {
     padding: 0.6rem 0.2rem;
     border-radius: var(--radius-md);
     font-weight: 700;
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     text-decoration: none;
     box-shadow: 0 2px 6px rgba(0,0,0,0.06);
     transition: transform 0.2s ease, opacity 0.2s ease;
     
-    /* Distribui os 3 botões exatamente em partes iguais, sempre lado a lado */
+    /* Distribuição igualitária rigorosa para os 3 botões ficarem lado a lado */
     flex: 1 1 0;
     min-width: 0;
     width: 100%;
@@ -613,10 +614,9 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   10. MEDIA QUERIES MOBILE (< 768px) UNIFICADAS
+   10. MEDIA QUERIES MOBILE (< 768px)
    ========================================= */
 @media screen and (max-width: 768px) {
-    /* Ajustes gerais de conteúdo e tabelas */
     .site-content {
         padding: 1.2rem !important;
         margin: 1rem auto !important;
@@ -636,24 +636,23 @@ body.home-page .site-content {
         border-right: none;
     }
 
-   /* Responsivo para mobile no bloco de afiliados */
-@media screen and (max-width: 768px) {
     .product-card-affiliate {
         padding: 1rem;
     }
 
+    /* Garante que no mobile os botões continuam estritamente lado a lado */
     .product-card-affiliate .product-card-buttons {
-        flex-direction: column;
-        align-items: stretch;
-        gap: 8px;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        gap: 4px;
     }
 
-    /* Especificidade forte (duas classes + elemento) para vencer a regra global .btn-store */
     .product-card-affiliate .product-card-buttons .btn-store {
-        max-width: 100%;
-        width: 100%;
-        flex: 1 1 auto;
-        padding: 0.5rem 1rem; /* Altura menor e mais elegante no mobile */
-        font-size: 0.9rem;
+        flex: 1 1 0 !important;
+        width: auto !important;
+        max-width: none !important;
+        padding: 0.5rem 0.1rem !important;
+        font-size: 0.72rem !important;
+        white-space: nowrap !important;
     }
 }
