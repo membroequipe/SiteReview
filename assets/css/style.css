@@ -631,7 +631,8 @@ body.home-page .site-content {
         border-right: none;
     }
 
-    /* Ajustes refinados do bloco de afiliados no mobile (sem !important) */
+   /* Responsivo para mobile no bloco de afiliados */
+@media screen and (max-width: 768px) {
     .product-card-affiliate {
         padding: 1rem;
     }
@@ -642,10 +643,12 @@ body.home-page .site-content {
         gap: 8px;
     }
 
- .product-card-affiliate .btn-store {
+    /* Especificidade forte (duas classes + elemento) para vencer a regra global .btn-store */
+    .product-card-affiliate .product-card-buttons .btn-store {
         max-width: 100%;
         width: 100%;
-        padding: 0.4rem 1rem; /* Reduzimos a altura interna vertical para o botão ficar mais fino */
+        flex: 1 1 auto;
+        padding: 0.5rem 1rem; /* Altura menor e mais elegante no mobile */
         font-size: 0.9rem;
     }
 }
