@@ -571,17 +571,17 @@ body.home-page .site-content {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 0.75rem 1rem;
+    padding: 0.75rem 0.8rem; /* Reduz ligeiramente o padding lateral para economizar espaço */
     border-radius: var(--radius-md);
     font-weight: 700;
-    font-size: 0.9rem;
+    font-size: 0.88rem;
     text-decoration: none;
     box-shadow: 0 2px 6px rgba(0,0,0,0.06);
     transition: transform 0.2s ease, opacity 0.2s ease;
     
-    /* Ajustes para caberem 3 lado a lado com perfeição */
-    flex: 1 1 120px;
-    max-width: 200px;
+    /* Ajuste para caberem os 3 lado a lado no desktop */
+    flex: 1 1 100px;
+    max-width: 155px; 
     white-space: nowrap;
 }
 
