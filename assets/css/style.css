@@ -502,9 +502,9 @@ body.home-page .site-content {
     background-color: #ffffff;
     border: 2px solid #a3e635;
     border-radius: 20px;
-    padding: 1.2rem 1.25rem; /* Reduzimos o padding superior/inferior para o card ficar mais compacto */
-    margin: 1.5rem auto;      /* Margem exterior mais enxuta e centralizado */
-    max-width: 620px;       /* Largura máxima compacta idêntica ao concorrente */
+    padding: 1.25rem 1.5rem; /* Padding superior e inferior reduzidos para eliminar o excesso de altura */
+    margin: 1.5rem auto;      /* Centralizado e com margem enxuta */
+    max-width: 580px;       /* Largura máxima mais enxuta e compacta */
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
     display: flex;
     flex-direction: column;
@@ -514,24 +514,17 @@ body.home-page .site-content {
 }
 
 .product-card-img {
-    width: 130px;
-    height: 130px;
-    min-width: 130px;
+    width: 110px;           /* Imagem ligeiramente mais compacta */
+    height: 110px;
+    min-width: 110px;
     background-color: #f8fafc;
     border-radius: var(--radius-md);
     overflow: hidden;
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.75rem; /* Espaço menor abaixo da imagem */
     border: 1px solid var(--border-color);
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.product-card-img img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    object-position: center;
 }
 
 .product-card-body {
@@ -539,8 +532,8 @@ body.home-page .site-content {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    gap: 0.5rem;
-    margin-bottom: 1.25rem;
+    gap: 0.3rem;
+    margin-bottom: 0.8rem; /* Reduz o espaço entre o texto e os botões */
 }
 
 .product-card-body h3, 
