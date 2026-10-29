@@ -56,10 +56,11 @@ A Werca W-E12 é uma parafusadeira sem fio de 10,8V com sistema de torque de 3 n
     <div class="product-card-info">
       <h3 class="product-card-title">Werca W-E12</h3>
       <p class="product-card-subtitle">Melhor torque de 3 níveis com carregador USB</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-      </div>
+    <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
@@ -92,10 +93,11 @@ A Black+Decker BDCS90 é uma parafusadeira compacta de 3,6V com dois níveis de 
     <div class="product-card-info">
       <h3 class="product-card-title">Black+Decker BDCS90</h3>
       <p class="product-card-subtitle">Compacta e leve, perfeita para iniciantes</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-      </div>
+    <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
@@ -128,10 +130,11 @@ A Makita TD110D é uma parafusadeira de 12V, diferente das anteriores, que ofere
     <div class="product-card-info">
       <h3 class="product-card-title">Makita TD110D</h3>
       <p class="product-card-subtitle">Motor Brushless e compatibilidade Makita</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Ver na Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Ver no Mercado Livre</a>
-      </div>
+    <div class="product-card-buttons">
+       <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">Amazon</a> 
+       <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a> 
+       <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a> 
+     </div>
     </div>
   </div>
 </div>
