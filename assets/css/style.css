@@ -560,9 +560,10 @@ body.home-page .site-content {
 
 .product-card-buttons {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
+    flex-direction: row;
+    flex-wrap: nowrap; /* Impede que quebrem de linha */
+    justify-content: space-between;
+    gap: 8px;
     width: 100%;
     margin-top: 0.5rem;
 }
@@ -571,17 +572,19 @@ body.home-page .site-content {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 0.6rem 0.5rem; /* Reduzimos um pouco o padding horizontal */
+    padding: 0.6rem 0.2rem;
     border-radius: var(--radius-md);
     font-weight: 700;
-    font-size: 0.82rem;     /* Letra ligeiramente mais compacta para caberem todos */
+    font-size: 0.8rem;
     text-decoration: none;
     box-shadow: 0 2px 6px rgba(0,0,0,0.06);
     transition: transform 0.2s ease, opacity 0.2s ease;
     
-    /* Ajuste certeiro para 3 botões lado a lado no desktop */
-    flex: 1 1 90px;
-    max-width: 135px; 
+    /* Distribui os 3 botões exatamente em partes iguais, sempre lado a lado */
+    flex: 1 1 0;
+    min-width: 0;
+    width: 100%;
+    max-width: none;
     white-space: nowrap;
 }
 
