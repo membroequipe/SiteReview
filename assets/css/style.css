@@ -160,52 +160,6 @@ body {
 }
 
 /* =========================================
-   AJUSTE DO MENU NO MOBILE (< 768px)
-   ========================================= */
-@media screen and (max-width: 768px) {
-    .site-header-container {
-        flex-direction: column;
-        align-items: stretch;
-        gap: 12px;
-        padding: 12px 15px;
-    }
-
-    .site-logo-img {
-        height: 38px;
-        margin: 0 auto;
-    }
-
-    .site-header {
-        overflow: hidden;
-    }
-
-    .site-nav {
-        width: 100%;
-        overflow-x: auto;
-        white-space: nowrap;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none;
-        padding-bottom: 4px;
-    }
-
-    .site-nav::-webkit-scrollbar {
-        display: none;
-    }
-
-    .site-nav ul {
-        display: flex;
-        gap: 16px;
-        justify-content: flex-start;
-        padding: 0 5px;
-    }
-
-    .site-nav a {
-        font-size: 0.88rem;
-        padding: 4px 0;
-    }
-}
-
-/* =========================================
    3. CONTEÚDO PRINCIPAL E TIPOGRAFIA
    ========================================= */
 .site-content {
@@ -653,11 +607,33 @@ body.home-page .site-content {
     color: #ffffff !important;
 }
 
-/* Responsivo para mobile no bloco de afiliados */
-/* Responsivo para mobile no bloco de afiliados */
+/* =========================================
+   10. MEDIA QUERIES MOBILE (< 768px) UNIFICADAS
+   ========================================= */
 @media screen and (max-width: 768px) {
+    /* Ajustes gerais de conteúdo e tabelas */
+    .site-content {
+        padding: 1.2rem !important;
+        margin: 1rem auto !important;
+        border-radius: 12px;
+    }
+
+    .pros-cons-grid {
+        grid-template-columns: 1fr !important;
+        gap: 1rem;
+    }
+
+    .specs-table-wrapper,
+    .table-wrapper {
+        margin: 1rem -1.2rem;
+        border-radius: 0;
+        border-left: none;
+        border-right: none;
+    }
+
+    /* Ajustes refinados do bloco de afiliados no mobile (sem !important) */
     .product-card-affiliate {
-        padding: 1.25rem 1rem;
+        padding: 1rem;
     }
 
     .product-card-affiliate .product-card-buttons {
@@ -671,42 +647,5 @@ body.home-page .site-content {
         width: 100%;
         padding: 0.6rem 1rem;
         font-size: 0.9rem;
-    }
-}
-
-/* =========================================
-   10. MEDIA QUERIES MOBILE DEFINITIVAS (< 768px)
-   ========================================= */
-@media screen and (max-width: 768px) {
-    .site-content {
-        padding: 1.2rem !important;
-        margin: 1rem auto !important;
-        border-radius: 12px;
-    }
-
-    .pros-cons-grid {
-        grid-template-columns: 1fr !important; /* Prós e Contras empilhados sem espremer */
-        gap: 1rem;
-    }
-
-    .specs-table-wrapper,
-    .table-wrapper {
-        margin: 1rem -1.2rem; /* Permite scroll horizontal fluido na tabela sem quebrar o layout da página */
-        border-radius: 0;
-        border-left: none;
-        border-right: none;
-    }
-
-    .product-card-affiliate {
-        padding: 1rem;
-    }
-
-    .product-card-buttons {
-        flex-direction: column; /* Botões de afiliados empilhados verticalmente no mobile para ocupar 100% da largura com conforto */
-    }
-
-    .btn-store {
-        max-width: 100% !important;
-        width: 100% !important;
     }
 }
