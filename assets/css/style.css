@@ -642,7 +642,7 @@ body.home-page .site-content {
         gap: 8px;
     }
 
-   .product-card-affiliate .btn-store {
+ .product-card-affiliate .btn-store {
         max-width: 100%;
         width: 100%;
         padding: 0.4rem 1rem; /* Reduzimos a altura interna vertical para o botão ficar mais fino */
