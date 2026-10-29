@@ -47,11 +47,11 @@ A Werca W-E12 é uma parafusadeira sem fio de 10,8V com sistema de torque de 3 n
 * A caixa de engrenagens é de plástico – não suporta sobrecarga excessiva.
 * Ausência de luz LED de trabalho – pode dificultar a visualização em áreas escuras.
 
-<!-- CARD DE AFILIADO DO MODELO 1 -->
-<div class="product-card-affiliate" style="margin: 20px 0;">
+<!-- CARD DE AFILIADO -->
+<div class="product-card-affiliate" style="margin: 30px 0;">
   <div class="product-card-body">
     <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/werca-w-e12.png' | relative_url }}" alt="Werca W-E12">
+      <img src="{{ '/assets/images/posts/werca-w-e12.png' | relative_url }}" alt="Furadeira Werca W-E12">
     </div>
     <div class="product-card-info">
       <h3 class="product-card-title">Werca W-E12</h3>
