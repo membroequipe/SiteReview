@@ -653,20 +653,24 @@ body.home-page .site-content {
     color: #ffffff !important;
 }
 
-/* Responsivo para telemóveis no bloco de afiliados */
+/* Responsivo para mobile no bloco de afiliados */
+/* Responsivo para mobile no bloco de afiliados */
 @media screen and (max-width: 768px) {
     .product-card-affiliate {
         padding: 1.25rem 1rem;
     }
 
-    .product-card-buttons {
+    .product-card-affiliate .product-card-buttons {
         flex-direction: column;
-        align-stretch;
+        align-items: stretch;
+        gap: 8px;
     }
 
-    .btn-store {
+    .product-card-affiliate .btn-store {
         max-width: 100%;
         width: 100%;
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
     }
 }
 
