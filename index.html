@@ -3,144 +3,343 @@ layout: default
 title: "Início"
 ---
 
-<main class="pc-home">
+<div class="pc-home">
+
+  <!-- ======================================
+       APRESENTAÇÃO PRINCIPAL
+       ====================================== -->
   <section class="pc-hero" aria-labelledby="pc-main-title">
     <div class="pc-hero-main">
-      <div>
-        <span class="pc-eyebrow">Sua Melhor Ferramenta · Guia de escolha</span>
-        <h1 id="pc-main-title">Qual a <strong>melhor parafusadeira ou furadeira</strong> para o seu tipo de trabalho?</h1>
-        <p class="pc-lead">Compare parafusadeiras e furadeiras para montar móveis, fazer reparos em casa ou enfrentar tarefas mais exigentes. Entenda torque, bateria, mandril e função impacto antes de escolher.</p>
+
+      <div class="pc-hero-copy">
+        <span class="pc-eyebrow">
+          Sua Melhor Ferramenta · Guia de escolha
+        </span>
+
+        <h1 id="pc-main-title">
+          Qual a <strong>melhor parafusadeira ou furadeira</strong>
+          para o seu trabalho?
+        </h1>
+
+        <p class="pc-lead">
+          Compare ferramentas para montar móveis, fazer reparos
+          em casa ou enfrentar tarefas mais exigentes. Entenda
+          torque, bateria, mandril e função impacto antes de escolher.
+        </p>
+
         <div class="pc-actions">
-          <a class="pc-action pc-action-primary" href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}">Encontrar minha parafusadeira <span aria-hidden="true">&nbsp;→</span></a>
-          <a class="pc-action pc-action-secondary" href="{{ '/comparativos/' | relative_url }}">Explorar comparativos</a>
+          <a
+            class="pc-action pc-action-primary"
+            href="{{ '/qual-a-melhor-parafusadeira/' | relative_url }}"
+          >
+            Encontrar parafusadeira
+            <span aria-hidden="true">→</span>
+          </a>
+
+          <a
+            class="pc-action pc-action-secondary"
+            href="{{ '/comparativos/' | relative_url }}"
+          >
+            Ver comparativos
+          </a>
         </div>
       </div>
-      <aside class="pc-feature" aria-label="O que considerar na escolha">
-        <span class="pc-feature-kicker">Escolha com critério</span>
-        <h2>Mais do que potência: a melhor ferramenta para cada tarefa.</h2>
-        <p>Nem sempre a opção mais cara é a mais adequada. Comece pelo que realmente importa para seu uso.</p>
+
+      <aside class="pc-feature" aria-labelledby="pc-feature-title">
+        <span class="pc-feature-kicker">
+          Escolha com critério
+        </span>
+
+        <h2 id="pc-feature-title">
+          Mais do que potência: a ferramenta certa para cada tarefa.
+        </h2>
+
+        <p>
+          Nem sempre a opção mais cara é a mais adequada.
+          Comece pelo que realmente importa para seu uso.
+        </p>
+
         <ul>
           <li>Torque e controle para cada material</li>
           <li>Autonomia e tipo de bateria</li>
           <li>Ergonomia, peso e frequência de uso</li>
         </ul>
       </aside>
+
     </div>
-    <div class="pc-trust" aria-label="Critérios editoriais">
-      <div class="pc-trust-item"><b>01 · Fichas técnicas</b><span>Dados de fabricantes e manuais</span></div>
-      <div class="pc-trust-item"><b>02 · Comparação prática</b><span>Diferenças que importam no uso</span></div>
-      <div class="pc-trust-item"><b>03 · Pontos de atenção</b><span>Limitações de cada categoria</span></div>
-      <div class="pc-trust-item"><b>04 · Compra consciente</b><span>Escolhas alinhadas ao orçamento</span></div>
+
+    <!-- Critérios editoriais -->
+    <div
+      class="pc-trust"
+      role="group"
+      aria-label="Critérios editoriais"
+    >
+      <div class="pc-trust-item">
+        <b>01 · Fichas técnicas</b>
+        <span>Dados de fabricantes e manuais</span>
+      </div>
+
+      <div class="pc-trust-item">
+        <b>02 · Comparação de recursos</b>
+        <span>Diferenças relevantes para cada tarefa</span>
+      </div>
+
+      <div class="pc-trust-item">
+        <b>03 · Pontos de atenção</b>
+        <span>Limitações de cada categoria</span>
+      </div>
+
+      <div class="pc-trust-item">
+        <b>04 · Compra consciente</b>
+        <span>Escolhas alinhadas ao orçamento</span>
+      </div>
     </div>
   </section>
 
-  <section class="pc-situations" aria-labelledby="pc-situation-title">
-  <p class="pc-section-kicker">Encontre seu caminho</p>
-  <h2 id="pc-situation-title">Para que você vai usar a parafusadeira ou furadeira?</h2>
-  <p class="pc-situations-intro">Selecione sua necessidade e descubra quais características procurar antes de comprar.</p>
-  <div class="pc-situation-grid">
-    
-    <!-- Card 1: Montagem de Móveis -->
-    <a class="pc-situation-card" href="{{ '/as-3-melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}">
-      <span class="pc-situation-icon" aria-hidden="true">🪑</span>
-      <span class="pc-situation-copy"><b>Montagem de móveis e MDF</b><small>Controle de torque e cuidado com as peças.</small></span>
-    </a>
+  <!-- ======================================
+       NAVEGAÇÃO POR NECESSIDADE
+       ====================================== -->
+  <section
+    class="pc-situations"
+    aria-labelledby="pc-situation-title"
+  >
+    <p class="pc-section-kicker">
+      Encontre seu caminho
+    </p>
 
-    <!-- Card 2: Reparos e Manutenção -->
-    <a class="pc-situation-card" href="{{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}">
-      <span class="pc-situation-icon" aria-hidden="true">🏠</span>
-      <span class="pc-situation-copy"><b>Reparos e manutenção da casa</b><small>Versatilidade para tarefas do dia a dia.</small></span>
-    </a>
+    <h2 id="pc-situation-title">
+      Para que você vai usar a ferramenta?
+    </h2>
 
-    <!-- Card 3: Perfuração de Alvenaria -->
-    <a class="pc-situation-card" href="{{ '/melhores-furadeiras-impacto-alvenaria-concreto/' | relative_url }}">
-      <span class="pc-situation-icon" aria-hidden="true">🧱</span>
-      <span class="pc-situation-copy"><b>Perfuração de alvenaria</b><small>Entenda quando é necessário impacto.</small></span>
-    </a>
+    <p class="pc-situations-intro">
+      Selecione sua necessidade e descubra quais características
+      procurar em uma parafusadeira ou furadeira.
+    </p>
 
-    <!-- Card 4: Até R$ 300 -->
-    <a class="pc-situation-card" href="{{ '/melhores-parafusadeiras-baratas-ate-300-reais/' | relative_url }}">
-      <span class="pc-situation-icon" aria-hidden="true">💰</span>
-      <span class="pc-situation-copy"><b>Opções de até R$ 300</b><small>Priorize os recursos que valem o investimento.</small></span>
-    </a>
+    <div class="pc-situation-grid">
 
-    <!-- Card 5: Minha Primeira Parafusadeira -->
-    <a class="pc-situation-card" href="{{ '/primeira-parafusadeira-qual-comprar/' | relative_url }}">
-      <span class="pc-situation-icon" aria-hidden="true">🧰</span>
-      <span class="pc-situation-copy"><b>Minha primeira parafusadeira</b><small>O essencial para começar sem complicação.</small></span>
-    </a>
+      <!-- Montagem de móveis -->
+      <a
+        class="pc-situation-card"
+        href="{{ '/as-3-melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}"
+      >
+        <span class="pc-situation-icon" aria-hidden="true">🪑</span>
 
-    <!-- Card 6: Leveza e Conforto -->
-    <a class="pc-situation-card" href="{{ '/melhores-parafusadeiras-leves-12v/' | relative_url }}">
-      <span class="pc-situation-icon" aria-hidden="true">🪶</span>
-      <span class="pc-situation-copy"><b>Leveza e conforto no uso</b><small>Mais ergonomia para trabalhos prolongados.</small></span>
-    </a>
+        <span class="pc-situation-copy">
+          <b>Montagem de móveis e MDF</b>
+          <small>Controle de torque e cuidado com as peças.</small>
+        </span>
+      </a>
 
-  </div>
-</section>
+      <!-- Reparos e manutenção: destino original preservado -->
+      <a
+        class="pc-situation-card"
+        href="{{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}"
+      >
+        <span class="pc-situation-icon" aria-hidden="true">🏠</span>
 
-  <!-- LISTA DE ÚLTIMAS PUBLICAÇÕES -->
-  <h2 class="section-header-title">Últimas Publicações & Reviews</h2>
+        <span class="pc-situation-copy">
+          <b>Reparos e manutenção da casa</b>
+          <small>Versatilidade para tarefas do dia a dia.</small>
+        </span>
+      </a>
 
-  {% if site.posts.size > 0 %}
-    <div class="home-posts-grid">
-      {% for post in site.posts limit: 6 %}
-        <article class="home-post-card">
-          
-          <a href="{{ post.url | relative_url }}" class="home-post-img-link">
-            {% if post.image %}
-              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
-            {% else %}
-              <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy">
-            {% endif %}
-          </a>
-          
-          <div class="home-post-body">
-            {% if post.category %}
-              <span class="home-post-badge">{{ post.category }}</span>
-            {% elsif post.categories.first %}
-              <span class="home-post-badge">{{ post.categories.first }}</span>
-            {% endif %}
+      <!-- Perfuração de alvenaria -->
+      <a
+        class="pc-situation-card"
+        href="{{ '/melhores-furadeiras-impacto-alvenaria-concreto/' | relative_url }}"
+      >
+        <span class="pc-situation-icon" aria-hidden="true">🧱</span>
 
-            <h3 class="home-post-title">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h3>
+        <span class="pc-situation-copy">
+          <b>Perfuração de alvenaria</b>
+          <small>Entenda quando é necessário impacto.</small>
+        </span>
+      </a>
 
-            <div class="home-post-date">
-              Por {{ post.author | default: "Equipe de Análises" }} • {{ post.date | date: "%d/%m/%Y" }}
+      <!-- Opções econômicas -->
+      <a
+        class="pc-situation-card"
+        href="{{ '/melhores-parafusadeiras-baratas-ate-300-reais/' | relative_url }}"
+      >
+        <span class="pc-situation-icon" aria-hidden="true">💰</span>
+
+        <span class="pc-situation-copy">
+          <b>Opções de até R$ 300</b>
+          <small>Priorize os recursos que valem o investimento.</small>
+        </span>
+      </a>
+
+      <!-- Primeira ferramenta -->
+      <a
+        class="pc-situation-card"
+        href="{{ '/primeira-parafusadeira-qual-comprar/' | relative_url }}"
+      >
+        <span class="pc-situation-icon" aria-hidden="true">🧰</span>
+
+        <span class="pc-situation-copy">
+          <b>Minha primeira parafusadeira</b>
+          <small>O essencial para começar sem complicação.</small>
+        </span>
+      </a>
+
+      <!-- Ergonomia -->
+      <a
+        class="pc-situation-card"
+        href="{{ '/melhores-parafusadeiras-leves-12v/' | relative_url }}"
+      >
+        <span class="pc-situation-icon" aria-hidden="true">🪶</span>
+
+        <span class="pc-situation-copy">
+          <b>Leveza e conforto no uso</b>
+          <small>Mais ergonomia para trabalhos prolongados.</small>
+        </span>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- ======================================
+       ÚLTIMAS PUBLICAÇÕES
+       ====================================== -->
+  <section
+    class="pc-latest"
+    aria-labelledby="pc-latest-title"
+  >
+    <h2 class="section-header-title" id="pc-latest-title">
+      Últimas publicações e reviews
+    </h2>
+
+    {% if site.posts.size > 0 %}
+
+      <div class="home-posts-grid">
+        {% for post in site.posts limit: 6 %}
+
+          {% assign card_category = post.category | default: post.categories.first %}
+          {% assign card_author = post.author | default: "Equipe de Análises" %}
+
+          <article
+            class="home-post-card"
+            aria-labelledby="home-post-title-{{ forloop.index }}"
+          >
+
+            <a
+              href="{{ post.url | relative_url }}"
+              class="home-post-img-link"
+              aria-label="{{ post.title | escape }}"
+            >
+              {% if post.image %}
+                <img
+                  src="{{ post.image | relative_url }}"
+                  alt=""
+                  loading="lazy"
+                  decoding="async"
+                  data-fallback="{{ '/assets/images/logo.png' | relative_url }}"
+                  onerror="this.onerror=null; this.classList.add('home-post-image-fallback'); this.src=this.dataset.fallback;"
+                >
+              {% else %}
+                <img
+                  src="{{ '/assets/images/logo.png' | relative_url }}"
+                  alt=""
+                  class="home-post-image-fallback"
+                  loading="lazy"
+                  decoding="async"
+                >
+              {% endif %}
+            </a>
+
+            <div class="home-post-body">
+
+              {% if card_category and card_category != empty %}
+                <span class="home-post-badge">
+                  {{ card_category | escape }}
+                </span>
+              {% endif %}
+
+              <h3
+                class="home-post-title"
+                id="home-post-title-{{ forloop.index }}"
+              >
+                <a href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+
+              <div class="home-post-date">
+                <span class="home-post-author">
+                  Por {{ card_author | escape }}
+                </span>
+
+                <span aria-hidden="true"> · </span>
+
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                  {{ post.date | date: "%d/%m/%Y" }}
+                </time>
+              </div>
+
             </div>
-          </div>
-        </article>
-      {% endfor %}
-    </div>
-  {% else %}
-    <div style="text-align: center; padding: 40px; color: #64748b; background: #f8fafc; border-radius: 12px; border: 1px dashed #cbd5e1;">
-      <p>Nenhum artigo publicado ainda. Novos guias em breve!</p>
-    </div>
-  {% endif %}
+          </article>
 
-  <!-- METODOLOGIA E TRANSPARÊNCIA (E-E-A-T) -->
-  <section class="methodology-box">
-    <h3>Como fazemos as nossas análises</h3>
+        {% endfor %}
+      </div>
+
+    {% else %}
+
+      <div class="pc-empty-state">
+        <p>
+          Nenhum artigo publicado ainda. Novos guias em breve!
+        </p>
+      </div>
+
+    {% endif %}
+  </section>
+
+  <!-- ======================================
+       METODOLOGIA
+       ====================================== -->
+  <section
+    class="methodology-box"
+    aria-labelledby="methodology-title"
+  >
+    <h2 id="methodology-title">
+      Como fazemos as nossas análises
+    </h2>
+
     <div class="methodology-grid">
+
       <div class="methodology-item">
-        <h4>Dados conferidos</h4>
-        <p>Analisamos as fichas técnicas oficiais dos fabricantes e manuais de cada modelo.</p>
+        <h3>Dados conferidos</h3>
+        <p>
+          Analisamos as fichas técnicas oficiais dos fabricantes
+          e manuais de cada modelo.
+        </p>
       </div>
+
       <div class="methodology-item">
-        <h4>Comparativos a fundo</h4>
-        <p>Colocamos marcas lado a lado para destacar o que muda na prática do uso.</p>
+        <h3>Comparação de recursos</h3>
+        <p>
+          Comparamos especificações e recursos para explicar
+          as diferenças relevantes para cada tipo de uso.
+        </p>
       </div>
+
       <div class="methodology-item">
-        <h4>Limitações à vista</h4>
-        <p>Dizemos claramente o que a ferramenta NÃO faz bem para evitar frustrações.</p>
+        <h3>Limitações à vista</h3>
+        <p>
+          Destacamos limitações e pontos de atenção
+          para ajudar você a escolher com mais clareza.
+        </p>
       </div>
+
       <div class="methodology-item">
-        <h4>Links de lojas</h4>
-        <p>Indicamos onde comprar com segurança no Mercado Livre, Amazon e Shopee.</p>
+        <h3>Links de lojas</h3>
+        <p>
+          Reunimos links para consultar ofertas no
+          Mercado Livre, Amazon e Shopee.
+        </p>
       </div>
+
     </div>
   </section>
 
-
-</main>
+</div>
