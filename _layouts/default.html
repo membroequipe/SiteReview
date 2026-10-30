@@ -1,86 +1,280 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <!-- SEO Automático -->
-    {% seo %}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Google Fonts: Plus Jakarta Sans -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- SEO automático do Jekyll -->
+  {% seo %}
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;display=swap"
+    rel="stylesheet"
+  >
 
+  <!-- Estilos do site -->
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/style.css' | relative_url }}"
+  >
 </head>
+
 <body class="{% if page.url == '/' or page.url == '/index.html' %}home-page{% endif %}">
 
-    <!-- Menu Superior Limpo e Direto -->
-    <header class="site-header">
-      <div class="site-header-container">
-        <a href="{{ '/' | relative_url }}">
-          <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Sua Melhor Ferramenta" class="site-logo-img">
-        </a>
-        
-        <!-- Botão Hambúrguer Mobile -->
-        <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Abrir Menu">
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
+  <!-- Cabeçalho -->
+  <header class="site-header">
+    <div class="site-header-container">
 
-        <nav class="site-nav" id="site-nav">
-          <ul>
-            <!-- 1. Início -->
-            <li><a href="{{ '/' | relative_url }}">Início</a></li>
+      <!-- Logo -->
+      <a
+        class="site-logo-link"
+        href="{{ '/' | relative_url }}"
+        aria-label="Sua Melhor Ferramenta — página inicial"
+      >
+        <img
+          src="{{ '/assets/images/logo.png' | relative_url }}"
+          alt="Sua Melhor Ferramenta"
+          class="site-logo-img"
+        >
+      </a>
 
-            <!-- 2. Hub de Furadeiras -->
-            <li><a href="{{ '/furadeiras/' | relative_url }}">Furadeiras</a></li>
+      <!-- Botão do menu mobile -->
+      <button
+        type="button"
+        class="mobile-menu-toggle"
+        id="mobile-menu-toggle"
+        aria-label="Abrir menu"
+        aria-controls="site-nav"
+        aria-expanded="false"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </button>
 
-            <!-- 3. Hub de Parafusadeiras -->
-            <li><a href="{{ '/parafusadeiras/' | relative_url }}">Parafusadeiras</a></li>
-            
-            <!-- 4. Hub de Comparativos -->
-            <li><a href="{{ '/comparativos/' | relative_url }}">Comparativos</a></li>         
+      <!-- Navegação principal -->
+      <nav
+        class="site-nav"
+        id="site-nav"
+        aria-label="Navegação principal"
+      >
+        <ul>
+          <li>
+            <a
+              href="{{ '/' | relative_url }}"
+              {% if page.url == '/' or page.url == '/index.html' %}
+                aria-current="page"
+              {% endif %}
+            >
+              Início
+            </a>
+          </li>
 
-            <!-- 5. Tutoriais e Dicas -->
-            <li><a href="{{ '/guias/' | relative_url }}">Tutoriais e Dicas</a></li>
+          <li>
+            <a
+              href="{{ '/furadeiras/' | relative_url }}"
+              {% if page.url == '/furadeiras/' %}
+                aria-current="page"
+              {% endif %}
+            >
+              Furadeiras
+            </a>
+          </li>
 
-            <!-- 6. Reviews -->
-            <li><a href="{{ '/reviews/' | relative_url }}">Reviews</a></li>
-              
-            <!-- 7. Sobre -->
-            <li><a href="{{ '/sobre/' | relative_url }}">Sobre</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+          <li>
+            <a
+              href="{{ '/parafusadeiras/' | relative_url }}"
+              {% if page.url == '/parafusadeiras/' %}
+                aria-current="page"
+              {% endif %}
+            >
+              Parafusadeiras
+            </a>
+          </li>
 
-    <!-- Conteúdo Principal -->
-    <main class="site-content">
-        {{ content }}
-    </main>
+          <li>
+            <a
+              href="{{ '/comparativos/' | relative_url }}"
+              {% if page.url == '/comparativos/' %}
+                aria-current="page"
+              {% endif %}
+            >
+              Comparativos
+            </a>
+          </li>
 
-    <!-- Rodapé Estilo Profissional com Redes Sociais -->
-    {% include footer.html %}
-    
-    <!-- Script de ativação do Menu Hambúrguer -->
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const menuToggle = document.getElementById('mobile-menu-toggle');
-        const siteNav = document.getElementById('site-nav');
+          <li>
+            <a
+              href="{{ '/guias/' | relative_url }}"
+              {% if page.url == '/guias/' %}
+                aria-current="page"
+              {% endif %}
+            >
+              Tutoriais e Dicas
+            </a>
+          </li>
 
-        if (menuToggle && siteNav) {
-          menuToggle.addEventListener('click', function() {
-            menuToggle.classList.toggle('active');
-            siteNav.classList.toggle('active');
-          });
+          <li>
+            <a
+              href="{{ '/reviews/' | relative_url }}"
+              {% if page.url == '/reviews/' %}
+                aria-current="page"
+              {% endif %}
+            >
+              Reviews
+            </a>
+          </li>
+
+          <li>
+            <a
+              href="{{ '/sobre/' | relative_url }}"
+              {% if page.url == '/sobre/' %}
+                aria-current="page"
+              {% endif %}
+            >
+              Sobre
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- Conteúdo principal de cada página -->
+  <main class="site-content" id="conteudo-principal" tabindex="-1">
+    {{ content }}
+  </main>
+
+  <!-- Rodapé compartilhado -->
+  {% include footer.html %}
+
+  <!-- Controle do menu mobile -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const menuToggle = document.getElementById("mobile-menu-toggle");
+      const siteNav = document.getElementById("site-nav");
+      const mainContent = document.getElementById("conteudo-principal");
+
+      if (!menuToggle || !siteNav) return;
+
+      // Este breakpoint deve ser igual ao utilizado no CSS.
+      const mobileViewport = window.matchMedia("(max-width: 1100px)");
+
+      function isMenuOpen() {
+        return menuToggle.getAttribute("aria-expanded") === "true";
+      }
+
+      function setMenu(open) {
+        menuToggle.classList.toggle("active", open);
+        siteNav.classList.toggle("active", open);
+
+        menuToggle.setAttribute("aria-expanded", String(open));
+        menuToggle.setAttribute(
+          "aria-label",
+          open ? "Fechar menu" : "Abrir menu"
+        );
+      }
+
+      // Abre ou fecha pelo botão.
+      menuToggle.addEventListener("click", function () {
+        if (!mobileViewport.matches) return;
+
+        setMenu(!isMenuOpen());
+      });
+
+      // Fecha após selecionar um link no mobile.
+      siteNav.addEventListener("click", function (event) {
+        const link = event.target.closest("a");
+
+        if (!link || !mobileViewport.matches || !isMenuOpen()) {
+          return;
+        }
+
+        const focusWasInside = siteNav.contains(document.activeElement);
+
+        setMenu(false);
+
+        // Não deixa o foco em um link que acabou de ser ocultado.
+        if (focusWasInside) {
+          menuToggle.focus();
         }
       });
-    </script>
+
+      // Fecha com Escape e devolve o foco ao botão.
+      document.addEventListener("keydown", function (event) {
+        if (
+          event.key !== "Escape" ||
+          !mobileViewport.matches ||
+          !isMenuOpen()
+        ) {
+          return;
+        }
+
+        setMenu(false);
+        menuToggle.focus();
+      });
+
+      // Fecha ao clicar fora do menu e do botão.
+      document.addEventListener("click", function (event) {
+        if (!mobileViewport.matches || !isMenuOpen()) return;
+
+        const clickedInside =
+          siteNav.contains(event.target) ||
+          menuToggle.contains(event.target);
+
+        if (clickedInside) return;
+
+        const focusWasInside = siteNav.contains(document.activeElement);
+
+        setMenu(false);
+
+        if (focusWasInside) {
+          menuToggle.focus();
+        }
+      });
+
+      // Fecha quando a navegação pelo teclado sai do menu.
+      document.addEventListener("focusin", function (event) {
+        if (!mobileViewport.matches || !isMenuOpen()) return;
+
+        const focusIsInside =
+          siteNav.contains(event.target) ||
+          menuToggle.contains(event.target);
+
+        if (!focusIsInside) {
+          setMenu(false);
+        }
+      });
+
+      // Limpa o estado ao mudar entre desktop e mobile.
+      mobileViewport.addEventListener("change", function (event) {
+        const focusedElement = document.activeElement;
+        const focusWasInNav = siteNav.contains(focusedElement);
+        const focusWasOnToggle = focusedElement === menuToggle;
+
+        setMenu(false);
+
+        if (event.matches && focusWasInNav) {
+          menuToggle.focus();
+        } else if (!event.matches && focusWasOnToggle) {
+          const firstLink = siteNav.querySelector("a");
+
+          if (firstLink) {
+            firstLink.focus();
+          } else if (mainContent) {
+            mainContent.focus();
+          }
+        }
+      });
+
+      // Estado inicial.
+      setMenu(false);
+    });
+  </script>
 
 </body>
 </html>
