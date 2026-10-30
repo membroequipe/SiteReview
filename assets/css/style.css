@@ -2159,3 +2159,269 @@ details.toc-box[open] > summary::after {
         padding: 16px !important;
     }
 }
+
+
+
+/* =========================================
+   RODAPÉ — DESKTOP E MOBILE
+   ========================================= */
+
+.site-footer {
+    margin-top: clamp(40px, 6vw, 72px);
+    background: #0f172a;
+    color: #cbd5e1;
+    border-top: 3px solid #f59e0b;
+    font-size: 0.9rem;
+    line-height: 1.75;
+    overflow-wrap: anywhere;
+}
+
+.site-footer .site-footer-container {
+    display: grid;
+    grid-template-columns:
+        minmax(0, 1.6fr)
+        minmax(0, 1fr)
+        minmax(0, 1fr);
+    gap: clamp(24px, 4vw, 56px);
+
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 48px 24px;
+}
+
+.site-footer .footer-col-about,
+.site-footer .footer-col-links {
+    min-width: 0;
+}
+
+/* Marca em texto: não depende de uma imagem
+   com fundo transparente ou de um arquivo adicional. */
+.site-footer .footer-brand-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    max-width: 100%;
+    margin-bottom: 18px;
+
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.site-footer .footer-brand-mark {
+    display: grid;
+    place-items: center;
+    flex: 0 0 48px;
+
+    width: 48px;
+    height: 48px;
+
+    background: #f59e0b;
+    color: #0f172a;
+    border-radius: 12px;
+
+    font-size: 0.8rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: -0.03em;
+}
+
+.site-footer .footer-title {
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    color: #ffffff;
+    font-size: clamp(1.1rem, 2vw, 1.35rem);
+    font-weight: 800;
+    line-height: 1.35;
+    letter-spacing: -0.025em;
+}
+
+.site-footer .footer-text {
+    max-width: 44ch;
+    margin: 0 0 18px;
+
+    color: #cbd5e1;
+    font-size: 0.9rem;
+    line-height: 1.85;
+}
+
+/* Link editorial destacado */
+.site-footer .footer-methodology-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+
+    min-height: 44px;
+    max-width: 100%;
+    padding: 6px 0;
+
+    color: #fcd34d;
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1.6;
+    text-decoration: none;
+}
+
+.site-footer .footer-methodology-link:hover {
+    color: #fde68a;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* Colunas de navegação */
+.site-footer .footer-subtitle {
+    margin: 0 0 14px;
+    padding: 0;
+    border: 0;
+
+    color: #ffffff;
+    font-size: 0.95rem;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+.site-footer .footer-nav {
+    display: grid;
+    gap: 2px;
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.site-footer .footer-nav li {
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.site-footer .footer-nav a {
+    display: flex;
+    align-items: center;
+
+    min-height: 44px;
+    padding: 8px 0;
+
+    color: #cbd5e1;
+    font-size: 0.86rem;
+    line-height: 1.6;
+    text-decoration: none;
+
+    transition: color 0.2s ease;
+}
+
+.site-footer .footer-nav a:hover {
+    color: #fcd34d;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* Foco visível sobre o fundo escuro */
+.site-footer a:focus-visible {
+    outline: 3px solid #fcd34d;
+    outline-offset: 4px;
+    border-radius: 4px;
+}
+
+/* Faixa inferior */
+.site-footer .footer-bottom {
+    background: #0b1220;
+    border-top: 1px solid #334155;
+}
+
+.site-footer .footer-bottom-container {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    align-items: center;
+    gap: 24px;
+
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.site-footer .footer-disclosure,
+.site-footer .footer-copyright {
+    min-width: 0;
+    margin: 0;
+
+    color: #cbd5e1;
+    font-size: 0.78rem;
+    line-height: 1.8;
+}
+
+.site-footer .footer-disclosure strong {
+    color: #f1f5f9;
+    font-weight: 700;
+}
+
+.site-footer .footer-copyright {
+    text-align: right;
+}
+
+/* Tablet: apresentação acima das duas colunas */
+@media (max-width: 960px) {
+    .site-footer .site-footer-container {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 32px;
+        padding-top: 36px;
+        padding-bottom: 36px;
+    }
+
+    .site-footer .footer-col-about {
+        grid-column: 1 / -1;
+    }
+
+    .site-footer .footer-text {
+        max-width: 65ch;
+    }
+
+    .site-footer .footer-bottom-container {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 14px;
+    }
+
+    .site-footer .footer-copyright {
+        text-align: left;
+    }
+}
+
+/* Celular: uma coluna, sem links comprimidos */
+@media (max-width: 600px) {
+    .site-footer {
+        margin-top: 36px;
+    }
+
+    .site-footer .site-footer-container {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 24px;
+        padding: 32px 20px;
+    }
+
+    .site-footer .footer-col-about {
+        grid-column: auto;
+    }
+
+    .site-footer .footer-col-links {
+        padding-top: 24px;
+        border-top: 1px solid #334155;
+    }
+
+    .site-footer .footer-subtitle {
+        margin-bottom: 8px;
+    }
+
+    .site-footer .footer-bottom-container {
+        padding: 22px 20px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .site-footer a {
+        transition: none;
+    }
+}
