@@ -1799,3 +1799,363 @@ details.toc-box[open] > summary::after {
         transform: none;
     }
 }
+
+/* =========================================
+   22. COMPATIBILIDADE COM POSTS ANTIGOS
+
+   Adapta os componentes existentes sem editar
+   os arquivos em _posts/.
+
+   !important usado pontualmente para vencer
+   os estilos inline presentes nos artigos.
+   ========================================= */
+
+
+/* -----------------------------------------
+   CONTÊINERES
+   ----------------------------------------- */
+
+.post-container,
+.post-content {
+    min-width: 0;
+    max-width: 100%;
+}
+
+.post-content {
+    overflow-wrap: anywhere;
+}
+
+
+/* -----------------------------------------
+   CARDS DE AFILIADOS
+
+   Corrige o margin: 30px 0 inline
+   que impede a centralização.
+   ----------------------------------------- */
+
+.post-content .product-card-affiliate {
+    width: 100% !important;
+    max-width: 580px !important;
+    min-width: 0;
+
+    margin: 28px auto !important;
+    padding: 24px !important;
+
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-top: 3px solid var(--accent);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+
+    text-align: center;
+}
+
+.post-content .product-card-body,
+.post-content .product-card-info {
+    width: 100%;
+    min-width: 0;
+    align-items: center;
+    text-align: center;
+}
+
+.post-content .product-card-title {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+
+    color: var(--primary);
+    font-size: 1.15rem;
+    line-height: 1.45;
+}
+
+.post-content .product-card-affiliate p {
+    max-width: 100%;
+    margin: 0 !important;
+    color: #475569;
+    font-size: 0.9rem;
+    line-height: 1.7;
+}
+
+
+/* -----------------------------------------
+   BOTÕES DAS LOJAS
+
+   Distribui igualmente uma, duas ou três lojas.
+   Funciona também dentro de product-card-info.
+   ----------------------------------------- */
+
+.post-content .product-card-buttons {
+    display: grid !important;
+
+    grid-template-columns: none;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
+
+    align-items: stretch;
+    gap: 10px;
+
+    width: 100% !important;
+    min-width: 0;
+    margin-top: 16px;
+}
+
+/* Neutraliza a regra anterior para botão único. */
+.post-content .product-card-buttons > :only-child {
+    grid-column: auto;
+}
+
+.post-content .product-card-buttons .btn-store {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    min-height: 48px;
+
+    padding: 12px 10px !important;
+
+    font-size: 0.85rem !important;
+    line-height: 1.45;
+    text-align: center;
+    text-decoration: none;
+
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+}
+
+.post-content .product-card-buttons .btn-amazon-green {
+    background: #047857 !important;
+    color: #ffffff !important;
+}
+
+.post-content .product-card-buttons .btn-ml-yellow {
+    background: #facc15 !important;
+    color: #0f172a !important;
+}
+
+.post-content .product-card-buttons .btn-shopee-red {
+    background: #c2410c !important;
+    color: #ffffff !important;
+}
+
+
+/* -----------------------------------------
+   RESUMO DA AVALIAÇÃO
+   ----------------------------------------- */
+
+.post-content .review-summary-text {
+    flex: 1 1 240px;
+    min-width: 0;
+}
+
+.post-content .review-summary-text h3 {
+    margin: 0 0 10px !important;
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+
+.post-content .review-summary-text p {
+    margin: 0 !important;
+}
+
+.post-content .review-summary-card > .pros-cons-grid:last-child {
+    margin-bottom: 0;
+}
+
+
+/* -----------------------------------------
+   SUMÁRIOS MANUAIS E AUTOMÁTICOS
+
+   Mantém os links e o estado aberto/fechado.
+   ----------------------------------------- */
+
+.post-content :is(.toc-box, .toc-container) {
+    max-width: 100%;
+    margin: 28px 0 !important;
+    padding: 22px !important;
+
+    background: #f8fafc !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: var(--radius-lg) !important;
+}
+
+.post-content :is(.toc-box, .toc-container) :is(h2, h3) {
+    margin: 0 0 14px !important;
+    padding: 0 !important;
+    border: 0 !important;
+
+    color: var(--primary) !important;
+    font-size: 1.05rem !important;
+    line-height: 1.5;
+}
+
+.post-content :is(.toc-box, .toc-container) :is(ul, ol) {
+    margin: 12px 0 0 !important;
+    padding-left: 0 !important;
+    list-style: none;
+}
+
+.post-content :is(.toc-box, .toc-container) a {
+    color: var(--link-color) !important;
+    text-decoration: none;
+}
+
+.post-content :is(.toc-box, .toc-container) a:hover {
+    text-decoration: underline;
+}
+
+
+/* -----------------------------------------
+   TABELAS
+
+   Normaliza os wrappers e estilos inline.
+   Tabelas soltas precisam do script no layout.
+   ----------------------------------------- */
+
+.post-content :is(
+    .specs-table-wrapper,
+    .competitors-table-wrapper,
+    .concorrentes-table-wrapper,
+    .table-wrapper
+) {
+    display: block;
+    width: 100% !important;
+    min-width: 0;
+    max-width: 100% !important;
+
+    margin: 26px 0 !important;
+    overflow-x: auto;
+
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+}
+
+.post-content table.specs-table {
+    width: 100% !important;
+    margin: 0 !important;
+    border-collapse: collapse !important;
+    font-size: 0.9rem;
+    line-height: 1.65;
+}
+
+.post-content table.specs-table thead th {
+    padding: 16px 18px !important;
+    background: var(--primary) !important;
+    color: #ffffff !important;
+    text-align: left !important;
+}
+
+.post-content table.specs-table td {
+    padding: 14px 18px !important;
+    border-bottom: 1px solid var(--border-color) !important;
+    vertical-align: top;
+}
+
+/* Classe adicionada pelo script de compatibilidade. */
+.post-content table.specs-table.table-two-columns {
+    min-width: 0 !important;
+    table-layout: fixed;
+}
+
+.post-content table.table-two-columns th,
+.post-content table.table-two-columns td {
+    overflow-wrap: anywhere;
+}
+
+
+/* -----------------------------------------
+   FAQ E BLOCOS RETRÁTEIS ANTIGOS
+
+   Estiliza details fora das caixas de sumário,
+   mesmo quando não possuem a classe faq-item.
+   ----------------------------------------- */
+
+.post-content details:not(:where(
+    .toc-box,
+    .toc-container,
+    #toc-box,
+    .toc-box details,
+    .toc-container details,
+    #toc-box details,
+    [data-theme="preserve"]
+)) {
+    margin: 0 0 14px !important;
+    padding: 0 !important;
+
+    background: #ffffff !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: var(--radius-md) !important;
+
+    cursor: auto !important;
+}
+
+.post-content details:not(:where(
+    .toc-box,
+    .toc-container,
+    #toc-box,
+    .toc-box details,
+    .toc-container details,
+    #toc-box details,
+    [data-theme="preserve"]
+)) > summary {
+    padding: 18px 20px !important;
+    color: var(--primary) !important;
+    font-size: 0.98rem;
+    font-weight: 700 !important;
+    line-height: 1.6;
+    cursor: pointer;
+}
+
+.post-content details:not(:where(
+    .toc-box,
+    .toc-container,
+    #toc-box,
+    .toc-box details,
+    .toc-container details,
+    #toc-box details,
+    [data-theme="preserve"]
+)) > p {
+    margin: 0 !important;
+    padding: 0 20px 20px;
+    color: var(--text-main) !important;
+    font-size: 0.95rem !important;
+    line-height: 1.8;
+}
+
+
+/* -----------------------------------------
+   MOBILE
+   ----------------------------------------- */
+
+@media (max-width: 768px) {
+    .post-content .product-card-affiliate {
+        padding: 20px !important;
+    }
+
+    .post-content .product-card-buttons {
+        grid-auto-flow: row;
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .post-content .product-card-buttons .btn-store {
+        font-size: 0.9rem !important;
+        min-height: 48px;
+    }
+
+    .post-content :is(.toc-box, .toc-container) {
+        padding: 18px !important;
+    }
+
+    .post-content table.specs-table td,
+    .post-content table.specs-table thead th {
+        padding: 12px !important;
+    }
+}
+
+@media (max-width: 380px) {
+    .post-content .product-card-affiliate {
+        padding: 16px !important;
+    }
+}
