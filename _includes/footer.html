@@ -1,39 +1,113 @@
-<!-- Rodapé do Site -->
-<footer class="site-footer">
-    <div class="site-footer-container">
-        
-        <!-- Coluna 1: Marca e Apresentação -->
-        <div class="footer-col-about">
-            <h3 class="footer-title">Sua Melhor Ferramenta</h3>
-            <p class="footer-text">
-                Reviews independentes, análises detalhadas e guias de compra dos melhores produtos do mercado para ajudar você a fazer a escolha certa.
-            </p>
-        </div>
+<!-- Rodapé compartilhado do site -->
+<footer class="site-footer" aria-labelledby="footer-brand-title">
+  <div class="site-footer-container">
 
-        <!-- Coluna 2: Legal & Informações -->
-        <div class="footer-col-links">
-            <h4 class="footer-subtitle">Legal & Informações</h4>
-            <ul class="footer-nav">
-                <li><a href="{{ '/sobre/' | relative_url }}">Sobre Nós</a></li>
-                <li><a href="{{ '/como-pesquisamos/' | relative_url }}">Como Pesquisamos</a></li>
-                <li><a href="{{ '/aviso-de-afiliados/' | relative_url }}">Aviso de Afiliados</a></li>
-                <li><a href="{{ '/contato/' | relative_url }}">Contato</a></li>
-                <li><a href="{{ '/politica-de-privacidade/' | relative_url }}">Política de Privacidade</a></li>
-                <li><a href="{{ '/termos-de-uso/' | relative_url }}">Termos de Uso</a></li>
-            </ul>
-        </div>
+    <!-- Marca e apresentação -->
+    <div class="footer-col-about">
+      <a
+        class="footer-brand-link"
+        href="{{ '/' | relative_url }}"
+        aria-label="Sua Melhor Ferramenta — página inicial"
+      >
+        <span class="footer-brand-mark" aria-hidden="true">SMF</span>
+        <h2 class="footer-title" id="footer-brand-title">
+          Sua Melhor Ferramenta
+        </h2>
+      </a>
 
+      <p class="footer-text">
+        Reviews, comparativos e guias de compra para ajudar
+        você a escolher parafusadeiras e furadeiras de acordo
+        com suas necessidades.
+      </p>
+
+      <a
+        class="footer-methodology-link"
+        href="{{ '/como-pesquisamos/' | relative_url }}"
+      >
+        Conheça nossos critérios
+        <span aria-hidden="true">→</span>
+      </a>
     </div>
 
-    <!-- Linha Inferior: Divulgação de Afiliado e Copyright -->
-    <div class="footer-bottom">
-        <div class="footer-bottom-container">
-            <p>
-                Quando você compra por meio de links em nosso site, podemos ganhar uma comissão de afiliado sem nenhum custo adicional para você.
-            </p>
-            <p>
-                Sua Melhor Ferramenta &copy; {{ 'now' | date: "%Y" }} Todos os direitos reservados.
-            </p>
-        </div>
+    <!-- Informações institucionais -->
+    <nav
+      class="footer-col-links"
+      aria-labelledby="footer-institutional-title"
+    >
+      <h3 class="footer-subtitle" id="footer-institutional-title">
+        Sobre o site
+      </h3>
+
+      <ul class="footer-nav">
+        <li>
+          <a href="{{ '/sobre/' | relative_url }}">
+            Sobre nós
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ '/como-pesquisamos/' | relative_url }}">
+            Como pesquisamos
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ '/contato/' | relative_url }}">
+            Contato
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Informações legais -->
+    <nav
+      class="footer-col-links"
+      aria-labelledby="footer-legal-title"
+    >
+      <h3 class="footer-subtitle" id="footer-legal-title">
+        Transparência
+      </h3>
+
+      <ul class="footer-nav">
+        <li>
+          <a href="{{ '/aviso-de-afiliados/' | relative_url }}">
+            Aviso de afiliados
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ '/politica-de-privacidade/' | relative_url }}">
+            Política de privacidade
+          </a>
+        </li>
+
+        <li>
+          <a href="{{ '/termos-de-uso/' | relative_url }}">
+            Termos de uso
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+  </div>
+
+  <!-- Divulgação de afiliados e copyright -->
+  <div class="footer-bottom">
+    <div class="footer-bottom-container">
+
+      <p class="footer-disclosure">
+        <strong>Transparência:</strong>
+        quando você compra por meio de links em nosso site,
+        podemos receber uma comissão de afiliado, sem custo
+        adicional para você.
+      </p>
+
+      <p class="footer-copyright">
+        &copy; {{ 'now' | date: "%Y" }} Sua Melhor Ferramenta.
+        Todos os direitos reservados.
+      </p>
+
     </div>
+  </div>
 </footer>
