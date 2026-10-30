@@ -2,70 +2,212 @@
 layout: default
 ---
 
-<article class="post-container">
+<article class="post-container" aria-labelledby="post-title">
+
+  <!-- ======================================
+       CABEÇALHO DO ARTIGO
+       ====================================== -->
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">Publicado em {{ page.date | date: "%d/%m/%Y" }}</p>
+    <h1 class="post-title" id="post-title">
+      {{ page.title | escape }}
+    </h1>
+
+    <div class="post-meta">
+
+      {% if page.author %}
+        <span class="post-meta-author">
+          Por {{ page.author | escape }}
+        </span>
+      {% endif %}
+
+      {% if page.date %}
+        <span class="post-meta-published">
+          Publicado em
+          <time datetime="{{ page.date | date_to_xmlschema }}">
+            {{ page.date | date: "%d/%m/%Y" }}
+          </time>
+        </span>
+      {% endif %}
+
+      {% if page.last_modified_at and page.date %}
+        {% assign published_timestamp = page.date | date: "%s" | plus: 0 %}
+        {% assign updated_timestamp = page.last_modified_at | date: "%s" | plus: 0 %}
+
+        {% if updated_timestamp > published_timestamp %}
+          <span class="post-meta-updated">
+            Atualizado em
+            <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+              {{ page.last_modified_at | date: "%d/%m/%Y" }}
+            </time>
+          </span>
+        {% endif %}
+      {% endif %}
+
+    </div>
   </header>
 
- <!-- IMAGEM DE DESTAQUE DO POST COM LEGENDA -->
+  <!-- ======================================
+       IMAGEM DE DESTAQUE
+       ====================================== -->
   {% if page.image %}
-    <div class="post-featured-image">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
+    <figure class="post-featured-image">
+      <img
+        src="{{ page.image | relative_url }}"
+        alt="{{ page.image_alt | default: page.title | escape }}"
+        loading="eager"
+        fetchpriority="high"
+        {% if page.image_width and page.image_height %}
+          width="{{ page.image_width | escape }}"
+          height="{{ page.image_height | escape }}"
+        {% endif %}
+        data-fallback="{{ '/assets/images/logo.png' | relative_url }}"
+        onerror="this.onerror=null; this.classList.add('post-image-fallback'); this.src=this.dataset.fallback;"
+      >
+
       {% if page.image_caption %}
-        <p style="text-align: center; font-size: 0.82rem; color: #64748b; margin-top: 8px; margin-bottom: 0; line-height: 1.4;">{{ page.image_caption }}</p>
+        <figcaption class="post-image-caption">
+          {{ page.image_caption | escape }}
+        </figcaption>
       {% endif %}
-    </div>
+    </figure>
   {% endif %}
 
-  <!-- CONTEÚDO DO ARTIGO (Sua caixa .toc-box HTML já vai declarada dentro do .md) -->
+  <!-- ======================================
+       CONTEÚDO DO ARTIGO
+
+       A caixa do sumário continua sendo
+       declarada no Markdown de cada artigo.
+       ====================================== -->
   <div class="post-content" id="post-content">
     {{ content }}
   </div>
+
 </article>
+
+<!-- ======================================
+     GERAÇÃO DO SUMÁRIO
+     ====================================== -->
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function () {
     const content = document.getElementById("post-content");
     const tocList = document.getElementById("auto-toc");
     const tocBox = document.getElementById("toc-box");
-    
-    if (!content || !tocList) return;
 
-    const headings = content.querySelectorAll("h2, h3");
+    // Artigos sem sumário continuam funcionando normalmente.
+    if (!content || !tocList || !tocBox) return;
 
-    if (headings.length > 0) {
-      let h2Count = 0;
-      let h3Count = 0;
+    // Confirma que a lista pertence à caixa do sumário.
+    if (!tocBox.contains(tocList)) return;
 
-      headings.forEach((heading, index) => {
-        if (!heading.id) {
-          heading.id = "secao-" + (index + 1);
-        }
+    const headings = Array.from(
+      content.querySelectorAll("h2, h3")
+    ).filter(function (heading) {
+      // Não inclui títulos da própria caixa do sumário.
+      if (tocBox.contains(heading)) return false;
 
-        const li = document.createElement("li");
-        const a = document.createElement("a");
-        a.href = "#" + heading.id;
+      // Permite excluir um título ou bloco usando:
+      // data-toc="false" ou class="no-toc".
+      if (heading.closest('[data-toc="false"], .no-toc')) {
+        return false;
+      }
 
-        const isH3 = heading.tagName.toLowerCase() === "h3";
+      return heading.textContent.trim().length > 0;
+    });
 
-        if (isH3) {
-          h3Count++;
-          li.className = "toc-subitem";
-          // Formato: 4.1 Nome do Tópico (Sem ponto após a numeração)
-          a.textContent = `${h2Count}.${h3Count} ${heading.textContent}`;
-        } else {
-          h2Count++;
-          h3Count = 0; // reseta a contagem do H3 para o próximo H2
-          li.className = "toc-item";
-          // Formato: 1 Nome do Tópico (Sem ponto após o número)
-          a.textContent = `${h2Count} ${heading.textContent}`;
-        }
+    // Evita duplicar os itens caso a lista já esteja preenchida.
+    tocList.replaceChildren();
 
-        li.appendChild(a);
-        tocList.appendChild(li);
-      });
-
-      tocBox.style.display = "block";
+    if (headings.length === 0) {
+      tocBox.hidden = true;
+      tocBox.style.display = "none";
+      return;
     }
+
+    // Reserva os IDs existentes na página inteira.
+    const usedIds = new Set(
+      Array.from(document.querySelectorAll("[id]")).map(
+        function (element) {
+          return element.id;
+        }
+      )
+    );
+
+    function ensureHeadingId(heading, index) {
+      // Preserva os IDs existentes para não quebrar links.
+      if (heading.id) return heading.id;
+
+      const slug = heading.textContent
+        .trim()
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+
+      const baseId = slug
+        ? "secao-" + slug
+        : "secao-" + (index + 1);
+
+      let uniqueId = baseId;
+      let suffix = 2;
+
+      while (usedIds.has(uniqueId)) {
+        uniqueId = baseId + "-" + suffix;
+        suffix++;
+      }
+
+      heading.id = uniqueId;
+      usedIds.add(uniqueId);
+
+      return uniqueId;
+    }
+
+    const fragment = document.createDocumentFragment();
+
+    let sectionCount = 0;
+    let subsectionCount = 0;
+    let hasH2 = false;
+
+    headings.forEach(function (heading, index) {
+      const id = ensureHeadingId(heading, index);
+      const title = heading.textContent
+        .replace(/\s+/g, " ")
+        .trim();
+
+      const isH3 = heading.tagName === "H3";
+      const li = document.createElement("li");
+      const link = document.createElement("a");
+
+      let numbering;
+
+      if (isH3 && hasH2) {
+        subsectionCount++;
+        numbering = sectionCount + "." + subsectionCount;
+        li.className = "toc-subitem";
+      } else {
+        // H3 antes do primeiro H2 entra como item principal,
+        // evitando uma numeração como "0.1".
+        sectionCount++;
+        subsectionCount = 0;
+
+        numbering = String(sectionCount);
+        li.className = "toc-item";
+
+        if (!isH3) {
+          hasH2 = true;
+        }
+      }
+
+      link.setAttribute("href", "#" + encodeURIComponent(id));
+      link.textContent = numbering + " " + title;
+
+      li.appendChild(link);
+      fragment.appendChild(li);
+    });
+
+    tocList.appendChild(fragment);
+
+    tocBox.hidden = false;
+    tocBox.style.display = "block";
   });
 </script>
