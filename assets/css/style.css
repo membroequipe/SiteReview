@@ -32,7 +32,6 @@
 
 html, body {
     width: 100%;
-    overflow-x: hidden;
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
@@ -496,172 +495,743 @@ body.home-page .site-content {
 }
 
 /* =========================================
-   9. BLOCO DE AFILIADOS (DEFINITIVO E CENTRADO)
+   10. BASE RESPONSIVA E ACESSIBILIDADE
    ========================================= */
-.product-card-affiliate {
-    background-color: #ffffff;
-    border: 2px solid #a3e635;
-    border-radius: 20px;
-    padding: 1.2rem 1.5rem;
-    margin: 1.5rem auto;
-    max-width: 580px;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    width: 100%;
+
+:root {
+    --home-shadow: 0 12px 32px rgba(15, 23, 42, 0.06);
 }
 
-/* O corpo agora garante o alinhamento central de todos os elementos filhos (foto, textos e botões) */
-.product-card-body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    width: 100%;
-    gap: 0.5rem;
+/* Impede imagens comuns de ultrapassarem o contêiner. */
+img {
+    max-width: 100%;
+    height: auto;
 }
 
-.product-card-img {
-    width: 100px;
-    height: 100px;
-    min-width: 100px;
-    background-color: #f8fafc;
-    border-radius: var(--radius-md);
-    overflow: hidden;
-    margin: 0 auto 0.5rem auto;
+.site-content,
+.post-container,
+.post-content,
+.pc-home {
+    min-width: 0;
+}
+
+.pc-home,
+.post-content {
+    overflow-wrap: anywhere;
+}
+
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+    outline: 3px solid #2563eb;
+    outline-offset: 4px;
+}
+
+/* Evita que o cabeçalho cubra o destino dos links internos. */
+[id] {
+    scroll-margin-top: 100px;
+}
+
+/* Estilo do contêiner somente na home.
+   :has() identifica a home mesmo sem a classe home-page no body. */
+body.home-page .site-content,
+.site-content:has(.pc-home) {
+    width: 100%;
+    max-width: 1240px;
+    margin: 2rem auto;
+    padding: 0 24px;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+/* A largura mínima dos cards nunca excede o espaço disponível. */
+.home-posts-grid,
+.reviews-grid,
+.comparisons-grid,
+.ph6-guides,
+.posts-grid {
+    grid-template-columns:
+        repeat(auto-fill, minmax(min(100%, 260px), 1fr));
+}
+
+.home-posts-grid > *,
+.reviews-grid > *,
+.comparisons-grid > *,
+.ph6-guides > *,
+.posts-grid > * {
+    min-width: 0;
+}
+
+/* =========================================
+   11. HOME — APRESENTAÇÃO
+   ========================================= */
+
+.pc-home {
+    color: var(--text-main);
+}
+
+.pc-hero {
+    margin-bottom: 48px;
+    background: linear-gradient(135deg, #fff 55%, #fffbeb);
     border: 1px solid var(--border-color);
-    display: flex;
+    border-radius: 24px;
+    box-shadow: var(--home-shadow);
+}
+
+.pc-hero-main {
+    display: grid;
+    grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
     align-items: center;
-    justify-content: center;
+    gap: 36px;
+    padding: clamp(24px, 4vw, 48px);
 }
 
-.product-card-img img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    object-position: center;
+.pc-hero-main > * {
+    min-width: 0;
 }
 
-.product-card-info {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    width: 100%;
-    margin-bottom: 0.75rem;
-}
-
-.product-card-title {
-    font-size: 1.15rem;
-    color: var(--primary);
+.pc-eyebrow,
+.pc-section-kicker,
+.pc-feature-kicker {
+    display: block;
+    margin-bottom: 12px;
+    color: #92400e;
+    font-size: 0.75rem;
     font-weight: 800;
-    margin-bottom: 0.2rem;
+    line-height: 1.5;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
 }
 
-.product-card-affiliate p {
-    font-size: 0.9rem;
-    color: var(--text-muted);
-    line-height: 1.4;
-    margin: 0;
-    max-width: 90%;
+.pc-hero h1 {
+    max-width: 22ch;
+    margin-bottom: 20px;
+    color: var(--primary);
+    font-size: clamp(1.8rem, 3.4vw, 2.8rem);
+    font-weight: 800;
+    line-height: 1.16;
+    letter-spacing: -0.035em;
+    text-wrap: balance;
 }
 
-.product-card-buttons {
+.pc-hero h1 strong {
+    color: #92400e;
+}
+
+.pc-lead {
+    max-width: 62ch;
+    color: #475569;
+    font-size: 1rem;
+    line-height: 1.8;
+}
+
+.pc-actions {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap !important;
-    justify-content: space-between;
-    align-items: stretch;
-    gap: 6px;
-    width: 100%;
-    margin-top: 0.5rem;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 26px;
 }
 
-.btn-store {
+.pc-action {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 0.55rem 0.2rem;
-    border-radius: var(--radius-md);
+    gap: 8px;
+    min-height: 48px;
+    max-width: 100%;
+    padding: 12px 18px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    font-size: 0.9rem;
     font-weight: 700;
-    font-size: 0.78rem;
+    line-height: 1.45;
+    text-align: center;
     text-decoration: none;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
-    transition: transform 0.2s ease, opacity 0.2s ease;
-    
-    flex: 1 1 0;
+    transition: background-color 0.2s ease;
+}
+
+.pc-action-primary {
+    background: var(--accent);
+    color: var(--primary);
+}
+
+.pc-action-primary:hover {
+    background: #fbbf24;
+}
+
+.pc-action-secondary {
+    background: #fff;
+    border-color: #cbd5e1;
+    color: var(--primary);
+}
+
+.pc-action-secondary:hover {
+    background: #f1f5f9;
+}
+
+.pc-feature {
+    padding: 26px;
+    background: #0f172a;
+    border-radius: 18px;
+    color: #e2e8f0;
+}
+
+.pc-feature-kicker {
+    color: #fcd34d;
+}
+
+.pc-feature h2 {
+    margin-bottom: 14px;
+    color: #fff;
+    font-size: 1.35rem;
+    line-height: 1.4;
+    letter-spacing: -0.02em;
+}
+
+.pc-feature p,
+.pc-feature li {
+    font-size: 0.9rem;
+    line-height: 1.75;
+}
+
+.pc-feature ul {
+    display: grid;
+    gap: 10px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.pc-feature li::marker {
+    color: #fbbf24;
+}
+
+.pc-trust {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 20px;
+    padding: 22px 32px;
+    background: #f8fafc;
+    border-top: 1px solid var(--border-color);
+    border-radius: 0 0 24px 24px;
+}
+
+.pc-trust-item {
     min-width: 0;
+}
+
+.pc-trust-item b,
+.pc-trust-item span {
+    display: block;
+}
+
+.pc-trust-item b {
+    margin-bottom: 5px;
+    color: var(--primary);
+    font-size: 0.8rem;
+    line-height: 1.5;
+}
+
+.pc-trust-item span {
+    color: #475569;
+    font-size: 0.78rem;
+    line-height: 1.6;
+}
+
+/* =========================================
+   12. HOME — CARDS POR NECESSIDADE
+   ========================================= */
+
+.pc-situations {
+    margin-bottom: 48px;
+}
+
+.pc-situations h2,
+.pc-home .section-header-title,
+.pc-home .methodology-box > h2,
+.pc-home .methodology-box > h3 {
+    margin: 0 0 14px;
+    color: var(--primary);
+    font-size: clamp(1.4rem, 2.4vw, 1.9rem);
+    font-weight: 800;
+    line-height: 1.3;
+    letter-spacing: -0.025em;
+}
+
+.pc-situations-intro {
+    max-width: 70ch;
+    margin-bottom: 24px;
+    color: #475569;
+}
+
+.pc-situation-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+}
+
+.pc-situation-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    min-width: 0;
+    padding: 22px;
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    color: var(--primary);
+    text-decoration: none;
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease,
+        transform 0.2s ease;
+}
+
+.pc-situation-icon {
+    display: grid;
+    place-items: center;
+    flex: 0 0 44px;
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    background: #fffbeb;
+    font-size: 1.4rem;
+}
+
+.pc-situation-copy {
+    min-width: 0;
+}
+
+.pc-situation-copy b,
+.pc-situation-copy small {
+    display: block;
+}
+
+.pc-situation-copy b {
+    margin-bottom: 6px;
+    font-size: 0.95rem;
+    line-height: 1.45;
+}
+
+.pc-situation-copy small {
+    color: #475569;
+    font-size: 0.82rem;
+    line-height: 1.65;
+}
+
+/* =========================================
+   13. HOME — PUBLICAÇÕES E METODOLOGIA
+   ========================================= */
+
+.pc-home .section-header-title {
+    margin-bottom: 24px;
+}
+
+.pc-home .home-posts-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+    margin-bottom: 48px;
+}
+
+.pc-home .home-post-body {
+    align-items: flex-start;
+    padding: 22px;
+}
+
+.home-post-badge {
+    display: inline-block;
+    margin-bottom: 12px;
+    padding: 4px 10px;
+    border-radius: 6px;
+    background: #fef3c7;
+    color: #78350f;
+    font-size: 0.7rem;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+.home-post-title {
+    margin: 0 0 18px;
+    font-size: 1.1rem;
+    font-weight: 800;
+    line-height: 1.5;
+    letter-spacing: -0.015em;
+}
+
+.home-post-title a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.home-post-title a:hover {
+    color: #92400e;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.home-post-date {
     width: 100%;
-    max-width: none;
-    white-space: nowrap;
+    margin-top: auto;
+    padding-top: 14px;
+    border-top: 1px solid var(--border-color);
+    color: #475569;
+    font-size: 0.75rem;
+    line-height: 1.65;
 }
 
-.btn-store:hover {
-    transform: translateY(-2px);
-    opacity: 0.95;
+.methodology-box {
+    padding: clamp(22px, 3vw, 36px);
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
 }
 
-/* Cores das Lojas */
+.methodology-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 24px;
+    margin-top: 26px;
+}
+
+.methodology-item {
+    min-width: 0;
+}
+
+.methodology-item h3,
+.methodology-item h4 {
+    margin: 0 0 10px;
+    color: var(--primary);
+    font-size: 0.95rem;
+    line-height: 1.45;
+}
+
+.methodology-item p {
+    color: #475569;
+    font-size: 0.85rem;
+    line-height: 1.8;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .pc-situation-card:hover {
+        transform: translateY(-3px);
+        border-color: #f59e0b;
+        box-shadow: var(--home-shadow);
+    }
+
+    .home-post-card:hover {
+        transform: translateY(-3px);
+        box-shadow: var(--home-shadow);
+    }
+}
+
+/* =========================================
+   14. ARTIGOS — TABELAS E BOTÕES
+   ========================================= */
+
+.post-title {
+    font-size: clamp(1.7rem, 3.5vw, 2.4rem);
+    overflow-wrap: anywhere;
+}
+
+.specs-table-wrapper,
+.competitors-table-wrapper,
+.concorrentes-table-wrapper,
+.table-wrapper {
+    min-width: 0;
+    max-width: 100%;
+    margin: 2rem 0;
+}
+
+/* Grid substitui o Flex usado na seção 9.
+   O antigo flex-wrap não controla mais este contêiner. */
+.product-card-affiliate .product-card-buttons {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+}
+
+.product-card-affiliate .btn-store {
+    min-height: 46px;
+    width: 100%;
+    padding: 10px 8px;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    white-space: normal;
+    overflow-wrap: anywhere;
+}
+
+/* Contraste maior com texto branco.
+   Mantém !important para sobrescrever as cores da seção 9. */
 .product-card-buttons a.btn-amazon-green,
 .btn-amazon-green {
-    background-color: #10b981 !important;
-    color: #ffffff !important;
-}
-
-.product-card-buttons a.btn-ml-yellow,
-.btn-ml-yellow {
-    background-color: #facc15 !important;
-    color: #1e293b !important;
+    background-color: #047857 !important;
 }
 
 .product-card-buttons a.btn-shopee-red,
 .btn-shopee-red {
-    background-color: #f97316 !important;
-    color: #ffffff !important;
+    background-color: #c2410c !important;
 }
- 
+
 /* =========================================
-   10. MEDIA QUERIES MOBILE (< 768px)
+   15. CABEÇALHO E MENU RESPONSIVO
    ========================================= */
-@media screen and (max-width: 768px) {
-    .site-content {
-        padding: 1.2rem !important;
-        margin: 1rem auto !important;
-        border-radius: 12px;
+
+.site-header-container {
+    gap: 20px;
+}
+
+.mobile-menu-toggle {
+    display: none;
+}
+
+.site-nav li.has-dropdown:focus-within > .dropdown-menu {
+    display: block;
+}
+
+@media (max-width: 1100px) {
+    .site-header-container {
+        position: relative;
+        padding: 12px 20px;
     }
 
-    .pros-cons-grid {
-        grid-template-columns: 1fr !important;
-        gap: 1rem;
+    .site-logo-img {
+        width: auto;
+        max-width: min(230px, 60vw);
+        height: 42px;
     }
 
-    .specs-table-wrapper,
-    .table-wrapper {
-        margin: 1rem -1.2rem;
-        border-radius: 0;
-        border-left: none;
-        border-right: none;
+    .mobile-menu-toggle {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        flex-shrink: 0;
+        width: 46px;
+        height: 46px;
+        padding: 10px;
+        border: 1px solid var(--border-color);
+        border-radius: 10px;
+        background: #fff;
+        cursor: pointer;
     }
 
-    .product-card-affiliate {
-        padding: 1rem;
+    .mobile-menu-toggle span {
+        display: block;
+        width: 22px;
+        height: 2px;
+        background: var(--primary);
+        border-radius: 2px;
     }
 
-    /* Garante que no mobile os botões continuam estritamente lado a lado */
-    .product-card-affiliate .product-card-buttons {
-        flex-direction: row !important;
-        flex-wrap: nowrap !important;
+    .site-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        left: 0;
+        max-height: calc(100vh - 80px);
+        max-height: calc(100dvh - 80px);
+        overflow-y: auto;
+        padding: 16px 20px;
+        background: #fff;
+        border-bottom: 1px solid var(--border-color);
+        box-shadow: 0 16px 24px rgba(15, 23, 42, 0.08);
+    }
+
+    .site-nav.active {
+        display: block;
+    }
+
+    .site-nav ul {
+        flex-direction: column;
+        align-items: stretch;
         gap: 4px;
     }
 
-    .product-card-affiliate .product-card-buttons .btn-store {
-        flex: 1 1 0 !important;
-        width: auto !important;
-        max-width: none !important;
-        padding: 0.5rem 0.1rem !important;
-        font-size: 0.72rem !important;
-        white-space: nowrap !important;
+    .site-nav a {
+        display: block;
+        padding: 12px;
+        border-radius: 8px;
+        white-space: normal;
+    }
+
+    /* No menu mobile, os submenus ficam visíveis.
+       Assim não dependem de hover em telas de toque. */
+    .site-nav .dropdown-menu {
+        display: block;
+        position: static;
+        min-width: 0;
+        margin: 0 0 8px 12px;
+        padding: 0 0 0 8px;
+        border: 0;
+        border-left: 2px solid var(--border-color);
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+    .site-nav .dropdown-menu a {
+        white-space: normal;
+    }
+
+    .site-nav li.has-dropdown:hover .dropdown-menu {
+        animation: none;
+    }
+}
+
+/* =========================================
+   16. TABLET E CELULAR
+   ========================================= */
+
+@media (max-width: 960px) {
+    .pc-hero-main {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 28px;
+    }
+
+    .pc-hero h1 {
+        max-width: 26ch;
+    }
+
+    .pc-trust,
+    .pc-situation-grid,
+    .pc-home .home-posts-grid,
+    .methodology-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .site-content {
+        width: calc(100% - 24px);
+        margin: 16px auto;
+        padding: 20px;
+        border-radius: 14px;
+    }
+
+    body.home-page .site-content,
+    .site-content:has(.pc-home) {
+        width: 100%;
+        margin: 20px auto;
+        padding: 0 16px;
+    }
+
+    .pc-hero {
+        border-radius: 18px;
+    }
+
+    .pc-hero-main {
+        padding: 24px 20px;
+    }
+
+    .pc-feature {
+        padding: 22px;
+    }
+
+    .pc-trust {
+        padding: 20px;
+        border-radius: 0 0 18px 18px;
+    }
+
+    .pc-hero,
+    .pc-situations,
+    .pc-home .home-posts-grid {
+        margin-bottom: 36px;
+    }
+
+    .post-content {
+        font-size: 1rem;
+        line-height: 1.8;
+    }
+
+    .post-content h2 {
+        font-size: 1.45rem;
+        margin-top: 2.2rem;
+    }
+
+    .post-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .pros-cons-grid {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 16px;
+    }
+
+    .toc-container,
+    .toc-box {
+        padding: 18px;
+    }
+
+    .specs-table-wrapper,
+    .competitors-table-wrapper,
+    .concorrentes-table-wrapper,
+    .table-wrapper {
+        margin: 20px 0;
+        border-radius: 10px;
+    }
+
+    .product-card-affiliate {
+        padding: 20px;
+        border: 1px solid var(--border-color);
+        border-radius: 16px;
+    }
+
+    .product-card-affiliate .product-card-buttons {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .product-card-affiliate .btn-store {
+        min-height: 48px;
+        font-size: 0.9rem;
+    }
+
+    .product-card-affiliate p {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .pc-actions {
+        flex-direction: column;
+    }
+
+    .pc-action {
+        width: 100%;
+    }
+
+    .pc-situation-grid,
+    .pc-home .home-posts-grid,
+    .methodology-grid {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .pc-situation-card {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 380px) {
+    .pc-trust {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .site-content {
+        padding: 16px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html,
+    body {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        animation: none !important;
+        transition: none !important;
     }
 }
