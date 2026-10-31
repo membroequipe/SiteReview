@@ -125,6 +125,37 @@ stanley_sbd716d2t:
     - nome: "Garantia"
       valor: "3 anos limitada"
 
+
+wap_k21_id01_id02:
+  nome: "WAP K21 ID01 / ID02 (20V)"
+  descricao: "Furadeira e parafusadeira de impacto brushless 20V com 65 Nm e mandril metálico de 13 mm"
+  imagem: "/assets/images/posts/wap-k21-id01-id02-20v.webp"
+  links:
+    amazon: "SEU_LINK_AMAZON"
+    mercadolivre: "SEU_LINK_MERCADO_LIVRE"
+    shopee: "SEU_LINK_SHOPEE"
+  especificacoes:
+    - nome: "Categoria"
+      valor: "Furadeira e Parafusadeira de Impacto a Bateria (Linha 20V Max)"
+    - nome: "Motor"
+      valor: "Brushless (sem escovas de carvão)"
+    - nome: "Voltagem / Alimentação"
+      valor: "20V Max (nominal 18V), baterias Li-Ion 2.0/4.0/6.0 Ah"
+    - nome: "Torque / Potência"
+      valor: "65 Nm (fabricante) / ~55-60 Nm (realidade de bancada)"
+    - nome: "Rotação / RPM"
+      valor: "1ª: 0-550 RPM | 2ª: 0-1.800 RPM | 0-27.000 IPM"
+    - nome: "Mandril"
+      valor: "Metálico, 13 mm (1/2\"), autoaperto"
+    - nome: "Configurações de Torque"
+      valor: "22 + 1 (perfuração) + 1 (impacto)"
+    - nome: "Capacidade de Perfuração"
+      valor: "Aço: 13 mm | Madeira: 35 mm | Alvenaria/Concreto: 13 mm"
+    - nome: "Peso Líquido"
+      valor: "~1,45 kg (ferramenta) | ~1,85 kg (c/ 2.0 Ah) | ~2,15 kg (c/ 4.0 Ah)"
+    - nome: "Destaque Principal"
+      valor: "Brushless 20V com mandril metálico 13 mm e LED com afterglow"
+
 produto_exemplo:
   nome: "Nome e modelo do produto"
   descricao: "Descrição curta do produto"
