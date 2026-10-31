@@ -1,0 +1,150 @@
+
+black_decker_bcd704c1:
+  nome: "Black+Decker BCD704C1"
+  descricao: "Furadeira/parafusadeira de impacto 20V MAX com mandril metálico de 10 mm e 42 Nm"
+  imagem: "/assets/images/posts/black-decker-bcd704c1.webp"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Categoria"
+      valor: "Reviews"
+    - nome: "Modelo"
+      valor: "BCD704C1"
+    - nome: "Voltagem / Alimentação"
+      valor: "20V MAX (18V nominal) — Bateria 1.5 Ah (LB1R5)"
+    - nome: "Tipo"
+      valor: "Furadeira/Parafusadeira de Impacto a Bateria"
+    - nome: "Mandril"
+      valor: "Aperto rápido 10 mm (3/8”) — todo em metal"
+    - nome: "Torque / Potência"
+      valor: "42 Nm (máximo)"
+    - nome: "Rotação / RPM"
+      valor: "2 velocidades: 0–450 / 0–1.500 RPM"
+    - nome: "Função Impacto"
+      valor: "Sim (até 22.500 IPM)"
+    - nome: "Configurações de Torque"
+      valor: "11 posições + perfuração + impacto"
+    - nome: "Motor"
+      valor: "Escovas (Brushed)"
+    - nome: "Carregador"
+      valor: "Bivolt automático (LC1120)"
+    - nome: "Peso Líquido"
+      valor: "Aprox. 1,4 kg (com bateria)"
+    - nome: "Destaque Principal"
+      valor: "Mandril todo em metal de 10 mm com função impacto"
+    - nome: "Iluminação"
+      valor: "LED integrado na base"
+    - nome: "Garantia"
+      valor: "2 anos (1 ano + 1 ano mediante registro)"
+
+makita_dhp482:
+  nome: Makita DHP482
+  descricao: Furadeira/parafusadeira de impacto 18V com 130 Nm, brushless e XPT
+  imagem: /assets/images/posts/makita-dhp482.webp
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+  especificacoes:
+  - nome: Categoria
+    valor: Reviews
+  - nome: Modelo
+    valor: Makita DHP482 (corpo) / Kit DHP482RTJ / DHP482Z
+  - nome: Categoria do Produto
+    valor: Furadeira e Parafusadeira de Impacto a Bateria 18V LXT
+  - nome: Motor
+    valor: BL (Brushless / Sem Escovas)
+  - nome: Voltagem / Alimentação
+    valor: 18V (Linha LXT)
+  - nome: Mandril
+    valor: Aperto rápido 13 mm (1/2") - todo em metal
+  - nome: Torque / Potência
+    valor: 130 Nm (máximo) / 65 Nm (contínuo)
+  - nome: Configurações de Torque
+    valor: 21 estágios + modo furação + modo impacto
+  - nome: Rotação / RPM
+    valor: 0 – 550 rpm (V1) / 0 – 2.100 rpm (V2)
+  - nome: Impactos por Minuto (IPM)
+    valor: 0 – 7.700 ipm (V1) / 0 – 29.400 ipm (V2)
+  - nome: Capacidade de Perfuração
+    valor: 'Aço: 13 mm / Madeira: 76 mm / Alvenaria: 16 mm'
+  - nome: Tecnologia XPT
+    valor: Sim (Proteção extrema contra poeira e respingos)
+  - nome: Iluminação
+    valor: LED duplo com função afterglow (remanescente)
+  - nome: Freio Eletrônico
+    valor: Sim
+  - nome: Reversível
+    valor: Sim
+  - nome: Gatilho
+    valor: Velocidade variável eletrônica
+  - nome: Empunhadura
+    valor: Soft grip ergonômico
+  - nome: Compatibilidade Baterias
+    valor: Todas 18V LXT (BL1830B, BL1850B, BL1860B, etc.)
+  - nome: Peso Líquido
+    valor: ~1,7 kg (sem bateria) / ~2,3 kg (com BL1850B)
+  - nome: Dimensões (C x L x A)
+    valor: 182 x 79 x 245 mm
+  - nome: Destaque Principal
+    valor: Motor brushless de 130 Nm com proteção XPT nativa
+
+stanley_sbd716d2t:
+  nome: "Stanley SBD716D2T"
+  descricao: "Furadeira e Parafusadeira 18V de 1/2 polegada com duas baterias inclusas e excelente custo-benefício."
+  imagem: "/assets/images/posts/stanley-sbd716d2t.webp"
+  links:
+    amazon: "https://www.amazon.com.br/STANLEY-SCD121S1-Parafusadeira-Furadeira-Bateria/dp/B082N3QNDN"
+    mercadolivre: "https://www.amazon.com.br/STANLEY-SCD121S1-Parafusadeira-Furadeira-Bateria/dp/B082N3QNDN"
+    shopee: "https://www.amazon.com.br/STANLEY-SCD121S1-Parafusadeira-Furadeira-Bateria/dp/B082N3QNDN"
+  especificacoes:
+    - nome: "Tipo de Produto"
+      valor: "Furadeira/Parafusadeira sem fio"
+    - nome: "Série"
+      valor: "Stanley SBD716D2T"
+    - nome: "Tensão"
+      valor: "18 V (2.000 mAh)"
+    - nome: "Torque Máximo"
+      valor: "210 ft·lb"
+    - nome: "Mandril"
+      valor: "Keyless de 1/2\" (13 mm)"
+    - nome: "Velocidade"
+      valor: "Até 1.500 RPM (2 velocidades)"
+    - nome: "Função de Impacto"
+      valor: "Não possui"
+    - nome: "Controle de Torque"
+      valor: "22 configurações"
+    - nome: "Peso"
+      valor: "4,4 lbs"
+    - nome: "Bateria"
+      valor: "2 módulos de 18V inclusos"
+    - nome: "Garantia"
+      valor: "3 anos limitada"
+
+produto_exemplo:
+  nome: "Nome e modelo do produto"
+  descricao: "Descrição curta do produto"
+  imagem: "/assets/images/posts/produto-exemplo.webp"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Marca"
+      valor: "Nome da marca"
+    - nome: "Modelo"
+      valor: "Modelo do produto"
+    - nome: "Alimentação"
+      valor: "Informação técnica"
+    - nome: "Potência / Torque"
+      valor: "Informação técnica"
+    - nome: "Peso"
+      valor: "Informação técnica"
+    - nome: "Garantia"
+      valor: "Informação técnica"
