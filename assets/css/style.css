@@ -917,7 +917,7 @@ details.toc-box[open] > summary::after {
 /* Também cobre botões dentro de .post-content. */
 .btn-store.btn-amazon-green,
 .product-card-buttons .btn-amazon-green {
-    background: #ff9900;
+    background: #1ea64b;
     color: #ffffff;
 }
 
@@ -1926,7 +1926,7 @@ details.toc-box[open] > summary::after {
 }
 
 .post-content .product-card-buttons .btn-amazon-green {
-    background: #ff9900 !important;
+    background: #1ea64b !important;
     color: #ffffff !important;
 }
 
