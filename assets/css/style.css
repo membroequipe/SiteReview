@@ -917,19 +917,19 @@ details.toc-box[open] > summary::after {
 /* Também cobre botões dentro de .post-content. */
 .btn-store.btn-amazon-green,
 .product-card-buttons .btn-amazon-green {
-    background: #047857;
+    background: #ff9900;
     color: #ffffff;
 }
 
 .btn-store.btn-ml-yellow,
 .product-card-buttons .btn-ml-yellow {
-    background: #facc15;
+    background: #ffe600;
     color: #0f172a;
 }
 
 .btn-store.btn-shopee-red,
 .product-card-buttons .btn-shopee-red {
-    background: #c2410c;
+    background: #ee4d2d;
     color: #ffffff;
 }
 
@@ -1926,17 +1926,17 @@ details.toc-box[open] > summary::after {
 }
 
 .post-content .product-card-buttons .btn-amazon-green {
-    background: #047857 !important;
+    background: #ff9900 !important;
     color: #ffffff !important;
 }
 
 .post-content .product-card-buttons .btn-ml-yellow {
-    background: #facc15 !important;
+    background: #ffe600 !important;
     color: #0f172a !important;
 }
 
 .post-content .product-card-buttons .btn-shopee-red {
-    background: #c2410c !important;
+    background: #ee4d2d !important;
     color: #ffffff !important;
 }
 
