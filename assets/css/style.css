@@ -2425,3 +2425,43 @@ details.toc-box[open] > summary::after {
         transition: none;
     }
 }
+
+
+/* Ajuste da ficha técnica dos reviews */
+
+table.specs-table th {
+  background: #101827;
+  color: #ffffff;
+}
+
+table.specs-table tbody td,
+table.specs-table tbody th {
+  background: #ffffff;
+  color: #253247;
+  border-bottom: 1px solid #e2e8f0;
+  padding: 12px 14px;
+}
+
+table.specs-table tbody tr:nth-child(even) td,
+table.specs-table tbody tr:nth-child(even) th {
+  background: #f5f7fa;
+}
+
+table.specs-table tbody td:first-child,
+table.specs-table tbody th:first-child {
+  font-weight: 700;
+  width: 42%;
+}
+
+@media (max-width: 600px) {
+  table.specs-table {
+    font-size: 13px;
+  }
+
+  table.specs-table tbody td,
+  table.specs-table tbody th {
+    padding: 10px;
+    overflow-wrap: anywhere;
+  }
+}
+
