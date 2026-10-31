@@ -1,0 +1,13 @@
+{% assign review = page.avaliacao %}
+{% if review %}
+<div id="resumo-executivo" class="review-summary-card">
+  <div class="review-summary-header">
+    {% if review.nota %}<div class="score-badge-box"><span class="score-number-val">{{ review.nota }}</span><span class="score-label-txt">NOTA GERAL</span></div>{% endif %}
+    <div class="review-summary-text"><h3>Avaliação Geral</h3><p>{{ review.resumo | escape }}</p></div>
+  </div>
+  <div class="pros-cons-grid">
+    <div class="pros-box"><h4>Vantagens</h4><ul>{% for item in review.vantagens %}<li>{{ item | escape }}</li>{% endfor %}</ul></div>
+    <div class="cons-box"><h4>O que considerar</h4><ul>{% for item in review.desvantagens %}<li>{{ item | escape }}</li>{% endfor %}</ul></div>
+  </div>
+</div>
+{% endif %}

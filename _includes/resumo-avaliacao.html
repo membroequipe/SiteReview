@@ -1,0 +1,48 @@
+
+{% assign avaliacao = include.avaliacao | default: page.avaliacao %}
+
+{% if avaliacao %}
+<div class="review-summary-card" id="resumo-executivo">
+
+  <div class="review-summary-header">
+
+    <div class="score-badge-box">
+      <span class="score-number-val">
+        {{ avaliacao.nota }}
+      </span>
+      <span class="score-label-txt">
+        NOTA GERAL
+      </span>
+    </div>
+
+    <div class="review-summary-text">
+      <h3>Avaliação Geral</h3>
+      <p>{{ avaliacao.resumo | escape }}</p>
+    </div>
+
+  </div>
+
+  <div class="pros-cons-grid">
+
+    <div class="pros-box">
+      <h4>👍 Benefícios</h4>
+      <ul>
+        {% for vantagem in avaliacao.vantagens %}
+        <li>{{ vantagem | escape }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="cons-box">
+      <h4>👎 O Que Considerar</h4>
+      <ul>
+        {% for desvantagem in avaliacao.desvantagens %}
+        <li>{{ desvantagem | escape }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+
+</div>
+{% endif %}

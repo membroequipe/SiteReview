@@ -1,0 +1,22 @@
+
+{% assign produto_id = include.id | default: page.produto_id %}
+{% assign p = site.data.produtos[produto_id] %}
+
+{% if p and p.especificacoes %}
+<table class="specs-table">
+  <thead>
+    <tr>
+      <th scope="col">Especificação</th>
+      <th scope="col">Detalhes</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in p.especificacoes %}
+    <tr>
+      <th scope="row">{{ item.nome | escape }}</th>
+      <td>{{ item.valor | escape }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}
