@@ -1,0 +1,66 @@
+
+{% assign produto_id = include.id | default: page.produto_id %}
+{% assign p = site.data.produtos[produto_id] %}
+
+{% if p %}
+<div class="product-card-affiliate">
+  <div class="product-card-body">
+
+    <div class="product-card-img">
+      {% if p.imagem and p.imagem != "" %}
+      <img
+        src="{{ p.imagem | relative_url }}"
+        alt="{{ p.nome | escape }}"
+        loading="lazy">
+      {% endif %}
+    </div>
+
+    <div class="product-card-info">
+      <h3 class="product-card-title">{{ p.nome | escape }}</h3>
+
+      <p class="product-card-subtitle">{{ p.descricao | escape }}</p>
+
+ {% assign links = p.links %}
+     
+{% assign amazon_url = links.amazon | default: "" | strip %}
+{% assign ml_url = links.mercadolivre | default: "" | strip %}
+{% assign shopee_url = links.shopee | default: "" | strip %}
+
+{% if amazon_url != "" or ml_url != "" or shopee_url != "" %}
+<div class="product-card-buttons">
+
+  {% if amazon_url != "" %}
+  <a href="{{ amazon_url | escape }}"
+     target="_blank"
+     rel="sponsored nofollow noopener noreferrer"
+     class="btn-store btn-amazon-green">
+    Ver na Amazon
+  </a>
+  {% endif %}
+
+  {% if ml_url != "" %}
+  <a href="{{ ml_url | escape }}"
+     target="_blank"
+     rel="sponsored nofollow noopener noreferrer"
+     class="btn-store btn-ml-yellow">
+    Ver no Mercado Livre
+  </a>
+  {% endif %}
+
+  {% if shopee_url != "" %}
+  <a href="{{ shopee_url | escape }}"
+     target="_blank"
+     rel="sponsored nofollow noopener noreferrer"
+     class="btn-store btn-shopee-red">
+    Ver na Shopee
+  </a>
+  {% endif %}
+
+</div>
+{% endif %}
+
+    </div>
+
+  </div>
+</div>
+{% endif %}
