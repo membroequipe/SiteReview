@@ -131,9 +131,9 @@ wap_k21_id01_id02:
   descricao: "Furadeira e parafusadeira de impacto brushless 20V com 65 Nm e mandril metálico de 13 mm"
   imagem: "/assets/images/posts/wap-k21-id01-id02-20v.png"
   links:
-    amazon: "SEU_LINK_AMAZON"
-    mercadolivre: "SEU_LINK_MERCADO_LIVRE"
-    shopee: "SEU_LINK_SHOPEE"
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
   especificacoes:
     - nome: "Categoria"
       valor: "Furadeira e Parafusadeira de Impacto a Bateria (Linha 20V Max)"
