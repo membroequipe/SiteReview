@@ -282,6 +282,44 @@ vonder_pfv_238i_020i:
       valor: "Baterias Vonder V20 (Li-Ion)"
     - nome: "Garantia"
       valor: "12 meses (3 meses legal + 9 meses contratual)"
+
+vonder_pfv012_pfv012i:
+  nome: "Vonder PFV 012 / PFV012I (12V)"
+  descricao: "Parafusadeira e furadeira de impacto 12V com mandril metálico e ecossistema de baterias unificado"
+  imagem: "/assets/images/posts/vonder_pfv012i_12v.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Modelos"
+      valor: "PFV 012 (Padrão) / PFV012I (Com Impacto)"
+    - nome: "Voltagem / Alimentação"
+      valor: "12V (Bateria Li-Ion 1.5Ah ou 2.0Ah conforme kit)"
+    - nome: "Motor"
+      valor: "Escovado (Carvão) de alta eficiência"
+    - nome: "Mandril"
+      valor: "Aperto rápido 10mm (3/8\") — Catraca metálica"
+    - nome: "Rotação / RPM"
+      valor: "Baixa: 0-400 rpm / Alta: 0-1.400 rpm"
+    - nome: "Torque / Potência"
+      valor: "30 Nm (parada dura) / ~18-20 Nm (contínuo real)"
+    - nome: "Posições de Torque"
+      valor: "18 + 1 (Perfuração) + 1 (Impacto — apenas PFV012I)"
+    - nome: "Função Impacto"
+      valor: "Sim (exclusivo PFV012I — 21.000 IPM)"
+    - nome: "Capacidade Perfuração"
+      valor: "Aço: 10mm | Madeira: 20mm | Alvenaria: 10mm (s/ impacto) / 8mm (c/ impacto)"
+    - nome: "Peso Líquido"
+      valor: "~0,95 kg (sem bateria) / ~1,15 kg (com bateria 1.5Ah)"
+    - nome: "Iluminação"
+      valor: "LED integrado na base (ativação pelo gatilho)"
+    - nome: "Indicador de Carga"
+      valor: "Na bateria (3 LEDs)"
+    - nome: "Garantia"
+      valor: "12 meses (3 meses legal + 9 meses concedido pelo fabricante)"
       
 
 
