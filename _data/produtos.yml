@@ -360,8 +360,50 @@ stanley_scd711c2k_scd712d2k:
       valor: "~1,5 kg (SCD711) / ~1,6 kg (SCD712)"
     - nome: "Garantia"
       valor: "3 anos (registro no site)"
-      
 
+stanley_sbd716d2t:
+  nome: "Stanley SBD716D2T"
+  descricao: "Furadeira/Parafusadeira de Impacto Brushless 20V MAX com 2 baterias 2.0 Ah"
+  imagem: "/assets/images/posts/stanley-sbd716d2t.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Modelo"
+      valor: "SBD716D2T"
+    - nome: "Plataforma / Tensão"
+      valor: "Stanley 20V MAX (Íon de Lítio)"
+    - nome: "Tipo de Motor"
+      valor: "Brushless (Sem Escovas)"
+    - nome: "Função"
+      valor: "Parafusadeira / Furadeira / Furadeira de Impacto"
+    - nome: "Mandril"
+      valor: "13 mm (1/2\") — Aperto rápido, metal, auto-travante"
+    - nome: "Torque Máximo"
+      valor: "65 Nm (duro) / 35 Nm (macio)"
+    - nome: "Ajustes de Torque"
+      valor: "22 + 1 (perfuração) + 1 (impacto)"
+    - nome: "Velocidades Mecânicas"
+      valor: "2 (Baixa: 0–550 rpm / Alta: 0–2.000 rpm)"
+    - nome: "Impactos por Minuto (IPM)"
+      valor: "0–8.250 / 0–30.000"
+    - nome: "Capacidade de Perfuração"
+      valor: "Madeira: 40 mm / Aço: 13 mm / Alvenaria: 13 mm"
+    - nome: "Iluminação"
+      valor: "LED integrado na base (atraso de desligamento ~10 s)"
+    - nome: "Baterias Inclusas"
+      valor: "2x 20V MAX 2.0 Ah (SL202)"
+    - nome: "Carregador"
+      valor: "Bivolt automático (127/220 V) — Tempo de carga ~60 min"
+    - nome: "Peso Líquido"
+      valor: "~1,5 kg (ferramenta só) / ~1,8 kg (com bateria 2.0 Ah)"
+    - nome: "Destaque Principal"
+      valor: "Motor brushless com mandril metálico auto-travante de 13 mm"
+    - nome: "Garantia"
+      valor: "3 anos (mediante registro no site oficial)"
 
 produto_exemplo:
   nome: "Nome e modelo do produto"
