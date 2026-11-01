@@ -3,16 +3,18 @@ layout: post
 title: "As 10 Melhores Parafusadeiras de 2026: Guia de Compra Completo e Testes"
 description: "Descubra qual a melhor parafusadeira para o seu perfil em 2026. Comparativo completo de marcas, voltagens (12V vs 18V), torque e custo-benefício."
 slug: "qual-a-melhor-parafusadeira"
-permalink: "/qual-a-melhor-parafusadeira/"
-image: "/assets/images/10-melhores-parafusadeiras.webp"
+category: guias
 categories: [guias]
-author: "Equipe de Análises"
+image: "/assets/images/10-melhores-parafusadeiras.webp"
 date: 2026-10-22
+author: "Equipe de Análises"
 ---
 
 A escolha da **melhor parafusadeira em 2026** deixa de ser uma decisão baseada apenas no preço e passa a exigir uma leitura técnica apurada do que o mercado brasileiro oferece atualmente. Com a consolidação da tecnologia **brushless (sem escovas)** como padrão nas gamas intermediárias e profissionais, a popularização de baterias de íon-lítio de alta densidade (2.0Ah a 5.0Ah) e a segmentação clara entre plataformas **12V (compactas)** e **18V/20V Max (pesadas)**, o consumidor precisa alinhar torque, ergonomia, tipo de mandril e função martelete ao seu perfil real de uso — seja para fixar móveis em drywall, montar estruturas de madeira ou perfurar alvenaria e concreto leve.
 
 Neste guia definitivo, nossa equipe de analistas técnicos testou, comparou e ranqueou as **10 melhores parafusadeiras e furadeiras de impacto** disponíveis no varejo nacional (Amazon, Mercado Livre, Shopee e lojas oficiais), considerando especificações brutas, desempenho em cenários reais, disponibilidade de peças, rede de assistência técnica e relação entre investimento e entrega de valor. O resultado é um ranking segmentado por categoria de uso: **entrada/doméstico**, **uso frequente/marcenaria** e **profissional heavy duty**.
+
+{% include review-toc.html %}
 
 <div class="specs-table-wrapper">
   <table class="specs-table">
@@ -151,22 +153,7 @@ O mandril de **aperto rápido 3/8" (10 mm)** aceita brocas e bits padrão, e a i
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 1000 Smart — Compacta para o Dia a Dia</h3>
-      <p class="product-card-subtitle">Conectividade Bluetooth e trava eletrônica antifurto via app.</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="bosch_gsr_1000_smart" %}
 
 > **Review completo:** [Teste Bosch GSR 1000 Smart: Vale a pena a conectividade?](/reviews/bosch-gsr-1000-smart)
 
@@ -201,22 +188,7 @@ O design "FatBody" com empunhadura emborrachada *Softgrip* distribui o peso (1,1
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSB 120-LI - A Mais Vendida do Brasil</h3>
-      <p class="product-card-subtitle">Ferramenta com excelente ergonomia, LED com afterglow e função nartelete</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="bosch_gsb_120_li" %}
 
 > **Review completo:** [Bosch GSB 120-LI vs GSR 1000: Qual 12V comprar?](/comparativos/bosch-12v-gsb-vs-gsr)
 
@@ -251,22 +223,7 @@ O mandril de aperto rápido 3/8" aceita bits de 1/4" e brocas até 10 mm. A velo
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">Makita HP333DSAJ — Perfeita para Marcenaria Fina</h3>
-      <p class="product-card-subtitle">Ferramenta com curva de torque suave ideal para marcenaria</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="makita_hp333dsaj" %}
 
 ---
 
@@ -299,22 +256,7 @@ São **15 posições de embreagem + perfuração** e duas velocidades mecânicas
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">DeWalt DCD700D2-BR — Brushless Compacto com Mandril 1/2</h3>
-      <p class="product-card-subtitle">Ferramenta equipada com LED triplo ao redor do mandril que elimina sombras.</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="dewalt_dcd700d2_br" %}
 
 ---
 
@@ -347,22 +289,7 @@ A plataforma **WAP 12V** cresceu exponencialmente no Brasil (furadeiras, parafus
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">WAP BPF 12K3 —  Kit Completo com 3 Baterias</h3>
-      <p class="product-card-subtitle">Ferramenta com ótimo custo-benefício inicial.</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="wap_bpf_12k3" %}
 
 ---
 
@@ -395,22 +322,8 @@ O sistema **Electronic Motor Protection (EMP)** protege contra sobrecarga e supe
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSB 18V-55 — A Porta de Entrada Profissional 18V</h3>
-      <p class="product-card-subtitle">Ferramenta com proteção contra sobrecarga e superaquecimento.</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="bosch_gsb_18v_55" %}
+
 ---
 
 ### Makita DHP484RTJ — A Precisão Japonesa para Marcenaria Pesada
@@ -442,22 +355,8 @@ O mandril **1/2" de aperto rápido** com anel de metal tem runout (desvio radial
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">Makita DHP484RTJ — Ótima para Marcenaria Pesada</h3>
-      <p class="product-card-subtitle">Precisão do gatilho eletrônico com aceleração é progressiva e linear.</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="makita_dhp484rtj" %}
+
 ---
 
 ### DeWalt DCD796D2-BR — A Furadeira de Impacto 20V Max Mais Versátil
@@ -489,22 +388,7 @@ O grande destaque é o **LED triplo "Tri-Mode"** com 3 níveis de intensidade (b
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">DeWalt DCD796D2-BR - Furadeira de Impacto 20V</h3>
-      <p class="product-card-subtitle">Ferramenta com 3 modos dedicados (perfuração/parafuso/martelete).</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="dewalt_dcd796d2_br" %}
 
 ---
 
@@ -537,22 +421,7 @@ A revolução está no **Connected Tool System**: via Bluetooth, o app **Bosch T
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">Bosch GSR 18V-150C - Torque com Cérebro Digital</h3>
-      <p class="product-card-subtitle"> Com app Bosch Toolbox que permite criar perfis de torque por aplicação.</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="bosch_gsr_18v_150c" %}
 
 ---
 
@@ -585,24 +454,9 @@ São **21 posições de embreagem + perfuração + martelete** (31.500 IPM), man
 </div>
 </div>
 
-<div class="product-card-affiliate">
-  <div class="product-card-body">
-    <div class="product-card-img">
-      <img src="{{ '/assets/images/posts/bosch-gsr-1000-smart.jpg' | relative_url }}" alt="Parafusadeira e furadeira Bosch GSR 1000 Smart">
-    </div>
-    <div class="product-card-info">
-      <h3 class="product-card-title">Makita XPH14Z (DHP485) — Velocidade Variável Eletrônica </h3>
-      <p class="product-card-subtitle"> Ótima escolha para marceneiros de alto padrão, instaladores de esquadrias e profissionais.</p>
-      <div class="product-card-buttons">
-        <a href="SEU_LINK_AMAZON" target="_blank" rel="nofollow sponsored" class="btn-store btn-amazon-green">🛒 Amazon</a>
-        <a href="SEU_LINK_MERCADO_LIVRE" target="_blank" rel="nofollow sponsored" class="btn-store btn-ml-yellow">Mercado Livre</a>
-        <a href="SEU_LINK_SHOPEE" target="_blank" rel="nofollow sponsored" class="btn-store btn-shopee-red">Shopee</a>
-      </div>
-    </div>
-  </div>
-</div>
+{% include produto-card.html id="makita_xph14z_dhp485" %}
 
-## <a id="guia-de-compra"></a>Guia do Comprador: Como Escolher a Parafusadeira Ideal
+## Guia do Comprador: Como Escolher a Parafusadeira Ideal
 
 ### 12V vs 18V/20V Max: Qual a Voltagem Certa para o Seu Trabalho?
 
@@ -669,29 +523,50 @@ A decisão entre **12V** e **18V/20V Max** não é apenas sobre "potência" — 
 
 A **função martelete** adiciona um movimento axial de "marteladas" (IPM — impactos por minuto) à rotação, permitindo **perfurar materiais frágeis duros: concreto, alvenaria, tijolo, pedra**.
 
-| Tipo de Martelete | IPM Típico | Capacidade Real |
-|-------------------|------------|-----------------|
-| 12V Leve (GSB 120, WAP BPF) | 22.000–27.000 | Tijolo furado, bloco, concreto magro até 8–10 mm |
-| 18V Profissional (GSB 18V-55, DHP484) | 28.000–34.000 | Concreto estrutural até 10–13 mm, alvenaria densa |
-| Martelete SDS-Plus dedicado | 4.000–5.000 (maior energia/impacto) | Concreto armado 16–26 mm — **categoria diferente** |
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Tipo de Martelete</th>
+        <th>IPM Típico</th>
+        <th>Capacidade Real</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>12V Leve (GSB 120, WAP BPF)</td>
+        <td>22.000–27.000</td>
+        <td>Tijolo furado, bloco, concreto magro até 8–10 mm</td>
+      </tr>
+      <tr>
+        <td>18V Profissional (GSB 18V-55, DHP484)</td>
+        <td>28.000–34.000</td>
+        <td>Concreto estrutural até 10–13 mm, alvenaria densa</td>
+      </tr>
+      <tr>
+        <td>Martelete SDS-Plus dedicado</td>
+        <td>4.000–5.000 (maior energia/impacto)</td>
+        <td>Concreto armado 16–26 mm — <strong>categoria diferente</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Mito:** "Furadeira de impacto fura concreto igual martelete SDS". **Falso.** Furadeiras de impacto (martelete mecânico) usam cames que batem axialmente — energia por impacto é **baixa (1–2 J)**. Marteletes SDS-Plus usam pistão pneumático — **energia 2–8 J**. Para **furos ocasionais de 6–8 mm em parede para bucha**, a função martelete da parafusadeira resolve. Para **instalação de ar-condicionado (furo 1/2" em laje), fixação estrutural em concreto, demolição leve** → **martelete SDS-Plus dedicado (Bosch GBH 2-26, Makita HR2470, DeWalt DCH133)**.
 
 ---
 
-<h3>Bateria (Ah) e Carregadores Rápidos: Autonomia Real</h3>
+### Bateria (Ah) e Carregadores Rápidos: Autonomia Real
 
-<p><strong>Ah (Ampere-hora) = Capacidade de carga.</strong> Multiplique pela tensão para obter <strong>Wh (Watt-hora) — energia real</strong>:</p>
-<ul>
-  <li>12V 2.0Ah = 24 Wh</li>
-  <li>12V 4.0Ah = 48 Wh</li>
-  <li>18V 2.0Ah = 36 Wh</li>
-  <li>18V 5.0Ah = 90 Wh</li>
-  <li>18V 8.0Ah ProCORE = 144 Wh</li>
-  <li>18V 12.0Ah ProCORE = 216 Wh</li>
-</ul>
+**Ah (Ampere-hora) = Capacidade de carga.** Multiplique pela tensão para obter **Wh (Watt-hora) — energia real**:
+- 12V 2.0Ah = 24 Wh
+- 12V 4.0Ah = 48 Wh
+- 18V 2.0Ah = 36 Wh
+- 18V 5.0Ah = 90 Wh
+- 18V 8.0Ah ProCORE = 144 Wh
+- 18V 12.0Ah ProCORE = 216 Wh
 
-<p><strong>Autonomia prática (parafusos 5×50 mm em pinus):</strong></p>
+**Autonomia prática (parafusos 5×50 mm em pinus):**
 
 <div class="specs-table-wrapper">
   <table class="specs-table">
@@ -736,7 +611,7 @@ A **função martelete** adiciona um movimento axial de "marteladas" (IPM — im
 
 **Células 21700 (ProCORE, LXT 5.0Ah+):** Maior densidade energética, menor resistência interna = **entregam corrente alta sem queda de tensão** — mantêm torque no fim da carga. Evite baterias "genéricas" 18650 baratas — superaquecem, incham, duram 100 ciclos.
 
-## <a id="melhores-marcas"></a>As Melhores Marcas de Parafusadeira no Brasil
+## As Melhores Marcas de Parafusadeira no Brasil
 
 ### Bosch Professional (Linha Azul) — O Ecossistema Mais Completo
 Líder absoluta em **variedade de plataformas (12V, 18V, 36V)**, **rede de assistência (300+ postos)**, **disponibilidade de peças** e **inovação (brushless EC, ProCORE, Connected Tool)**. A linha azul (Professional) tem 3 anos de garantia (1+2 mediante registro). Modelos verdes (DIY) têm 1 ano e componentes inferiores — **evite para uso profissional**.
@@ -753,43 +628,68 @@ Marca brasileira (grupo WAP) que montou operação completa: P&D, fábrica, assi
 ### Black+Decker / Skil — Entrada Acessível para Uso Ocasional
 Marcas do grupo Stanley Black & Decker focadas no **consumidor final (DIY leve)**. Modelos 12V e 18V com motor brushed, mandril 3/8" ou 1/2" plástico, embreagens 10–11 posições. **Não suportam uso diário profissional**. Garantia 1–2 anos. Boa opção para "ter em casa para emergências" — não para ganhar a vida.
 
-## <a id="perguntas-frequentes"></a>Perguntas Frequentes (FAQ)
+## Perguntas Frequentes
 
-<details>
-<summary>Posso usar bateria de outra marca na minha parafusadeira via adaptador?</summary>
-<p><strong>Não recomendado para uso profissional.</strong> Adaptadores genéricos (ex: Makita 18V → DeWalt 20V) não têm comunicação BMS (Battery Management System) entre bateria e ferramenta. Resultado: sem proteção contra sobrecarga, superaquecimento, descarga profunda — risco de incêndio, morte da bateria e perda de garantia de ambos os lados. Use apenas baterias originais ou certificadas pela marca da ferramenta.</p>
-</details>
+### Posso usar bateria de outra marca na minha parafusadeira via adaptador?
+**Não recomendado para uso profissional.** Adaptadores genéricos (ex: Makita 18V → DeWalt 20V) não têm comunicação BMS (Battery Management System) entre bateria e ferramenta. Resultado: sem proteção contra sobrecarga, superaquecimento, descarga profunda — risco de incêndio, morte da bateria e perda de garantia de ambos os lados. Use apenas baterias originais ou certificadas pela marca da ferramenta.
 
-<details>
-<summary>Qual a diferença entre furadeira de impacto e martelete SDS-Plus?</summary>
-<p><strong>Furadeira de impacto (martelete mecânico):</strong> Cames batem axialmente — energia ~1–2 J. Para furos até 10–13 mm em alvenaria/concreto leve. <strong>Martelete SDS-Plus:</strong> Pistão pneumático — energia 2–8 J. Para furos 16–26 mm em concreto armado, cinzelar, demolição leve. São categorias diferentes. Se sua obra exige furos estruturais em laje/viga, <strong>compre um martelete SDS-Plus dedicado</strong>.</p>
-</details>
+### Qual a diferença entre furadeira de impacto e martelete SDS-Plus?
+**Furadeira de impacto (martelete mecânico):** Cames batem axialmente — energia ~1–2 J. Para furos até 10–13 mm em alvenaria/concreto leve. **Martelete SDS-Plus:** Pistão pneumático — energia 2–8 J. Para furos 16–26 mm em concreto armado, cinzelar, demolição leve. São categorias diferentes. Se sua obra exige furos estruturais em laje/viga, **compre um martelete SDS-Plus dedicado**.
 
-<details>
-<summary>Vale a pena comprar kit com 2 baterias ou comprar corpo + bateria separada?</summary>
-<p><strong>Quase sempre o kit sai mais barato por Wh.</strong> Kits profissionais (ex: Makita RTJ, DeWalt D2, Bosch com ProCORE) incluem carregador rápido + 2 baterias de alta capacidade + maleta por valor inferior à soma das partes. Exceção: se você já tem baterias/carregador da plataforma, <strong>compre "body only" (corpo apenas)</strong> — economiza 30–40%.</p>
-</details>
+### Vale a pena comprar kit com 2 baterias ou comprar corpo + bateria separada?
+**Quase sempre o kit sai mais barato por Wh.** Kits profissionais (ex: Makita RTJ, DeWalt D2, Bosch com ProCORE) incluem carregador rápido + 2 baterias de alta capacidade + maleta por valor inferior à soma das partes. Exceção: se você já tem baterias/carregador da plataforma, **compre "body only" (corpo apenas)** — economiza 30–40%.
 
-<details>
-<summary>Como saber se o mandril 1/2" aceita broca SDS-Plus?</summary>
-<p><strong>Mandril 1/2" padrão NÃO aceita SDS-Plus.</strong> Brocas SDS-Plus têm encaixe com ranhuras laterais e exigem mandril SDS-Plus (com mola e esferas de travamento). Para usar broca SDS em furadeira 1/2", precisa de <strong>adaptador SDS → 1/2"</strong> (funciona só para perfuração, não para cinzelar). Para martelete real, use ferramenta com mandril SDS nativo.</p>
-</details>
+### Como saber se o mandril 1/2" aceita broca SDS-Plus?
+**Mandril 1/2" padrão NÃO aceita SDS-Plus.** Brocas SDS-Plus têm encaixe com ranhuras laterais e exigem mandril SDS-Plus (com mola e esferas de travamento). Para usar broca SDS em furadeira 1/2", precisa de **adaptador SDS → 1/2"** (funciona só para perfuração, não para cinzelar). Para martelete real, use ferramenta com mandril SDS nativo.
 
-<details>
-<summary>Parafusadeira de impacto (impact driver) substitui furadeira de impacto?</summary>
-<p><strong>Não.</strong> <strong>Parafusadeira de impacto (impact driver):</strong> Só tem impacto rotacional (marteladas no sentido da rotação) — para <strong>apertar/desapertar parafusos e porcas de alto torque</strong>. Não perfura. <strong>Furadeira de impacto (hammer drill / combi):</strong> Tem impacto axial (martelete) + embreagem + velocidades — <strong>perfura madeira, metal, alvenaria E aparafusa</strong>. São ferramentas complementares. Profissionais levam as duas.</p>
-</details>
+### Parafusadeira de impacto (impact driver) substitui furadeira de impacto?
+**Não.** **Parafusadeira de impacto (impact driver):** Só tem impacto rotacional (marteladas no sentido da rotação) — para **apertar/desapertar parafusos e porcas de alto torque**. Não perfura. **Furadeira de impacto (hammer drill / combi):** Tem impacto axial (martelete) + embreagem + velocidades — **perfura madeira, metal, alvenaria E aparafusa**. São ferramentas complementares. Profissionais levam as duas.
 
-## <a id="veredito-final"></a>Veredito Final: Qual Parafusadeira Comprar?
+## Veredito Final: Qual Parafusadeira Comprar?
 
-| Perfil | Melhor Escolha 2026 | Por Quê |
-|--------|---------------------|---------|
-| **Melhor Escolha Geral (Equilíbrio Total)** | **Bosch GSB 18V-55** | Brushless EC, 55 Nm, martelete 30k IPM, mandril 1/2", maior ecossistema 18V, assistência nacional |
-| **Melhor Custo-Benefício Entrada** | **WAP BPF 12K3** | 3 baterias + carregador + maleta + acessórios + martelete por investimento de entrada |
-| **Melhor para Uso Doméstico / DIY Avançado** | **Bosch GSR 1000 Smart** | Leve, conectada, app antifurto/perfis, ecossistema 12V vasto, cabe em qualquer gaveta |
-| **Melhor para Marcenaria Fina / Móveis Planejados** | **Makita HP333DSAJ (12V)** ou **Makita DHP484RTJ (18V)** | 21 embreagens, gatilho preciso, torque linear, mandril preciso, proteção XPT |
-| **Melhor Profissional Heavy Duty (Obra/Estrutural)** | **Bosch GSR 18V-150C** | 130 Nm, KickBack Control, perfis programáveis, gestão de frota via app, engrenagem planetária metal |
-| **Melhor Versatilidade Profissional Multiuso** | **DeWalt DCD796D2-BR** | 3 modos dedicados, LED Tri-Mode Spotlight, 70 Nm, mandril metálico, plataforma 20V Max robusta |
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Perfil</th>
+        <th>Melhor Escolha 2026</th>
+        <th>Por Quê</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Melhor Escolha Geral (Equilíbrio Total)</strong></td>
+        <td><strong>Bosch GSB 18V-55</strong></td>
+        <td>Brushless EC, 55 Nm, martelete 30k IPM, mandril 1/2", maior ecossistema 18V, assistência nacional</td>
+      </tr>
+      <tr>
+        <td><strong>Melhor Custo-Benefício Entrada</strong></td>
+        <td><strong>WAP BPF 12K3</strong></td>
+        <td>3 baterias + carregador + maleta + acessórios + martelete por investimento de entrada</td>
+      </tr>
+      <tr>
+        <td><strong>Melhor para Uso Doméstico / DIY Avançado</strong></td>
+        <td><strong>Bosch GSR 1000 Smart</strong></td>
+        <td>Leve, conectada, app antifurto/perfis, ecossistema 12V vasto, cabe em qualquer gaveta</td>
+      </tr>
+      <tr>
+        <td><strong>Melhor para Marcenaria Fina / Móveis Planejados</strong></td>
+        <td><strong>Makita HP333DSAJ (12V)</strong> ou <strong>Makita DHP484RTJ (18V)</strong></td>
+        <td>21 embreagens, gatilho preciso, torque linear, mandril preciso, proteção XPT</td>
+      </tr>
+      <tr>
+        <td><strong>Melhor Profissional Heavy Duty (Obra/Estrutural)</strong></td>
+        <td><strong>Bosch GSR 18V-150C</strong></td>
+        <td>130 Nm, KickBack Control, perfis programáveis, gestão de frota via app, engrenagem planetária metal</td>
+      </tr>
+      <tr>
+        <td><strong>Melhor Versatilidade Profissional Multiuso</strong></td>
+        <td><strong>DeWalt DCD796D2-BR</strong></td>
+        <td>3 modos dedicados, LED Tri-Mode Spotlight, 70 Nm, mandril metálico, plataforma 20V Max robusta</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
