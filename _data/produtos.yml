@@ -601,8 +601,6 @@ makita_dhp490:
 
 
 
-
-
 produto_exemplo:
   nome: "Nome e modelo do produto"
   descricao: "Descrição curta do produto"
