@@ -775,6 +775,84 @@ bosch_gsr_1000_smart:
     - nome: "Destaque Principal"
       valor: "Menor furadeira/parafusadeira 12V brushless com conectividade do mercado"
 
+werca_w_e12:
+  nome: "Werca W-E12"
+  descricao: "Melhor torque de 3 níveis com carregador USB"
+  imagem: "/assets/images/posts/werca-w-e12.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Marca"
+      valor: "Werca"
+    - nome: "Modelo"
+      valor: "W-E12"
+    - nome: "Alimentação / Voltagem"
+      valor: "10,8V (Bateria recarregável via USB)"
+    - nome: "Capacidade da Bateria"
+      valor: "2000 mAh"
+    - nome: "Rotação / RPM"
+      valor: "150 RPM (Constante)"
+    - nome: "Recursos de Torque"
+      valor: "Controle de 3 níveis"
+    - nome: "Peso Líquido"
+      valor: "1,05 kg"
+
+black_decker_bdcs90:
+  nome: "Black+Decker BDCS90"
+  descricao: "Compacta e leve, perfeita para iniciantes"
+  imagem: "/assets/images/posts/black-decker-bdcs90.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Marca"
+      valor: "Black+Decker"
+    - nome: "Modelo"
+      valor: "BDCS90"
+    - nome: "Alimentação / Voltagem"
+      valor: "3,6V (Íon de Lítio - Micro-USB)"
+    - nome: "Recursos de Torque"
+      valor: "2 níveis de torque"
+    - nome: "Indicador"
+      valor: "LED de nível de bateria"
+    - nome: "Comprimento Total"
+      valor: "15 cm"
+    - nome: "Peso Líquido"
+      valor: "0,85 kg"
+
+makita_td110d:
+  nome: "Makita TD110D"
+  descricao: "Motor Brushless e compatibilidade Makita 12V"
+  imagem: "/assets/images/posts/makita-td110d.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Marca"
+      valor: "Makita"
+    - nome: "Modelo"
+      valor: "TD110D"
+    - nome: "Alimentação / Voltagem"
+      valor: "12V Max (Linha CXT / LXT 12V)"
+    - nome: "Motor"
+      valor: "Brushless (Sem escovas)"
+    - nome: "Recursos de Torque"
+      valor: "3 níveis + função reversa"
+    - nome: "Iluminação"
+      valor: "LED integrado"
+    - nome: "Recursos Adicionais"
+      valor: "Sistema de bateria One Key e bolsa de transporte"
+
 
 
 produto_exemplo:
