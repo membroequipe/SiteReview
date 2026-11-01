@@ -567,6 +567,40 @@ makita_hp333_12v_impacto:
     - nome: "Garantia Oficial"
       valor: "3 anos (1 ano + 2 anos mediante registro)"
 
+makita_dhp490:
+  nome: "Makita DHP490"
+  descricao: "Furadeira de impacto 18V brushless com 130 Nm e mandril Rohm de 13 mm"
+  imagem: "/assets/images/posts/makita-dhp490.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Plataforma"
+      valor: "Makita 18V LXT (íon-lítio)"
+    - nome: "Motor"
+      valor: "BL Brushless (sem escovas)"
+    - nome: "Torque Máximo"
+      valor: "130 Nm (duro) / 65 Nm (macio)"
+    - nome: "Mandril"
+      valor: "13 mm (1/2\"), autoaperto, metal (Rohm), com travamento de eixo"
+    - nome: "Velocidades Mecânicas"
+      valor: "2 (0–550 RPM / 0–2.100 RPM)"
+    - nome: "Impactos por Minuto (IPM)"
+      valor: "0–9.350 (1ª) / 0–31.500 (2ª)"
+    - nome: "Capacidade de Perfuração"
+      valor: "Aço: 13 mm | Madeira: 38 mm | Alvenaria: 13 mm"
+    - nome: "Peso"
+      valor: "1,7 kg (com bateria 3,0 Ah) / 1,9 kg (com bateria 5,0 Ah)"
+    - nome: "Proteção"
+      valor: "XPT (eXtreme Protection Technology)"
+    - nome: "Garantia"
+      valor: "3 anos (1 ano legal + 2 anos estendidos mediante registro)"
+
+
+
 produto_exemplo:
   nome: "Nome e modelo do produto"
   descricao: "Descrição curta do produto"
