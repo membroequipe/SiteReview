@@ -320,6 +320,46 @@ vonder_pfv012_pfv012i:
       valor: "Na bateria (3 LEDs)"
     - nome: "Garantia"
       valor: "12 meses (3 meses legal + 9 meses concedido pelo fabricante)"
+
+stanley_scd711c2k_scd712d2k:
+  nome: "Stanley SCD711C2K & SCD712D2K (20V)"
+  descricao: "Kit 2 baterias 2.0 Ah, motor brushless, mandril 13 mm metálico e maleta rígida"
+  imagem: "/assets/images/posts/stanley-scd711c2k.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Plataforma"
+      valor: "20V MAX"
+    - nome: "Motor"
+      valor: "Brushless (sem escovas)"
+    - nome: "Tensão da Bateria"
+      valor: "20V (máx.) / 18V (nominal)"
+    - nome: "Baterias Inclusas"
+      valor: "2x 2.0 Ah (íon-lítio)"
+    - nome: "Carregador"
+      valor: "Bivolt (110V/220V)"
+    - nome: "Mandril"
+      valor: "13 mm (1/2\") com catraca, keyless"
+    - nome: "Velocidades Mecânicas"
+      valor: "2 (Baixa/Alta)"
+    - nome: "Faixa RPM"
+      valor: "0 – 500 / 0 – 1.750 min⁻¹"
+    - nome: "Torque Máximo"
+      valor: "65 Nm"
+    - nome: "Configurações de Torque"
+      valor: "22 + Perfuração (+ Impacto na SCD712D2K)"
+    - nome: "Função Impacto (SCD712D2K)"
+      valor: "0 – 25.500 IPM"
+    - nome: "Capacidade Perfuração"
+      valor: "Madeira: 38 mm | Aço: 13 mm | Alvenaria: 13 mm"
+    - nome: "Peso (com bateria 2.0 Ah)"
+      valor: "~1,5 kg (SCD711) / ~1,6 kg (SCD712)"
+    - nome: "Garantia"
+      valor: "3 anos (registro no site)"
       
 
 
