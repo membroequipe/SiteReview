@@ -705,6 +705,40 @@ black_decker_bcd704c1:
     - nome: "Garantia"
       valor: "2 anos (1 ano + 1 ano mediante registro)"
 
+bosch_gsb_120_li:
+  nome: "Parafusadeira Bosch GSB 120-LI"
+  descricao: "Motor Brushless 12V | 30 Nm | Martelete | 0,95 kg | Mandril 10 mm"
+  imagem: "/assets/images/posts/parafusadeira-bosch-gsb-120-li.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Categoria"
+      valor: "Parafusadeira e Furadeira de Impacto 12V (Linha Professional)"
+    - nome: "Voltagem / Alimentação"
+      valor: "12V Li-Ion (Sistema Bosch Professional 12V)"
+    - nome: "Motor"
+      valor: "Brushless (Sem Escovas) com Proteção Eletrônica de Células (ECP)"
+    - nome: "Torque Máximo (Duro / Macio)"
+      valor: "30 Nm / 15 Nm (20+1 ajustes de embreagem)"
+    - nome: "Rotação / RPM (1ª / 2ª Velocidade)"
+      valor: "0 - 400 / 0 - 1.300 rpm"
+    - nome: "Impactos por Minuto (IPM)"
+      valor: "0 - 19.500 ipm (2ª velocidade)"
+    - nome: "Capacidade de Perfuração"
+      valor: "Aço: 10 mm | Madeira: 20 mm | Alvenaria: 10 mm"
+    - nome: "Mandril"
+      valor: "Aperto rápido 10 mm (3/8\"), metal, travamento automático do fuso"
+    - nome: "Peso Líquido (com bateria 2.0 Ah)"
+      valor: "0,95 kg"
+    - nome: "Destaque Principal"
+      valor: "Motor Brushless + Função Martelete em plataforma 12V ultracompacta"
+
+
+
 produto_exemplo:
   nome: "Nome e modelo do produto"
   descricao: "Descrição curta do produto"
