@@ -156,6 +156,30 @@ wap_k21_id01_id02:
     - nome: "Destaque Principal"
       valor: "Brushless 20V com mandril metálico 13 mm e LED com afterglow"
 
+
+wap_bpfi_12k4_wf_12k4_2:
+  nome: "WAP BPFI 12K4 & WF 12K4.2"
+  descricao: "Kit 12V brushless: impacto 160 Nm + furadeira 35 Nm com bateria compartilhada"
+  imagem: "/assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png"
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+  especificacoes:
+    - nome: "Categoria"
+      valor: "Reviews"
+    - nome: "Voltagem / Alimentação"
+      valor: "12V Max (10,8V Nominal) — Bateria Íon-Lítio"
+    - nome: "Torque / Potência"
+      valor: "160 Nm (BPFI 12K4) / 35 Nm e 18 Nm (WF 12K4.2)"
+    - nome: "Rotação / RPM"
+      valor: "0–2.800 RPM (impacto) / 0–450 e 0–1.700 RPM (furadeira)"
+    - nome: "Peso Líquido"
+      valor: "~0,95 kg (BPFI) / ~1,05 kg (WF), sem bateria"
+    - nome: "Destaque Principal"
+      valor: "Motor brushless duplo + Modo Auto-Stop na impacto + garantia de 3 anos"
+
+
 produto_exemplo:
   nome: "Nome e modelo do produto"
   descricao: "Descrição curta do produto"
