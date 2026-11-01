@@ -665,6 +665,45 @@ black_decker_ld12s:
       valor: "LED frontal integrado e garantia de 2 anos (1 ano legal + 1 ano estendido mediante registro)"
 
 
+black_decker_bcd704c1:
+  nome: "Black+Decker BCD704C1"
+  descricao: "Furadeira/Parafusadeira de Impacto 20V MAX com mandril metálico de 10 mm e 42 Nm"
+  imagem: "/assets/images/posts/black-decker-bcd704c1.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Modelo"
+      valor: "BCD704C1"
+    - nome: "Voltagem / Alimentação"
+      valor: "20V MAX (18V Nominal) — Bateria 1.5 Ah (LB1R5)"
+    - nome: "Tipo"
+      valor: "Furadeira/Parafusadeira de Impacto a Bateria"
+    - nome: "Mandril"
+      valor: "Aperto rápido 10 mm (3/8\") — todo em metal"
+    - nome: "Torque / Potência"
+      valor: "42 Nm (máximo)"
+    - nome: "Rotação / RPM"
+      valor: "2 velocidades: 0–450 / 0–1.500 RPM"
+    - nome: "Função Impacto"
+      valor: "Sim (até 22.500 IPM)"
+    - nome: "Configurações de Torque"
+      valor: "11 posições + perfuração + impacto"
+    - nome: "Motor"
+      valor: "Escovas (Brushed)"
+    - nome: "Carregador"
+      valor: "Bivolt automático (LC1120)"
+    - nome: "Peso Líquido"
+      valor: "Aprox. 1,4 kg (com bateria)"
+    - nome: "Destaque Principal"
+      valor: "Mandril todo em metal de 10 mm com função impacto"
+    - nome: "Iluminação"
+      valor: "LED integrado na base"
+    - nome: "Garantia"
+      valor: "2 anos (1 ano + 1 ano mediante registro)"
 
 produto_exemplo:
   nome: "Nome e modelo do produto"
