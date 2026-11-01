@@ -529,6 +529,44 @@ bosch_gsb_180_li:
     - nome: "Destaque Principal"
       valor: "Mandril de aperto rápido 13 mm metalizado e compatibilidade total com baterias 18V Bosch Professional"
 
+makita_hp333_12v_impacto:
+  nome: "Makita HP333 (12V Impacto)"
+  descricao: "Furadeira/parafusadeira de impacto brushless 12V com mandril metálico de 10 mm e 35 Nm"
+  imagem: "/assets/images/posts/makita-hp333-12v-impacto.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Modelo"
+      valor: "HP333DWAE / HP333DZ (corpo apenas)"
+    - nome: "Voltagem / Alimentação"
+      valor: "12V max CXT (10,8 V nominal) — íon de lítio slide"
+    - nome: "Torque / Potência"
+      valor: "35 Nm (duro) / 21 Nm (macio) — motor brushless (BL)"
+    - nome: "Rotação / RPM"
+      valor: "0 – 450 min⁻¹ (1ª) / 0 – 1.700 min⁻¹ (2ª)"
+    - nome: "Impactos por Minuto (IPM)"
+      valor: "0 – 6.800 (1ª) / 0 – 25.500 (2ª)"
+    - nome: "Mandril"
+      valor: "Metálico 10 mm (3/8\") com aperto rápido"
+    - nome: "Capacidade de Furação"
+      valor: "Aço: 10 mm | Madeira: 21 mm | Alvenaria: 10 mm"
+    - nome: "Ajustes de Torque"
+      valor: "21 estágios + furação + impacto"
+    - nome: "Peso Líquido"
+      valor: "1,1 kg (com bateria 2,0 Ah) / 0,78 kg (corpo apenas)"
+    - nome: "Comprimento"
+      valor: "182 mm"
+    - nome: "Destaque Principal"
+      valor: "Motor brushless + mandril metálico 10 mm + proteção XPT"
+    - nome: "LED"
+      valor: "Duplo, com função afterglow (~10 s)"
+    - nome: "Garantia Oficial"
+      valor: "3 anos (1 ano + 2 anos mediante registro)"
+
 produto_exemplo:
   nome: "Nome e modelo do produto"
   descricao: "Descrição curta do produto"
