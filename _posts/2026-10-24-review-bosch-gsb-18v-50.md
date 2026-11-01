@@ -27,8 +27,6 @@ avaliacao:
 
 {% include review-toc.html %}
 
-> **Transparência:** quando houver links de afiliados, poderemos receber uma comissão por compras qualificadas, sem custo adicional para você.
-
 A Bosch GSB 18V-50 (18V Brushless) chega ao mercado como uma furadeira de impacto e parafusadeira de nível profissional que equilibra potência bruta, controle eletrónico refinado e a robustez esperada da linha azul da fabricante alemã, posicionando-se como uma das opções mais versáteis para quem vive de obra ou exige desempenho confiável em reformas pesadas.
 
 {% include resumo-avaliacao.html %}
