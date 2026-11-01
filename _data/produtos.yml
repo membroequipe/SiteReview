@@ -626,6 +626,43 @@ bosch_gsb_12v_30_brushless:
       valor: "~0,82 kg (sem bateria) / ~1,0 kg (com bateria de 2.0 Ah)"
     - nome: "Destaque Principal"
       valor: "Motor sem escovas (Brushless) compacto (169 mm de comprimento) com luz LED"
+      
+
+black_decker_ld12s:
+  nome: "Black+Decker LD12S"
+  descricao: "Parafusadeira e furadeira 12V com torque de 30 Nm, ~1 kg e LED frontal"
+  imagem: "/assets/images/posts/black-decker-ld12s.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Modelo"
+      valor: "LD12S / LD12SP (varia conforme kit: solo ou com maleta/acessórios)"
+    - nome: "Tipo"
+      valor: "Parafusadeira e Furadeira a Bateria (Combo 2 em 1)"
+    - nome: "Voltagem / Alimentação"
+      valor: "12V Max (Íon de Lítio)"
+    - nome: "Capacidade da Bateria"
+      valor: "1.5 Ah (padrão no kit LD12SP) / 2.0 Ah (kits atualizados)"
+    - nome: "Mandril"
+      valor: "10 mm (3/8\"), automático, de aperto rápido"
+    - nome: "Torque / Potência"
+      valor: "30 Nm (265 in-lbs)"
+    - nome: "Configurações de Torque"
+      valor: "11 posições + perfuração"
+    - nome: "Rotação / RPM"
+      valor: "Vel. 1: 0–400 RPM / Vel. 2: 0–1.500 RPM (2 velocidades mecânicas)"
+    - nome: "Função Impacto"
+      valor: "Não possui (apenas rotação)"
+    - nome: "Capacidade de Perfuração"
+      valor: "Madeira: 20 mm / Aço: 10 mm"
+    - nome: "Peso Líquido"
+      valor: "~1,0 kg (com bateria)"
+    - nome: "Destaque Principal"
+      valor: "LED frontal integrado e garantia de 2 anos (1 ano legal + 1 ano estendido mediante registro)"
 
 
 
