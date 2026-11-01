@@ -507,6 +507,28 @@ bosch_gsb_18v_50:
     - nome: "Destaque Principal"
       valor: "Motor brushless EC com 50 Nm de torque e proteções eletrónicas ECP + EMP"
 
+bosch_gsb_180_li:
+  nome: "Bosch GSB 180-LI"
+  descricao: "Furadeira e parafusadeira de impacto 18V com 60 Nm, mandril metálico de 13 mm e ecossistema Professional"
+  imagem: "/assets/images/posts/bosch-gsb-180-li.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Voltagem / Alimentação"
+      valor: "18V (Lítio-Íon)"
+    - nome: "Torque / Potência"
+      valor: "60 Nm (máximo duro) / 30 Nm (máximo macio)"
+    - nome: "Rotação / RPM"
+      valor: "0 – 480 rpm (1ª marcha) / 0 – 1.900 rpm (2ª marcha)"
+    - nome: "Peso Líquido"
+      valor: "~1,6 kg (com bateria 2.0 Ah) / ~1,9 kg (com bateria 4.0 Ah)"
+    - nome: "Destaque Principal"
+      valor: "Mandril de aperto rápido 13 mm metalizado e compatibilidade total com baterias 18V Bosch Professional"
+
 produto_exemplo:
   nome: "Nome e modelo do produto"
   descricao: "Descrição curta do produto"
