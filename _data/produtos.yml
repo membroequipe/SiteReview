@@ -599,6 +599,34 @@ makita_dhp490:
     - nome: "Garantia"
       valor: "3 anos (1 ano legal + 2 anos estendidos mediante registro)"
 
+bosch_gsb_12v_30_brushless:
+  nome: "Bosch GSB 12V-30 (12V Brushless)"
+  descricao: "Parafusadeira brushless 12V com 30 Nm, 2.100 RPM e bateria 5,0 Ah"
+  imagem: "/assets/images/posts/bosch-gsb-12v-30-brushless.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Categoria"
+      valor: "Parafusadeira / Furadeira de Impacto a Bateria"
+    - nome: "Voltagem / Alimentação"
+      valor: "12V (Compatível com linha Li-ion 12V Bosch)"
+    - nome: "Torque (Junta Suave / Dura)"
+      valor: "18 Nm / 30 Nm (20 posições de embreagem + função furar)"
+    - nome: "Rotação (RPM)"
+      valor: "0 – 420 RPM (1ª vel) / 0 – 1.600 RPM (2ª vel)"
+    - nome: "Taxa de Impacto (IPM)"
+      valor: "Até 24.000 i.p.m. (para alvenaria e tijolos)"
+    - nome: "Mandril"
+      valor: "3/8\" (10 mm) de aperto rápido"
+    - nome: "Peso Líquido"
+      valor: "~0,82 kg (sem bateria) / ~1,0 kg (com bateria de 2.0 Ah)"
+    - nome: "Destaque Principal"
+      valor: "Motor sem escovas (Brushless) compacto (169 mm de comprimento) com luz LED"
+
 
 
 produto_exemplo:
