@@ -737,6 +737,44 @@ bosch_gsb_120_li:
     - nome: "Destaque Principal"
       valor: "Motor Brushless + Função Martelete em plataforma 12V ultracompacta"
 
+bosch_gsr_1000_smart:
+  nome: "Parafusadeira Bosch GSR 1000 Smart"
+  descricao: "12V Brushless • 35 Nm • Bluetooth • 169 mm • Mandril 10 mm metal"
+  imagem: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.png"
+
+  links:
+    amazon: ""
+    mercadolivre: ""
+    shopee: ""
+
+  especificacoes:
+    - nome: "Categoria"
+      valor: "Parafusadeira/Furadeira a Bateria 12V Profissional"
+    - nome: "Voltagem / Alimentação"
+      valor: "12V Max (Plataforma Bosch Professional 12V)"
+    - nome: "Motor"
+      valor: "Brushless (EC — Comutação Eletrônica)"
+    - nome: "Torque Máximo (Duro / Macio)"
+      valor: "35 Nm / 17 Nm (20+1 posições de regulagem)"
+    - nome: "Rotação / RPM (1ª / 2ª Velocidade)"
+      valor: "0 – 450 / 0 – 1.700 rpm"
+    - nome: "Capacidade de Perfuração (Madeira / Aço / Alvenaria)"
+      valor: "25 mm / 10 mm / 10 mm"
+    - nome: "Mandril"
+      valor: "Mandril de aperto rápido 10 mm (1/2\") — metal"
+    - nome: "Peso Líquido (com bateria 2.0 Ah)"
+      valor: "1,0 kg"
+    - nome: "Comprimento Total (Cabeça)"
+      valor: "169 mm"
+    - nome: "Conectividade"
+      valor: "Bluetooth Low Energy — App Bosch Toolbox"
+    - nome: "Recursos Inteligentes (Smart)"
+      valor: "Customização de torque/RPM, trava eletrônica, rastreamento, alerta de manutenção"
+    - nome: "Iluminação"
+      valor: "LED único de posicionamento (sem afterglow)"
+    - nome: "Destaque Principal"
+      valor: "Menor furadeira/parafusadeira 12V brushless com conectividade do mercado"
+
 
 
 produto_exemplo:
