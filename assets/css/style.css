@@ -2466,3 +2466,34 @@ table.specs-table tbody th:first-child {
   }
 }
 
+
+/* =========================================
+   CORREÇÃO: TABELAS COMPARATIVAS LARGAS
+   Preserva as fichas técnicas de 2 colunas
+   ========================================= */
+
+.post-content .specs-table-wrapper > table.specs-table:not(.table-two-columns) {
+    width: max-content !important;
+    min-width: 100%;
+    table-layout: auto;
+}
+
+.post-content .specs-table-wrapper > table.specs-table:not(.table-two-columns) th,
+.post-content .specs-table-wrapper > table.specs-table:not(.table-two-columns) td {
+    width: auto;
+    min-width: 105px;
+    word-break: normal;
+    overflow-wrap: normal;
+    white-space: normal;
+}
+
+.post-content .specs-table-wrapper > table.specs-table:not(.table-two-columns) th:first-child,
+.post-content .specs-table-wrapper > table.specs-table:not(.table-two-columns) td:first-child {
+    min-width: 180px;
+}
+
+.post-content .specs-table-wrapper > table.specs-table:not(.table-two-columns) th:last-child,
+.post-content .specs-table-wrapper > table.specs-table:not(.table-two-columns) td:last-child {
+    min-width: 220px;
+}
+
