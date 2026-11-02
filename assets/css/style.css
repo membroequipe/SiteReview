@@ -2164,9 +2164,10 @@ details.toc-box[open] > summary::after {
 
 
 
+
 /* =========================================
-   FOOTER HORIZONTAL — COMPACTO
-   DESKTOP E MOBILE
+   FOOTER COMPACTO — SUA MELHOR FERRAMENTA
+   Desktop, tablet e mobile
    ========================================= */
 
 .site-footer {
@@ -2176,14 +2177,12 @@ details.toc-box[open] > summary::after {
     border-top: 2px solid #f59e0b;
     font-size: 0.82rem;
     line-height: 1.5;
-    overflow-wrap: anywhere;
 }
 
-/* Estrutura principal */
+/* Container principal */
 .site-footer .site-footer-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr;
     gap: 12px;
 
     width: 100%;
@@ -2192,14 +2191,13 @@ details.toc-box[open] > summary::after {
     padding: 20px 24px;
 }
 
-/* Área da marca */
+/* Marca e descrição */
 .site-footer .footer-col-about {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     gap: 8px 18px;
-    width: 100%;
     min-width: 0;
     text-align: center;
 }
@@ -2208,7 +2206,6 @@ details.toc-box[open] > summary::after {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    max-width: 100%;
     margin: 0;
     color: #ffffff;
     text-decoration: none;
@@ -2220,9 +2217,11 @@ details.toc-box[open] > summary::after {
     flex: 0 0 32px;
     width: 32px;
     height: 32px;
+
     background: #f59e0b;
     color: #0f172a;
     border-radius: 7px;
+
     font-size: 0.65rem;
     font-weight: 800;
     line-height: 1;
@@ -2246,17 +2245,18 @@ details.toc-box[open] > summary::after {
     line-height: 1.5;
 }
 
-/* Link da metodologia */
+/* Link de metodologia */
 .site-footer .footer-methodology-link {
     display: inline-flex;
     align-items: center;
+    gap: 5px;
+
     min-height: 32px;
-    max-width: 100%;
     padding: 4px 0;
+
     color: #fcd34d;
     font-size: 0.78rem;
     font-weight: 700;
-    line-height: 1.4;
     text-decoration: none;
 }
 
@@ -2265,30 +2265,41 @@ details.toc-box[open] > summary::after {
     text-decoration: underline;
 }
 
-/* Grupos de links */
+/* Grupos de navegação */
 .site-footer .footer-col-links {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+
     gap: 8px 18px;
-    width: 100%;
     min-width: 0;
+    margin: 0;
     padding: 0;
     border: 0;
 }
 
-/* Oculta títulos dos grupos para economizar altura */
+/* Mantém os títulos para acessibilidade,
+   sem ocupar espaço visual */
 .site-footer .footer-subtitle {
-    display: none;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
 }
 
-/* Links lado a lado */
+/* Links distribuídos horizontalmente */
 .site-footer .footer-nav {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+
     gap: 4px 18px;
     margin: 0;
     padding: 0;
@@ -2296,33 +2307,35 @@ details.toc-box[open] > summary::after {
 }
 
 .site-footer .footer-nav li {
+    min-width: 0;
     margin: 0;
     padding: 0;
-    min-width: 0;
 }
 
 .site-footer .footer-nav a {
     display: inline-flex;
     align-items: center;
+
     min-height: 32px;
     padding: 4px 0;
+
     color: #cbd5e1;
     font-size: 0.8rem;
     line-height: 1.4;
     text-decoration: none;
-    white-space: normal;
 }
 
 .site-footer .footer-nav a:hover {
     color: #fcd34d;
     text-decoration: underline;
+    text-underline-offset: 3px;
 }
 
-/* Acessibilidade */
+/* Foco acessível */
 .site-footer a:focus-visible {
-    outline: 3px solid #fcd34d;
+    outline: 2px solid #fcd34d;
     outline-offset: 3px;
-    border-radius: 4px;
+    border-radius: 3px;
 }
 
 /* Faixa inferior */
@@ -2368,6 +2381,25 @@ details.toc-box[open] > summary::after {
 }
 
 /* =========================================
+   TABLET
+   ========================================= */
+
+@media (max-width: 960px) {
+    .site-footer .site-footer-container {
+        gap: 10px;
+        padding: 18px 20px;
+    }
+
+    .site-footer .footer-col-about {
+        gap: 6px 14px;
+    }
+
+    .site-footer .footer-nav {
+        gap: 4px 14px;
+    }
+}
+
+/* =========================================
    MOBILE
    ========================================= */
 
@@ -2377,7 +2409,7 @@ details.toc-box[open] > summary::after {
     }
 
     .site-footer .site-footer-container {
-        gap: 10px;
+        gap: 8px;
         padding: 16px;
     }
 
@@ -2385,7 +2417,22 @@ details.toc-box[open] > summary::after {
         gap: 6px 12px;
     }
 
+    .site-footer .footer-brand-mark {
+        flex-basis: 28px;
+        width: 28px;
+        height: 28px;
+    }
+
+    .site-footer .footer-title {
+        font-size: 0.92rem;
+    }
+
     .site-footer .footer-text {
+        font-size: 0.75rem;
+        line-height: 1.4;
+    }
+
+    .site-footer .footer-methodology-link {
         font-size: 0.75rem;
     }
 
@@ -2399,7 +2446,8 @@ details.toc-box[open] > summary::after {
 
     .site-footer .footer-nav a {
         min-height: 32px;
-        font-size: 0.78rem;
+        font-size: 0.76rem;
+        padding: 4px 0;
     }
 
     .site-footer .footer-bottom-container {
@@ -2416,15 +2464,16 @@ details.toc-box[open] > summary::after {
         width: 100%;
         text-align: center;
         font-size: 0.7rem;
+        line-height: 1.45;
     }
 }
 
+/* Redução de movimento */
 @media (prefers-reduced-motion: reduce) {
     .site-footer a {
         transition: none;
     }
 }
-
 
 
 /* Ajuste da ficha técnica dos reviews */
