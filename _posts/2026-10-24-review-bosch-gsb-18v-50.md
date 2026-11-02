@@ -43,7 +43,7 @@ A GSB 18V-50 nasceu para ocupar o espaço que antes pertencia à GSB 18V-28 e à
 
 A ergonomia foi refinada a partir de feedback de instaladores de drywall, eletricistas e marceneiros. O punho com revestimento Softgrip envolve toda a extensão da empunhadura, incluindo a base da bateria, eliminando pontos de pressão durante uso prolongado. O gatilho de velocidade variável tem curso progressivo e "click" tátil no fim do percurso, permitindo controle fino no início da furação em azulejo ou no assentamento de parafusos de cabeça chata. O seletor de duas velocidades fica na lateral esquerda, acessível ao polegar da mão direita sem soltar a ferramenta, e o anel de torque com 20 posições mais modo perfuração e modo impacto gira com detentes nítidos — não há risco de mudar acidentalmente durante o trabalho. O clipe de cinto metálico é reversível (lado direito/esquerdo) e suporta o peso do conjunto com bateria ProCORE 4.0 Ah sem entortar. O LED frontal projeta feixe amplo e uniforme, sem sombra do mandril, e permanece aceso por cerca de 10 segundos após soltar o gatilho — útil em armários e forros.
 
-Se você está avaliando a linha completa da marca, vale conferir também nossos [outros reviews de parafusadeiras]({{ '/reviews/' | relative_url }}) para comparar modelos e faixas de preço.
+Se você está avaliando a linha completa da marca, vale conferir também nossos [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}) para comparar modelos e faixas de preço.
 
 ## Desempenho e Aplicações
 
