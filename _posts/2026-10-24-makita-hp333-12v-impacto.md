@@ -3,7 +3,7 @@ layout: post
 title: "Review Makita HP333: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Makita HP333 12V Impacto: motor brushless, 35 Nm, mandril metálico e nota 8,7/10. Veja desempenho real, pontos fortes e vale a pena comprar."
 slug: "review-makita-hp333-12v-impacto"
-categories: [furadeiras, parafusadeiras, reviews]
+categories: [furadeiras, reviews]
 produto_id: makita_hp333_12v_impacto
 image: "/assets/images/posts/makita-hp333-12v-impacto.webp"
 image_alt: "Makita HP333 em destaque"
@@ -27,8 +27,6 @@ avaliacao:
 ---
 
 {% include review-toc.html %}
-
-> **Transparência:** quando houver links de afiliados, poderemos receber uma comissão por compras qualificadas, sem custo adicional para você.
 
 A Makita HP333 (12V Impacto) chega ao mercado como uma das opções mais equilibradas dentro da plataforma 12V max CXT da fabricante japonesa, posicionando-se como uma furadeira e parafusadeira de impacto compacta voltada para profissionais que precisam de mobilidade sem abrir mão de torque e durabilidade. Neste review, cruzamos a ficha técnica oficial com centenas de avaliações reais de compradores nas principais plataformas de e-commerce brasileiras para entregar um panorama honesto do que esta ferramenta entrega na prática. Veredito antecipado: nota 8,7/10 — uma máquina de categoria profissional leve, com motor brushless de última geração, mandril metálico de 10 mm e ergonomia pensada para uso prolongado, mas que cobra seu preço pela ausência de bateria e carregador no kit básico e pela limitação inerente à plataforma 12V em aplicações de alvenaria pesada.
 
@@ -56,7 +54,7 @@ A função impacto, com até 25.500 IPM na 2ª velocidade, cumpre o papel de fur
 
 A autonomia depende diretamente da bateria escolhida: com a CXT de 2,0 Ah (BL1021B), espera-se cerca de 180 parafusos 4,5 x 50 mm em pinus ou 45 furos de 6 mm em alvenaria leve por carga; com a 4,0 Ah (BL1041B), os números dobram, mas o peso sobe para 1,3 kg e o equilíbrio desloca-se para a frente. O sistema de proteção eletrônica desliga o motor em sobrecarga sustentada (ex.: broca travada em aço) e impede partida com bateria profunda descarregada, preservando as células. O carregador rápido DC10SA recarrega a 2,0 Ah em 22 minutos e a 4,0 Ah em 45 minutos — tempos competitivos que permitem rotação de duas baterias em turno contínuo sem paralisação.
 
-Se você quer comparar com outras opções do mercado, vale conferir nosso [guia das melhores parafusadeiras]({{ '/qual-a-melhor-parafusadeira/' | relative_url }}) e também [outros reviews de parafusadeiras]({{ '/reviews/' | relative_url }}) que já testamos. Você pode [verificar a disponibilidade e o preço atualizado da Makita HP333 na Amazon](SEU_LINK_AMAZON) para acompanhar as oscilações de oferta.
+Se você quer comparar com outras opções do mercado, vale conferir nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) e também [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}) que já testamos. Você pode [verificar a disponibilidade e o preço atualizado da Makita HP333 na Amazon](SEU_LINK_AMAZON) para acompanhar as oscilações de oferta.
 
 ## Opinião dos Compradores
 
@@ -65,7 +63,7 @@ Se você quer comparar com outras opções do mercado, vale conferir nosso [guia
 - **Mandril metálico de 10 mm que não solta a broca**: instaladores de painéis solares e serralheiros elogiam a catraca de travamento que impede a broca de girar dentro do mandril mesmo sob torque reverso forte — problema comum em mandris plásticos de concorrentes.
 - **Partida suave e controle fino no gatilho**: eletricistas relatam conseguir iniciar furos em chapa de aço 1 mm sem center punch, apenas dosando a pressão no gatilho — mérito do driver brushless e da engrenagem planetária de baixo backlash.
 - **Durabilidade em obra pesada**: vários relatos de ferramentas com 2+ anos de uso diário caindo de andaime (1,5 m), expostas a poeira de corte de cerâmica e chuva fina, sem falhas — o XPT e a carcaça reforçada cumprem o prometido.
-- **Ecossistema CXT compartilhado**: quem já possui parafusadeira de impacto TD110, serra circular HS301 ou multi-tool TM30 na mesma plataforma valoriza poder rodar com duas ou três baterias 4,0 Ah no bolso o dia todo.
+- **Ecossistema CXT compartilhado**: quem já possui a furadeira de impacto TD110, serra circular HS301 ou multi-tool TM30 na mesma plataforma valoriza poder rodar com duas ou três baterias 4,0 Ah no bolso o dia todo.
 
 ### Reclamações Mais Frequentes
 - **Kit 'corpo apenas' obrigatório no Brasil**: a grande maioria das ofertas nacionais vende só o corpo (HP333DZ), forçando a compra separada de bateria e carregador — o que eleva o investimento total e confunde compradores de primeira viagem que esperam kit pronto.
@@ -78,7 +76,7 @@ Se você quer comparar com outras opções do mercado, vale conferir nosso [guia
 
 A Bosch responde com o GSB 12V-35 Professional (0 601 9F8 100), motor brushless de arquitetura similar e 35 Nm de torque duro idênticos, mas adota mandril 10 mm plástico com anel metálico — mais leve (1,0 kg com 2,0 Ah), porém com relatos de desgaste prematuro da catraca em uso intenso com brocas de haste reduzida. A ergonomia Bosch tem empunhadura mais fina e alongada, preferida por mãos pequenas, mas o gatilho tem curso mais curto, tirando um pouco da progressividade na partida. O grande trunfo da Bosch é o sistema "Electronic Motor Protection" mais sensível, que desliga antes de queimar o estator em travamentos severos, e a garantia de 3 anos sem necessidade de registro (contra 1+2 da Makita). Em alvenaria leve, o impacto Bosch atinge 27.000 IPM na 2ª velocidade — ligeiramente superior — mas a energia por impacto é comparável. O ecossistema 12V Bosch (Professional) tem maior variedade de ferramentas no Brasil hoje, incluindo serra tico-tico, lixadeira orbital e multiprocessadora, o que pode pesar na decisão de quem monta kit completo. No entanto, a qualidade do mandril e a robustez percebida da carcaça Makita ainda dão vantagem à HP333 para quem prioriza durabilidade do sistema de aperto.
 
-A DeWalt aposta no DCD706 (12V XR Brushless), formato "pistola" mais alongado (205 mm) e peso de 1,15 kg com bateria 2,0 Ah. O torque máximo declarado é 34 Nm — praticamente empate técnico — mas a curva de torque em rotação baixa (1ª velocidade a 400 RPM) parece mais "cheia" em testes de bancada independentes, o que ajuda em parafusos longos em madeira dura. O mandril 10 mm é todo metálico com catraca de aço, equivalente ao Makita em retenção. O diferencial DeWalt é o interruptor de velocidade com três posições fixas (não variável por pressão) — alguns profissionais preferem a repetibilidade, outros sentem falta do controle analógico. A plataforma 12V XR tem menos ferramentas no Brasil que a CXT, mas as baterias XR 2,0 Ah e 4,0 Ah são mais fáceis de encontrar no varejo e costumam ter preço ligeiramente inferior. A garantia DeWalt é 3 anos (1+2 com registro), similar. Para quem já tem bateria DeWalt 12V (ex.: da parafusadeira de impacto DCF809), o DCD706 faz sentido; para quem entra no ecossistema agora, a HP333 leva vantagem no equilíbrio, no LED duplo mais eficiente e na compacidade real.
+A DeWalt aposta no DCD706 (12V XR Brushless), formato "pistola" mais alongado (205 mm) e peso de 1,15 kg com bateria 2,0 Ah. O torque máximo declarado é 34 Nm — praticamente empate técnico — mas a curva de torque em rotação baixa (1ª velocidade a 400 RPM) parece mais "cheia" em testes de bancada independentes, o que ajuda em parafusos longos em madeira dura. O mandril 10 mm é todo metálico com catraca de aço, equivalente ao Makita em retenção. O diferencial DeWalt é o interruptor de velocidade com três posições fixas (não variável por pressão) — alguns profissionais preferem a repetibilidade, outros sentem falta do controle analógico. A plataforma 12V XR tem menos ferramentas no Brasil que a CXT, mas as baterias XR 2,0 Ah e 4,0 Ah são mais fáceis de encontrar no varejo e costumam ter preço ligeiramente inferior. A garantia DeWalt é 3 anos (1+2 com registro), similar. Para quem já tem bateria DeWalt 12V (ex.: da furadeira de impacto DCF809), o DCD706 faz sentido; para quem entra no ecossistema agora, a HP333 leva vantagem no equilíbrio, no LED duplo mais eficiente e na compacidade real.
 
 <table class="specs-table" style="width: 100%; border-collapse: collapse;">
   <thead>
