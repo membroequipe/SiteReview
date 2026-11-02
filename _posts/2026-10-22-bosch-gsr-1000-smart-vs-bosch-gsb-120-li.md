@@ -13,8 +13,6 @@ author: "Equipe de Análises"
 
 {% include review-toc.html %}
 
-> **Transparência:** quando houver links de afiliados, poderemos receber uma comissão por compras qualificadas, sem custo adicional para você.
-
 Escolher entre a Bosch GSR 1000 Smart e a Bosch GSB 120-LI exige entender uma diferença fundamental: enquanto uma foi projetada para tarefas leves de parafusamento e perfuração, a outra oferece mais versatilidade para quem também precisa furar alvenaria. Embora ambas pertençam à categoria de ferramentas compactas a bateria, existem diferenças importantes no torque, no mandril, nas velocidades e na autonomia que influenciam diretamente a experiência de uso.
 
 A GSR 1000 Smart chama a atenção pela simplicidade, pelo tamanho compacto e pela bateria integrada. Já a GSB 120-LI entrega dois níveis de velocidade, maior torque e função de impacto. Neste comparativo, analisamos as especificações publicadas pela Bosch Professional e as evidências disponíveis em plataformas de comércio eletrônico e discussões de usuários para ajudar você a escolher a ferramenta mais adequada à sua rotina.
