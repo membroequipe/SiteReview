@@ -3,7 +3,7 @@ layout: post
 title: "Review Parafusadeira Bosch GSB 120-LI: Vale a Pena em 2026? Análise Completa!"
 description: "Análise técnica detalhada da Parafusadeira Bosch GSB 120-LI: specs, desempenho real, opiniões de compradores e comparativo com concorrentes."
 slug: "review-bosch-gsb-120-li"
-categories: [furadeiras, reviews]
+categories: [furadeiras, parafusadeiras, reviews]
 produto_id: bosch_gsb_120_li
 image: "/assets/images/posts/parafusadeira-bosch-gsb-120-li.webp"
 image_alt: "Parafusadeira Bosch GSB 120-LI em destaque"
@@ -25,7 +25,6 @@ avaliacao:
 
 {% include review-toc.html %}
 
-> **Transparência:** quando houver links de afiliados, poderemos receber uma comissão por compras qualificadas, sem custo adicional para você.
 
 A **Parafusadeira Bosch GSB 120-LI** chega ao mercado como uma das apostas mais equilibradas da linha Professional 12V da fabricante alemã, prometendo unir a robustez esperada da marca com a leveza necessária para aplicações contínuas em marcenaria, manutenção predial e montagens industriais leves. Este review consolida dados oficiais, especificações de engenharia e um levantamento amplo de feedbacks reais de consumidores nas principais plataformas de varejo nacional para entregar uma visão honesta sobre o real valor deste equipamento em 2026.
 
