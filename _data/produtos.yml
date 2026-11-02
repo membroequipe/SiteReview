@@ -485,9 +485,10 @@ dewalt_dcd716d2:
     - nome: "Garantia"
       valor: "3 Anos (Mediante Registro no Site Oficial)"
 
+
 bosch_gsb_18v_50:
   nome: "Bosch GSB 18V-50"
-  descricao: "Furadeira de impacto brushless 18V com 50 Nm e mandril metálico de 13 mm"
+  descricao: "Furadeira e parafusadeira de impacto 18V brushless, com torque máximo de 50 Nm, mandril metálico de 13 mm e até 27.000 impactos por minuto"
   imagem: "/assets/images/posts/bosch-gsb-18v-50.png"
 
   links:
@@ -496,16 +497,42 @@ bosch_gsb_18v_50:
     shopee: ""
 
   especificacoes:
+    - nome: "Modelo"
+      valor: "Bosch GSB 18V-50"
+    - nome: "Categoria"
+      valor: "Furadeira e parafusadeira de impacto a bateria"
     - nome: "Voltagem / Alimentação"
-      valor: "18V (sistema Professional 18V)"
-    - nome: "Torque / Potência"
-      valor: "50 Nm (máximo duro) / 28 Nm (máximo macio)"
+      valor: "18V, bateria de íons de lítio removível, sistema Bosch Professional"
+    - nome: "Motor"
+      valor: "Brushless (sem escovas de carvão)"
+    - nome: "Torque Máximo"
+      valor: "50 Nm"
+    - nome: "Torque (Junta Rígida / Flexível)"
+      valor: "50 Nm / 28 Nm"
     - nome: "Rotação / RPM"
-      valor: "0 – 480 rpm (1ª velocidade) / 0 – 1.900 rpm (2ª velocidade)"
+      valor: "0–460 rpm (1ª velocidade) / 0–1.800 rpm (2ª velocidade)"
+    - nome: "Impactos por Minuto (IPM)"
+      valor: "Até 27.000 ipm"
+    - nome: "Mandril"
+      valor: "Metálico, de aperto rápido, com capacidade de 1,5 a 13 mm"
+    - nome: "Capacidade de Perfuração"
+      valor: "Madeira: 35 mm | Aço: 13 mm | Alvenaria: 13 mm"
+    - nome: "Ajustes de Torque"
+      valor: "20 níveis, mais modos de perfuração e impacto"
+    - nome: "Velocidades Mecânicas"
+      valor: "2 velocidades com controle variável pelo gatilho"
     - nome: "Peso Líquido"
-      valor: "~1,3 kg (sem bateria)"
+      valor: "Aproximadamente 1,1 kg sem bateria"
+    - nome: "Função Impacto"
+      valor: "Sim, impacto mecânico para perfuração em alvenaria"
+    - nome: "Iluminação"
+      valor: "LED integrado para iluminação da área de trabalho"
+    - nome: "Bateria"
+      valor: "Compatível com baterias Bosch Professional 18V e ProCORE18V adequadas ao modelo"
+    - nome: "Carregador"
+      valor: "Modelo e tempo de recarga dependem do kit comercializado"
     - nome: "Destaque Principal"
-      valor: "Motor brushless EC com 50 Nm de torque e proteções eletrónicas ECP + EMP"
+      valor: "Motor brushless, torque de 50 Nm, mandril metálico de 13 mm e plataforma Bosch Professional 18V"
 
 
 bosch_gsb_180_li:
