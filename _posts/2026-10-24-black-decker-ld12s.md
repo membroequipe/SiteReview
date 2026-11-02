@@ -3,7 +3,7 @@ layout: post
 title: "Review Black+Decker LD12S: Vale a Pena em 2026? Análise Completa!"
 description: "Análise completa da Black+Decker LD12S: torque de 30 Nm, 12V, leve e compacta. Vale a pena em 2026? Veja desempenho real, prós, contras e veredito."
 slug: "review-black-decker-ld12s"
-categories: [furadeiras, reviews]
+categories: [furadeiras, parafusadeiras, reviews]
 produto_id: black_decker_ld12s
 image: "/assets/images/posts/black-decker-ld12s.webp"
 image_alt: "Black+Decker LD12S em destaque"
@@ -26,8 +26,6 @@ avaliacao:
 ---
 
 {% include review-toc.html %}
-
-> **Transparência:** quando houver links de afiliados, poderemos receber uma comissão por compras qualificadas, sem custo adicional para você.
 
 A Black+Decker LD12S surge como uma das opções mais acessíveis no segmento de parafusadeiras e furadeiras a bateria de 12V, posicionada estrategicamente para atender o usuário doméstico que busca uma ferramenta leve, compacta e suficiente para reparos cotidianos e montagem de móveis. Se você procura uma ferramenta para tarefas domésticas sem complicação, vale a pena conhecer também nosso [guia das melhores parafusadeiras]({{ '/qual-a-melhor-parafusadeira/' | relative_url }}) para comparar outras opções.
 
