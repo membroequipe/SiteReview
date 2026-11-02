@@ -1,113 +1,34 @@
-<!-- Rodapé compartilhado do site -->
+<!-- Rodapé compacto — Sua Melhor Ferramenta -->
 <footer class="site-footer" aria-labelledby="footer-brand-title">
   <div class="site-footer-container">
-
-    <!-- Marca e apresentação -->
     <div class="footer-col-about">
-      <a
-        class="footer-brand-link"
-        href="{{ '/' | relative_url }}"
-        aria-label="Sua Melhor Ferramenta — página inicial"
-      >
+      <a class="footer-brand-link" href="{{ '/' | relative_url }}" aria-label="Sua Melhor Ferramenta — página inicial">
         <span class="footer-brand-mark" aria-hidden="true">SMF</span>
-        <h2 class="footer-title" id="footer-brand-title">
-          Sua Melhor Ferramenta
-        </h2>
-      </a>
-
-      <p class="footer-text">
-        Reviews, comparativos e guias de compra para ajudar
-        você a escolher parafusadeiras e furadeiras de acordo
-        com suas necessidades.
-      </p>
-
-      <a
-        class="footer-methodology-link"
-        href="{{ '/como-pesquisamos/' | relative_url }}"
-      >
-        Conheça nossos critérios
-        <span aria-hidden="true">→</span>
+        <h2 class="footer-title" id="footer-brand-title">Sua Melhor Ferramenta</h2>
       </a>
     </div>
 
-    <!-- Informações institucionais -->
-    <nav
-      class="footer-col-links"
-      aria-labelledby="footer-institutional-title"
-    >
-      <h3 class="footer-subtitle" id="footer-institutional-title">
-        Sobre o site
-      </h3>
-
-      <ul class="footer-nav">
-        <li>
-          <a href="{{ '/sobre/' | relative_url }}">
-            Sobre nós
-          </a>
-        </li>
-
-        <li>
-          <a href="{{ '/como-pesquisamos/' | relative_url }}">
-            Como pesquisamos
-          </a>
-        </li>
-
-        <li>
-          <a href="{{ '/contato/' | relative_url }}">
-            Contato
-          </a>
-        </li>
-      </ul>
-    </nav>
-
-    <!-- Informações legais -->
-    <nav
-      class="footer-col-links"
-      aria-labelledby="footer-legal-title"
-    >
-      <h3 class="footer-subtitle" id="footer-legal-title">
-        Transparência
-      </h3>
-
-      <ul class="footer-nav">
-        <li>
-          <a href="{{ '/aviso-de-afiliados/' | relative_url }}">
-            Aviso de afiliados
-          </a>
-        </li>
-
-        <li>
-          <a href="{{ '/politica-de-privacidade/' | relative_url }}">
-            Política de privacidade
-          </a>
-        </li>
-
-        <li>
-          <a href="{{ '/termos-de-uso/' | relative_url }}">
-            Termos de uso
-          </a>
-        </li>
-      </ul>
-    </nav>
-
+    <div class="footer-links-row">
+      <nav class="footer-col-links" aria-label="Sobre o site">
+        <ul class="footer-nav">
+          <li><a href="{{ '/sobre/' | relative_url }}">Sobre nós</a></li>
+          <li><a href="{{ '/como-pesquisamos/' | relative_url }}">Como pesquisamos</a></li>
+          <li><a href="{{ '/contato/' | relative_url }}">Contato</a></li>
+        </ul>
+      </nav>
+      <nav class="footer-col-links" aria-label="Transparência e informações legais">
+        <ul class="footer-nav">
+          <li><a href="{{ '/aviso-de-afiliados/' | relative_url }}">Aviso de afiliados</a></li>
+          <li><a href="{{ '/politica-de-privacidade/' | relative_url }}">Política de privacidade</a></li>
+          <li><a href="{{ '/termos-de-uso/' | relative_url }}">Termos de uso</a></li>
+        </ul>
+      </nav>
+    </div>
   </div>
-
-  <!-- Divulgação de afiliados e copyright -->
   <div class="footer-bottom">
     <div class="footer-bottom-container">
-
-      <p class="footer-disclosure">
-        <strong>Transparência:</strong>
-        quando você compra por meio de links em nosso site,
-        podemos receber uma comissão de afiliado, sem custo
-        adicional para você.
-      </p>
-
-      <p class="footer-copyright">
-        &copy; {{ 'now' | date: "%Y" }} Sua Melhor Ferramenta.
-        Todos os direitos reservados.
-      </p>
-
+      <p class="footer-disclosure"><strong>Transparência:</strong> quando você compra por meio de links em nosso site, podemos receber uma comissão de afiliado, sem custo adicional para você.</p>
+      <p class="footer-copyright">&copy; {{ 'now' | date: "%Y" }} Sua Melhor Ferramenta. Todos os direitos reservados.</p>
     </div>
   </div>
 </footer>
