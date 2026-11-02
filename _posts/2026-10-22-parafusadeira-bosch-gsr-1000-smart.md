@@ -3,7 +3,7 @@ layout: post
 title: "Review Parafusadeira Bosch GSR 1000 Smart: Vale a Pena em 2026? Análise Completa!"
 description: "Análise técnica da Parafusadeira Bosch GSR 1000 Smart: torque, autonomia, conectividade e veredito real de compradores. Confira antes de comprar."
 slug: "review-bosch-gsr-1000-smart"
-categories: [furadeiras, reviews]
+categories: [furadeiras, parafusadeiras, reviews]
 produto_id: bosch_gsr_1000_smart
 image: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.webp"
 image_alt: "Parafusadeira Bosch GSR 1000 Smart em destaque"
