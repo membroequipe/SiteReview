@@ -13,23 +13,23 @@ author: "Equipe de Análises"
 avaliacao:
   nota: 8.5
   resumo: >-
-    O Black+Decker BCD704C1 destaca-se por oferecer torque de 42 Nm, mandril todo em metal e função impacto em um kit completo com maleta rígida, consolidando-se como porta de entrada qualificada para o ecossistema 20V MAX. Sua nota geral consolidada é 8.5 de 10.
+    A Black+Decker BCD704C1-BR é uma furadeira/parafusadeira de impacto 20V MAX voltada a montagens, reparos e perfurações ocasionais em alvenaria. Possui duas velocidades mecânicas, mandril sem chave de 10 mm e até 21.000 impactos por minuto. A nota 8,5/10 é uma avaliação editorial, não uma média comprovada de consumidores.
   vantagens:
-    - "Mandril de 10 mm todo em metal, raro na categoria de entrada"
-    - "Torque de 42 Nm e 11 posições de embreagem para parafusamento preciso"
-    - "Ergonomia equilibrada com 1,4 kg e gatilho progressivo macio"
-    - "Plataforma 20V MAX com baterias intercambiáveis para toda a linha"
-    - "Kit completo com maleta rígida e carregador bivolt"
+    - "Função impacto para furos ocasionais em alvenaria"
+    - "Duas velocidades mecânicas e controle de torque para parafusamento"
+    - "Mandril sem chave de 10 mm e iluminação LED"
+    - "Bateria removível do sistema BLACK+DECKER 20V MAX PowerConnect, conforme compatibilidade"
+    - "Versão BCD704C1-BR inclui bateria, carregador bivolt e bit de ponta dupla"
   desvantagens:
-    - "Bateria de 1.5 Ah limita a autonomia em uso contínuo"
-    - "Ausência de freio eletrónico obriga a esperar o mandril parar"
-    - "Ruído e vibração no modo impacto após uso prolongado"
-    - "Carregador sem indicador de porcentagem de carga"
+    - "Bateria de 1,5 Ah pode exigir recarga em trabalhos prolongados"
+    - "Mandril de 10 mm não aceita hastes maiores que sua capacidade"
+    - "Impacto mecânico não substitui martelete SDS em concreto resistente"
+    - "Versão BCD704C1-BR não inclui maleta na relação oficial de itens"
 ---
 
 {% include review-toc.html %}
 
-A Black+Decker BCD704C1 chega ao mercado como uma proposta consolidada dentro do ecossistema 20V MAX da marca, posicionando-se como uma furadeira e parafusadeira de entrada robusta para o usuário doméstico exigente e para o profissional que busca uma ferramenta leve para aplicações leves e médias. Este modelo entrega a versatilidade de dois modos de operação — perfuração e parafusamento — com a adição da função impacto, o que amplia consideravelmente seu leque de aplicações em alvenaria leve. O veredito rápido aponta para um equipamento equilibrado: torque suficiente para a grande maioria das tarefas residenciais, ergonomia bem resolvida e a confiabilidade da plataforma de baterias intercambiáveis.
+A Black+Decker BCD704C1-BR é uma furadeira/parafusadeira de impacto sem fio da linha 20V MAX PowerConnect. Sua proposta é atender montagem de móveis, reparos domésticos e perfurações ocasionais em madeira, metal e alvenaria. A fabricante confirma duas velocidades mecânicas, LED e até 21.000 impactos por minuto. Nesta análise, diferenciamos características oficiais, informações de anúncios e recomendações editoriais, sem atribuir à ferramenta testes práticos que não realizamos.
 
 {% include resumo-avaliacao.html %}
 
@@ -41,37 +41,34 @@ A Black+Decker BCD704C1 chega ao mercado como uma proposta consolidada dentro do
 
 ## Construção e Ergonomia
 
-A Black+Decker BCD704C1 nasce para ocupar um espaço estratégico: o de "primeira ferramenta séria" para quem quer sair do universo das furadeiras/parafusadeiras de 3,6V ou 12V sem precisar investir em plataformas profissionais de alto custo. A construção reflete esse posicionamento. O corpo em polímero de alta resistência possui textura antiderrapante nas áreas de pegada, transmitindo solidez sem excesso de peso. O mandril de 10 mm todo em metal é um diferencial relevante nesta faixa — a maioria dos concorrentes diretos ainda utiliza mandril com corpo plástico e apenas as garras metálicas —, garantindo melhor retenção da broca sob vibração e maior durabilidade contra quedas.
+A BCD704C1-BR tem empunhadura emborrachada, iluminação LED e mandril sem chave de 3/8" (10 mm), segundo a página oficial da BLACK+DECKER. Isso facilita a troca de brocas e pontas compatíveis sem utilizar chave de mandril. Não encontramos confirmação oficial de que o mandril seja inteiramente metálico, nem de classificação específica de resistência a quedas.
 
-A ergonomia foi pensada para sessões prolongadas. O centro de gravidade desloca-se ligeiramente para trás quando a bateria de 1.5 Ah está acoplada, o que reduz a fadiga no punho durante perfurações verticais. O gatilho de velocidade variável possui curso progressivo macio, permitindo controle fino no início do furo — essencial para evitar que a broca "patine" em superfícies lisas como azulejo ou metal. O seletor de velocidade mecânica (baixa/alta) fica no topo do corpo, acessível pelo polegar sem soltar a empunhadura. Já o anel de seleção de torque e modo (perfuração/impacto) gira com cliques firmes e marcações legíveis mesmo em ambientes com pouca luz.
+O seletor de duas velocidades mecânicas permite adaptar a ferramenta ao parafusamento e à perfuração. A ergonomia depende também do peso e da capacidade da bateria instalada; por isso, o valor de 1,4 kg com bateria mencionado em anúncios não deve ser tratado como medição própria ou universal. A iluminação LED auxilia em locais com pouca luz, mas não foi possível confirmar oficialmente o tempo de permanência acesa após soltar o gatilho.
 
-O LED na base projeta um feixe amplo e sem sombras duras, iluminando a área de trabalho sem ofuscar. Um detalhe prático: a luz permanece acesa por alguns segundos após soltar o gatilho, facilitando a reposição da broca em furos sequenciais. O clipe de cinto, reversível para canhotos, suporta o peso do conjunto sem frouxidão. No geral, a sensação ao segurar a BCD704C1 é de uma ferramenta "acima da categoria", com folgas internas mínimas e acabamento que inspira confiança para uso semanal intensivo. Se você está montando sua primeira caixa de ferramentas, vale conferir nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) para comparar outras opções.
+Para comparar formatos e capacidades, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}). O conteúdo do kit merece atenção: a versão BCD704C1-BR inclui ferramenta, bateria, carregador bivolt e bit de ponta dupla, sem maleta indicada na lista oficial.
 
 ## Desempenho e Aplicações
 
-No eixo do desempenho, a BCD704C1 revela sua personalidade dual. Na primeira velocidade (0–450 RPM), o torque de 42 Nm coloca-a no topo da categoria de entrada 20V. Parafusamentos em madeira dura (ipê, peroba) com brocas chata de 25 mm avançam sem engasgar, desde que se utilize brocas afiadas e se respeite a geometria de corte. O modo impacto entra em ação na alvenaria: furos em tijolo baiano, bloco de concreto celular e argamassa até 10 mm são executados com rapidez aceitável. Em concreto estrutural armado, a ferramenta cumpre o papel de "quebra-galho" para furos esporádicos de 6–8 mm para buchas plásticas, mas o motor escovado aquece rápido e a bateria de 1.5 Ah drena em poucos furos, aqui a limitação é física, não de projeto. Você pode [verificar a disponibilidade e o preço atualizado da Black+Decker BCD704C1 na Amazon](SEU_LINK_AMAZON) para comparar com o custo de baterias adicionais.
+A fabricante indica a BCD704C1-BR para parafusamento e perfuração em madeira, metal e alvenaria. A ficha oficial informa capacidade de até 20 mm em madeira, 10 mm em metal e 10 mm em alvenaria, com até 21.000 impactos por minuto. Revendedores anunciam 45 Nm de torque e velocidades de 0–360 e 0–1.400 rpm, mas esses números não constam na página oficial brasileira consultada; portanto, devem ser tratados como dados de varejo sujeitos à conferência do manual e da variante adquirida.
 
-A segunda velocidade (0–1.500 RPM) brilha na perfuração em madeira, MDF, chapa de aço fino (até 2 mm) e plásticos. O mandril metálico mantém a concentricidade mesmo sob carga lateral moderada, evitando o alargamento do furo. As 11 posições de torque mais o modo perfuração cobrem desde parafusos de drywall (posição 2–3) até parafusos estruturais 5×50 mm em madeira (posição 8–10). O click de desarme é audível e positivo, impedindo cabeça espanada ou madeira fendida.
+Para montar móveis e instalar acessórios, o gatilho de velocidade variável e o ajuste de torque ajudam a controlar o aperto. Em madeira dura ou parafusos maiores, faça pré-furo quando necessário para reduzir o risco de rachaduras e sobrecarga. Em alvenaria, utilize broca apropriada e modo impacto quando indicado. Evite tratar a ferramenta como substituta de um martelete rotativo para perfuração frequente em concreto estrutural; antes de furar vigas, pilares ou lajes, verifique instalações e implicações estruturais.
 
-A autonomia da bateria 1.5 Ah LB1R5 dita o ritmo de trabalho. Em parafusamento leve (montagem de móveis, fixação de ganchos), uma carga rende 2 a 3 horas de uso intermitente. Em perfuração contínua em madeira com broca serra-copo de 68 mm, a queda de tensão aparece após 12–15 furos. O carregador bivolt LC1120 repõe 80% em 40 minutos e 100% em pouco mais de uma hora — tempo compatível com a capacidade da célula. Usuários que planejam jornadas longas devem considerar a aquisição de uma bateria 2.0 Ah ou 4.0 Ah à parte, aproveitando a intercambialidade total da linha 20V MAX.
-
-O motor escovado, embora menos eficiente que os brushless da concorrência premium, mostra curva de torque linear e previsível. Não há "solavancos" eletrónicos nem proteção térmica que corte a ferramenta abruptamente; o aquecimento gradual avisa o operador para pausar. A ventilação lateral e traseira expulsa calor de forma eficaz, e a carcaça permanece morna mesmo após 15 minutos contínuos em modo impacto.
+A versão comercial é anunciada com bateria de íons de lítio de 1,5 Ah. A duração por carga varia muito com o material, diâmetro da broca, pressão aplicada e ciclos de trabalho. Não há base verificável para afirmar duas a três horas por carga, número fixo de furos com serra-copo ou carregamento de 80% em 40 minutos. Confira o carregador efetivamente fornecido e a compatibilidade de baterias adicionais com o sistema PowerConnect da marca.
 
 ## Opinião dos Compradores
 
 ### Elogios Mais Frequentes
-- **Mandril metálico de 10 mm**: A unanimidade entre avaliadores experientes destaca a qualidade do mandril todo em metal como o maior diferencial frente a concorrentes de mesmo patamar. Relatos confirmam retenção firme de brocas de 10 mm em modo impacto sem escorregamento, mesmo após dezenas de usos.
-- **Leveza e equilíbrio**: Comentários recorrentes elogiam o peso contido (1,4 kg com bateria) e o balanço neutro, permitindo uso acima da cabeça — como instalação de luminárias ou perfuração de tetos — por 10–15 minutos sem fadiga excessiva no antebraço.
-- **Compatibilidade 20V MAX**: A possibilidade de compartilhar baterias com furadeiras de impacto, serras tico-tico, lixadeiras e sopradores da mesma linha é citada como fator decisivo de compra por quem já possui ou planeja expandir o kit.
-- **Gatilho progressivo preciso**: Usuários que migram de modelos 12V ou de entrada relatam surpresa positiva com a modulação fina de velocidade, essencial para iniciar furos em azulejo ou centrar brocas em metal sem centro.
-- **Custo-benefício percebido**: A maioria das avaliações 4 e 5 estrelas enquadra o kit (ferramenta + bateria + carregador + maleta) como "entrada honesta na plataforma 20V", superior a combos de marcas genéricas que exigem bateria proprietária.
+- **Versatilidade doméstica:** A combinação de parafusamento, perfuração e impacto atende diferentes serviços leves, conforme as aplicações indicadas pelo fabricante.
+- **Bateria removível:** O sistema PowerConnect permite considerar outras baterias compatíveis da mesma plataforma, observando os códigos de cada produto.
+- **Conveniência:** Mandril sem chave, LED e carregador bivolt são recursos úteis para manutenção residencial.
 
 ### Reclamações Mais Frequentes
-- **Bateria de 1.5 Ah limita autonomia real**: A queixa técnica mais consistente: a célula inclusa no kit padrão é considerada "de demonstração". Em obra ou reforma contínua, dois furos em concreto com broca de 8 mm já exigem recarga. Muitos compradores recomendam comprar o kit "tool only" (somente ferramenta) e adquirir bateria 4.0 Ah à parte.
-- **Ausência de freio eletrónico**: Ao soltar o gatilho, o mandril gira por inércia por 1,5 a 2 segundos. Em parafusamentos repetitivos, isso obriga o operador a esperar ou segurar o eixo manualmente, reduzindo cadência. Concorrentes brushless na mesma faixa já incluem freio ativo.
-- **Ruído e vibração no modo impacto**: Embora esperado em ferramentas a escovas com impacto mecânico, o nível de vibração transmitida à empunhadura após 5 minutos contínuos em alvenaria gera desconforto relatado por usuários sensíveis. Luvas antivibração mitigam, mas não eliminam.
-- **Carregador sem indicador de porcentagem**: O LED do carregador apenas pisca (carregando) ou fixo (carregado). Profissionais acostumados com carregadores que mostram 25/50/75/100% sentem falta da informação para gestão de frota de baterias.
-- **Manual em português genérico**: Vários compradores apontam que o manual impresso cobre toda a linha 20V MAX sem especificidades do BCD704C1 (ex.: curva de torque por posição), obrigando busca no site ou no YouTube para detalhes.
+- **Autonomia em tarefas exigentes:** Uma bateria de 1,5 Ah pode ser limitada em perfuração contínua; não há quantidade de furos garantida por carga.
+- **Capacidade do mandril:** Hastes superiores a 10 mm não são aceitas diretamente.
+- **Acessórios da embalagem:** A versão BCD704C1-BR não lista maleta rígida entre os itens fornecidos; confira o código exato antes de comprar.
+- **Limites do impacto:** Perfurações frequentes em concreto resistente exigem ferramenta mais adequada.
+
+*Nota editorial: não foi realizada uma amostragem documentada de avaliações de Amazon, Mercado Livre ou Shopee. Os itens acima descrevem vantagens e limitações verificáveis, não um ranking estatístico de reclamações ou elogios de compradores.*
 
 ## Comparativo com Concorrentes
 
@@ -82,38 +79,45 @@ O motor escovado, embora menos eficiente que os brushless da concorrência premi
     </tr>
   </thead>
   <tbody>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Black+Decker BCD704C1</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">42 Nm / Motor escovado / 1,4 kg</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Mandril metálico 10 mm, função impacto e maleta rígida</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Bosch GSB 18V-21</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">55 Nm / Motor brushless / freio eletrónico</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Maior autonomia e cadência, mas mandril plástico com garras metálicas</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD701D2</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">45 Nm / Motor brushless / 1,55 kg</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Mandril 13 mm e ergonomia premium, por preço superior</td></tr>
+    <tr><td style="padding: 10px;"><strong>Black+Decker BCD704C1-BR</strong></td><td style="padding: 10px;">20V MAX / impacto / mandril 10 mm</td><td style="padding: 10px;">Até 21.000 impactos/min; capacidades oficiais de 20 mm em madeira e 10 mm em metal e alvenaria</td></tr>
+    <tr><td style="padding: 10px;"><strong>Bosch GSB 18V-21</strong></td><td style="padding: 10px;">18 V / motor com escovas / torque duro 55 Nm</td><td style="padding: 10px;">Mandril sem chave de 13 mm; duas velocidades e função impacto</td></tr>
+    <tr><td style="padding: 10px;"><strong>DeWalt DCD701D2</strong></td><td style="padding: 10px;">12 V XR / brushless / sem impacto</td><td style="padding: 10px;">Mandril 10 mm; kit com duas baterias 2,0 Ah na versão oficial consultada</td></tr>
   </tbody>
 </table>
 
-**Black+Decker BCD704C1 vs. Bosch GSB 18V-21 (Professional 12V/18V)**
-A Bosch GSB 18V-21 (corpo verde) é o rival natural mais citado. Ela traz motor brushless, freio eletrónico, 21 configurações de torque e 55 Nm de torque máximo — números superiores no papel. Na prática, a Bosch vence em autonomia por Wh de bateria, cadência de parafusamento (graças ao freio) e durabilidade do motor em uso diário pesado. Contudo, a BCD704C1 contra-ataca com mandril metálico de 10 mm (a Bosch usa mandril plástico com garras metálicas neste modelo), plataforma 20V MAX com ferramentas de jardinagem e limpeza mais acessíveis, e kit completo com maleta rígida incluída. Para o usuário doméstico avançado ou pequeno prestador de serviços que alterna madeira, metal e alvenaria leve, a Black+Decker entrega 85% da performance por fração do investimento. A Bosch justifica seu prêmio para quem vive de furadeira 8 horas por dia.
+**Black+Decker BCD704C1 vs. Bosch GSB 18V-21 (Professional 18V)**
+A Bosch GSB 18V-21 pertence à linha Professional azul, não à linha verde doméstica. Segundo a Bosch, utiliza motor com escovas de carvão substituíveis, torque duro de 55 Nm, mandril de 13 mm e função impacto. É uma alternativa para quem pretende investir no sistema profissional 18 V, mas preços e acessórios variam por kit. A BCD704C1-BR atende ao perfil doméstico e pode ser suficiente quando a prioridade é executar serviços ocasionais sem investir em uma plataforma profissional.
 
-**Black+Decker BCD704C1 vs. DeWalt DCD701D2 (20V MAX XR Compact)**
-A DeWalt DCD701D2 é a "irmã premium" dentro do mesmo grupo Stanley Black & Decker. Compartilha a plataforma 20V MAX, mas adota motor brushless, 15 posições de torque, 45 Nm, freio eletrónico, mandril 13 mm (1/2") e bateria 2.0 Ah no kit. É objetivamente superior em tudo — menos no preço e no peso (1,55 kg com bateria). O mandril de 13 mm aceita brocas de haste maior, vantagem em perfuração de madeira grossa e metal. A ergonomia DeWalt é referência, com empunhadura mais anatômica e gatilho de curso mais curto. Ainda assim, a BCD704C1 mantém relevância: seu mandril de 10 mm cobre 95% das brocas de uso geral, a bateria 1.5 Ah carrega mais rápido, e a maleta incluída é mais robusta que a bolsa de tecido da DeWalt. Quem já tem baterias DeWalt 20V MAX não hesita na DCD701; quem entra na plataforma agora e busca o melhor equilíbrio custo-capacidade encontra na BCD704C1 porta de entrada mais racional. Para ver outras opções lado a lado, confira nossa categoria de [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}).
+**Black+Decker BCD704C1 vs. DeWalt DCD701D2 (12V XR)**
+A DeWalt DCD701D2 é uma furadeira/parafusadeira compacta 12 V XR brushless, sem função impacto, com mandril de 10 mm. Não pertence à plataforma DeWalt 20V MAX e suas baterias não são intercambiáveis com as da BLACK+DECKER. Ela pode interessar a quem prioriza tamanho compacto e parafusamento, enquanto a BCD704C1-BR oferece impacto para alvenaria leve. Para outras opções, confira nossos [reviews de furadeiras]({{ '/reviews/' | relative_url }}).
 
 ## Perguntas Frequentes
 
 ### A Black+Decker BCD704C1 fura concreto armado?
-Fura, mas com ressalvas. A função impacto mecânico permite avançar em concreto com brocas de videa de 6 a 8 mm para fixação de buchas plásticas. Em vergalhões ou concreto de alta resistência (35+ MPa), o motor escovado e a bateria 1.5 Ah limitam a produtividade a 2–3 furos por carga. Para uso recorrente em concreto estrutural, uma martelete SDS-Plus ou furadeira de impacto a cabo é indicada.
+A fabricante indica perfuração em alvenaria de até 10 mm, mas isso não comprova capacidade de perfuração segura e eficiente em concreto armado estrutural. Para concreto resistente ou uso frequente, considere um martelete adequado. Nunca perfure elementos estruturais sem verificar riscos e orientações técnicas.
 
-### A bateria de 1.5 Ah do kit é compatível com outras ferramentas 20V MAX da marca?
-Sim. A bateria LB1R5 (20V MAX 1.5 Ah) é totalmente intercambiável com toda a linha 20V MAX: furadeiras de impacto, serras circulares compactas, tico-tico, lixadeiras orbitais, sopradores, podadores e até lâmpadas de trabalho. O mesmo vale para o carregador LC1120 bivolt.
+### A bateria de 1,5 Ah do kit é compatível com outras ferramentas 20V MAX da marca?
+A BCD704C1-BR integra a plataforma BLACK+DECKER PowerConnect 20V MAX. A compatibilidade deve ser confirmada pelo código da bateria e da ferramenta; não presuma compatibilidade com produtos DeWalt de tensão nominal semelhante.
 
-### Qual a diferença prática entre o mandril de 10 mm desta e o de 13 mm de modelos superiores?
-O mandril de 10 mm (3/8") aceita brocas com haste até 10 mm. Cobrirá 100% das brocas de madeira, metal e alvenaria de uso geral, além de bits de parafusamento. O mandril de 13 mm (1/2") permite brocas de haste maior — serras-copo acima de 50 mm, brocas chata longas, fresas de topo — e transmite torque mais alto sem risco de escorregamento. Para 90% das aplicações residenciais e de manutenção leve, 10 mm é suficiente.
+### Qual a diferença prática entre mandril de 10 mm e de 13 mm?
+O mandril de 10 mm aceita hastes de até 10 mm; o de 13 mm aceita hastes de até 13 mm. O diâmetro do furo não é necessariamente igual ao da haste da broca. Respeite também as capacidades máximas de perfuração especificadas para cada material.
 
-### Vale a pena comprar o kit "somente ferramenta" (tool only) e adquirir bateria maior à parte?
-Para a maioria dos usuários, sim. O custo incremental da bateria 4.0 Ah (LBXR40) ou 5.0 Ah (LBXR50) sobre o kit com 1.5 Ah costuma ser baixo em relação ao ganho de autonomia (3 a 4x mais tempo de uso). Além disso, evita-se o acúmulo de baterias pequenas que acabam subutilizadas. Verifique promoções de "combo 2 baterias 4.0 Ah + carregador rápido" que costumam oferecer o melhor valor por Wh.
+### Vale a pena comprar a ferramenta sem bateria e adquirir uma bateria maior?
+Depende da disponibilidade de uma versão vendida sem bateria, do preço do kit e da compatibilidade dos acessórios. Para uso ocasional, a bateria incluída pode bastar; para jornadas mais longas, uma bateria adicional compatível reduz paradas para recarga.
 
 ## Veredito Final e Recomendação de Compra
 
-A Black+Decker BCD704C1 cumpre com maestria o papel de porta de entrada qualificada para o ecossistema 20V MAX. Não tenta ser uma furadeira de obra pesada — e não se vende como tal —, mas entrega torque, controle e durabilidade que superam as expectativas de quem conhece apenas as linhas "laranja" de 12V ou 3.6V da mesma marca. O mandril metálico, a ergonomia refinada, a plataforma de baterias expansível e a inclusão de maleta rígida compõem um pacote coerente e honesto.
+A Black+Decker BCD704C1-BR é uma opção coerente para quem procura uma única ferramenta a bateria para parafusar, furar madeira e metal e executar furos ocasionais em alvenaria. A presença de duas velocidades, mandril sem chave e iluminação LED reforça sua proposta prática. Sua nota editorial de 8,5/10 expressa uma avaliação de adequação ao uso doméstico, não uma média de testes laboratoriais ou de avaliações de consumidores.
 
-Recomenda-se a compra para: proprietários que realizam manutenção residencial semanal, montadores de móveis autônomos, instaladores de sistemas de segurança/câmeras/redes que precisam furar alvenaria leve e madeira, e entusiastas de marcenaria amadora que buscam primeira ferramenta a bateria de 18/20V. Não recomendada como única furadeira para: eletricistas que passam o dia furando lajes e vigas, marceneiros de produção em série, ou equipes de drywall/steel frame — nestes casos, o investimento adicional em motor brushless, freio eletrónico e baterias de alta capacidade (DeWalt XR, Bosch Professional, Makita LXT) retorna-se em produtividade e menor fadiga em poucas semanas.
+Recomenda-se a compra para manutenção residencial, montagem de móveis e instalações leves, desde que as tarefas respeitem os limites informados pelo fabricante. Para concreto estrutural, perfuração repetitiva ou serviços profissionais intensivos, é mais adequado comparar marteletes e furadeiras profissionais. Antes de comprar, confirme o código BCD704C1-BR, os itens do kit, a garantia e a bateria fornecida.
 
-Em síntese: a BCD704C1 é a "furadeira de fim de semana que não te deixa na mão na segunda-feira". Uma escolha técnica sensata, respaldada por engenharia de grande volume e suporte de rede autorizada capilarizada.
+Em síntese: é uma ferramenta versátil para tarefas domésticas, mas não deve ser escolhida com base em promessas de autonomia, torque ou acessórios que não estejam comprovadas na versão anunciada.
+
+## Fontes consultadas
+
+- [BLACK+DECKER Brasil — BCD704C1-BR, ficha oficial](https://br.blackanddecker.global/produto/bcd704c1-br/parafusadeira-furadeira-impacto-38-10mm-20v-max-ion-de-litio-2-velocidades-bivolt)
+- [Bosch Professional — GSB 18V-21, especificações oficiais](https://www.bosch-professional.com/pt/pt/products/gsb-180-li-06019H110C)
+- [DeWalt — DCD701D2, especificações oficiais](https://www.dewalt.co.uk/en-gb/product/dcd701d2-gb/12v-xr-brushless-sub-compact-drill-driver-2-2ah-batteries)
+- [KaBuM — anúncio BCD704C1-BR (dados de varejo não confirmados na página oficial)](https://www.kabum.com.br/produto/423138/furadeira-e-parafusadeira-black-decker-20v-com-impacto-3-8-polegadas-bivolt-bcd704c1-br)
 
 {% include produto-card.html %}
