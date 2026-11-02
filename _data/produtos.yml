@@ -41,57 +41,57 @@ black_decker_bcd704c1:
     - nome: "Garantia"
       valor: "2 anos (1 ano + 1 ano mediante registro)"
 
+
 makita_dhp482:
-  nome: Makita DHP482
-  descricao: Furadeira/parafusadeira de impacto 18V com 130 Nm, brushless e XPT
-  imagem: /assets/images/posts/makita-dhp482.webp
+  nome: "Makita DHP482"
+  descricao: "Furadeira e parafusadeira de impacto 18V LXT, com motor de 4 polos, torque máximo de 64 Nm, mandril de 13 mm e até 28.500 impactos por minuto"
+  imagem: "/assets/images/posts/makita-dhp482.webp"
+
   links:
     amazon: ""
     mercadolivre: ""
     shopee: ""
+
   especificacoes:
-  - nome: Categoria
-    valor: Reviews
-  - nome: Modelo
-    valor: Makita DHP482 (corpo) / Kit DHP482RTJ / DHP482Z
-  - nome: Categoria do Produto
-    valor: Furadeira e Parafusadeira de Impacto a Bateria 18V LXT
-  - nome: Motor
-    valor: BL (Brushless / Sem Escovas)
-  - nome: Voltagem / Alimentação
-    valor: 18V (Linha LXT)
-  - nome: Mandril
-    valor: Aperto rápido 13 mm (1/2") - todo em metal
-  - nome: Torque / Potência
-    valor: 130 Nm (máximo) / 65 Nm (contínuo)
-  - nome: Configurações de Torque
-    valor: 21 estágios + modo furação + modo impacto
-  - nome: Rotação / RPM
-    valor: 0 – 550 rpm (V1) / 0 – 2.100 rpm (V2)
-  - nome: Impactos por Minuto (IPM)
-    valor: 0 – 7.700 ipm (V1) / 0 – 29.400 ipm (V2)
-  - nome: Capacidade de Perfuração
-    valor: 'Aço: 13 mm / Madeira: 76 mm / Alvenaria: 16 mm'
-  - nome: Tecnologia XPT
-    valor: Sim (Proteção extrema contra poeira e respingos)
-  - nome: Iluminação
-    valor: LED duplo com função afterglow (remanescente)
-  - nome: Freio Eletrônico
-    valor: Sim
-  - nome: Reversível
-    valor: Sim
-  - nome: Gatilho
-    valor: Velocidade variável eletrônica
-  - nome: Empunhadura
-    valor: Soft grip ergonômico
-  - nome: Compatibilidade Baterias
-    valor: Todas 18V LXT (BL1830B, BL1850B, BL1860B, etc.)
-  - nome: Peso Líquido
-    valor: ~1,7 kg (sem bateria) / ~2,3 kg (com BL1850B)
-  - nome: Dimensões (C x L x A)
-    valor: 182 x 79 x 245 mm
-  - nome: Destaque Principal
-    valor: Motor brushless de 130 Nm com proteção XPT nativa
+    - nome: "Modelo"
+      valor: "Makita DHP482"
+    - nome: "Categoria"
+      valor: "Furadeira e parafusadeira de impacto a bateria"
+    - nome: "Voltagem / Alimentação"
+      valor: "18V, bateria de íons de lítio removível, plataforma Makita LXT"
+    - nome: "Motor"
+      valor: "Motor de 4 polos com escovas de carvão; não é brushless"
+    - nome: "Torque Máximo"
+      valor: "64 Nm"
+    - nome: "Torque (Junta Rígida / Flexível)"
+      valor: "62 Nm / 36 Nm"
+    - nome: "Configurações de Torque"
+      valor: "21 posições de ajuste de torque, com modos de perfuração e impacto"
+    - nome: "Rotação (RPM)"
+      valor: "0–600 rpm (1ª velocidade) / 0–1.900 rpm (2ª velocidade)"
+    - nome: "Taxa de Impacto (IPM)"
+      valor: "0–9.000 ipm (1ª velocidade) / 0–28.500 ipm (2ª velocidade)"
+    - nome: "Mandril"
+      valor: "Aperto rápido de 13 mm (1/2 polegada)"
+    - nome: "Capacidade de Perfuração"
+      valor: "Madeira: 38 mm | Metal: 13 mm | Concreto: 13 mm"
+    - nome: "Função Impacto"
+      valor: "Sim, impacto mecânico para perfuração em alvenaria"
+    - nome: "Peso Líquido"
+      valor: "Aproximadamente 1,16 kg sem bateria; peso operacional varia conforme a bateria utilizada"
+    - nome: "Comprimento"
+      valor: "198 mm"
+    - nome: "Bateria"
+      valor: "Compatível com baterias Makita LXT 18V adequadas ao modelo; capacidade e quantidade dependem do kit"
+    - nome: "Carregador"
+      valor: "Modelo e tempo de recarga dependem do kit comercializado"
+    - nome: "Proteção"
+      valor: "Tecnologia XPT, projetada para oferecer maior resistência à poeira e aos respingos de água; não significa impermeabilidade"
+    - nome: "Iluminação"
+      valor: "LED duplo integrado para iluminação da área de trabalho"
+    - nome: "Destaque Principal"
+      valor: "Torque máximo de 64 Nm, duas velocidades, função impacto e compatibilidade com a plataforma Makita LXT 18V"
+
 
 stanley_sbd716d2t:
   nome: "Stanley SBD716D2T"
@@ -567,9 +567,10 @@ makita_hp333_12v_impacto:
     - nome: "Garantia Oficial"
       valor: "3 anos (1 ano + 2 anos mediante registro)"
 
+
 makita_dhp490:
   nome: "Makita DHP490"
-  descricao: "Furadeira de impacto 18V brushless com 130 Nm e mandril Rohm de 13 mm"
+  descricao: "Furadeira e parafusadeira de impacto 18V LXT com motor brushless, torque máximo de 65 Nm, mandril de 13 mm e até 28.500 impactos por minuto"
   imagem: "/assets/images/posts/makita-dhp490.png"
 
   links:
@@ -578,30 +579,51 @@ makita_dhp490:
     shopee: ""
 
   especificacoes:
+    - nome: "Modelo"
+      valor: "Makita DHP490"
+    - nome: "Categoria"
+      valor: "Furadeira e parafusadeira de impacto a bateria"
     - nome: "Plataforma"
-      valor: "Makita 18V LXT (íon-lítio)"
+      valor: "Makita LXT 18V, bateria de íons de lítio removível"
     - nome: "Motor"
-      valor: "BL Brushless (sem escovas)"
+      valor: "BL Brushless (sem escovas de carvão)"
     - nome: "Torque Máximo"
-      valor: "130 Nm (duro) / 65 Nm (macio)"
+      valor: "65 Nm"
+    - nome: "Torque (Junta Rígida / Flexível)"
+      valor: "50 Nm / 27 Nm"
+    - nome: "Configurações de Torque"
+      valor: "20 níveis de ajuste de torque, com modos de perfuração e impacto"
     - nome: "Mandril"
-      valor: "13 mm (1/2\"), autoaperto, metal (Rohm), com travamento de eixo"
+      valor: "Aperto rápido de 1,5 a 13 mm (1/2 polegada)"
     - nome: "Velocidades Mecânicas"
-      valor: "2 (0–550 RPM / 0–2.100 RPM)"
+      valor: "2 velocidades: 0–500 rpm (baixa) / 0–1.900 rpm (alta)"
     - nome: "Impactos por Minuto (IPM)"
-      valor: "0–9.350 (1ª) / 0–31.500 (2ª)"
+      valor: "0–7.500 ipm (baixa) / 0–28.500 ipm (alta)"
     - nome: "Capacidade de Perfuração"
       valor: "Aço: 13 mm | Madeira: 38 mm | Alvenaria: 13 mm"
+    - nome: "Função Impacto"
+      valor: "Sim, impacto mecânico para perfuração em alvenaria"
+    - nome: "Comprimento"
+      valor: "172 mm"
     - nome: "Peso"
-      valor: "1,7 kg (com bateria 3,0 Ah) / 1,9 kg (com bateria 5,0 Ah)"
+      valor: "Varia conforme a bateria instalada; consultar o peso da configuração comercializada"
     - nome: "Proteção"
-      valor: "XPT (eXtreme Protection Technology)"
+      valor: "Tecnologia XPT, projetada para maior resistência à poeira e respingos de água"
+    - nome: "Iluminação"
+      valor: "LED integrado para iluminação da área de trabalho"
+    - nome: "Freio"
+      valor: "Freio elétrico para parada rápida da rotação após soltar o gatilho"
+    - nome: "Bateria"
+      valor: "Compatível com baterias Makita LXT 18V adequadas ao modelo; capacidade e quantidade dependem do kit"
     - nome: "Garantia"
-      valor: "3 anos (1 ano legal + 2 anos estendidos mediante registro)"
+      valor: "Conforme as condições oficiais da Makita Brasil e a documentação do produto"
+    - nome: "Destaque Principal"
+      valor: "Motor brushless, torque máximo de 65 Nm, duas velocidades, função impacto e plataforma Makita LXT 18V"
+
 
 bosch_gsb_12v_30_brushless:
-  nome: "Bosch GSB 12V-30 (12V Brushless)"
-  descricao: "Parafusadeira brushless 12V com 30 Nm, 2.100 RPM e bateria 5,0 Ah"
+  nome: "Bosch GSB 12V-30 Brushless"
+  descricao: "Furadeira e parafusadeira de impacto 12V com motor brushless, torque máximo de 30 Nm, duas velocidades e até 24.000 impactos por minuto"
   imagem: "/assets/images/posts/bosch-gsb-12v-30-brushless.png"
 
   links:
@@ -611,22 +633,37 @@ bosch_gsb_12v_30_brushless:
 
   especificacoes:
     - nome: "Categoria"
-      valor: "Parafusadeira / Furadeira de Impacto a Bateria"
+      valor: "Furadeira e parafusadeira de impacto a bateria, linha Bosch Professional"
     - nome: "Voltagem / Alimentação"
-      valor: "12V (Compatível com linha Li-ion 12V Bosch)"
+      valor: "12V, bateria de íons de lítio removível, compatível com o sistema Bosch Professional 12V"
+    - nome: "Motor"
+      valor: "Brushless (sem escovas de carvão)"
     - nome: "Torque (Junta Suave / Dura)"
-      valor: "18 Nm / 30 Nm (20 posições de embreagem + função furar)"
+      valor: "18 Nm / 30 Nm"
+    - nome: "Configurações de Torque"
+      valor: "20 posições de torque + modo perfuração + modo impacto"
     - nome: "Rotação (RPM)"
-      valor: "0 – 420 RPM (1ª vel) / 0 – 1.600 RPM (2ª vel)"
+      valor: "0–420 rpm (1ª velocidade) / 0–1.600 rpm (2ª velocidade)"
     - nome: "Taxa de Impacto (IPM)"
-      valor: "Até 24.000 i.p.m. (para alvenaria e tijolos)"
+      valor: "Até 24.000 impactos por minuto"
     - nome: "Mandril"
-      valor: "3/8\" (10 mm) de aperto rápido"
+      valor: "Aperto rápido de 1,0 a 10 mm (3/8 polegadas)"
+    - nome: "Capacidade de Perfuração"
+      valor: "Madeira: 20 mm | Aço: 10 mm | Alvenaria: 8 mm"
+    - nome: "Diâmetro Máximo de Parafusamento"
+      valor: "8 mm"
     - nome: "Peso Líquido"
-      valor: "~0,82 kg (sem bateria) / ~1,0 kg (com bateria de 2.0 Ah)"
+      valor: "Aproximadamente 0,82 kg sem bateria; peso com bateria varia conforme a capacidade utilizada"
+    - nome: "Bateria"
+      valor: "Compatível com baterias Bosch Professional 12V; capacidade e quantidade dependem do kit comercializado"
+    - nome: "Carregador"
+      valor: "Modelo e tempo de carregamento dependem da configuração do kit"
+    - nome: "Função Impacto"
+      valor: "Sim, impacto mecânico para perfuração em alvenaria"
+    - nome: "Iluminação"
+      valor: "LED integrado para iluminação da área de trabalho"
     - nome: "Destaque Principal"
-      valor: "Motor sem escovas (Brushless) compacto (169 mm de comprimento) com luz LED"
-      
+      valor: "Motor brushless, torque de 30 Nm e função impacto em uma ferramenta compacta da plataforma Bosch Professional 12V"
 
 
 black_decker_ld12s:
