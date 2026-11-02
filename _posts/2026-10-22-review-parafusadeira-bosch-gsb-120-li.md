@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review Furadeira Bosch GSB 120-LI: Vale a Pena em 2026? Análise Completa!"
-description: "Análise técnica detalhada da Furadeira/Parafusadeira Bosch GSB 120-LI: specs, desempenho real, opiniões de compradores e comparativo com concorrentes."
+description: "Review da Bosch GSB 120-LI: torque de 30 Nm, impacto, bateria 12V, limites de perfuração e comparação técnica com Makita e DeWalt."
 slug: "review-bosch-gsb-120-li"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsb_120_li
@@ -13,20 +13,21 @@ author: "Equipe de Análises"
 avaliacao:
   nota: 8.7
   resumo: >-
-    A Furadeira Bosch GSB 120-LI destaca-se pela combinação rara de motor brushless, função martelete e peso contido em plataforma 12V, entregando versatilidade para perfuração em alvenaria e aparafusamento de precisão sem a fadiga de equipamentos 18V. Sua nota geral consolidada é 8.7 de 10.
+    A Bosch GSB 120-LI é uma furadeira/parafusadeira de impacto compacta de 12 V, com torque de 14/30 Nm, duas velocidades e até 22.500 impactos por minuto. É adequada a montagem, manutenção e perfurações ocasionais em alvenaria dentro dos limites especificados pela Bosch. A nota 8,7/10 é uma avaliação editorial, não uma média verificada de consumidores.
   vantagens:
-    - "Motor brushless garante maior autonomia, vida útil estendida e torque real superior a modelos brushed equivalentes"
-    - "Função martelete funcional para perfuração ocasional em concreto e alvenaria até 10 mm"
-    - "Peso inferior a 1 kg com bateria 2.0 Ah proporciona ergonomia superior em trabalhos aéreos e prolongados"
+    - "Duas velocidades mecânicas e torque de 14/30 Nm para diferentes aplicações"
+    - "Função de impacto para perfuração ocasional em alvenaria, com limite nominal de 8 mm em concreto"
+    - "Sistema de bateria removível Bosch Professional 12V e formato compacto"
   desvantagens:
-    - "Mandril de 10 mm limita a capacidade máxima de brocas em comparação a modelos 13 mm da categoria superior"
-    - "Torque máximo de 30 Nm pode ser insuficiente para parafusos de grande diâmetro em madeiras densas sem pré-furo"
+    - "Mandril de 0,8 a 10 mm limita o diâmetro da haste dos acessórios compatíveis"
+    - "Torque máximo de 30 Nm pode ser insuficiente para fixações pesadas em madeira densa"
+    - "Não substitui martelete rotativo em concreto estrutural ou trabalhos intensivos"
 ---
 
 {% include review-toc.html %}
 
 
-A **Furadeira Bosch GSB 120-LI** chega ao mercado como uma das apostas mais equilibradas da linha Professional 12V da fabricante alemã, prometendo unir a robustez esperada da marca com a leveza necessária para aplicações contínuas em marcenaria, manutenção predial e montagens industriais leves. Este review consolida dados oficiais, especificações de engenharia e um levantamento amplo de feedbacks reais de consumidores nas principais plataformas de varejo nacional para entregar uma visão honesta sobre o real valor deste equipamento em 2026.
+A **Furadeira Bosch GSB 120-LI** integra a linha Professional 12V da Bosch e combina parafusamento, perfuração sem impacto e perfuração com impacto em uma ferramenta compacta. A ficha técnica brasileira informa torque suave/duro de 14/30 Nm, duas velocidades mecânicas e até 22.500 impactos por minuto. Este review confronta as especificações oficiais com as aplicações previstas pelo fabricante; não apresenta testes próprios nem uma amostra auditável de avaliações de compradores.
 
 {% include resumo-avaliacao.html %}
 
@@ -38,35 +39,34 @@ A **Furadeira Bosch GSB 120-LI** chega ao mercado como uma das apostas mais equi
 
 ## Construção e Ergonomia
 
-A **Furadeira Bosch GSB 120-LI** posiciona-se estrategicamente no segmento "Compact Tough" da linha Professional azul, mirando o profissional que necessita de mobilidade irrestrita sem abrir mão da percussão para fixações em alvenaria. Diferente das versões "LI" anteriores equipadas com motores de escovas, esta geração adota arquitetura brushless de última geração, o que altera significativamente a dinâmica térmica e a eficiência energética do conjunto. O corpo em poliamida reforçada com fibra de vidro apresenta a qualidade de injeção padrão Bosch: encaixes precisos, sem rebarbas, e a característica carcaça bipartida que facilita eventuais manutenções de escovas — embora, neste caso, a ausência de escovas torne essa intervenção praticamente desnecessária durante toda a vida útil do motor.
+A **Bosch GSB 120-LI** foi desenvolvida para quem precisa alternar entre montagem, manutenção e furos ocasionais em alvenaria sem recorrer sempre a uma furadeira maior. Seu corpo compacto e a empunhadura com revestimento aderente favorecem o controle em móveis, armários e instalações. A Bosch informa 0,9 kg **sem bateria**; o manual apresenta uma faixa aproximada de 1,1 a 1,3 kg com bateria, dependendo do acumulador utilizado. Portanto, não é correto afirmar que pesa 0,95 kg com bateria de 2,0 Ah.
 
-O design prioriza o centro de gravidade deslocado para a região do punho, resultado direto da integração da bateria slide-style 12V na base da empunhadura. Com 0,95 kg na configuração com bateria 2.0 Ah, o equipamento situa-se entre os mais leves da categoria com função martelete, superando em leveza até mesmo alguns concorrentes exclusivamente de aparafusamento. O revestimento Softgrip envolve toda a extensão do punho e se estende à base da carcaça, garantindo aderência mesmo com luvas ou mãos oleosas — ponto crítico em canteiros de obra. O gatilho de velocidade variável possui curso curto e progressividade bem calibrada, permitindo arranques suaves em parafusos de cabeça philips sensíveis a came-out.
+A bateria de íons de lítio é removível e pertence ao sistema Bosch Professional 12V. Isso facilita alternar baterias compatíveis, mas a duração de cada carga varia com o material, a broca, o torque exigido e a intensidade de uso. O formato da ferramenta é adequado a tarefas leves e intermediárias, sem equivaler ao desempenho de equipamentos maiores em aplicações contínuas e pesadas.
 
-O mandril de aperto rápido de 10 mm, todo em metal, merece destaque pela precisão de centragem. O travamento automático do fuso (spindle lock) permite troca de acessórios com uma só mão, agilizando ciclos repetitivos de perfuração-aparafusamento. A luz de trabalho em LED de alta intensidade, posicionada na base do motor, ilumina a zona de furo sem sombras do mandril, e permanece acesa por alguns segundos após o soltura do gatilho — detalhe de engenharia que faz diferença em armários, forros e prumadas mal iluminadas. O clipe de cinto reversível, fixado por parafuso allen, pode ser reposicionado para canhotos ou removido completamente, demonstrando atenção aos diferentes fluxos de trabalho.
+O mandril de aperto rápido aceita hastes de 0,8 a 10 mm; o catálogo Bosch brasileiro o identifica como mandril de plástico, não inteiramente metálico. A ferramenta também dispõe de iluminação LED, seletor de velocidades e ajuste de torque. Recursos específicos como duração da luz após soltar o gatilho ou clipe de cinto incluído devem ser conferidos na variante comercializada, em vez de presumidos para todos os kits.
 
 ## Desempenho e Aplicações
 
-No eixo do aparafusamento, o motor brushless da **Furadeira Bosch GSB 120-LI** entrega curva de torque mais plana em relação a motores brushed, mantendo força consistente mesmo com a bateria em estágios intermediários de descarga. Os 30 Nm de torque máximo em aplicação dura (parafuso em chapa metálica com porca) colocam o equipamento no topo da subcategoria 12V com percussão, superando rivais diretos que usualmente plafonam em 25-28 Nm. A embreagem de 20 posições mais furo livre oferece granularidade fina: posições 1 a 5 atendem parafusos de drywall e chapas finas sem estragar a cabeça; posições 10 a 15 cobrem a faixa média de montagem de móveis e perfis metálicos leves; enquanto as posições finais liberam o torque total para fixações estruturais em madeira. Na prática, a precisão da embreagem evita o retrabalho de parafusos espanados, economia de tempo que, em volume, justifica o investimento na plataforma Professional.
+No parafusamento, o torque nominal é de **14 Nm em aplicação suave e 30 Nm em aplicação dura**. As duas faixas de rotação em vazio são 0–400 e 0–1.500 rpm. A Bosch informa **20+2 configurações de torque/modo**, o que permite adaptar a ferramenta a parafusos e materiais diferentes. O ajuste adequado depende do tamanho da fixação, do substrato e do acabamento desejado; não há uma faixa universal de posições para cada material.
 
-A função martelete, muitas vezes tratada como acessório em compactos 12V, revela-se surpreendentemente funcional na GSB 120-LI. O mecanismo de impacto axial atinge 19.500 IPM na segunda velocidade, energia suficiente para perfurar alvenaria de vedação, blocos de concreto leve e argamassa com brocas de viúva até 8 mm de diâmetro de forma contínua. Em concreto estrutural (fc 25-30 MPa), a perfuração torna-se lenta a partir de 6 mm, exigindo técnica de "puxar e empurrar" para limpeza de pó — limitação intrínseca à classe de potência 12V, não defeito do modelo. Para o instalador de quadros, prateleiras, conduítes e suportes de ar-condicionado, a capacidade de furar parede sem trocar de ferramenta representa ganho logístico real. A madeira, por sua vez, é o habitat natural: brocas chata de 20 mm avançam sem engasgo na primeira velocidade, enquanto brocas helicoidais de 10 mm na segunda velocidade removem cavacos com eficiência, graças à geometria do mandril que minimiza run-out.
+A função de impacto alcança até **22.500 impactos por minuto** e serve para perfuração ocasional em alvenaria com broca apropriada. Segundo o catálogo brasileiro de 2026, os diâmetros máximos nominais são **20 mm em madeira, 10 mm em aço e 8 mm em concreto**. Esses limites não significam que toda parede terá o mesmo comportamento: dureza, armaduras e condições da broca influenciam o resultado. Para concreto estrutural, perfuração frequente ou aplicações de maior exigência, é mais adequado avaliar um martelete rotativo SDS-Plus e seguir as orientações de segurança da obra.
 
-A gestão térmica do conjunto brushless + ECP (Electronic Cell Protection) mostrou-se robusta em ciclos intensos. Em simulações de uso contínuo — 50 furos sequenciais em pinus de 18 mm com broca 8 mm —, a carcaça aqueceu moderadamente na região do motor, mas sem acionamento de proteção térmica nem queda de rotação perceptível. A eletrônica monitora temperatura do motor, corrente de pico e tensão de célula individual, desligando preventivamente antes de danos permanentes. Isso se traduz em confiabilidade para o profissional que não pode paralisar a obra por superaquecimento de ferramenta. A autonomia com bateria 2.0 Ah cobre, em média, 120 a 150 parafusos de 4 x 40 mm em madeira dura ou 40 furos em alvenaria com broca 6 mm — números alinhados à proposta de "ferramenta de bolso para o dia todo" com troca de bateria no almoço.
+A Bosch destaca a proteção eletrônica das células da bateria (ECP), mas isso não autoriza afirmar que o motor seja brushless ou que testes térmicos específicos tenham sido realizados neste review. A autonomia também depende das condições de trabalho. Como referência **de ensaio divulgado pela própria Bosch**, o catálogo brasileiro informa até 500 parafusamentos em MDF com parafusos de 4,5 × 35 mm e bateria GBA 12V 2,0 Ah; esse número não deve ser extrapolado para madeira dura ou alvenaria.
 
 ## Opinião dos Compradores
 
 ### Elogios Mais Frequentes
-- **Leveza e equilíbrio excepcionais:** Usuários relatam poder trabalhar o dia inteiro em montagem de painéis elétricos e forros de gesso sem fadiga no punho ou ombro, vantagem decisiva frente a modelos 18V compactos.
-- **Função martelete funcional:** Diferente de experiências passadas com 12V brushed, a percussão da GSB 120-LI é descrita como eficaz para fixação de buchas 6 e 8 mm em parede de bloco e tijolo furado.
-- **Qualidade do mandril e precisão:** Comentários recorrentes destacam a ausência de batida radial (run-out) mesmo com brocas longas, resultando em furos cilíndricos e limpos.
-- **Autonomia real condizente:** Proprietários de baterias 2.0 Ah e 4.0 Ah confirmam rendimento compatível com a tabela técnica, sem "vício de memória" ou degradação precoce em ciclos de carga diária.
-- **Durabilidade da linha Professional:** Relatos de uso profissional contínuo por 18 a 24 meses sem intervenção técnica, exceto substituição preventiva de escovas — irrelevante neste modelo brushless.
+- **Formato compacto:** É um benefício de projeto relevante para montagem de móveis e instalações em locais com espaço limitado, embora a percepção de conforto varie entre usuários.
+- **Versatilidade:** As funções de parafusamento, furação e impacto permitem executar diferentes serviços leves com a mesma ferramenta.
+- **Bateria removível:** A compatibilidade com baterias Bosch Professional 12V facilita o uso de uma segunda bateria carregada.
+- **Controle:** As duas velocidades e os ajustes de torque ajudam a adaptar o trabalho ao material. Esses pontos são características verificáveis, não uma contagem de avaliações de compradores.
 
 ### Reclamações Mais Frequentes
-- **Limite do mandril de 10 mm:** Instaladores de estrutura metálica e serralheiros sentem falta da capacidade 13 mm para brocas de passo maior e fresas de alargar, forçando a manter uma segunda furadeira na bancada.
-- **Torque máximo aquém para parafusos estruturais grandes:** Em madeira de lei (ipê, peroba, cumaru), parafusos 6 x 80 mm ou 8 x 100 mm exigem pré-furo obrigatório e, ainda assim, a embreagem pode desarmar antes do assentamento final.
-- **Ausência de gancho para bit duplo:** Diferente de alguns concorrentes, não há armazenamento integrado de pontas, o que obriga o uso de cinto porta-bits ou bolsos.
-- **Preço do kit completo:** Considerado "investimento elevado" para quem entra na plataforma 12V Professional agora, embora o custo por ciclo de vida seja defendido por usuários veteranos.
-- **Ruído do mecanismo de impacto:** Nível de pressão sonora acima da média da categoria em modo martelete, exigindo EPI auditivo em uso prolongado — ponto citado por usuários sensíveis a ruído.
+- **Limite do mandril de 10 mm:** Hastes maiores não são aceitas diretamente; o diâmetro da haste não deve ser confundido com o diâmetro máximo do furo.
+- **Limite de torque:** Fixações grandes ou madeira densa podem exigir pré-furo ou ferramenta mais potente.
+- **Desempenho em concreto:** O impacto é útil em trabalhos ocasionais, mas não substitui um martelete rotativo em serviço pesado.
+- **Conteúdo do kit:** Existem variantes com uma ou duas baterias e versões sem bateria/carregador; é importante conferir o código da oferta.
+- **Ruído e vibração:** Perfuração com impacto exige proteção adequada conforme o ambiente e o tempo de exposição. Não foi verificada uma amostra de avaliações que permita classificar estes pontos como reclamações estatisticamente mais frequentes.
 
 ## Comparativo com Concorrentes
 
@@ -81,89 +81,57 @@ A gestão térmica do conjunto brushless + ECP (Electronic Cell Protection) most
       </tr>
     </thead>
     <tbody>
-      <tr style="background: #f8fafc;">
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Motor</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Brushless</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Brushless</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Brushless</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Torque Máximo</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">30 Nm</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">35 Nm</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">34 Nm</td>
-      </tr>
-      <tr style="background: #f8fafc;">
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>RPM (1ª / 2ª)</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">400 / 1.300</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">450 / 1.700</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">450 / 1.500</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Função Martelete</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Sim (19.500 IPM)</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Não (apenas parafusadeira/furadeira)</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Sim (25.500 IPM)</td>
-      </tr>
-      <tr style="background: #f8fafc;">
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Mandril</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">10 mm metal</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">10 mm metal</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">13 mm metal</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Peso (c/ bateria 2.0 Ah)</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">0,95 kg</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">0,98 kg</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">1,1 kg</td>
-      </tr>
-      <tr style="background: #f8fafc;">
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Posições Embreagem</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">20 + 1</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">21 + 1</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">15 + 1</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Ecossistema 12V</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Amplo (Profissional)</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Amplo (CXT / LXT 12V max)</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Em expansão (Atomic 12V)</td>
-      </tr>
-      <tr style="background: #f8fafc;">
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Posicionamento de Custo</strong></td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Intermediário-Premium</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Intermediário</td>
-        <td style="padding: 10px; border-bottom: 1px solid #e2e8f0; text-align: center;">Premium</td>
-      </tr>
+      <tr><td>Motor</td><td>Não anunciado como brushless</td><td>Não anunciado como brushless</td><td>Brushless</td></tr>
+      <tr><td>Torque duro</td><td>30 Nm</td><td>30 Nm</td><td>Não confirmado em Nm na fonte oficial consultada</td></tr>
+      <tr><td>Rotação em vazio (1ª / 2ª)</td><td>0–400 / 0–1.500 rpm</td><td>0–450 / 0–1.700 rpm</td><td>Duas velocidades; valores não confirmados nesta revisão</td></tr>
+      <tr><td>Impacto</td><td>Sim, até 22.500 ipm</td><td>Não</td><td>Sim; taxa exata não confirmada nesta revisão</td></tr>
+      <tr><td>Mandril</td><td>0,8–10 mm, plástico</td><td>0,8–10 mm, aperto rápido</td><td>10 mm (3/8"), aperto rápido</td></tr>
+      <tr><td>Peso sem bateria</td><td>0,9 kg</td><td>0,83 kg</td><td>Não confirmado nesta revisão</td></tr>
+      <tr><td>Ajustes</td><td>20+2</td><td>20 níveis de torque</td><td>15 posições de embreagem</td></tr>
+      <tr><td>Sistema de bateria</td><td>Bosch Professional 12V Li-Ion</td><td>Makita CXT 12V max</td><td>DeWalt XTREME 12V MAX</td></tr>
+      <tr><td>Conteúdo da oferta</td><td>Varia por código/kit</td><td>DF333DZ: corpo sem bateria e carregador</td><td>DCD706B: corpo sem bateria e carregador</td></tr>
     </tbody>
   </table>
 </div>
 
-A **Makita DF333DZ** apresenta torque bruto superior (35 Nm) e rotação máxima mais alta na segunda velocidade, o que favorece perfuração rápida em madeira e aço. No entanto, a ausência de função martelete a torna incompleta para o instalador que precisa furar alvenaria esporadicamente. Seu ecossistema CXT/LXT 12V max é maduro, mas a plataforma possui duas linhas paralelas de baterias (slide e stick) que podem gerar confusão na expansão do kit. A **DeWalt DCD706 (Atomic 12V)** traz mandril de 13 mm — vantagem real para quem usa brocas de maior diâmetro — e percussão com IPM mais alto (25.500), resultando em perfuração em concreto marginalmente mais rápida. Contudo, o peso 15% superior e a embreagem de apenas 15 posições reduzem a fineza no aparafusamento de precisão. O ecossistema Atomic 12V da DeWalt, embora em crescimento acelerado, ainda carece da profundidade de especialidades (serras, multiprocessadores, aspiradores) encontrada na plataforma Bosch Professional 12V. Em resumo: a GSB 120-LI ocupa o "ponto doce" para quem precisa da tríade **leveza + percussão real + embreagem precisa** em uma única ferramenta 12V.
+A **Makita DF333DZ** é uma furadeira/parafusadeira sem impacto com 30 Nm de torque duro e até 1.700 rpm. Pode ser interessante para quem prioriza madeira, metal e montagem, mas não oferece o modo de impacto da Bosch. A **DeWalt DCD706**, da linha XTREME 12V MAX, possui motor brushless, impacto e mandril de 10 mm, segundo a documentação oficial. A comparação deve considerar que o motor, os acessórios e o conteúdo dos kits são diferentes; não é possível declarar uma vencedora absoluta apenas pelos números de torque ou rotação. Para quem precisa de impacto ocasional em alvenaria, a GSB 120-LI reúne esse recurso com o sistema Bosch Professional 12V.
 
 ## Perguntas Frequentes
 
 ### A Furadeira Bosch GSB 120-LI serve para furar concreto armado estrutural?
-A GSB 120-LI perfura concreto armado até 10 mm de diâmetro, mas em elementos estruturais (vigas, pilares, lajes com fc > 25 MPa) o avanço é lento e exige técnica adequada. Para uso recorrente em concreto armado, recomenda-se uma furadeira de impacto 18V ou rotativa SDS-Plus. Este modelo atende bem instalações em alvenaria de vedação, blocos e argamassa.
+
+A Bosch informa capacidade nominal máxima de **8 mm em concreto**, mas isso não representa uma recomendação para perfurar vigas, pilares ou lajes de concreto armado. A presença de armaduras, a dureza do concreto e os riscos de atingir instalações embutidas exigem avaliação prévia. Para trabalhos frequentes em concreto, considere um martelete SDS-Plus adequado à aplicação.
 
 ### Qual a diferença prática entre o motor brushless deste modelo e os modelos brushed anteriores da linha 12V?
-O motor brushless elimina o atrito das escovas de carbono, gerando menos calor, maior eficiência energética (até 30% mais autonomia por carga) e vida útil do motor 3 a 5 vezes superior. Na prática, significa torque mais constante durante a descarga da bateria, menos paradas por superaquecimento e zero manutenção de escovas. A resposta do gatilho também é mais instantânea.
+
+A pergunta parte de uma premissa incorreta: a **GSB 120-LI não é anunciada pela Bosch como brushless**. Motores sem escovas podem oferecer vantagens em determinados projetos, mas não se deve atribuir a este modelo percentuais de autonomia, vida útil ou redução de manutenção próprios de outras ferramentas.
 
 ### As baterias Bosch 12V antigas (ni-cad ou li-ion de modelos brushed) funcionam na GSB 120-LI?
-Sim, a GSB 120-LI é compatível com todas as baterias do sistema Bosch Professional 12V (linha azul), incluindo as antigas Ni-Cd e Li-Ion de modelos brushed. No entanto, para extrair o máximo do motor brushless e da proteção ECP, recomenda-se o uso de baterias Li-Ion 2.0 Ah ou superiores da geração atual, que comunicam dados de temperatura e estado de carga com a eletrônica da ferramenta.
+
+A Bosch informa compatibilidade com o sistema **Bosch Professional 12V de íons de lítio**, respeitando os modelos de bateria e carregador indicados pelo fabricante. Não há base para afirmar compatibilidade com baterias antigas de níquel-cádmio (Ni-Cd). Antes da compra, confira o código exato da bateria e do carregador.
 
 ### Vale a pena comprar o kit com duas baterias 4.0 Ah ou é melhor comprar a ferramenta "somente corpo" e baterias à parte?
-Para quem já possui baterias 12V Bosch, a compra "somente corpo" (bare tool) oferece o melhor custo-benefício. Para quem entra na plataforma agora, o kit com duas baterias 4.0 Ah e carregador rápido GAL 12V-40 costuma ser mais vantajoso qualitativamente: garante autonomia para turno completo, carregamento em ~60 min e elimina a necessidade de comprar acessórios separadamente. Baterias 4.0 Ah também equilibram melhor o peso da ferramenta que as 2.0 Ah.
+
+Quem já utiliza baterias compatíveis Bosch Professional 12V pode economizar com a versão sem bateria e carregador. Para quem está começando, compare o preço total dos kits e seus códigos: o catálogo brasileiro apresenta versões com baterias de **2,0 Ah**, enquanto outras configurações podem variar. Baterias de 4,0 Ah podem oferecer maior autonomia, mas acrescentam peso; não há garantia de um turno inteiro de uso nem de tempo fixo de recarga em qualquer configuração.
 
 ## Veredito Final e Recomendação de Compra
 
-A **Furadeira Bosch GSB 120-LI** consolida-se como a referência de equilíbrio na categoria 12V Professional com percussão. Seu motor brushless não é apenas um item de ficha técnica: traduz-se em autonomia real para jornadas completas, torque previsível do primeiro ao último parafuso e ausência de manutenção de escovas — fator crítico para redução de custo total de propriedade. A função martelete, frequentemente tratada como "enfeite" em compactos, entrega desempenho útil para o dia a dia de instaladores, eletricistas, montadores de móveis e profissionais de manutenção predial que precisam furar alvenaria sem carregar uma segunda ferramenta.
+A **Bosch GSB 120-LI** é uma opção versátil para quem precisa de uma furadeira/parafusadeira compacta de 12V com impacto ocasional. O torque duro de 30 Nm, as duas velocidades e a bateria removível atendem a montagens, reparos e diversas instalações leves. Seus principais limites são a capacidade de 8 mm em concreto, o mandril de 10 mm e a menor adequação a trabalhos pesados ou contínuos. A nota **8,7/10** é uma avaliação editorial deste artigo, não uma média comprovada de consumidores.
 
-A ergonomia de 0,95 kg com bateria 2.0 Ah redefine o patamar de conforto para trabalho aéreo (forros, eletrocalhas, prumadas), enquanto a embreagem de 20 posições garante precisão cirúrgica em montagens sensíveis. As limitações — mandril de 10 mm e torque máximo de 30 Nm — são fronteiras físicas da plataforma 12V, não falhas de projeto, e devem ser pesadas contra a alternativa de migrar para 18V (peso dobrado, custo superior, volume maior). Para o público-alvo — profissionais que valorizam mobilidade, versatilidade e confiabilidade da marca azul — a GSB 120-LI representa investimento assertivo, com retorno em produtividade e durabilidade.
+O peso nominal de 0,9 kg **sem bateria** e o formato compacto favorecem a mobilidade, mas a ergonomia real depende da bateria e do usuário. A compra faz mais sentido quando o trabalho alterna entre parafusamento, madeira, metal e furos ocasionais em alvenaria. Para aplicações intensas em concreto, fixações estruturais ou brocas maiores, uma ferramenta de classe superior pode ser mais apropriada.
 
 **Recomendação por perfil:**
-- **Eletricistas, instaladores de ar-condicionado, montadores de móveis planejados, manutenção industrial leve:** Compra altamente recomendada. A combinação percussão + leveza + embreagem fina cobre 95% das demandas diárias.
-- **Serralheiros, carpinteiros de estrutura, perfuração recorrente em aço > 10 mm ou concreto estrutural:** Avaliar modelos 18V (Bosch GSB 18V-55, Makita DHP484, DeWalt DCD796) ou manter a GSB 120-LI como ferramenta complementar para acabamento e fixação leve.
-- **Usuário doméstico avançado / "faça você mesmo" exigente:** Excelente opção "para a vida toda" se o orçamento permitir; caso contrário, a versão GSB 12V-15 (brushed, sem percussão) ou linhas verdes (DIY) atendem demandas esporádicas com menor investimento.
+- **Eletricistas, instaladores e montadores de móveis:** Boa opção para fixações leves e médias e perfurações ocasionais em alvenaria, respeitando o material e os limites do fabricante.
+- **Serralheiros, carpinteiros de estrutura e quem perfura concreto frequentemente:** Avaliar ferramentas mais potentes ou marteletes SDS-Plus apropriados, mantendo a GSB 120-LI como ferramenta complementar.
+- **Usuário doméstico e bricolagem:** Opção interessante para reunir parafusamento e impacto leve em uma ferramenta compacta; compare preço e acessórios incluídos antes da compra.
+
+### Fontes oficiais consultadas
+
+- [Bosch Professional Brasil — GSB 120-LI](https://www.bosch-professional.com/br/pt/products/gsb-120-li-06019G81E0)
+- [Bosch — Catálogo brasileiro 2026](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf)
+- [Bosch — Manual GSB 120-LI / GSR 120-LI](https://www.bosch-professional.com/binary/manualsmedia/o484444v21_160992AA00_202409.pdf)
+- [Makita Brasil — DF333DZ](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=317)
+- [DeWalt — DCD706B](https://www.dewalt.com/en-us/product/dcd706b/12v-max-brushless-cordless-38-hammer-drill-tool-only)
+- [DeWalt — Manual DCD701/DCD706](https://www.dewalt.com/GLOBALBOM/QU/DCD701B/1/Instruction_Manual/EN/NA485236_DCD701_DCD706_T1__NA.pdf)
 
 {% include produto-card.html %}
