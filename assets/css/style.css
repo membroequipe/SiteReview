@@ -1101,6 +1101,14 @@ details.toc-box[open] > summary::after {
     align-items: center;
     gap: 36px;
     padding: clamp(24px, 4vw, 48px);
+    background: linear-gradient(135deg, #bf953f, #fcf6ba, #b38728, #fbf5b7, #aa771c);
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px 16px 0 0;     
+    overflow: hidden; 
+    display: flex;
+    justify-content: space-between;
+    position: relative; 
 }
 
 .pc-hero-main > * {
@@ -1171,12 +1179,19 @@ details.toc-box[open] > summary::after {
 }
 
 .pc-action-primary {
-    background: var(--accent);
-    color: var(--primary);
+    background-color: #ffd700; /* Amarelo ouro clássico */
+    color: #1a1a1a; /* Texto quase preto */
+    border: 1px solid #e6c200; /* Borda sutil mais escura para acabamento */
+    font-weight: 700;
+    padding: 12px 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
 }
 
 .pc-action-primary:hover {
-    background: #fbbf24;
+    background-color: #ffea00;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
 
 .pc-action-secondary {
