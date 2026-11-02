@@ -2066,12 +2066,9 @@ details.toc-box[open] > summary::after {
 }
 
 
-/* -----------------------------------------
+/* --------------------------------------
    FAQ E BLOCOS RETRÁTEIS ANTIGOS
-
-   Estiliza details fora das caixas de sumário,
-   mesmo quando não possuem a classe faq-item.
-   ----------------------------------------- */
+   -------------------------------------- */
 
 .post-content details:not(:where(
     .toc-box,
@@ -2163,8 +2160,6 @@ details.toc-box[open] > summary::after {
 
 
 
-
-
 /* =========================================
    FOOTER COMPACTO — SUA MELHOR FERRAMENTA
    Desktop, tablet e mobile
@@ -2179,19 +2174,21 @@ details.toc-box[open] > summary::after {
     line-height: 1.5;
 }
 
-/* Container principal */
+/* Estrutura principal */
+
 .site-footer .site-footer-container {
     display: grid;
     grid-template-columns: 1fr;
     gap: 12px;
-
     width: 100%;
     max-width: 1240px;
     margin: 0 auto;
     padding: 20px 24px;
+    box-sizing: border-box;
 }
 
-/* Marca e descrição */
+/* Marca e apresentação */
+
 .site-footer .footer-col-about {
     display: flex;
     align-items: center;
@@ -2217,11 +2214,9 @@ details.toc-box[open] > summary::after {
     flex: 0 0 32px;
     width: 32px;
     height: 32px;
-
     background: #f59e0b;
     color: #0f172a;
     border-radius: 7px;
-
     font-size: 0.65rem;
     font-weight: 800;
     line-height: 1;
@@ -2245,15 +2240,14 @@ details.toc-box[open] > summary::after {
     line-height: 1.5;
 }
 
-/* Link de metodologia */
+/* Link da metodologia */
+
 .site-footer .footer-methodology-link {
     display: inline-flex;
     align-items: center;
     gap: 5px;
-
     min-height: 32px;
     padding: 4px 0;
-
     color: #fcd34d;
     font-size: 0.78rem;
     font-weight: 700;
@@ -2265,13 +2259,13 @@ details.toc-box[open] > summary::after {
     text-decoration: underline;
 }
 
-/* Grupos de navegação */
+/* Navegação horizontal */
+
 .site-footer .footer-col-links {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-
     gap: 8px 18px;
     min-width: 0;
     margin: 0;
@@ -2279,8 +2273,9 @@ details.toc-box[open] > summary::after {
     border: 0;
 }
 
-/* Mantém os títulos para acessibilidade,
-   sem ocupar espaço visual */
+/* Títulos ocultos visualmente,
+   mas disponíveis para acessibilidade */
+
 .site-footer .footer-subtitle {
     position: absolute;
     width: 1px;
@@ -2293,13 +2288,11 @@ details.toc-box[open] > summary::after {
     border: 0;
 }
 
-/* Links distribuídos horizontalmente */
 .site-footer .footer-nav {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-
     gap: 4px 18px;
     margin: 0;
     padding: 0;
@@ -2315,10 +2308,8 @@ details.toc-box[open] > summary::after {
 .site-footer .footer-nav a {
     display: inline-flex;
     align-items: center;
-
     min-height: 32px;
     padding: 4px 0;
-
     color: #cbd5e1;
     font-size: 0.8rem;
     line-height: 1.4;
@@ -2331,14 +2322,18 @@ details.toc-box[open] > summary::after {
     text-underline-offset: 3px;
 }
 
-/* Foco acessível */
+/* Acessibilidade */
+
 .site-footer a:focus-visible {
     outline: 2px solid #fcd34d;
     outline-offset: 3px;
     border-radius: 3px;
 }
 
-/* Faixa inferior */
+/* =========================================
+   FAIXA INFERIOR CENTRALIZADA
+   ========================================= */
+
 .site-footer .footer-bottom {
     background: #0b1220;
     border-top: 1px solid #334155;
@@ -2346,28 +2341,29 @@ details.toc-box[open] > summary::after {
 
 .site-footer .footer-bottom-container {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 8px 24px;
-
+    justify-content: center;
+    gap: 6px;
     width: 100%;
     max-width: 1240px;
     margin: 0 auto;
     padding: 12px 24px;
+    box-sizing: border-box;
+    text-align: center;
 }
 
 .site-footer .footer-disclosure,
 .site-footer .footer-copyright {
+    flex: none;
+    width: 100%;
+    max-width: 900px;
     min-width: 0;
-    margin: 0;
+    margin: 0 auto;
     color: #cbd5e1;
     font-size: 0.72rem;
     line-height: 1.5;
-}
-
-.site-footer .footer-disclosure {
-    flex: 1 1 420px;
+    text-align: center;
 }
 
 .site-footer .footer-disclosure strong {
@@ -2375,41 +2371,18 @@ details.toc-box[open] > summary::after {
     font-weight: 700;
 }
 
-.site-footer .footer-copyright {
-    flex: 0 1 auto;
-    text-align: right;
-}
-
 /* =========================================
-   TABLET
-   ========================================= */
-
-@media (max-width: 960px) {
-    .site-footer .site-footer-container {
-        gap: 10px;
-        padding: 18px 20px;
-    }
-
-    .site-footer .footer-col-about {
-        gap: 6px 14px;
-    }
-
-    .site-footer .footer-nav {
-        gap: 4px 14px;
-    }
-}
-
-/* =========================================
-   MOBILE
+   RESPONSIVIDADE
    ========================================= */
 
 @media (max-width: 600px) {
+
     .site-footer {
         margin-top: 18px;
     }
 
     .site-footer .site-footer-container {
-        gap: 8px;
+        gap: 10px;
         padding: 16px;
     }
 
@@ -2417,58 +2390,26 @@ details.toc-box[open] > summary::after {
         gap: 6px 12px;
     }
 
-    .site-footer .footer-brand-mark {
-        flex-basis: 28px;
-        width: 28px;
-        height: 28px;
-    }
-
-    .site-footer .footer-title {
-        font-size: 0.92rem;
-    }
-
-    .site-footer .footer-text {
-        font-size: 0.75rem;
-        line-height: 1.4;
-    }
-
-    .site-footer .footer-methodology-link {
-        font-size: 0.75rem;
-    }
-
-    .site-footer .footer-col-links {
-        gap: 0 12px;
-    }
-
     .site-footer .footer-nav {
-        gap: 2px 14px;
+        gap: 4px 14px;
     }
 
     .site-footer .footer-nav a {
-        min-height: 32px;
         font-size: 0.76rem;
-        padding: 4px 0;
     }
 
     .site-footer .footer-bottom-container {
-        flex-direction: column;
-        align-items: center;
         gap: 6px;
-        padding: 10px 16px;
-        text-align: center;
+        padding: 12px 16px;
     }
 
     .site-footer .footer-disclosure,
     .site-footer .footer-copyright {
-        flex: none;
-        width: 100%;
-        text-align: center;
         font-size: 0.7rem;
         line-height: 1.45;
     }
 }
 
-/* Redução de movimento */
 @media (prefers-reduced-motion: reduce) {
     .site-footer a {
         transition: none;
