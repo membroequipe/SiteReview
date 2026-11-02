@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Review Parafusadeira Bosch GSB 120-LI: Vale a Pena em 2026? Análise Completa!"
-description: "Análise técnica detalhada da Parafusadeira Bosch GSB 120-LI: specs, desempenho real, opiniões de compradores e comparativo com concorrentes."
+title: "Review Furadeira Bosch GSB 120-LI: Vale a Pena em 2026? Análise Completa!"
+description: "Análise técnica detalhada da Furadeira/Parafusadeira Bosch GSB 120-LI: specs, desempenho real, opiniões de compradores e comparativo com concorrentes."
 slug: "review-bosch-gsb-120-li"
-categories: [furadeiras, parafusadeiras, reviews]
+categories: [furadeiras, reviews]
 produto_id: bosch_gsb_120_li
 image: "/assets/images/posts/parafusadeira-bosch-gsb-120-li.webp"
-image_alt: "Parafusadeira Bosch GSB 120-LI em destaque"
+image_alt: "Furadeira Bosch GSB 120-LI em destaque"
 date: 2026-10-22
 author: "Equipe de Análises"
 
 avaliacao:
   nota: 8.7
   resumo: >-
-    A Parafusadeira Bosch GSB 120-LI destaca-se pela combinação rara de motor brushless, função martelete e peso contido em plataforma 12V, entregando versatilidade para perfuração em alvenaria e aparafusamento de precisão sem a fadiga de equipamentos 18V. Sua nota geral consolidada é 8.7 de 10.
+    A Furadeira Bosch GSB 120-LI destaca-se pela combinação rara de motor brushless, função martelete e peso contido em plataforma 12V, entregando versatilidade para perfuração em alvenaria e aparafusamento de precisão sem a fadiga de equipamentos 18V. Sua nota geral consolidada é 8.7 de 10.
   vantagens:
     - "Motor brushless garante maior autonomia, vida útil estendida e torque real superior a modelos brushed equivalentes"
     - "Função martelete funcional para perfuração ocasional em concreto e alvenaria até 10 mm"
@@ -26,7 +26,7 @@ avaliacao:
 {% include review-toc.html %}
 
 
-A **Parafusadeira Bosch GSB 120-LI** chega ao mercado como uma das apostas mais equilibradas da linha Professional 12V da fabricante alemã, prometendo unir a robustez esperada da marca com a leveza necessária para aplicações contínuas em marcenaria, manutenção predial e montagens industriais leves. Este review consolida dados oficiais, especificações de engenharia e um levantamento amplo de feedbacks reais de consumidores nas principais plataformas de varejo nacional para entregar uma visão honesta sobre o real valor deste equipamento em 2026.
+A **Furadeira Bosch GSB 120-LI** chega ao mercado como uma das apostas mais equilibradas da linha Professional 12V da fabricante alemã, prometendo unir a robustez esperada da marca com a leveza necessária para aplicações contínuas em marcenaria, manutenção predial e montagens industriais leves. Este review consolida dados oficiais, especificações de engenharia e um levantamento amplo de feedbacks reais de consumidores nas principais plataformas de varejo nacional para entregar uma visão honesta sobre o real valor deste equipamento em 2026.
 
 {% include resumo-avaliacao.html %}
 
@@ -38,7 +38,7 @@ A **Parafusadeira Bosch GSB 120-LI** chega ao mercado como uma das apostas mais 
 
 ## Construção e Ergonomia
 
-A **Parafusadeira Bosch GSB 120-LI** posiciona-se estrategicamente no segmento "Compact Tough" da linha Professional azul, mirando o profissional que necessita de mobilidade irrestrita sem abrir mão da percussão para fixações em alvenaria. Diferente das versões "LI" anteriores equipadas com motores de escovas, esta geração adota arquitetura brushless de última geração, o que altera significativamente a dinâmica térmica e a eficiência energética do conjunto. O corpo em poliamida reforçada com fibra de vidro apresenta a qualidade de injeção padrão Bosch: encaixes precisos, sem rebarbas, e a característica carcaça bipartida que facilita eventuais manutenções de escovas — embora, neste caso, a ausência de escovas torne essa intervenção praticamente desnecessária durante toda a vida útil do motor.
+A **Furadeira Bosch GSB 120-LI** posiciona-se estrategicamente no segmento "Compact Tough" da linha Professional azul, mirando o profissional que necessita de mobilidade irrestrita sem abrir mão da percussão para fixações em alvenaria. Diferente das versões "LI" anteriores equipadas com motores de escovas, esta geração adota arquitetura brushless de última geração, o que altera significativamente a dinâmica térmica e a eficiência energética do conjunto. O corpo em poliamida reforçada com fibra de vidro apresenta a qualidade de injeção padrão Bosch: encaixes precisos, sem rebarbas, e a característica carcaça bipartida que facilita eventuais manutenções de escovas — embora, neste caso, a ausência de escovas torne essa intervenção praticamente desnecessária durante toda a vida útil do motor.
 
 O design prioriza o centro de gravidade deslocado para a região do punho, resultado direto da integração da bateria slide-style 12V na base da empunhadura. Com 0,95 kg na configuração com bateria 2.0 Ah, o equipamento situa-se entre os mais leves da categoria com função martelete, superando em leveza até mesmo alguns concorrentes exclusivamente de aparafusamento. O revestimento Softgrip envolve toda a extensão do punho e se estende à base da carcaça, garantindo aderência mesmo com luvas ou mãos oleosas — ponto crítico em canteiros de obra. O gatilho de velocidade variável possui curso curto e progressividade bem calibrada, permitindo arranques suaves em parafusos de cabeça philips sensíveis a came-out.
 
@@ -46,7 +46,7 @@ O mandril de aperto rápido de 10 mm, todo em metal, merece destaque pela precis
 
 ## Desempenho e Aplicações
 
-No eixo do aparafusamento, o motor brushless da **Parafusadeira Bosch GSB 120-LI** entrega curva de torque mais plana em relação a motores brushed, mantendo força consistente mesmo com a bateria em estágios intermediários de descarga. Os 30 Nm de torque máximo em aplicação dura (parafuso em chapa metálica com porca) colocam o equipamento no topo da subcategoria 12V com percussão, superando rivais diretos que usualmente plafonam em 25-28 Nm. A embreagem de 20 posições mais furo livre oferece granularidade fina: posições 1 a 5 atendem parafusos de drywall e chapas finas sem estragar a cabeça; posições 10 a 15 cobrem a faixa média de montagem de móveis e perfis metálicos leves; enquanto as posições finais liberam o torque total para fixações estruturais em madeira. Na prática, a precisão da embreagem evita o retrabalho de parafusos espanados, economia de tempo que, em volume, justifica o investimento na plataforma Professional.
+No eixo do aparafusamento, o motor brushless da **Furadeira Bosch GSB 120-LI** entrega curva de torque mais plana em relação a motores brushed, mantendo força consistente mesmo com a bateria em estágios intermediários de descarga. Os 30 Nm de torque máximo em aplicação dura (parafuso em chapa metálica com porca) colocam o equipamento no topo da subcategoria 12V com percussão, superando rivais diretos que usualmente plafonam em 25-28 Nm. A embreagem de 20 posições mais furo livre oferece granularidade fina: posições 1 a 5 atendem parafusos de drywall e chapas finas sem estragar a cabeça; posições 10 a 15 cobrem a faixa média de montagem de móveis e perfis metálicos leves; enquanto as posições finais liberam o torque total para fixações estruturais em madeira. Na prática, a precisão da embreagem evita o retrabalho de parafusos espanados, economia de tempo que, em volume, justifica o investimento na plataforma Professional.
 
 A função martelete, muitas vezes tratada como acessório em compactos 12V, revela-se surpreendentemente funcional na GSB 120-LI. O mecanismo de impacto axial atinge 19.500 IPM na segunda velocidade, energia suficiente para perfurar alvenaria de vedação, blocos de concreto leve e argamassa com brocas de viúva até 8 mm de diâmetro de forma contínua. Em concreto estrutural (fc 25-30 MPa), a perfuração torna-se lenta a partir de 6 mm, exigindo técnica de "puxar e empurrar" para limpeza de pó — limitação intrínseca à classe de potência 12V, não defeito do modelo. Para o instalador de quadros, prateleiras, conduítes e suportes de ar-condicionado, a capacidade de furar parede sem trocar de ferramenta representa ganho logístico real. A madeira, por sua vez, é o habitat natural: brocas chata de 20 mm avançam sem engasgo na primeira velocidade, enquanto brocas helicoidais de 10 mm na segunda velocidade removem cavacos com eficiência, graças à geometria do mandril que minimiza run-out.
 
@@ -143,7 +143,7 @@ A **Makita DF333DZ** apresenta torque bruto superior (35 Nm) e rotação máxima
 
 ## Perguntas Frequentes
 
-### A Parafusadeira Bosch GSB 120-LI serve para furar concreto armado estrutural?
+### A Furadeira Bosch GSB 120-LI serve para furar concreto armado estrutural?
 A GSB 120-LI perfura concreto armado até 10 mm de diâmetro, mas em elementos estruturais (vigas, pilares, lajes com fc > 25 MPa) o avanço é lento e exige técnica adequada. Para uso recorrente em concreto armado, recomenda-se uma furadeira de impacto 18V ou rotativa SDS-Plus. Este modelo atende bem instalações em alvenaria de vedação, blocos e argamassa.
 
 ### Qual a diferença prática entre o motor brushless deste modelo e os modelos brushed anteriores da linha 12V?
@@ -157,7 +157,7 @@ Para quem já possui baterias 12V Bosch, a compra "somente corpo" (bare tool) of
 
 ## Veredito Final e Recomendação de Compra
 
-A **Parafusadeira Bosch GSB 120-LI** consolida-se como a referência de equilíbrio na categoria 12V Professional com percussão. Seu motor brushless não é apenas um item de ficha técnica: traduz-se em autonomia real para jornadas completas, torque previsível do primeiro ao último parafuso e ausência de manutenção de escovas — fator crítico para redução de custo total de propriedade. A função martelete, frequentemente tratada como "enfeite" em compactos, entrega desempenho útil para o dia a dia de instaladores, eletricistas, montadores de móveis e profissionais de manutenção predial que precisam furar alvenaria sem carregar uma segunda ferramenta.
+A **Furadeira Bosch GSB 120-LI** consolida-se como a referência de equilíbrio na categoria 12V Professional com percussão. Seu motor brushless não é apenas um item de ficha técnica: traduz-se em autonomia real para jornadas completas, torque previsível do primeiro ao último parafuso e ausência de manutenção de escovas — fator crítico para redução de custo total de propriedade. A função martelete, frequentemente tratada como "enfeite" em compactos, entrega desempenho útil para o dia a dia de instaladores, eletricistas, montadores de móveis e profissionais de manutenção predial que precisam furar alvenaria sem carregar uma segunda ferramenta.
 
 A ergonomia de 0,95 kg com bateria 2.0 Ah redefine o patamar de conforto para trabalho aéreo (forros, eletrocalhas, prumadas), enquanto a embreagem de 20 posições garante precisão cirúrgica em montagens sensíveis. As limitações — mandril de 10 mm e torque máximo de 30 Nm — são fronteiras físicas da plataforma 12V, não falhas de projeto, e devem ser pesadas contra a alternativa de migrar para 18V (peso dobrado, custo superior, volume maior). Para o público-alvo — profissionais que valorizam mobilidade, versatilidade e confiabilidade da marca azul — a GSB 120-LI representa investimento assertivo, com retorno em produtividade e durabilidade.
 
