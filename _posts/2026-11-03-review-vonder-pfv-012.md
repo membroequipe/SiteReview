@@ -8,7 +8,7 @@ categories:
 - furadeiras
 - reviews
 produto_id: vonder_pfv_012
-image: /assets/images/posts/vonder-pfv-012.webp
+image: /assets/images/posts/vonder_pfv012i_12v
 image_alt: Parafusadeira e furadeira Vonder PFV 012
 date: '2026-11-03'
 author: Equipe de Análises
