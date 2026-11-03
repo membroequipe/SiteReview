@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vonder PFV 012: Review Completo, Ficha Técnica e Vale a Pena?'
+title: 'Vonder PFV 012: Review - Vale a Pena?'
 description: 'Análise da Vonder PFV 012: especificações oficiais, aplicações, vantagens, limitações e comparação
   para decidir a compra.'
 slug: review-vonder-pfv-012
@@ -8,7 +8,7 @@ categories:
 - furadeiras
 - reviews
 produto_id: vonder_pfv_012
-image: /assets/images/posts/vonder_pfv012i_12v
+image: assets/images/posts/vonder_pfv012i_12v.webp
 image_alt: Parafusadeira e furadeira Vonder PFV 012
 date: '2026-11-03'
 author: Equipe de Análises
