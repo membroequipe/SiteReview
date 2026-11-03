@@ -2,7 +2,7 @@
 black_decker_bcd704c1:
   nome: "Black+Decker BCD704C1"
   descricao: "Furadeira/parafusadeira de impacto 20V MAX com mandril metálico de 10 mm e 42 Nm"
-  imagem: "/assets/images/posts/black-decker-bcd704c1.webp"
+  imagem: "/assets/images/posts/black-decker-bcd704c1.png"
 
   links:
     amazon: ""
@@ -45,7 +45,7 @@ black_decker_bcd704c1:
 makita_dhp482:
   nome: "Makita DHP482"
   descricao: "Furadeira e parafusadeira de impacto 18V LXT, com motor de 4 polos, torque máximo de 64 Nm, mandril de 13 mm e até 28.500 impactos por minuto"
-  imagem: "/assets/images/posts/makita-dhp482.webp"
+  imagem: "/assets/images/posts/makita-dhp482.png"
 
   links:
     amazon: ""
@@ -97,7 +97,7 @@ makita_dhp482:
 stanley_sbd716d2t:
   nome: "Stanley SBD716D2T"
   descricao: "Furadeira e parafusadeira de impacto 20V MAX brushless, com torque máximo de 65 Nm, mandril metálico de 13 mm e kit com duas baterias de 2 Ah"
-  imagem: "/assets/images/posts/stanley-sbd716d2t.webp"
+  imagem: "/assets/images/posts/stanley-sbd716d2t.png"
 
   links:
     amazon: ""
@@ -1558,7 +1558,7 @@ bosch_gbh_2_21:
 wap_bpf_12k3:
   nome: WAP BPF 12K3
   descricao: Parafusadeira de entrada para montagem de móveis e pequenos reparos.
-  imagem: /assets/images/posts/wap-bpf-12k3.webp
+  imagem: /assets/images/posts/wap-bpf-12k3.png
   links:
     amazon: ''
     mercadolivre: ''
@@ -1583,7 +1583,7 @@ wap_bpf_12k3:
 wap_wf_12k4_2:
   nome: WAP WF 12K4.2
   descricao: Furadeira/parafusadeira de impacto versátil para trabalhos domésticos.
-  imagem: /assets/images/posts/wap-wf-12k4-2.webp
+  imagem: /assets/images/posts/wap-wf-12k4-2.png
   links:
     amazon: ''
     mercadolivre: ''
@@ -1608,7 +1608,7 @@ wap_wf_12k4_2:
 vonder_pfv_012:
   nome: Vonder PFV 012
   descricao: Furadeira/parafusadeira sem impacto para uso doméstico.
-  imagem: /assets/images/posts/vonder-pfv-012.webp
+  imagem: /assets/images/posts/vonder-pfv-012.png
   links:
     amazon: ''
     mercadolivre: ''
@@ -1632,7 +1632,7 @@ vonder_pfv_012:
 bosch_gsb_18v_21:
   nome: Bosch GSB 18V-21
   descricao: Furadeira/parafusadeira de impacto 18v para quem alterna montagem de móveis e furos ocasionais em alvenaria.
-  imagem: /assets/images/posts/bosch-gsb-18v-21.webp
+  imagem: /assets/images/posts/bosch-gsb-18v-21.png
   links:
     amazon: ''
     mercadolivre: ''
@@ -1673,7 +1673,7 @@ bosch_gsb_18v_21:
 dewalt_dcd708d2:
   nome: DeWalt DCD708D2
   descricao: Furadeira/parafusadeira compacta atomic 20v max sem impacto, voltada à montagem de móveis e perfuração em madeira e metal.
-  imagem: /assets/images/posts/dewalt-dcd708d2.webp
+  imagem: /assets/images/posts/dewalt-dcd708d2.png
   links:
     amazon: ''
     mercadolivre: ''
@@ -1714,7 +1714,7 @@ dewalt_dcd708d2:
 makita_hp332dwye:
   nome: Makita HP332DWYE
   descricao: Furadeira/parafusadeira de impacto 12v cxt brushless, com kit brasileiro de duas baterias de 1,5 ah.
-  imagem: /assets/images/posts/makita-hp332dwye.webp
+  imagem: /assets/images/posts/makita-hp332dwye.png
   links:
     amazon: ''
     mercadolivre: ''
