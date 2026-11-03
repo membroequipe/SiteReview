@@ -1,0 +1,31 @@
+LICENSE / LICENÇA
+
+===============================================================================
+ENGLISH VERSION (ORIGINAL)
+===============================================================================
+Copyright (c) 2026. All rights reserved.
+
+Unauthorized copying, modification, distribution, publication, or commercial 
+use of any part of this source code and associated files is strictly prohibited.
+
+The code is provided solely for public viewing purposes within the GitHub repository. 
+No implied license is granted to third parties to utilize this software for any 
+other purpose.
+
+This software is provided "as is", without warranty of any kind, express or 
+implied.
+
+===============================================================================
+VERSÃO EM PORTUGUÊS (TRADUÇÃO)
+===============================================================================
+Copyright (c) 2026. Todos os direitos reservados.
+
+A cópia, modificação, distribuição, publicação ou uso comercial não autorizado 
+de qualquer parte deste código-fonte e arquivos associados é estritamente proibida.
+
+O código é fornecido apenas para fins de visualização pública no repositório do 
+GitHub. Nenhuma licença implícita é concedida a terceiros para utilizar este 
+software para qualquer outro propósito.
+
+Este software é fornecido "no estado em que se encontra" (AS IS), sem garantias 
+de qualquer tipo, expressas ou implícitas.
