@@ -223,7 +223,7 @@ wap_k21_id01_id02:
 wap_bpfi_12k4_wf_12k4_2:
   nome: "WAP BPFI 12K4 vs. WF 12K4.2"
   descricao: "Comparativo de duas furadeiras e parafusadeiras de impacto WAP 12V, com torque máximo de 30 Nm, mandril de 10 mm e bateria de 1,5 Ah."
-  imagem: "/assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png"
+  imagem: /assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png
 
   links:
     amazon: ""
