@@ -8,7 +8,7 @@ categories:
 - furadeiras
 - reviews
 produto_id: wap_bpf_12k3
-image: /assets/images/posts/wap-bpf-12k3.png
+image: /assets/images/posts/wap-bpf-12k3.webp
 image_alt: Parafusadeira e furadeira WAP BPF 12K3
 date: '2026-11-03'
 author: Equipe de Análises
