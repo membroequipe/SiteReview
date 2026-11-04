@@ -5,7 +5,7 @@ description: "Bosch GSR 12V-15 vale a pena? Veja torque, desempenho em MDF e dif
 slug: "review-bosch-gsr-12v-15"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsr_12v_15
-image: "/assets/images/posts/bosch-gsr-12v-15.png"
+image: "/assets/images/posts/bosch-gsr-12v-15.webp"
 image_alt: "Furadeira e parafusadeira Bosch GSR 12V-15"
 date: 2026-11-04
 author: "Equipe de Análises"
