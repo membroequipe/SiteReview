@@ -5,7 +5,7 @@ description: "Makita DHP485Z vale a pena? Veja torque de 60 Nm, motor brushless,
 slug: "review-makita-dhp485z"
 categories: [furadeiras, reviews]
 produto_id: makita_xph14z_dhp485
-image: "/assets/images/posts/makita-dhp485z.png"
+image: "/assets/images/posts/makita-dhp485z.webp"
 image_alt: "Furadeira e parafusadeira de impacto Makita DHP485Z 18V LXT brushless"
 date: 2026-11-04
 author: "Equipe de Análises"
