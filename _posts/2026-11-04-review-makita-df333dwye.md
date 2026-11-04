@@ -5,7 +5,7 @@ description: "Review da Makita DF333DWYE: torque, bateria, ergonomia, vantagens 
 slug: "review-makita-df333dwye"
 categories: [furadeiras, reviews]
 produto_id: makita_df333dwye
-image: "/assets/images/posts/makita-df333dwye.png"
+image: "/assets/images/posts/makita-df333dwye.webp"
 image_alt: "Furadeira e parafusadeira Makita DF333DWYE"
 date: 2026-11-04
 author: "Equipe de Análises"
