@@ -5,7 +5,7 @@ description: "Review da Bosch GSR 120-LI: torque, bateria, ergonomia, vantagens 
 slug: "review-bosch-gsr-120-li"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsr_120_li
-image: "/assets/images/posts/bosch-gsr-120-li.png"
+image: "/assets/images/posts/bosch-gsr-120-li.webp"
 image_alt: "Furadeira e parafusadeira Bosch GSR 120-LI"
 date: 2026-11-04
 author: "Equipe de Análises"
