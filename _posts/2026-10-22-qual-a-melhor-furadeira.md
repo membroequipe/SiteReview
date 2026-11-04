@@ -243,7 +243,7 @@ A designação completa do kit (por exemplo, HP333DSAJ ou outra variante regiona
 </div>
 </div>
 
-{% include produto-card.html id="makita_hp333dsaj" %}
+{% include produto-card.html id="makita_hp333_12v_impacto" %}
 
 ---
 
