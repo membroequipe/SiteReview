@@ -475,7 +475,7 @@ body.home-page .site-content {
 details.toc-container > summary::after,
 .toc-box details > summary::after,
 details.toc-box > summary::after {
-    content: " — mostrar";
+    content: " — Mostrar Resumo";
     color: var(--link-color);
     font-size: 0.8rem;
     font-weight: 500;
@@ -485,7 +485,7 @@ details.toc-box > summary::after {
 details.toc-container[open] > summary::after,
 .toc-box details[open] > summary::after,
 details.toc-box[open] > summary::after {
-    content: " — ocultar";
+    content: " — Ocultar Resumo";
 }
 
 .toc-container h2,
