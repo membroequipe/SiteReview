@@ -2,6 +2,9 @@ title: "Sua Melhor Ferramenta"
 description: "Análises, comparativos e guias de compra de parafusadeiras e furadeiras para ajudar você a escolher a ferramenta ideal."
 url: "https://suamelhorferramenta.com"
 baseurl: ""
+lang: pt-BR
+locale: pt_BR
+timezone: America/Sao_Paulo
 markdown: kramdown
 permalink: /:categories/:title/
 plugins:
