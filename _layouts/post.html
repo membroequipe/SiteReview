@@ -96,6 +96,24 @@ layout: default
     // Artigos sem sumário continuam funcionando normalmente.
     if (!content || !tocList || !tocBox) return;
 
+    const tocToggle = document.getElementById("toc-toggle");
+
+   // TESTE BOTAO RESUMO
+
+    if (tocToggle) {
+      tocToggle.addEventListener("click", function () {
+    const expanded = this.getAttribute("aria-expanded") === "true";
+    
+        tocList.hidden = expanded;
+    
+        this.setAttribute("aria-expanded", String(!expanded));
+    
+        this.textContent = expanded
+          ? "Mostrar"
+          : "Ocultar";
+      });
+}
+
     // Confirma que a lista pertence à caixa do sumário.
     if (!tocBox.contains(tocList)) return;
 
