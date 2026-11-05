@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Guias Comparativos e Melhores Opções"
+description: "Comparativos entre parafusadeiras e furadeiras de várias marcas."
 permalink: "/comparativos/"
 ---
 
