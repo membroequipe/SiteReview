@@ -12,7 +12,7 @@ author: "Equipe de Análises"
 
 {% include review-toc.html %}
 
-# Melhores parafusadeiras para montagem de móveis e MDF em 2026
+## Melhores parafusadeiras para montagem de móveis e MDF em 2026
 
 **Para montar móveis de MDF, a melhor parafusadeira não é necessariamente a mais potente:** importa ter gatilho progressivo, embreagem ajustável, bit correto e tamanho confortável para trabalhar em gavetas, dobradiças e cantos. Neste comparativo, selecionamos três ferramentas de propostas diferentes: a **Bosch GSB 18V-21**, para quem também precisa perfurar alvenaria; a **DeWalt DCD708**, para montagem e perfuração sem impacto em espaços limitados; e a **Makita HP332**, opção compacta da plataforma 12V CXT com motor BL e impacto para trabalhos leves.
 
