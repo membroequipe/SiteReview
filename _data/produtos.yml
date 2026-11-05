@@ -972,6 +972,7 @@ bosch_gsr_1000_smart:
       valor: "Montagem de móveis, MDF, pequenos reparos e perfurações leves"
     - nome: "Destaque Principal"
       valor: "Corpo compacto, bateria integrada e torque de 15 Nm para tarefas leves"
+
 werca_w_e12:
   nome: "Werca W-E12"
   descricao: "Melhor torque de 3 níveis com carregador USB"
@@ -1031,7 +1032,7 @@ makita_td110d:
 
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/2M6FELt"
     shopee: ""
 
   especificacoes:
@@ -1058,7 +1059,7 @@ dewalt_dcd777:
 
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/1AmLLm5"
     shopee: ""
 
   especificacoes:
@@ -1108,7 +1109,7 @@ bosch_gsr_12v_15_fc:
   imagem: "/assets/images/posts/bosch-gsr-12v-15-fc.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/1qedknH"
     shopee: ""
   especificacoes:
     - nome: "Categoria"
@@ -1174,7 +1175,7 @@ makita_df332d:
 
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/2A7QPjK"
     shopee: ""
 
   especificacoes:
@@ -1240,7 +1241,7 @@ bosch_gbh_18v_21:
   imagem: "/assets/images/posts/bosch-gbh-18v-21.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/2xtDARb"
     shopee: ""
   especificacoes:
     - nome: "Categoria"
