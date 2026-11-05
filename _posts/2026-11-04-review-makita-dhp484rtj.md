@@ -250,7 +250,7 @@ Antes de comprar no Brasil, confira o código completo do produto e os itens dis
 
 Também vale verificar a procedência das baterias, a compatibilidade do carregador com a rede elétrica e as condições de garantia.
 
-Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}).
+Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
 ## Opinião dos Compradores
 
