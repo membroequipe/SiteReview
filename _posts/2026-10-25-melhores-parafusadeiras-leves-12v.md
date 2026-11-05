@@ -3,7 +3,7 @@ layout: post
 title: "Melhores Parafusadeiras para Montagem de Móveis e MDF em 2026"
 description: "Descubra as melhores parafusadeiras para montagem de móveis e MDF em 2026. Compare Bosch, DeWalt e Makita e saiba qual escolher."
 slug: melhores-parafusadeiras-montagem
-permalink: /melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/
+permalink: /melhores-parafusadeiras-leves-12v/
 categories: [guias]
 image: "/assets/images/posts/melhores-parafusadeiras-leves-12v.webp"
 date: 2026-10-26
