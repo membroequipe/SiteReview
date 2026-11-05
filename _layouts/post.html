@@ -213,3 +213,27 @@ layout: default
     tocBox.style.display = "block";
   });
 </script>
+
+<!-- Tabelas Markdown: rolagem horizontal sem alterar o conteúdo -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const content = document.getElementById("post-content");
+    if (!content) return;
+
+    content.querySelectorAll("table").forEach(function (table) {
+      const firstRow = table.querySelector("tr");
+      const columnCount = firstRow ? firstRow.children.length : 0;
+      if (columnCount === 2) table.classList.add("table-two-columns");
+
+      if (table.closest(".specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper, .table-wrapper")) return;
+
+      const wrapper = document.createElement("div");
+      wrapper.className = "table-wrapper";
+      wrapper.setAttribute("role", "region");
+      wrapper.setAttribute("aria-label", "Tabela com rolagem horizontal");
+      wrapper.setAttribute("tabindex", "0");
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    });
+  });
+</script>
