@@ -4,6 +4,13 @@ title: "Sobre Nós"
 permalink: /sobre/
 description: "Conheça a proposta da nossa Equipe de Análises: guias de compra imparciais e comparativos técnicos diretos sobre parafusadeiras e ferramentas."
 ---
+<style>
+  h1 {
+    line-height: 1.2 !important;
+  }
+</style>
+
+<h1>Sobre</h1>
 
 # Sobre o Guia Especializado
 
