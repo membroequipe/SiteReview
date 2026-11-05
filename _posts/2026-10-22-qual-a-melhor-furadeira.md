@@ -4,7 +4,7 @@ title: "Melhores Furadeiras e Parafusadeiras de 2026: 10 Modelos"
 description: "Compare 10 furadeiras e parafusadeiras de 2026. Veja modelos Bosch, Makita, DeWalt e WAP e escolha por uso, torque, bateria e impacto."
 slug: "qual-a-melhor-furadeira"
 categories: [guias]
-image: "/assets/images/melhores-furadeiras.webp"
+image: /assets/images/melhores-furadeiras.webp
 date: 2026-10-22
 author: "Equipe de Análises"
 ---
