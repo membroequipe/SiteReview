@@ -12,7 +12,7 @@ author: "Equipe de Análises"
 
 {% include review-toc.html %}
 
-# Melhores parafusadeiras leves 12V para montagem de móveis
+## Melhores parafusadeiras leves 12V para montagem de móveis
 
 **Uma boa parafusadeira leve de 12V deve combinar empunhadura confortável, torque regulável e peso adequado ao trabalho.** Para montar móveis de MDF, instalar dobradiças e apertar ferragens, o controle do gatilho e da embreagem costuma importar mais do que o maior número de newton-metros anunciado.
 
