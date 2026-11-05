@@ -2869,3 +2869,32 @@ table.specs-table tbody th:first-child {
         text-align: center;
     }
 }
+
+
+/* Tabelas comparativas Markdown: rolagem horizontal em telas estreitas */
+@media (max-width: 768px) {
+  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) {
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
+  }
+
+  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) > table:not(.table-two-columns) {
+    width: max-content !important;
+    min-width: 100% !important;
+    max-width: none !important;
+    table-layout: auto !important;
+  }
+
+  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) > table:not(.table-two-columns) :is(th, td) {
+    width: auto !important;
+    min-width: 150px !important;
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+    hyphens: none;
+  }
+
+  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) > table:not(.table-two-columns) :is(th, td):first-child {
+    min-width: 170px !important;
+  }
+}
