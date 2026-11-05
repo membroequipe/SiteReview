@@ -8,6 +8,12 @@ permalink: /guias/
 <div class="site-content">
   <div class="post-content">
 
+  <style>
+  h1 {
+    line-height: 1.2 !important;
+  }
+</style>
+
     <h1>Guias e Tutoriais de Ferramentas</h1>
     <p>Aprenda a escolher, manusear com segurança e tirar o máximo proveito das suas ferramentas elétricas e a bateria.</p>
 
