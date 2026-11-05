@@ -1290,7 +1290,7 @@ bosch_gsb_13_re_750w:
   imagem: "/assets/images/posts/bosch-gsb-13-re-750w.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/2LTeFi1"
     shopee: ""
   especificacoes:
     - nome: "Categoria"
@@ -1343,7 +1343,7 @@ makita_hp2050:
   imagem: "/assets/images/posts/makita-hp2050.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/1hURhNg"
     shopee: ""
   especificacoes:
     - nome: "Categoria"
