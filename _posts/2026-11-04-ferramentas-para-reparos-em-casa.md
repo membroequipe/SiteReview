@@ -12,7 +12,7 @@ author: "Equipe de Análises"
 
 {% include review-toc.html %}
 
-# Ferramentas para Reparos em Casa: O Que Ter e Como Escolher
+## Ferramentas para Reparos em Casa: O Que Ter e Como Escolher
 
 **Quais ferramentas são essenciais para fazer reparos em casa?** Para a maioria das pequenas manutenções, um kit com chaves de fenda e Phillips, alicate, martelo, trena, nível, estilete e uma boa furadeira ou parafusadeira já resolve muitas necessidades. A escolha depende dos serviços que você pretende realizar, dos materiais envolvidos e da frequência de uso.
 
