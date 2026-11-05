@@ -177,7 +177,7 @@ Não há base na ficha técnica consultada para atribuir Bluetooth, bloqueio ant
 
 {% include produto-card.html id="bosch_gsr_1000_smart" %}
 
-> **Leia também:** [Review da Bosch GSR 1000 Smart](/reviews/bosch-gsr-1000-smart) — confirme o permalink real antes de publicar.
+> **Leia também:** [Review da Bosch GSR 1000 Smart](/furadeiras/reviews/review-bosch-gsr-1000-smart/) 
 
 ---
 
@@ -212,7 +212,7 @@ A composição do kit pode variar conforme o código comercial e o revendedor. A
 
 {% include produto-card.html id="bosch_gsb_120_li" %}
 
-> **Leia também:** [Comparativo Bosch GSB 120-LI e GSR 1000 Smart](/comparativos/bosch-12v-gsb-vs-gsr) — confirme o permalink real antes de publicar.
+> **Leia também:** [Comparativo Bosch GSB 120-LI e GSR 1000 Smart](/comparativos/bosch-gsr-1000-smart-vs-bosch-gsb-120-li/) 
 
 ---
 
