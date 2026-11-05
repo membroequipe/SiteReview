@@ -12,7 +12,7 @@ author: "Equipe de Análises"
 
 {% include review-toc.html %}
 
-# Melhores furadeiras de impacto para alvenaria e concreto: como escolher
+## Melhores furadeiras de impacto para alvenaria e concreto: como escolher
 
 **Para furar tijolo e paredes de alvenaria em reparos domésticos, uma furadeira de impacto convencional costuma ser suficiente. Para concreto denso, vários furos seguidos ou pequenas operações de cinzelamento, um martelete SDS-Plus tende a ser mais adequado.** A escolha depende da parede, do diâmetro do furo, da frequência de uso e da necessidade de trabalhar sem fio.
 
