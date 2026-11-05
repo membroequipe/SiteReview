@@ -183,7 +183,7 @@ Não há base na ficha técnica consultada para atribuir Bluetooth, bloqueio ant
 
 ### Bosch GSB 120-LI — Furadeira de Impacto 12V para Reparos Leves
 
-A **Bosch GSB 120-LI** é uma furadeira/parafusadeira de impacto de 12V. A ficha oficial informa torque máximo de **30 Nm**, torque de 14 Nm em condição macia, mandril de 3/8" (10 mm) e duas velocidades, com rotação sem carga de até 1.500 rpm. A frequência máxima de impacto informada é de **22.500 impactos por minuto**, não 27.000.
+A **Bosch GSB 120-LI** é uma furadeira/parafusadeira de impacto de 12V. A ficha oficial informa torque máximo de **30 Nm**, torque de 14 Nm em condição macia, mandril de 3/8" (10 mm) e duas velocidades, com rotação sem carga de até 1.500 rpm. A frequência máxima de impacto informada é de **22.500 impactos por minuto**.
 
 A função de impacto axial auxilia em furos ocasionais em alvenaria, desde que sejam usadas brocas apropriadas e respeitados os limites indicados pelo fabricante. Não transforma a ferramenta em um martelete SDS-Plus e não é a escolha adequada para perfurações frequentes ou grandes diâmetros em concreto.
 
@@ -218,7 +218,7 @@ A composição do kit pode variar conforme o código comercial e o revendedor. A
 
 ### Makita HP333D — Compacta 12V Max com Função Impacto
 
-A **Makita HP333D** é uma furadeira/parafusadeira de impacto 12V Max, com duas velocidades mecânicas, mandril de 3/8" (10 mm) e função de impacto para alvenaria. A ficha da Makita informa torque máximo de **34 Nm**, com valores de 30 Nm para junta rígida e 14 Nm para junta flexível, além de **20 níveis de ajuste de torque** — não 35 Nm e 21 posições.
+A **Makita HP333D** é uma furadeira/parafusadeira de impacto 12V Max, com duas velocidades mecânicas, mandril de 3/8" (10 mm) e função de impacto para alvenaria. A ficha da Makita informa torque máximo de **34 Nm**, com valores de 30 Nm para junta rígida e 14 Nm para junta flexível, além de **20 níveis de ajuste de torque**.
 
 A rotação sem carga é de até 1.700 rpm na segunda velocidade e 450 rpm na primeira. A taxa máxima de impacto é de até 25.500 impactos por minuto. O modelo pode atender montagem de móveis, manutenção e perfurações leves, respeitando os limites do fabricante.
 
