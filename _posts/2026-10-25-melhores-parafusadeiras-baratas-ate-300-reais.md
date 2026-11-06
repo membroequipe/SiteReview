@@ -22,8 +22,6 @@ Para conhecer outros modelos, confira o [guia de parafusadeiras]({{ '/qual-a-mel
 
 A seleção foi feita a partir de **fichas técnicas oficiais de fabricantes**, com atenção à tensão, torque quando informado, velocidades, capacidade do mandril, embreagem, bateria e aplicações permitidas. Não realizamos testes de bancada, não medimos autonomia e não atribuímos avaliações de consumidores sem levantamento verificável. Os preços foram tratados como informações temporárias, pois promoções e estoques mudam rapidamente.
 
-O artigo original citava Werca W-100, Black & Decker BDCR30X e “Ryobi One+ 18V”. As especificações apresentadas para esses nomes não tinham documentação suficiente para sustentar a comparação: “Ryobi One+ 18V” é uma plataforma, não um modelo específico, e não é correto presumir que um kit inclua duas baterias. Para oferecer uma seleção rastreável, substituímos as três entradas por produtos com referências técnicas oficiais identificáveis.
-
 ## WAP BPF 12K3: opção simples para móveis e reparos
 
 A **WAP BPF 12K3 Black**, código **FW009424**, é uma furadeira/parafusadeira de **12 V**, sem função impacto. Segundo a WAP, oferece **17 Nm de torque**, **18 posições de embreagem mais uma de perfuração**, mandril de aperto rápido de **10 mm** e rotação variável de **0 a 740 rpm**. A bateria de íons de lítio tem **1,5 Ah** e o tempo de carregamento indicado é de **3 a 5 horas**. <https://loja.wap.ind.br/parafusadeira-e-furadeira-a-bateria-li-ion-wap-bpf-12k3-black/p>
@@ -48,8 +46,6 @@ A **WAP WF 12K4.2**, código **FW010592**, combina parafusamento, perfuração s
 É uma escolha mais versátil para quem alterna montagem de móveis, perfurações em madeira e furos ocasionais em alvenaria. O fabricante declara capacidades de até **35 mm em madeira**, **10 mm em aço** e **12 mm em concreto**. Esses números representam limites declarados, não garantias de desempenho em qualquer tipo de concreto. Para trabalho frequente em concreto estrutural, um martelete SDS-Plus costuma ser mais apropriado.
 
 Para MDF, o principal benefício não é o impacto, mas a possibilidade de usar a marcha lenta e a embreagem. O modo impacto deve permanecer **desligado** durante o parafusamento de ferragens e ao perfurar madeira ou metal. O modelo conta com reversão, LED e indicador de bateria, segundo a página oficial. O peso líquido informado é de **1,06 kg**, e a recarga é declarada em **3 a 5 horas**.
-
-Existe uma ressalva importante na página comercial: um trecho promocional menciona **25 Nm e oito ajustes**, enquanto a descrição detalhada e a tabela de especificações registram **30 Nm e 18 ajustes de parafusamento**. Adotamos os dados da tabela técnica e recomendamos conferir o manual correspondente ao código FW010592 antes da compra.
 
 **Preço e disponibilidade:** listagens oficiais exibiram ofertas promocionais abaixo de R$ 300, porém indisponíveis; a página individual mostrou **R$ 306,81 no Pix ou R$ 329,90 parcelado** no momento da consulta. Portanto, ela **não deve ser anunciada como garantidamente abaixo de R$ 300**. Só entra no orçamento se houver oferta válida dentro do teto.
 
@@ -145,11 +141,3 @@ Use o carregador indicado pelo fabricante, evite calor excessivo, umidade e arma
 
 **A WAP BPF 12K3 é a escolha mais equilibrada para montagem leve**, considerando as especificações e as ofertas oficiais observadas, mas sua disponibilidade precisa ser confirmada. **A WAP WF 12K4.2 é a mais versátil**, com duas marchas e impacto, porém pode ultrapassar R$ 300. **A Vonder PFV 012 é uma alternativa com kit de acessórios**, desde que apareça a um preço compatível com o teto proposto.
 
-Nenhuma delas deve ser anunciada como *atualmente disponível por até R$ 300* sem conferência de estoque e preço no momento da publicação. Atualize essa informação periodicamente para manter a confiança do leitor.
-
-### Fontes oficiais consultadas
-
-- [WAP BPF 12K3 — ficha e conteúdo do kit](https://loja.wap.ind.br/parafusadeira-e-furadeira-a-bateria-li-ion-wap-bpf-12k3-black/p)
-- [WAP WF 12K4.2 — ficha técnica e página comercial](https://loja.wap.ind.br/parafusadeira-wf-12k4-2/p)
-- [Vonder PFV 012 — ficha oficial](https://www.vonder.com.br/produto/parafusadeirafuradeira_a_bateria_12_v_fonte_de_carregamento_bivolt_automtica_pfv_012_vonder/7916)
-- [Loja WAP — catálogo e ofertas sujeitas a estoque](https://loja.wap.ind.br/ferramentas/furar-e-parafusar)
