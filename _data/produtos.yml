@@ -845,7 +845,7 @@ black_decker_ld12s:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1L8vso3"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/1Lh89eXsyC"
 
   especificacoes:
     - nome: "Modelo"
@@ -883,7 +883,7 @@ bosch_gsb_120_li:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1BEytTx"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/6VPEJJAJar"
 
   especificacoes:
     - nome: "Categoria"
@@ -917,7 +917,7 @@ bosch_gsr_1000_smart:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1dKpL1V"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/1BkZT5lUC"
   especificacoes:
     - nome: "Categoria"
       valor: "Furadeira e parafusadeira a bateria"
@@ -1059,7 +1059,7 @@ dewalt_dcd777:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1AmLLm5"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/4Ve9vrYCdH"
 
   especificacoes:
     - nome: "Categoria"
@@ -1109,7 +1109,7 @@ bosch_gsr_12v_15_fc:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1qedknH"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/2gCVkbKkuI"
   especificacoes:
     - nome: "Categoria"
       valor: "Furadeira e parafusadeira a bateria"
@@ -1241,7 +1241,7 @@ bosch_gbh_18v_21:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/2xtDARb"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/80E26yCIfM"
   especificacoes:
     - nome: "Categoria"
       valor: "Martelete perfurador e rompedor a bateria"
