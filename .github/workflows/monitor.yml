@@ -1,40 +1,69 @@
+
 name: Monitor diário de afiliados
 
 on:
   schedule:
-    - cron: "0 9 * * *"
-
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: affiliate-monitor
+  cancel-in-progress: false
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Recuperar histórico
+        run: |
+          mkdir -p public
+          git fetch origin gh-pages:refs/remotes/origin/gh-pages || true
+          for f in latest.json history.csv; do
+            git show "origin/gh-pages:$f" > "public/$f" 2>/dev/null || true
+          done
 
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
       - name: Instalar dependências
         run: pip install -r monitor-afiliados/requirements.txt
 
       - name: Executar monitoramento
-        run: python monitor-afiliados/src/monitor.py
         env:
           PRODUCTS_FILE: _data/produtos.yml
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_DIR: ${{ github.workspace }}/public
+          REQUEST_DELAY_SECONDS: '1.2'
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '587' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: python monitor-afiliados/src/monitor.py
 
-      - name: Salvar resultados
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add monitor-afiliados/
-          git diff --cached --quiet || git commit -m "Atualiza monitoramento de afiliados"
-          git push
+      - name: Publicar painel
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
+          force_orphan: false
+
+      - name: Salvar relatório
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-monitor-afiliados
+          path: public/
+          retention-days: 30
