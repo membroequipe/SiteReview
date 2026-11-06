@@ -6,7 +6,7 @@ date: 2026-10-26
 categories: [guias]
 slug: "primeira-parafusadeira-qual-comprar-guia-iniciantes"
 image: "/assets/images/posts/primeira-parafusadeira-qual-comprar.webp"
-author: "Equipe de Análises"
+author: "Equipe de Análises" 
 ---
 
 Comprar a primeira parafusadeira é mais fácil quando você começa pelas tarefas que realmente pretende fazer. Montar um armário de MDF, instalar dobradiças e apertar puxadores exige controle; já perfurar madeira e metal requer mandril adequado, brocas corretas e velocidade compatível. A ferramenta mais forte nem sempre é a mais apropriada para quem está aprendendo.
