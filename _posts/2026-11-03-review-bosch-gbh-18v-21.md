@@ -66,8 +66,6 @@ A potência elétrica em watts indica consumo nominal de uma ferramenta com fio;
 
 ## Opinião dos Compradores: como interpretar avaliações
 
-Avaliações publicadas em lojas podem ajudar a identificar problemas recorrentes, mas precisam ser lidas com critério. Verifique se o comentário corresponde exatamente ao modelo e ao kit anunciado, pois versões com códigos parecidos podem ter acessórios ou especificações diferentes. Dê mais peso a relatos que descrevam material perfurado, diâmetro da broca e tempo de uso do que a frases genéricas sobre força.
-
 A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
 
 ### Pontos positivos
