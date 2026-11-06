@@ -70,7 +70,7 @@ Quem já possui outras ferramentas da mesma linha pode economizar comprando uma 
 
 Comentários de compradores podem ajudar a identificar questões de ergonomia, durabilidade do mandril e qualidade da embalagem, mas precisam ser lidos com critério. Dê preferência a avaliações que mencionem o código exato do modelo, o tipo de serviço executado e o período de utilização. Uma opinião sobre outra versão da mesma família não confirma que todos os acessórios ou recursos estejam presentes neste kit.
 
-Avaliações com fotografias da etiqueta e da maleta são mais úteis para conferir o conteúdo da compra do que afirmações genéricas como “muito forte”. Também é importante separar defeitos de fabricação de situações de uso inadequado, como exigir perfuração pesada em concreto de uma ferramenta sem impacto. Não reproduzimos aqui depoimentos específicos nem números de avaliações porque não foram verificados de forma independente.
+Avaliações com fotografias da etiqueta e da maleta são mais úteis para conferir o conteúdo da compra do que afirmações genéricas como “muito forte”. Também é importante separar defeitos de fabricação de situações de uso inadequado, como exigir perfuração pesada em concreto de uma ferramenta sem impacto. 
 
 Ao comparar vendedores, observe nota fiscal, política de devolução, assistência autorizada e descrição da garantia válida no Brasil. Se o preço estiver muito abaixo da média, confirme a procedência, o tipo de plugue do carregador e a tensão de entrada antes de finalizar o pedido.
 

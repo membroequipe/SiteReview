@@ -203,8 +203,6 @@ Nesta seção, os pontos apresentados representam uma **análise editorial das v
 - **Peso variável:** baterias de maior capacidade podem deixar o conjunto mais pesado em trabalhos prolongados.
 - **Escolha de acessórios:** brocas e bits inadequados podem comprometer o resultado, mesmo com uma ferramenta de boa capacidade.
 
-**Nota sobre avaliações:** não foram utilizados dados suficientes de Amazon, Mercado Livre ou Shopee para determinar quais elogios ou reclamações são estatisticamente mais frequentes. Os tópicos acima devem ser interpretados como vantagens e pontos de atenção identificados na análise técnica.
-
 ## Comparativo com Concorrentes
 
 Para avaliar se a Makita DHP485Z vale a pena, é útil compará-la com outros modelos da própria fabricante e com ferramentas de proposta semelhante.

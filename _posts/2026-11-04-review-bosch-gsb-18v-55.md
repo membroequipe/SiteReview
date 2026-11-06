@@ -217,8 +217,6 @@ Outro cuidado envolve os kits comerciais.
 
 A Bosch oferece diferentes apresentações da GSB 18V-55, incluindo versões com baterias, carregador e maleta, além de outras configurações.
 
-Antes da compra, confira o código completo do produto e os acessórios realmente incluídos.
-
 Se você ainda está comparando opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) e os [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}).
 
 ## Opinião dos Compradores

@@ -60,7 +60,6 @@ Entretanto, o conforto depende da posição de trabalho, do acessório utilizado
 
 Uma ferramenta segurada acima da cabeça durante vários minutos pode provocar mais fadiga do que a mesma ferramenta utilizada sobre uma bancada.
 
-Não realizamos medições ergonômicas independentes. Portanto, não atribuímos ao modelo reduções específicas de fadiga ou vantagens de conforto que não tenham sido demonstradas.
 
 ### Mandril metálico de 13 mm
 

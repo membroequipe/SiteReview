@@ -20,7 +20,7 @@ Para conhecer outros modelos, confira o [guia de parafusadeiras]({{ '/qual-a-mel
 
 ## Como fizemos esta comparação
 
-A seleção foi feita a partir de **fichas técnicas oficiais de fabricantes**, com atenção à tensão, torque quando informado, velocidades, capacidade do mandril, embreagem, bateria e aplicações permitidas. Não realizamos testes de bancada, não medimos autonomia e não atribuímos avaliações de consumidores sem levantamento verificável. Os preços foram tratados como informações temporárias, pois promoções e estoques mudam rapidamente.
+A seleção foi feita a partir de **fichas técnicas oficiais de fabricantes**, com atenção à tensão, torque quando informado, velocidades, capacidade do mandril, embreagem, bateria e aplicações permitidas. Os preços foram tratados como informações temporárias, pois promoções e estoques mudam rapidamente.
 
 ## WAP BPF 12K3: opção simples para móveis e reparos
 

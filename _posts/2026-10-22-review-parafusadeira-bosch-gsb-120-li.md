@@ -27,7 +27,7 @@ avaliacao:
 {% include review-toc.html %}
 
 
-A **Furadeira Bosch GSB 120-LI** integra a linha Professional 12V da Bosch e combina parafusamento, perfuração sem impacto e perfuração com impacto em uma ferramenta compacta. A ficha técnica brasileira informa torque suave/duro de 14/30 Nm, duas velocidades mecânicas e até 22.500 impactos por minuto. Este review confronta as especificações oficiais com as aplicações previstas pelo fabricante; não apresenta testes próprios nem uma amostra auditável de avaliações de compradores.
+A **Furadeira Bosch GSB 120-LI** integra a linha Professional 12V da Bosch e combina parafusamento, perfuração sem impacto e perfuração com impacto em uma ferramenta compacta. A ficha técnica brasileira informa torque suave/duro de 14/30 Nm, duas velocidades mecânicas e até 22.500 impactos por minuto. Este review confronta as especificações oficiais com as aplicações previstas pelo fabricante.
 
 {% include resumo-avaliacao.html %}
 

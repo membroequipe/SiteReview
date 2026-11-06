@@ -69,7 +69,7 @@ A utilização do modo impacto gera ruído e vibração, especialmente em superf
 
 ## Opinião dos Compradores
 
-As observações abaixo são **critérios de avaliação para quem pesquisa o modelo**, não uma compilação de depoimentos verificados. Não foram atribuídas falas a compradores sem identificação de origem, data e produto adquirido.
+As observações abaixo são **critérios de avaliação para quem pesquisa o modelo**, não uma compilação de depoimentos verificados. 
 
 ### Pontos Positivos a Considerar
 
@@ -116,7 +116,7 @@ O melhor custo-benefício depende do preço do kit e das baterias que você já 
 
 ### Qual é o torque da Bosch GSB 180-LI?
 
-O torque máximo informado pela Bosch é de **54 Nm em junta rígida e 21 Nm em junta flexível**, conforme a norma indicada no manual. O artigo não utiliza a alegação de 60 Nm, pois ela não corresponde à documentação consultada.
+O torque máximo informado pela Bosch é de **54 Nm em junta rígida e 21 Nm em junta flexível**, conforme a norma indicada no manual. 
 
 ### A Bosch GSB 180-LI tem luz LED e motor brushless?
 
@@ -140,7 +140,3 @@ Para profissionais de manutenção e instaladores que alternam entre parafusos, 
 
 {% include produto-card.html %}
 
-<!-- Fontes técnicas consultadas:
-Manual Bosch GSB/GSR 180-LI: https://www.bosch-professional.com/binary/manualsmedia/o409847v21_160992A8JS_202302.pdf
-Página oficial Bosch GSB 180-LI: https://www.bosch-professional.com/qa/en/products/gsb-180-li-06019F8300
--->

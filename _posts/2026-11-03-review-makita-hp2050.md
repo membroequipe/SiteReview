@@ -28,7 +28,7 @@ avaliacao:
 
 A Makita HP2050 é uma furadeira de impacto com fio de 720 W, voltada a quem precisa alternar entre madeira, aço, alvenaria e concreto. Sua principal diferença diante de furadeiras simples é a transmissão de duas velocidades mecânicas, que amplia as possibilidades de ajuste. Não se trata de uma máquina 18 V a bateria: a família HP2050 é alimentada pela rede elétrica.
 
-Este review é uma análise documental das fichas do fabricante e de critérios de uso. Não realizamos testes de bancada e não apresentamos depoimentos de compradores como se tivessem sido verificados. Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
+Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
 
 {% include resumo-avaliacao.html %}
 
@@ -68,7 +68,7 @@ A potência elétrica em watts indica consumo nominal de uma ferramenta com fio;
 
 Avaliações publicadas em lojas podem ajudar a identificar problemas recorrentes, mas precisam ser lidas com critério. Verifique se o comentário corresponde exatamente ao modelo e ao kit anunciado, pois versões com códigos parecidos podem ter acessórios ou especificações diferentes. Dê mais peso a relatos que descrevam material perfurado, diâmetro da broca e tempo de uso do que a frases genéricas sobre força.
 
-Neste artigo não reproduzimos notas de plataformas comerciais, não estimamos porcentagens de aprovação e não atribuímos experiências práticas a uma equipe que não testou a ferramenta. A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
+A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
 
 ### Pontos positivos
 

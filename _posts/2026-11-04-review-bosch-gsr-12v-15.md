@@ -68,9 +68,6 @@ Na montagem de móveis desmontáveis, confira a profundidade do furo e o comprim
 
 A ferramenta utiliza **baterias removíveis Bosch Professional 12V**. A capacidade em ampère-hora influencia o tempo de uso, mas não autoriza prometer uma quantidade fixa de parafusos por carga. O resultado muda com a dureza da madeira, tamanho do fixador, temperatura, estado da bateria e pausas entre operações. Em uma rotina de montagem, uma bateria reserva pode valer mais que um pequeno ganho de rotação nominal.
 
-## Opinião dos Compradores: o que observar
-
-Não reproduzimos avaliações de lojas como se fossem verificadas nem atribuímos à ferramenta resultados de testes que não fizemos. Para interpretar comentários de compradores, procure identificar a versão exata, o tipo de bateria e o material trabalhado. Um relato de “falta de força” em concreto não é uma crítica válida a uma parafusadeira sem impacto; já dificuldades frequentes em parafusos pequenos podem indicar uso inadequado da embreagem ou ponteira.
 
 ### Vantagens relevantes
 
@@ -112,7 +109,8 @@ O sistema FlexiClick tende a ser mais útil para instaladores de móveis planeja
 
 Não necessariamente. Este review responde se a **Bosch GSR 12V-15 comum vale a pena** para montagem de móveis e tarefas domésticas. O review específico da **Bosch GSR 12V-15 FC** deve aprofundar o funcionamento do FlexiClick, os adaptadores e a relação custo-benefício para instalações em espaços apertados. Essa separação ajuda o leitor a escolher o modelo correto e evita tratar produtos diferentes como se fossem um único anúncio.
 
-Se estiver em dúvida entre as duas versões, consulte também o **review da Bosch GSR 12V-15 FC** na nossa [seção de reviews]({{ '/reviews/' | relative_url }}). Ao publicar, substitua esse link geral pelo endereço direto do artigo da FC já existente no site.
+Se estiver em dúvida entre as duas versões, consulte também o **review da Bosch GSR 12V-15 FC** na nossa [seção de reviews]({{ '/reviews/' | relative_url }}). 
+
 
 ## Comparativo com Concorrentes
 

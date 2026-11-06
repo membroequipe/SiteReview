@@ -191,8 +191,6 @@ Por isso, a DHP484RTJ não deve ser considerada substituta de um martelete para 
 
 Também é importante verificar a existência de tubulações e instalações elétricas ocultas antes de perfurar paredes.
 
-Em estruturas de concreto armado, qualquer intervenção deve respeitar as condições de segurança da construção.
-
 ### Parafusamento e controle de torque
 
 Além de perfurar, a Makita DHP484RTJ funciona como parafusadeira.

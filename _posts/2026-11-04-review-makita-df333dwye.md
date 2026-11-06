@@ -26,7 +26,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Makita DF333DWYE** é uma opção de furadeira e parafusadeira a bateria para quem monta móveis, instala dobradiças, fixa prateleiras ou faz reparos em casa. Neste review, examinamos especificações publicadas pelo fabricante e traduzimos os números para situações de uso, sem afirmar que realizamos testes de bancada ou entrevistas com compradores. O objetivo é explicar o que a ferramenta pode entregar e quando vale procurar outra categoria.
+A **Makita DF333DWYE** é uma opção de furadeira e parafusadeira a bateria para quem monta móveis, instala dobradiças, fixa prateleiras ou faz reparos em casa. 
 
 Para uma escolha mais ampla, consulte nosso [guia para comprar a primeira parafusadeira]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e a [página de reviews]({{ '/reviews/' | relative_url }}).
 

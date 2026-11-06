@@ -19,7 +19,7 @@ A GSR 1000 Smart chama a atenção pela simplicidade, pelo tamanho compacto e pe
 
 ## Como fizemos esta comparação
 
-Esta análise foi construída com base nas fichas técnicas, nos manuais e no catálogo da Bosch Professional, com atenção às variantes comercializadas no Brasil. Comparamos torque, faixas de rotação, mandril, sistema de bateria e capacidades de perfuração, sem tratar especificações de laboratório como garantia de desempenho em toda situação. As diferenças práticas indicadas a seguir são inferências técnicas, não resultados de testes próprios de autonomia ou resistência.
+Esta análise foi construída com base nas fichas técnicas, nos manuais e no catálogo da Bosch Professional, com atenção às variantes comercializadas no Brasil. Comparamos torque, faixas de rotação, mandril, sistema de bateria e capacidades de perfuração, sem tratar especificações de laboratório como garantia de desempenho em toda situação.
 
 ## Bosch GSR 1000 Smart: análise individual
 

@@ -28,7 +28,7 @@ avaliacao:
 
 O Bosch GBH 18V-21 é um martelete perfurador e rompedor da linha Professional 18V. O diferencial não é simplesmente funcionar sem fio: ele combina mecanismo eletropneumático, encaixe SDS-Plus e motor brushless. Por isso, faz mais sentido para perfuração repetida em concreto do que uma furadeira de impacto convencional, especialmente quando o trabalho exige mobilidade.
 
-Este review é uma análise documental das fichas do fabricante e de critérios de uso. Não realizamos testes de bancada e não apresentamos depoimentos de compradores como se tivessem sido verificados. Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
+Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
 
 {% include resumo-avaliacao.html %}
 
@@ -68,7 +68,7 @@ A potência elétrica em watts indica consumo nominal de uma ferramenta com fio;
 
 Avaliações publicadas em lojas podem ajudar a identificar problemas recorrentes, mas precisam ser lidas com critério. Verifique se o comentário corresponde exatamente ao modelo e ao kit anunciado, pois versões com códigos parecidos podem ter acessórios ou especificações diferentes. Dê mais peso a relatos que descrevam material perfurado, diâmetro da broca e tempo de uso do que a frases genéricas sobre força.
 
-Neste artigo não reproduzimos notas de plataformas comerciais, não estimamos porcentagens de aprovação e não atribuímos experiências práticas a uma equipe que não testou a ferramenta. A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
+A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
 
 ### Pontos positivos
 

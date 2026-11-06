@@ -33,8 +33,6 @@ A **DeWalt DCD700 vale a pena em 2026** para quem procura uma furadeira e parafu
 
 Diferentemente das furadeiras de impacto, a DCD700 foi desenvolvida para **parafusamento e perfuração sem percussão**. Isso significa que ela pode ser utilizada em madeira, MDF, metal e outros materiais compatíveis, mas não é a escolha indicada para quem precisa fazer furos frequentes em paredes de alvenaria ou concreto.
 
-Outro ponto importante envolve a versão comercial. Embora o código DCD700D2-BR apareça em algumas referências comerciais, não foi possível confirmar essa identificação específica na documentação oficial brasileira consultada. Por isso, este review analisa a ferramenta DCD700, sem presumir a quantidade de baterias ou acessórios de um kit não verificado.
-
 A nota editorial de **7,8/10** considera as especificações da fabricante, as aplicações recomendadas e as limitações do equipamento. Não realizamos testes próprios de autonomia, torque ou durabilidade.
 
 {% include resumo-avaliacao.html %}

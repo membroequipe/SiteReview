@@ -28,7 +28,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Makita HP333 12V CXT** é uma furadeira e parafusadeira de impacto compacta indicada para montagem de móveis, manutenção, instalações e perfurações ocasionais em alvenaria. Ela combina duas velocidades, ajuste de torque, reversão e iluminação de trabalho. A avaliação editorial de 8,7/10 considera essas características e suas limitações, sem alegar testes práticos próprios ou análise quantitativa de compradores. Ao contrário do que constava na versão anterior deste artigo, **a HP333 não é brushless**: a Makita Brasil informa motor de dois polos. Para quem busca um modelo sem escovas, vale comparar com a HP332, produto diferente.
+A **Makita HP333 12V CXT** é uma furadeira e parafusadeira de impacto compacta indicada para montagem de móveis, manutenção, instalações e perfurações ocasionais em alvenaria. Ela combina duas velocidades, ajuste de torque, reversão e iluminação de trabalho. A avaliação editorial de 8,7/10 considera essas características e suas limitações, sem alegar testes práticos próprios ou análise quantitativa de compradores. 
 
 {% include resumo-avaliacao.html %}
 

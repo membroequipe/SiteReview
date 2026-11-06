@@ -13,7 +13,7 @@ author: "Equipe de Análises"
 avaliacao:
   nota: 8.5
   resumo: >-
-    A Black+Decker BCD704C1-BR é uma furadeira/parafusadeira de impacto 20V MAX voltada a montagens, reparos e perfurações ocasionais em alvenaria. Possui duas velocidades mecânicas, mandril sem chave de 10 mm e até 21.000 impactos por minuto. A nota 8,5/10 é uma avaliação editorial, não uma média comprovada de consumidores.
+    A Black+Decker BCD704C1-BR é uma furadeira/parafusadeira de impacto 20V MAX voltada a montagens, reparos e perfurações ocasionais em alvenaria. Possui duas velocidades mecânicas, mandril sem chave de 10 mm e até 21.000 impactos por minuto.
   vantagens:
     - "Função impacto para furos ocasionais em alvenaria"
     - "Duas velocidades mecânicas e controle de torque para parafusamento"
@@ -49,11 +49,11 @@ Para comparar formatos e capacidades, consulte nosso [guia das melhores furadeir
 
 ## Desempenho e Aplicações
 
-A fabricante indica a BCD704C1-BR para parafusamento e perfuração em madeira, metal e alvenaria. A ficha oficial informa capacidade de até 20 mm em madeira, 10 mm em metal e 10 mm em alvenaria, com até 21.000 impactos por minuto. Revendedores anunciam 45 Nm de torque e velocidades de 0–360 e 0–1.400 rpm, mas esses números não constam na página oficial brasileira consultada; portanto, devem ser tratados como dados de varejo sujeitos à conferência do manual e da variante adquirida.
+A fabricante indica a BCD704C1-BR para parafusamento e perfuração em madeira, metal e alvenaria. A ficha oficial informa capacidade de até 20 mm em madeira, 10 mm em metal e 10 mm em alvenaria, com até 21.000 impactos por minuto. 
 
 Para montar móveis e instalar acessórios, o gatilho de velocidade variável e o ajuste de torque ajudam a controlar o aperto. Em madeira dura ou parafusos maiores, faça pré-furo quando necessário para reduzir o risco de rachaduras e sobrecarga. Em alvenaria, utilize broca apropriada e modo impacto quando indicado. Evite tratar a ferramenta como substituta de um martelete rotativo para perfuração frequente em concreto estrutural; antes de furar vigas, pilares ou lajes, verifique instalações e implicações estruturais.
 
-A versão comercial é anunciada com bateria de íons de lítio de 1,5 Ah. A duração por carga varia muito com o material, diâmetro da broca, pressão aplicada e ciclos de trabalho. Não há base verificável para afirmar duas a três horas por carga, número fixo de furos com serra-copo ou carregamento de 80% em 40 minutos. Confira o carregador efetivamente fornecido e a compatibilidade de baterias adicionais com o sistema PowerConnect da marca.
+A versão comercial é anunciada com bateria de íons de lítio de 1,5 Ah. A duração por carga varia muito com o material, diâmetro da broca, pressão aplicada e ciclos de trabalho. Confira o carregador efetivamente fornecido e a compatibilidade de baterias adicionais com o sistema PowerConnect da marca.
 
 ## Opinião dos Compradores
 

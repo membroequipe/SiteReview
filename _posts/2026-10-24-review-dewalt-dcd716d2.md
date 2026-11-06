@@ -56,7 +56,7 @@ Se você está comparando alternativas, consulte nosso [guia das melhores furade
 
 ### Torque, rotação e impacto
 
-A página atual da DeWalt Brasil anuncia **torque máximo de 30 Nm**, enquanto um catálogo da marca apresenta **25 Nm** para a DCD716D2. Essa divergência deve ser considerada ao comparar anúncios. As informações coincidentes incluem rotação sem carga de **0–400 rpm** na primeira marcha e **0–1.500 rpm** na segunda, além de **0–6.000 / 0–22.500 impactos por minuto**. Não há fundamento documental para os 300 UWO, 1.700 rpm ou 28.900 impactos citados em descrições incorretas do produto.
+A página atual da DeWalt Brasil anuncia **torque máximo de 30 Nm**, enquanto um catálogo da marca apresenta **25 Nm** para a DCD716D2. Essa divergência deve ser considerada ao comparar anúncios. As informações coincidentes incluem rotação sem carga de **0–400 rpm** na primeira marcha e **0–1.500 rpm** na segunda, além de **0–6.000 / 0–22.500 impactos por minuto**. 
 
 Na prática, a primeira velocidade favorece o controle no parafusamento e em brocas que exigem rotação mais baixa. A segunda é apropriada a furos menores em madeira, metal e alvenaria, respeitando o tipo de broca e as recomendações de segurança. Os 15 ajustes de torque ajudam a reduzir o risco de danificar parafusos e superfícies delicadas, mas não correspondem a valores fixos e universais de Nm por posição.
 
@@ -82,7 +82,6 @@ A principal vantagem é reunir duas velocidades, ajuste de torque, mandril de ap
 
 O motor com escovas não oferece a mesma arquitetura dos modelos brushless mais recentes, e o mandril de 10 mm limita o diâmetro da haste dos acessórios. Para furos frequentes em concreto duro ou trabalhos pesados, a categoria de 12V pode não ser a melhor escolha. Também vale comparar o preço do kit completo com o de alternativas mais novas, considerando baterias, carregador, garantia e assistência técnica.
 
-Não apresentamos depoimentos como se fossem avaliações verificadas nem atribuímos testes de autonomia, temperatura ou resistência à ferramenta sem documentação identificável.
 
 ## Comparativo com Alternativas
 
@@ -92,7 +91,7 @@ Não apresentamos depoimentos como se fossem avaliações verificadas nem atribu
 | **Makita HP333** | 12V max CXT, mandril de 10 mm e função impacto | Quem já usa baterias Makita CXT |
 | **Bosch GSB 12V-35** | Plataforma Bosch Professional 12V, motor brushless e impacto | Quem prioriza motor sem escovas e já possui baterias Bosch 12V |
 
-A comparação depende do **código exato** do produto: a Bosch **GSB** tem função impacto, enquanto a **GSR** não é a mesma configuração. O modelo Makita **DF001DW** citado no texto anterior também não deve ser tratado como equivalente técnico direto sem confirmar sua versão e características. Para outras opções, consulte nossos [reviews de furadeiras]({{ '/reviews/' | relative_url }}).
+A comparação depende do **código exato** do produto: a Bosch **GSB** tem função impacto, enquanto a **GSR** não é a mesma configuração. Para outras opções, consulte nossos [reviews de furadeiras]({{ '/reviews/' | relative_url }}).
 
 ## Perguntas Frequentes
 

@@ -47,15 +47,14 @@ O mandril de manga única aceita acessórios com haste compatível até 10 mm. A
 
 ## Desempenho e Aplicações
 
-A aplicação principal da LD12S é o parafusamento e a perfuração rotativa em materiais adequados à sua classe, especialmente madeira e outros materiais de uso doméstico. A fabricante confirma velocidade variável e reversível, mas a ficha oficial consultada da LD12SP-BR não apresenta os valores de 30 Nm e 0–400/0–1.500 rpm divulgados no texto anterior. Esses números não devem ser tratados como especificações oficiais verificadas sem o manual da variante exata.
+A aplicação principal da LD12S é o parafusamento e a perfuração rotativa em materiais adequados à sua classe, especialmente madeira e outros materiais de uso doméstico. 
 
-Por não possuir mecanismo de impacto, a LD12S não é a escolha recomendada para perfurar concreto ou alvenaria resistente. Para instalar buchas em paredes de tijolo ou concreto, prefira uma furadeira de impacto adequada ao material; para concreto estrutural e trabalhos recorrentes, avalie um martelete apropriado. Você pode [consultar a disponibilidade da Black+Decker LD12S na Amazon](SEU_LINK_AMAZON), verificando o código da versão anunciada.
+Por não possuir mecanismo de impacto, a LD12S não é a escolha recomendada para perfurar concreto ou alvenaria resistente. Para instalar buchas em paredes de tijolo ou concreto, prefira uma furadeira de impacto adequada ao material; para concreto estrutural e trabalhos recorrentes, avalie um martelete apropriado. 
 
-O ajuste de torque, quando presente na configuração adquirida, ajuda a reduzir o risco de apertar demais parafusos em móveis. A regulagem ideal deve ser encontrada por teste em uma peça de descarte, e não por posições fixas atribuídas a todos os tipos de parafuso. Não encontramos ensaios verificáveis que sustentem variação de ±10% entre ciclos ou capacidades específicas de furação anunciadas no texto original.
+O ajuste de torque, quando presente na configuração adquirida, ajuda a reduzir o risco de apertar demais parafusos em móveis. A regulagem ideal deve ser encontrada por teste em uma peça de descarte, e não por posições fixas atribuídas a todos os tipos de parafuso. 
 
-A autonomia depende da capacidade e condição da bateria, da resistência do material, do diâmetro da broca e do intervalo entre operações. Os números anteriores de 120–150 parafusos por carga, 8–10 furos em aço e recarga em 3–5 horas não foram confirmados na documentação oficial consultada. A composição e o carregador também variam entre versões comerciais; confirme o conteúdo da embalagem antes da compra.
+A autonomia depende da capacidade e condição da bateria, da resistência do material, do diâmetro da broca e do intervalo entre operações. 
 
-Não é adequado afirmar medições de ruído, vibração, temperatura ou desgaste interno sem ensaios identificáveis. Durante a operação, use brocas corretas, evite sobrecarga e siga o manual de segurança. Se houver perda perceptível de potência ou aquecimento excessivo, interrompa o trabalho e verifique as condições de uso.
 
 ## Opinião dos Compradores
 
@@ -75,7 +74,7 @@ As observações abaixo são critérios práticos de avaliação para compradore
 
 ## Comparativo com Concorrentes
 
-A **Bosch GSR 12V-15 Professional** é uma alternativa 12V de proposta mais profissional. Segundo a Bosch, oferece torque de 15/30 Nm (suave/duro), duas faixas de rotação de 0–400 e 0–1.300 rpm e mandril de 1 a 10 mm. Diferentemente do que dizia a versão anterior deste review, a GSR 12V-15 não deve ser descrita como brushless; não há suporte para atribuir a ela motor sem escovas ou torque de 35 Nm. A decisão entre os modelos depende de preço, frequência de uso e disponibilidade de assistência e acessórios.
+A **Bosch GSR 12V-15 Professional** é uma alternativa 12V de proposta mais profissional. Segundo a Bosch, oferece torque de 15/30 Nm (suave/duro), duas faixas de rotação de 0–400 e 0–1.300 rpm e mandril de 1 a 10 mm. 
 
 A **Makita DF001DW** também merece atenção, mas pertence a uma categoria diferente: é uma parafusadeira de 3,6V com bateria integrada, torque máximo divulgado de 9 Nm e rotação de 220 rpm. Não é uma furadeira 12V CXT com bateria deslizante. Serve melhor como alternativa compacta para parafusamento leve do que como concorrente direta em perfuração.
 

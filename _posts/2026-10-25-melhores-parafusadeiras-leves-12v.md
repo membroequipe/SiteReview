@@ -23,7 +23,7 @@ Neste guia, comparamos três ferramentas de 12V com fichas técnicas identificá
 
 Consultamos catálogos e páginas oficiais para verificar tensão, torque, rotações, peso e recursos de cada modelo. Comparamos também o tipo de bateria, a facilidade de trabalhar em espaços estreitos e a capacidade de controlar a profundidade do parafuso. **Peso com bateria e peso sem bateria não são diretamente comparáveis**; por isso, a tabela informa a condição de medição quando disponível.
 
-Ergonomia não se resume ao peso: a largura do punho, a posição do centro de gravidade, o tamanho da bateria e o acesso ao parafuso podem mudar a sensação de conforto. Sem testes instrumentados e usuários avaliando cada empunhadura, não seria correto afirmar que uma ferramenta causa menos fadiga ou vibra menos do que outra.
+Ergonomia não se resume ao peso: a largura do punho, a posição do centro de gravidade, o tamanho da bateria e o acesso ao parafuso podem mudar a sensação de conforto. 
 
 ## Bosch GSR 1000 Smart: análise individual
 

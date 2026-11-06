@@ -16,7 +16,7 @@ author: "Equipe de Análises"
 
 **Para montar móveis de MDF, a melhor parafusadeira não é necessariamente a mais potente:** importa ter gatilho progressivo, embreagem ajustável, bit correto e tamanho confortável para trabalhar em gavetas, dobradiças e cantos. Neste comparativo, selecionamos três ferramentas de propostas diferentes: a **Bosch GSB 18V-21**, para quem também precisa perfurar alvenaria; a **DeWalt DCD708**, para montagem e perfuração sem impacto em espaços limitados; e a **Makita HP332**, opção compacta da plataforma 12V CXT com motor BL e impacto para trabalhos leves.
 
-O ranking é uma **avaliação editorial de especificações, aplicações e limitações**. Não realizamos ensaios próprios de torque, autonomia, resistência ou ergonomia, e não atribuímos opiniões a compradores que não foram consultados. Valores, itens do kit e disponibilidade devem ser confirmados no anúncio do código exato.
+O ranking é uma **avaliação editorial de especificações, aplicações e limitações**. Não realizamos ensaios próprios de torque, autonomia, resistência ou ergonomia. 
 
 ## Resposta rápida: qual parafusadeira escolher?
 
@@ -62,7 +62,6 @@ A DCD708 atende a montagem de móveis, instalação de puxadores, dobradiças, t
 
 A nomenclatura **20V MAX** refere-se à tensão máxima inicial da bateria; a tensão nominal da plataforma é **18V**. Não se deve comparar 20V MAX com 18V de outra marca como se isso, isoladamente, provasse maior força ou autonomia. Essas características dependem também de motor, transmissão, bateria e aplicação.
 
-O sufixo **DCD708D2** costuma identificar um conjunto comercial, mas **não confirma, por si só, uma maleta com 42 acessórios ou determinada configuração de carregador no Brasil**. Confira a lista exata do vendedor e o código de produto antes de publicar uma oferta.
 
 **Vantagens:** motor brushless; formato compacto; duas velocidades; mandril de 13 mm; boa proposta para móveis e madeira.
 
@@ -74,7 +73,7 @@ O sufixo **DCD708D2** costuma identificar um conjunto comercial, mas **não conf
 
 A **Makita HP332** é uma furadeira/parafusadeira de impacto da plataforma **12V CXT**. A documentação brasileira da versão **HP332DWYE** informa **motor BL (brushless)**, **20 níveis de torque**, duas velocidades de **0–450 e 0–1.500 rpm**, impactos de **0–6.750 e 0–22.500 por minuto**, torque máximo declarado de **38 Nm**, capacidade de **28 mm em madeira**, **10 mm em metal** e **8 mm em concreto**. O peso divulgado para essa configuração é de **1,1 kg**.
 
-A versão **HP332DWYE** acompanha, segundo a Makita Brasil, **duas baterias 12V de 1,5 Ah, carregador simples, bit Phillips de ponta dupla e maleta**. A lista oficial **não confirma um kit com 70 acessórios**. Já a **HP332DZ** é uma configuração vendida sem bateria, carregador e maleta. Essas diferenças são essenciais para comparar preços corretamente.
+A versão **HP332DWYE** acompanha, segundo a Makita Brasil, **duas baterias 12V de 1,5 Ah, carregador simples, bit Phillips de ponta dupla e maleta**. Já a **HP332DZ** é uma configuração vendida sem bateria, carregador e maleta. Essas diferenças são essenciais para comparar preços corretamente.
 
 ### Onde ela funciona bem
 

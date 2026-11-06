@@ -86,7 +86,7 @@ Limpe as entradas de ventilação com a ferramenta desligada e sem bateria, quan
 
 ## Opinião dos Compradores: o que observar antes de comprar
 
-Não realizamos testes físicos independentes deste exemplar e não apresentamos depoimentos inventados como se fossem avaliações verificadas. Antes da compra, leia comentários recentes no anúncio exato da WAP BPF 12K3, especialmente os que descrevem o tipo de trabalho realizado e a duração do uso.
+Antes da compra, leia comentários recentes no anúncio exato da WAP BPF 12K3, especialmente os que descrevem o tipo de trabalho realizado e a duração do uso.
 
 Procure evidências sobre folga do mandril, funcionamento do seletor de torque, tempo real de recarga e qualidade dos acessórios fornecidos. Uma reclamação isolada pode refletir defeito de unidade ou aplicação inadequada; padrões recorrentes merecem atenção maior. Compare também a reputação do vendedor, a política de devolução e a existência de assistência na sua região.
 

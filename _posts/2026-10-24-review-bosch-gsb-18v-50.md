@@ -26,7 +26,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Bosch GSB 18V-50** é uma furadeira e parafusadeira de impacto a bateria de 18V voltada a quem precisa alternar entre montagem, perfuração em madeira e metal e furos ocasionais em alvenaria. Seu motor sem escovas, mandril metálico e compatibilidade com o sistema Bosch Professional 18V são os principais atrativos. Neste review, analisamos as especificações do fabricante e as aplicações indicadas, sem atribuir à ferramenta testes de bancada que não foram realizados.
+A **Bosch GSB 18V-50** é uma furadeira e parafusadeira de impacto a bateria de 18V voltada a quem precisa alternar entre montagem, perfuração em madeira e metal e furos ocasionais em alvenaria. Seu motor sem escovas, mandril metálico e compatibilidade com o sistema Bosch Professional 18V são os principais atrativos. 
 
 {% include resumo-avaliacao.html %}
 
@@ -76,7 +76,7 @@ Não apresentamos depoimentos como citações reais sem identificar a avaliaçã
 
 A **Makita DHP485Z** também é uma furadeira/parafusadeira de impacto brushless da plataforma LXT 18V. A comparação deve considerar a versão exata, os dados oficiais de torque e rotação, o peso com bateria e a disponibilidade de assistência. A escolha pode favorecer a Makita para quem já utiliza baterias LXT, enquanto a Bosch é mais prática para quem já está no ecossistema Professional 18V.
 
-A **DeWalt DCD796** é outra alternativa brushless com mandril de 13 mm. Diferentemente do que dizia o texto anterior, ela possui **duas velocidades mecânicas**, não três. A decisão entre as marcas depende das aplicações, da configuração do kit e das baterias já disponíveis; não há base para afirmar superioridade geral sem testes comparativos controlados.
+A **DeWalt DCD796** é outra alternativa brushless com mandril de 13 mm. A decisão entre as marcas depende das aplicações, da configuração do kit e das baterias já disponíveis; não há base para afirmar superioridade geral sem testes comparativos controlados.
 
 <table class="specs-table" style="width: 100%; border-collapse: collapse;">
   <thead><tr style="background-color: #0f172a; color: #ffffff;"><th colspan="3" style="padding: 12px; text-align: left;">Comparativo com Concorrentes</th></tr></thead>

@@ -25,7 +25,7 @@ Também avalie o peso com bateria, o formato do punho, o tipo de carregamento e 
 
 ## Como fizemos esta seleção
 
-Comparamos fichas técnicas, manuais e catálogos publicados pelos próprios fabricantes, priorizando modelos identificáveis por nome e código. Foram considerados torque declarado, rotação, mandril, bateria, funções e acessórios dos kits brasileiros. **Não realizamos ensaios físicos, medições de autonomia ou avaliações de durabilidade em laboratório.** Preços e estoques variam por loja e data, portanto não atribuímos faixas de preço sem oferta atual verificável.
+Comparamos fichas técnicas, manuais e catálogos publicados pelos próprios fabricantes, priorizando modelos identificáveis por nome e código. Foram considerados torque declarado, rotação, mandril, bateria, funções e acessórios dos kits brasileiros. 
 
 ## As 3 melhores opções para quem está começando
 

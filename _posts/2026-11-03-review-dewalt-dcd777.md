@@ -26,7 +26,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **DeWalt DCD777** é uma opção para quem procura uma furadeira e parafusadeira capaz de montar móveis, instalar ferragens e realizar pequenos serviços de manutenção. Neste review, avaliamos o que suas especificações oficiais realmente permitem concluir, quais cuidados ajudam a preservar o MDF e em que situações outra ferramenta pode ser mais indicada. A análise é editorial e documental: não alegamos testes próprios nem reproduzimos avaliações de compradores sem verificação.
+A **DeWalt DCD777** é uma opção para quem procura uma furadeira e parafusadeira capaz de montar móveis, instalar ferragens e realizar pequenos serviços de manutenção. Neste review, avaliamos o que suas especificações oficiais realmente permitem concluir, quais cuidados ajudam a preservar o MDF e em que situações outra ferramenta pode ser mais indicada. 
 
 Se você ainda está escolhendo sua primeira ferramenta, veja também nosso [guia de parafusadeiras para iniciantes]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e a [lista de reviews]({{ '/reviews/' | relative_url }}).
 

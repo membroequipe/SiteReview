@@ -28,7 +28,7 @@ avaliacao:
 
 O Bosch GBH 2-21 é um martelete com fio e encaixe SDS-Plus destinado a perfurações em concreto e alvenaria, além de cinzelamentos leves. Com motor de 720 W e energia de impacto de 2,0 J, é uma alternativa para quem quer o mecanismo de um martelete sem depender de baterias. Seu público principal é o instalador ou usuário que precisa abrir furos repetidos em materiais minerais.
 
-Este review é uma análise documental das fichas do fabricante e de critérios de uso. Não realizamos testes de bancada e não apresentamos depoimentos de compradores como se tivessem sido verificados. Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
+Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
 
 {% include resumo-avaliacao.html %}
 
@@ -68,7 +68,7 @@ A potência elétrica em watts indica consumo nominal de uma ferramenta com fio;
 
 Avaliações publicadas em lojas podem ajudar a identificar problemas recorrentes, mas precisam ser lidas com critério. Verifique se o comentário corresponde exatamente ao modelo e ao kit anunciado, pois versões com códigos parecidos podem ter acessórios ou especificações diferentes. Dê mais peso a relatos que descrevam material perfurado, diâmetro da broca e tempo de uso do que a frases genéricas sobre força.
 
-Neste artigo não reproduzimos notas de plataformas comerciais, não estimamos porcentagens de aprovação e não atribuímos experiências práticas a uma equipe que não testou a ferramenta. A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
+A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
 
 ### Pontos positivos
 

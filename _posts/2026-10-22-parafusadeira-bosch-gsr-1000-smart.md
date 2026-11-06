@@ -26,7 +26,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A parafusadeira e furadeira Bosch GSR 1000 Smart é uma opção compacta da linha Professional para montagem de móveis, instalações leves e pequenos reparos. Seu conjunto combina bateria integrada de íons de lítio de 1,5 Ah, torque máximo de 15 Nm e controle de velocidade pelo gatilho. O nome Smart não significa conectividade Bluetooth: a proposta está na praticidade e no custo de entrada. Neste review, confrontamos as características com o manual, a página do produto e o catálogo oficial da Bosch, sem atribuir ao modelo testes de campo ou opiniões de compradores que não foram documentalmente verificados.
+A parafusadeira e furadeira Bosch GSR 1000 Smart é uma opção compacta da linha Professional para montagem de móveis, instalações leves e pequenos reparos. Seu conjunto combina bateria integrada de íons de lítio de 1,5 Ah, torque máximo de 15 Nm e controle de velocidade pelo gatilho. O nome Smart não significa conectividade Bluetooth: a proposta está na praticidade e no custo de entrada. 
 
 {% include resumo-avaliacao.html %}
 

@@ -20,7 +20,7 @@ Este guia foi revisado com base em catálogos e páginas oficiais de fabricantes
 
 ## Como fizemos esta comparação
 
-Conferimos tipo de ferramenta, alimentação, mecanismo de impacto, encaixe de broca, potência ou energia de impacto, capacidades declaradas e limitações de uso. Priorizamos documentação técnica identificável. Quando o modelo citado no texto original não correspondia às características descritas, substituímos a recomendação por uma referência verificável e explicamos a mudança. O custo-benefício real depende do preço e dos acessórios do anúncio no momento da compra.
+Conferimos tipo de ferramenta, alimentação, mecanismo de impacto, encaixe de broca, potência ou energia de impacto, capacidades declaradas e limitações de uso. Priorizamos documentação técnica identificável. O custo-benefício real depende do preço e dos acessórios do anúncio no momento da compra.
 
 ## Furadeira de impacto ou martelete SDS-Plus: qual é a diferença?
 
@@ -60,7 +60,7 @@ A **Makita HP2050** é uma furadeira de impacto **com fio**, com motor de **720 
 
 O modelo dispõe de empunhadura lateral e limitador de torque que atua quando a broca trava, ajudando a reduzir o risco de reação brusca. Isso não dispensa segurar a ferramenta com firmeza e observar as instruções de segurança. A massa varia ligeiramente conforme a referência regional, ficando aproximadamente entre 2,3 e 2,5 kg nas fichas consultadas.
 
-A HP2050 não pertence a uma plataforma de baterias 18V. A designação **HP205DZ** do artigo original não foi confirmada como modelo equivalente nas fontes oficiais consultadas. Para evitar atribuir características de uma ferramenta a outra, esta revisão utiliza a referência **HP2050**, que possui ficha técnica verificável. O conteúdo de acessórios e o tipo de mandril podem variar entre versões nacionais; confira a descrição comercial exata.
+A HP2050 não pertence a uma plataforma de baterias 18V. Para evitar atribuir características de uma ferramenta a outra, esta revisão utiliza a referência **HP2050**, que possui ficha técnica verificável. O conteúdo de acessórios e o tipo de mandril podem variar entre versões nacionais.
 
 **Pontos positivos:** 720 W; duas velocidades; limitador de torque; capacidade declarada de 20 mm em concreto. **Limitações:** depende de tomada; mais pesada que modelos domésticos compactos; não oferece cinzelamento SDS-Plus.
 

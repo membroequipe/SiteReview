@@ -478,7 +478,6 @@ Antes de recomendar a DHP485 no Brasil, confirme a disponibilidade local, o cód
 </div>
 </div>
 
-{% comment %} ATENÇÃO: ID legado mistura XPH14Z e DHP485. Corrija o YAML para um ID exclusivo da DHP485 antes de publicar este card. {% endcomment %}
 {% include produto-card.html id="makita_xph14z_dhp485" %}
 
 ## Qual ferramenta usar em cada tipo de trabalho?
@@ -623,8 +622,6 @@ Esses cálculos são aproximações baseadas na tensão nominal. A energia efeti
 - velocidade e regulagem de torque;
 - modelo da ferramenta e estado da bateria;
 - temperatura e pausas entre ciclos.
-
-Se publicar números de autonomia, informe o protocolo de teste, quantidade de amostras, parafuso, material, bateria, configuração e critério de encerramento.
 
 **Carregadores:** o tempo de recarga depende da capacidade da bateria, da corrente do carregador, da temperatura e do sistema de gerenciamento. Use sempre um carregador compatível e consulte o tempo oficial para a combinação específica. “Carregador rápido” não significa que toda bateria será carregada no mesmo tempo.
 
