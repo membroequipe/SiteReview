@@ -1,0 +1,40 @@
+name: Monitor diário de afiliados
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r monitor-afiliados/requirements.txt
+
+      - name: Executar monitoramento
+        run: python monitor-afiliados/src/monitor.py
+        env:
+          PRODUCTS_FILE: _data/produtos.yml
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Salvar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add monitor-afiliados/
+          git diff --cached --quiet || git commit -m "Atualiza monitoramento de afiliados"
+          git push
