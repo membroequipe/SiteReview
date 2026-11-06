@@ -44,7 +44,7 @@ makita_dhp482:
 
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1sfZ2wc"
+     "https://meli.la/1sfZ2wc"
     shopee: ""
 
   especificacoes:
@@ -95,7 +95,7 @@ stanley_sbd716d2t:
 
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/289RkMr"
+     "https://meli.la/289RkMr"
     shopee: ""
 
   especificacoes:
@@ -1401,7 +1401,7 @@ bosch_gbh_2_21:
   imagem: "/assets/images/posts/bosch-gbh-2-21.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/2vGMw68"
     shopee: ""
   especificacoes:
     - nome: "Categoria"
@@ -1446,7 +1446,7 @@ wap_wf_12k4_2:
   imagem: assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/2sR1enJ"
     shopee: ''
   especificacoes:
   - nome: Tensão e bateria
@@ -1471,7 +1471,7 @@ vonder_pfv_012:
   imagem: /assets/images/posts/vonder_pfv012i_12v.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/2ZJoQCj"
     shopee: ''
   especificacoes:
   - nome: Tensão e bateria
@@ -1536,7 +1536,7 @@ dewalt_dcd708d2:
   imagem: /assets/images/posts/dewalt-dcd708d2.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/13i5wZn"
     shopee: ''
   especificacoes:
   - nome: Categoria
@@ -1577,7 +1577,7 @@ makita_hp332dwye:
   imagem: /assets/images/posts/makita-hp332dwye.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/15zGJu2"
     shopee: ''
   especificacoes:
   - nome: Categoria
@@ -1621,11 +1621,11 @@ bosch_gsr_12v_15:
   imagem: "/assets/images/posts/bosch-gsr-12v-15.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/1P13d6r"
     shopee: ""
   especificacoes:
     - nome: "Modelo"
-      valor: "Bosch GSR 12V-15 Professional (sem FC/FlexiClick)"
+      valor: "Bosch GSR 12V-15 Professional"
     - nome: "Categoria"
       valor: "Furadeira e parafusadeira a bateria, sem impacto"
     - nome: "Tensão"
@@ -1655,7 +1655,7 @@ bosch_gsr_120_li:
   imagem: "/assets/images/posts/bosch-gsr-120-li.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/2y5ySyN"
     shopee: ""
   especificacoes:
     - nome: "Modelo"
@@ -1693,7 +1693,7 @@ makita_df333dwye:
   imagem: "/assets/images/posts/makita-df333dwye.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/1bsewFh"
     shopee: ""
   especificacoes:
     - nome: "Modelo Comercial"
@@ -1738,7 +1738,7 @@ makita_xph14z_dhp485:
   imagem: "/assets/images/posts/makita-dhp485z.png"
   links:
     amazon: ""
-    mercadolivre: ""
+    mercadolivre: "https://meli.la/1Vn1jSb"
     shopee: ""
   especificacoes:
     - nome: "Modelo Comercial"
@@ -1789,7 +1789,7 @@ makita_hp333dsaj:
   imagem: /assets/images/posts/makita-hp333dsaj.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/1YWxv9M"
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -1822,6 +1822,7 @@ makita_hp333dsaj:
     valor: Não confirmados para o código HP333DSAJ
   - nome: Destaque Principal
     valor: Modelo compacto CXT 12V com impacto; verificar o código comercial do kit
+
 dewalt_dcd700d2_br:
   nome: DeWalt DCD700 12V MAX (kit DCD700D2-BR a confirmar)
   descricao: Furadeira e parafusadeira compacta 12V MAX, sem impacto, com duas velocidades e mandril de 10 mm. A
@@ -1829,7 +1830,7 @@ dewalt_dcd700d2_br:
   imagem: /assets/images/posts/dewalt-dcd700d2-br.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/2fRD7nx"
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -1949,7 +1950,7 @@ dewalt_dcd796d2_br:
   imagem: /assets/images/posts/dewalt-dcd796d2-br.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/1zwmdF3"
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -1991,7 +1992,7 @@ bosch_gsr_18v_150c:
   imagem: /assets/images/posts/bosch-gsr-18v-150c.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/2Lmxmjr"
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
