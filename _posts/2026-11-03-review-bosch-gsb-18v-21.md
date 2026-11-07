@@ -369,10 +369,9 @@ e formato compacto.
 
 Antes de finalizar qualquer compra, confira o conteúdo real da
 embalagem, os preços atualizados, a nota fiscal, a garantia e a
-assistência no Brasil. Para mais orientações, veja nosso \[guia de
-parafusadeiras\]({{ '/parafusadeiras/' \| relative_url }}) e o \[guia de
-montagem de móveis\]({{
-'/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' \|
+assistência no Brasil. Para mais orientações, veja nosso [guia de
+parafusadeiras]({{ '/parafusadeiras/' \| relative_url }}) e o [guia de
+montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' |
 relative_url }}).
 
 **Fontes oficiais para conferência das especificações:** - [Bosch GSB
