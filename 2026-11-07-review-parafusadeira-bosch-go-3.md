@@ -12,7 +12,6 @@ image_alt: Parafusadeira Bosch GO 3 Professional 3,6V com estojo e cabo USB-C
 date: 2026-11-07
 author: Equipe de Análises
 last_modified_at: 2026-11-07
-published: false
 
 avaliacao:
   nota: 8.6
