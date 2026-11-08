@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Furadeira Bosch GSB 120-LI: Vale a Pena em 2026? Análise Completa!"
+title: "Bosch GSB 120-LI: review da furadeira 12V"
 description: "Review da Bosch GSB 120-LI: torque de 30 Nm, impacto, bateria 12V, limites de perfuração e comparação técnica com Makita e DeWalt."
 slug: "review-bosch-gsb-120-li"
 categories: [furadeiras, reviews]
@@ -22,6 +22,12 @@ avaliacao:
     - "Mandril de 0,8 a 10 mm limita o diâmetro da haste dos acessórios compatíveis"
     - "Torque máximo de 30 Nm pode ser insuficiente para fixações pesadas em madeira densa"
     - "Não substitui martelete rotativo em concreto estrutural ou trabalhos intensivos"
+subcategoria: "furadeiras-impacto"
+cluster: "furadeiras-impacto"
+hub_url: "/furadeiras/"
+hub_anchor: "furadeiras-impacto"
+hub_label: "furadeiras de impacto"
+cluster_label: "Furadeiras de impacto"
 ---
 
 {% include review-toc.html %}
