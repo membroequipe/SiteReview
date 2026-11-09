@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Reviews e Análises Detalhadas"
-permalink: "/reviews/"
+title: "Reviews de Furadeiras e Parafusadeiras"
+description: "Confira reviews de furadeiras e parafusadeiras, análises técnicas, vantagens, limitações e comparativos para escolher a ferramenta certa."
+permalink: /reviews/
 ---
 
 <style>
@@ -10,28 +11,68 @@ permalink: "/reviews/"
     margin: 0 auto;
     padding: 20px 15px;
   }
+
   .reviews-header {
     margin-bottom: 30px;
-    text-align: left;
   }
+
   .reviews-header h1 {
     font-size: 2.2rem;
     font-weight: 700;
     color: #0f172a;
-    margin: 0 0 12px 0;
-    line-height: 1.2;
+    margin-bottom: 16px;
+    line-height: 1.25;
   }
+
   .reviews-header p {
-    font-size: 1.05rem;
-    color: #64748b;
-    margin: 0;
-    line-height: 1.6;
+    font-size: 1rem;
+    color: #475569;
+    line-height: 1.75;
+    margin-bottom: 12px;
   }
+
+  .reviews-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 22px 0 35px;
+  }
+
+  .reviews-navigation a {
+    padding: 10px 16px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    color: #0369a1;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .reviews-navigation a:hover {
+    background: #f0f9ff;
+  }
+
+  .reviews-section {
+    margin: 40px 0;
+  }
+
+  .reviews-section h2 {
+    font-size: 1.65rem;
+    color: #0f172a;
+    margin-bottom: 12px;
+  }
+
+  .reviews-section-intro {
+    color: #475569;
+    line-height: 1.7;
+    margin-bottom: 22px;
+  }
+
   .reviews-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 25px;
   }
+
   .review-card {
     background: #ffffff;
     border: 1px solid #e2e8f0;
@@ -39,44 +80,48 @@ permalink: "/reviews/"
     overflow: hidden;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-    display: flex;
-    flex-direction: column;
   }
+
   .review-card:hover {
-    transform: translateY(-4px);
+    transform: translateY(-3px);
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
   }
-  .review-card a {
-    text-decoration: none;
-    color: inherit;
+
+  .review-card > a {
     display: flex;
     flex-direction: column;
     height: 100%;
+    color: inherit;
+    text-decoration: none;
   }
+
   .review-img-wrapper {
     width: 100%;
     height: 220px;
-    background-color: #f8fafc;
+    background: #f8fafc;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
   }
+
   .review-img-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: contain;
     padding: 10px;
   }
+
   .review-content {
     padding: 20px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
   }
+
   .review-badge {
     align-self: flex-start;
-    background-color: #e0f2fe;
+    background: #e0f2fe;
     color: #0369a1;
     font-size: 0.75rem;
     font-weight: 700;
@@ -85,61 +130,260 @@ permalink: "/reviews/"
     border-radius: 20px;
     margin-bottom: 12px;
   }
-  .review-content h2 {
-    font-size: 1.15rem;
+
+  .review-content h3 {
+    font-size: 1.1rem;
     line-height: 1.4;
-    margin: 0 0 10px 0;
+    margin: 0 0 10px;
     color: #0f172a;
   }
+
   .review-content p {
     font-size: 0.9rem;
     color: #64748b;
-    line-height: 1.5;
+    line-height: 1.6;
     margin-bottom: 15px;
     flex-grow: 1;
   }
+
   .review-date {
     font-size: 0.8rem;
     color: #94a3b8;
+    margin-top: auto;
+  }
+
+  .reviews-methodology {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 24px;
+    margin: 45px 0 20px;
+  }
+
+  .reviews-methodology h2 {
+    color: #0f172a;
+    font-size: 1.35rem;
+    margin-top: 0;
+  }
+
+  .reviews-methodology p {
+    color: #475569;
+    line-height: 1.7;
+  }
+
+  .reviews-methodology a {
+    color: #0369a1;
+    font-weight: 600;
+  }
+
+  @media (max-width: 768px) {
+    .reviews-header h1 {
+      font-size: 1.7rem;
+    }
+
+    .reviews-section h2 {
+      font-size: 1.4rem;
+    }
+
+    .reviews-grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
 
 <div class="reviews-container">
-  <div class="reviews-header">
-    <h1>Reviews e Análises Detalhadas</h1>
-    <p>Avaliações completas e fichas técnicas para decidir com segurança.</p>
-  </div>
 
-  <div class="reviews-grid">
-    {% assign has_reviews = false %}
-    {% for post in site.posts %}
-      {% assign post_cats = post.categories | downcase %}
-      {% assign post_cat = post.category | downcase %}
-      
-      {% if post_cat == "reviews" or post_cats contains "reviews" %}
-        {% assign has_reviews = true %}
-        <article class="review-card">
-          <a href="{{ post.url | relative_url }}">
-            <div class="review-img-wrapper">
-              <img src="{{ post.image | default: '/assets/images/logo.png' | relative_url }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';">
-            </div>
-            <div class="review-content">
-              <span class="review-badge">Reviews</span>
-              <h2>{{ post.title }}</h2>
-              {% if post.description %}
-                <p>{{ post.description }}</p>
-              {% endif %}
-              <div class="review-date">
-                Por {{ post.author | default: "Equipe de Análises" }} • {{ post.date | date: "%d/%m/%Y" }}
+  <header class="reviews-header">
+
+    <h1>Reviews de Furadeiras e Parafusadeiras</h1>
+
+    <p>
+      Escolher uma ferramenta elétrica exige mais do que comparar marcas
+      e preços. É importante entender as características técnicas, os
+      recursos disponíveis e as limitações de cada modelo antes de comprar.
+    </p>
+
+    <p>
+      Nesta página você encontra nossas análises de furadeiras e
+      parafusadeiras, com informações sobre potência, torque, velocidade,
+      bateria, ergonomia, aplicações recomendadas, vantagens e desvantagens.
+      O objetivo é ajudar você a identificar qual ferramenta atende melhor
+      às suas necessidades de trabalho, montagem, instalação ou manutenção.
+    </p>
+
+    <p>
+      Cada review apresenta informações específicas do produto e orientações
+      para avaliar sua adequação ao tipo de serviço pretendido.
+    </p>
+
+  </header>
+
+  <nav class="reviews-navigation" aria-label="Categorias de ferramentas">
+    <a href="{{ '/furadeiras/' | relative_url }}">Ver todas as furadeiras</a>
+    <a href="{{ '/parafusadeiras/' | relative_url }}">Ver todas as parafusadeiras</a>
+    <a href="{{ '/guias/' | relative_url }}">Consultar guias de compra</a>
+  </nav>
+
+  {% assign reviews_posts = site.posts | where_exp: "post", "post.categories contains 'reviews'" %}
+
+  {% assign furadeiras_reviews = reviews_posts | where_exp: "post", "post.categories contains 'furadeiras'" %}
+
+  {% assign parafusadeiras_reviews = reviews_posts | where_exp: "post", "post.categories contains 'parafusadeiras'" %}
+
+  {% if furadeiras_reviews.size > 0 %}
+
+    <section class="reviews-section" id="reviews-furadeiras">
+
+      <h2>Reviews de Furadeiras</h2>
+
+      <p class="reviews-section-intro">
+        Conheça nossas análises de furadeiras convencionais, modelos de
+        impacto e equipamentos para diferentes tipos de perfuração.
+        Compare características e descubra as aplicações mais indicadas
+        para cada ferramenta.
+      </p>
+
+      <div class="reviews-grid">
+
+        {% for post in furadeiras_reviews %}
+
+          <article class="review-card">
+
+            <a href="{{ post.url | relative_url }}">
+
+              <div class="review-img-wrapper">
+
+                <img
+                  src="{{ post.image | default: '/assets/images/logo.png' | relative_url }}"
+                  alt="{{ post.image_alt | default: post.title | escape }}"
+                  loading="lazy"
+                  onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';"
+                >
+
               </div>
-            </div>
-          </a>
-        </article>
-      {% endif %}
-    {% endfor %}
-  </div>
 
-  {% if has_reviews == false %}
-    <p>Nenhum review publicado no momento.</p>
+              <div class="review-content">
+
+                <span class="review-badge">Review de furadeira</span>
+
+                <h3>{{ post.title }}</h3>
+
+                <p>
+                  {% if post.description %}
+                    {{ post.description | strip_html | escape }}
+                  {% else %}
+                    {{ post.excerpt | strip_html | normalize_whitespace | truncate: 155 | escape }}
+                  {% endif %}
+                </p>
+
+                <div class="review-date">
+                  Por {{ post.author | default: "Equipe de Análises" }}
+                  • {{ post.date | date: "%d/%m/%Y" }}
+                </div>
+
+              </div>
+
+            </a>
+
+          </article>
+
+        {% endfor %}
+
+      </div>
+
+    </section>
+
   {% endif %}
+
+  {% if parafusadeiras_reviews.size > 0 %}
+
+    <section class="reviews-section" id="reviews-parafusadeiras">
+
+      <h2>Reviews de Parafusadeiras</h2>
+
+      <p class="reviews-section-intro">
+        Confira análises de parafusadeiras compactas, modelos de impacto
+        e ferramentas específicas para montagem de móveis, instalação
+        de drywall e trabalhos de fixação.
+      </p>
+
+      <div class="reviews-grid">
+
+        {% for post in parafusadeiras_reviews %}
+
+          <article class="review-card">
+
+            <a href="{{ post.url | relative_url }}">
+
+              <div class="review-img-wrapper">
+
+                <img
+                  src="{{ post.image | default: '/assets/images/logo.png' | relative_url }}"
+                  alt="{{ post.image_alt | default: post.title | escape }}"
+                  loading="lazy"
+                  onerror="this.onerror=null; this.src='{{ '/assets/images/logo.png' | relative_url }}';"
+                >
+
+              </div>
+
+              <div class="review-content">
+
+                <span class="review-badge">Review de parafusadeira</span>
+
+                <h3>{{ post.title }}</h3>
+
+                <p>
+                  {% if post.description %}
+                    {{ post.description | strip_html | escape }}
+                  {% else %}
+                    {{ post.excerpt | strip_html | normalize_whitespace | truncate: 155 | escape }}
+                  {% endif %}
+                </p>
+
+                <div class="review-date">
+                  Por {{ post.author | default: "Equipe de Análises" }}
+                  • {{ post.date | date: "%d/%m/%Y" }}
+                </div>
+
+              </div>
+
+            </a>
+
+          </article>
+
+        {% endfor %}
+
+      </div>
+
+    </section>
+
+  {% endif %}
+
+  {% if reviews_posts.size == 0 %}
+
+    <p>Nenhuma análise de produto publicada no momento.</p>
+
+  {% endif %}
+
+  <section class="reviews-methodology">
+
+    <h2>Como são feitas nossas análises?</h2>
+
+    <p>
+      Nossos reviews consideram as especificações técnicas divulgadas
+      pelos fabricantes, os recursos de cada modelo, suas aplicações
+      recomendadas, vantagens e limitações. Também buscamos apresentar
+      informações úteis para comparar ferramentas de diferentes marcas
+      e categorias.
+    </p>
+
+    <p>
+      Para conhecer nossos critérios editoriais, consulte
+      <a href="{{ '/como-pesquisamos/' | relative_url }}">
+        como pesquisamos e avaliamos as ferramentas
+      </a>.
+    </p>
+
+  </section>
+
 </div>
