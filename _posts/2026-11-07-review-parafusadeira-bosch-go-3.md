@@ -3,15 +3,12 @@ layout: post
 title: "Bosch GO 3 é Boa? Review da Parafusadeira 3,6V"
 description: "Review da Bosch GO 3: torque de 5 Nm, bateria 2,0 Ah, USB-C e 7 ajustes. Veja para que serve, limitações e se vale a pena comprar."
 slug: review-parafusadeira-bosch-go-3
-categories:
-  - parafusadeiras
-  - reviews
+categories: [parafusadeiras, reviews]
 produto_id: bosch_go_3
 image: /assets/images/posts/bosch-go-3.webp
 image_alt: Parafusadeira Bosch GO 3 Professional 3,6V com estojo e cabo USB-C
 date: 2026-11-07
 author: Equipe de Análises
-
 
 avaliacao:
   nota: 8.6
@@ -32,11 +29,17 @@ avaliacao:
     - "Torque e velocidade limitam aplicações pesadas"
     - "Bateria integrada não pode ser trocada como uma bateria deslizante"
     - "Não é a melhor escolha para parafusamento estrutural ou repetitivo de alta demanda"
+subcategoria: "parafusadeiras-compactas"
+cluster: "parafusadeiras-compactas"
+hub_url: "/parafusadeiras/"
+hub_anchor: "parafusadeiras-compactas"
+hub_label: "parafusadeiras compactas"
+cluster_label: "Parafusadeiras compactas"
 ---
 
 {% include review-toc.html %}
 
-# Bosch GO 3: review completo e vale a pena comprar?
+## Bosch GO 3: review completo e vale a pena comprar?
 
 A **Bosch GO 3 Professional** é uma parafusadeira elétrica compacta de 3,6 V desenvolvida para apertar e soltar parafusos. Ela não é uma furadeira/parafusadeira: não tem mandril convencional para prender brocas e não foi projetada para fazer furos. Essa diferença é essencial para não comprar uma ferramenta esperando uma função que ela não oferece.
 
@@ -126,7 +129,7 @@ A **Makita DF001DW** é uma concorrente de categoria próxima, também voltada a
 
 Já a **Bosch GSR 1000 Smart** e a **Bosch GSR 12V-15** pertencem a outra categoria: são furadeiras/parafusadeiras com mandril. São opções mais adequadas quando o trabalho inclui furos com brocas convencionais, mas costumam ser maiores e mais pesadas do que uma parafusadeira compacta de 3,6 V.
 
-Se sua necessidade é escolher uma ferramenta para montagem doméstica, veja também nosso [guia da primeira parafusadeira: qual comprar?]({{ '/guias/primeira-parafusadeira-qual-comprar/' | relative_url }}). Para comparar modelos focados em montagem, consulte [as melhores parafusadeiras para montagem]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
+Se sua necessidade é escolher uma ferramenta para montagem doméstica, veja também nosso [guia da primeira parafusadeira: qual comprar?]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Para comparar modelos focados em montagem, consulte [as melhores parafusadeiras para montagem]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
 
 ## Preço e disponibilidade no Brasil
 
@@ -141,6 +144,22 @@ Antes de comprar, confira estes pontos:
 5. Compare o preço do kit básico com os conjuntos que incluem bits adicionais. Acessórios extras só compensam se forem de boa qualidade e realmente úteis para seu trabalho.
 
 Não confunda anúncios da GO de primeira geração ou GO 2 com a GO 3. O nome comercial pode ser abreviado no título do marketplace; use o código do fabricante e as especificações para identificar a versão correta.
+
+### Antes de escolher uma oferta da Bosch GO 3
+
+O ponto mais importante é não confundir a terceira geração com a GO 2 ou com versões anteriores. Procure a referência **06019H22E0** e confira se a descrição corresponde à GO 3 com bateria integrada de 2,0 Ah e carregamento USB-C.
+
+Antes de comprar, confirme:
+
+- **Geração e código:** Bosch GO 3, referência 06019H22E0.
+- **Acessórios:** estojo, cabo USB-C e ponta dupla, conforme a embalagem anunciada.
+- **Bateria:** integrada; não é um sistema de bateria removível.
+- **Aplicação:** parafusamento leve e montagem; não perfura com brocas convencionais.
+- **Oferta:** compare frete, prazo, nota fiscal, garantia e política de devolução.
+
+Se dois anúncios forem da mesma geração e trouxerem a mesma embalagem, compare o custo final e a confiabilidade do vendedor. Um preço menor não compensa se o anúncio não identifica claramente o modelo ou omite itens que você espera receber.
+
+<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
 
 ## Vantagens e limitações
 
@@ -199,6 +218,7 @@ A **Bosch GO 3 vale a pena para quem procura uma parafusadeira compacta, leve e 
 Ela não é uma compra indicada para quem precisa furar madeira, metal ou parede, nem para quem pretende apertar parafusos grandes em madeira dura ou executar fixações pesadas. Nesses casos, uma furadeira/parafusadeira de 12 V ou uma parafusadeira de impacto será mais apropriada.
 
 Nossa nota editorial é **8,6/10**. A pontuação considera a proposta de uso, os recursos e as especificações oficiais, mas não representa teste físico independente. Para o público certo — quem já tem uma furadeira e deseja uma ferramenta pequena para parafusamento frequente — a GO 3 é uma opção coerente. Para quem precisa de uma única ferramenta para tudo, vale investir em uma furadeira/parafusadeira com mandril.
+
 
 ## Fontes técnicas e comerciais consultadas
 
