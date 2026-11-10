@@ -16,7 +16,7 @@ author: "Equipe de Análises"
 
 Neste guia, comparamos três opções de entrada cujas características podem ser verificadas em documentação oficial: **WAP BPF 12K3**, **WAP WF 12K4.2** e **Vonder PFV 012**. O teto de **R$ 300 é um critério de compra, não uma promessa de preço ou estoque**. Em consulta à loja oficial WAP em novembro de 2026, a BPF 12K3 e a WF 12K4.2 apareceram em listagens com ofertas inferiores a R$ 300, mas indisponíveis; a página individual da WF 12K4.2 também mostrava preço superior ao teto. Não foi possível confirmar preço atual abaixo de R$ 300 para a Vonder PFV 012. Portanto, confirme o preço final, o frete e a disponibilidade antes de decidir.
 
-Para conhecer outros modelos, confira o [guia de parafusadeiras]({{ '/qual-a-melhor-parafusadeira/' | relative_url }}) e a [lista de reviews]({{ '/reviews/' | relative_url }}).
+Para conhecer outros modelos, confira o [guia de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}) e a [lista de reviews]({{ '/reviews/' | relative_url }}).
 
 ## Como fizemos esta comparação
 
