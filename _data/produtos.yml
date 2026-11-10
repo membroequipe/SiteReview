@@ -1343,7 +1343,7 @@ makita_hp2050:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1hURhNg"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/9KjVyFSJj4"
   especificacoes:
     - nome: "Categoria"
       valor: "Furadeira de impacto com fio"
@@ -1578,7 +1578,7 @@ dewalt_dcd708d2:
   links:
     amazon: ''
     mercadolivre: "https://meli.la/13i5wZn"
-    shopee: ''
+    shopee: "https://s.shopee.com.br/1LhEZIMrfj"
   especificacoes:
   - nome: Categoria
     valor: Furadeira/parafusadeira compacta atomic 20v max sem impacto, voltada à montagem de móveis e perfuração em madeira e metal
