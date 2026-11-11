@@ -1,3 +1,10 @@
+# VERSÃO REVISADA COM ANOTAÇÕES — auditoria editorial e de nomenclatura (Brasil, 2026)
+# As linhas iniciadas por "# ALTERAÇÃO", "# REVISÃO", "# CORREÇÃO" ou "# ALERTA"
+# registram o que foi modificado ou o que ainda exige ação editorial. Comentários não alteram o YAML carregado.
+# Os links de afiliado e caminhos de imagens foram preservados nos cadastros mantidos; valide cada destino/variante antes de publicar.
+# Disponibilidade em catálogo não significa estoque atual. Itens com substituição recomendada, mas não aplicada, foram explicitamente sinalizados.
+
+# REVISÃO: mantido. Modelo BCD704C1-BR consta no catálogo brasileiro; preservar links existentes, mas conferir se cada anúncio corresponde ao kit e à capacidade de bateria descritos.
 black_decker_bcd704c1:
   nome: "Black+Decker BCD704C1-BR"
   descricao: "Furadeira e parafusadeira de impacto 20V MAX, com mandril de 10 mm, duas velocidades, torque de 45 Nm e até 21.000 impactos por minuto."
@@ -37,6 +44,7 @@ black_decker_bcd704c1:
       valor: "Furadeira/parafusadeira 20V MAX com impacto, 45 Nm e mandril de 10 mm"
 
 
+# REVISÃO: mantido como modelo ainda encontrado na linha/catálogo local (variante avulsa DHP482Z). Não apresentar como lançamento; distinguir ferramenta avulsa de kit.
 makita_dhp482:
   nome: "Makita DHP482"
   descricao: "Furadeira e parafusadeira de impacto 18V LXT, com motor de 4 polos, torque máximo de 64 Nm, mandril de 13 mm e até 28.500 impactos por minuto"
@@ -132,6 +140,7 @@ stanley_sbd716d2t:
 
 
 
+# REVISÃO: mantido. Comparativo deve incluir também a variante K21 ID03 quando houver disponibilidade; confirmar conteúdo de kit e estoque de cada ID antes de recomendar.
 wap_k21_id01_id02:
   nome: "WAP K21 ID01 vs. ID02 (21V)"
   descricao: "Comparativo das furadeiras e parafusadeiras de impacto WAP K21 ID01 e ID02, com torque de 45 Nm, mandril de 10 mm, duas velocidades e bateria de 2,0 Ah."
@@ -204,6 +213,7 @@ wap_k21_id01_id02:
 
 
 
+# REVISÃO: mantido como comparativo de modelos catalogados. Disponibilidade oficial pode variar/constar indisponível; não afirmar estoque sem checar o anúncio no momento da publicação.
 wap_bpfi_12k4_wf_12k4_2:
   nome: "WAP BPFI 12K4 vs. WF 12K4.2"
   descricao: "Comparativo de duas furadeiras e parafusadeiras de impacto WAP 12V, com torque máximo de 30 Nm, mandril de 10 mm e bateria de 1,5 Ah."
@@ -431,9 +441,10 @@ vonder_pfv012_pfv012i:
     - nome: "Destaque Principal"
       valor: "PFV 012 para madeira e metal; PFV 012I acrescenta impacto e duas velocidades para aplicações em alvenaria"
 
+# ALTERAÇÃO: corrigir a identificação local do primeiro modelo para SCD711D2K-BR (não SCD711C2K). O segundo permanece SCD712D2K-BR. Revisar título, imagem e links para refletir exatamente as variantes brasileiras.
 stanley_scd711c2k_scd712d2k:
-  nome: "Stanley SCD711C2K vs. SCD712D2K (20V)"
-  descricao: "Comparativo de duas furadeiras e parafusadeiras de impacto Stanley V20: SCD711C2K com 50 Nm e SCD712D2K com 60 Nm, ambas com mandril de 13 mm e motor com escovas."
+  nome: "Stanley SCD711D2K-BR vs. SCD712D2K-BR (20V)"
+  descricao: "Comparativo de duas furadeiras e parafusadeiras de impacto Stanley V20: SCD711D2K-BR com especificações a confirmar e SCD712D2K com 60 Nm, ambas com mandril de 13 mm e motor com escovas."
   imagem: "/assets/images/posts/stanley-scd711c2k.png"
 
   links:
@@ -443,7 +454,7 @@ stanley_scd711c2k_scd712d2k:
 
   especificacoes:
     - nome: "Modelos"
-      valor: "Stanley SCD711C2K e SCD712D2K-BR"
+      valor: "Stanley SCD711D2K-BR e SCD712D2K-BR"
     - nome: "Categoria"
       valor: "Furadeiras e parafusadeiras de impacto a bateria"
     - nome: "Plataforma"
@@ -453,37 +464,38 @@ stanley_scd711c2k_scd712d2k:
     - nome: "Tensão da Bateria"
       valor: "20V MAX (18V nominal), íons de lítio"
     - nome: "Torque Máximo"
-      valor: "SCD711C2K: 50 Nm | SCD712D2K-BR: 60 Nm"
+      valor: "SCD711D2K-BR: 50 Nm | SCD712D2K-BR: 60 Nm"
     - nome: "Rotação / RPM"
-      valor: "SCD711C2K: 0–400 / 0–1.500 rpm | SCD712D2K-BR: 0–450 / 0–1.700 rpm"
+      valor: "SCD711D2K-BR: confirmar rotação na ficha da variante | SCD712D2K-BR: 0–450 / 0–1.700 rpm"
     - nome: "Função Impacto"
       valor: "Sim, presente nos dois modelos"
     - nome: "Impactos por Minuto"
-      valor: "SCD711C2K: até 25.500 ipm | SCD712D2K-BR: até 28.900 ipm"
+      valor: "SCD711D2K-BR: confirmar IPM na ficha da variante | SCD712D2K-BR: até 28.900 ipm"
     - nome: "Mandril"
       valor: "13 mm, sem chave, em ambos; metálico confirmado na SCD712D2K-BR"
     - nome: "Ajustes de Torque"
-      valor: "SCD711C2K: divergência entre fontes oficiais (21 ou 24) | SCD712D2K-BR: 16 posições"
+      valor: "SCD711D2K-BR: confirmar posições na ficha da variante | SCD712D2K-BR: 16 posições"
     - nome: "Velocidades Mecânicas"
       valor: "2 velocidades em ambos os modelos"
     - nome: "Capacidade de Perfuração"
       valor: "Ambos: madeira 35 mm | aço 13 mm | alvenaria 13 mm"
     - nome: "Baterias Inclusas"
-      valor: "SCD711C2K: 2 x 1,5 Ah | SCD712D2K-BR: 2 x 2,0 Ah (SB202)"
+      valor: "SCD711D2K-BR: confirmar baterias do kit | SCD712D2K-BR: 2 x 2,0 Ah (SB202)"
     - nome: "Carregador"
-      valor: "SCD712D2K-BR: SC200 de 2 A | SCD711C2K: confirmar carregador do kit"
+      valor: "SCD712D2K-BR: SC200 de 2 A | SCD711D2K-BR: confirmar carregador do kit"
     - nome: "Iluminação"
       valor: "LED integrado em ambos os modelos"
     - nome: "Peso"
       valor: "Varia conforme o modelo e a bateria; consultar a configuração comercial"
     - nome: "Acessórios"
-      valor: "SCD711C2K: caixa do kit | SCD712D2K-BR: maleta rígida"
+      valor: "SCD711D2K-BR: confirmar embalagem do kit | SCD712D2K-BR: maleta rígida"
     - nome: "Garantia"
       valor: "2 anos nas páginas oficiais consultadas; verificar condições regionais"
     - nome: "Destaque Principal"
-      valor: "Comparação entre duas furadeiras de impacto V20: 50 Nm e baterias de 1,5 Ah na SCD711C2K versus 60 Nm e baterias de 2,0 Ah na SCD712D2K-BR"
+      valor: "Comparação entre duas furadeiras de impacto V20: 50 Nm (dado a confirmar) na SCD711D2K-BR versus 60 Nm e baterias de 2,0 Ah na SCD712D2K-BR"
 
 
+# ALTERAÇÃO: padronizar o código brasileiro como DCD7781D2BR/DCD7781D2-BR conforme grafia da página consultada. Mantido: motor brushless e função impacto.
 dewalt_dcd7781d2:
   nome: "DeWalt DCD7781D2"
   descricao: "Furadeira e parafusadeira de impacto 20V MAX brushless, com torque máximo de 65 Nm, mandril metálico de 13 mm e kit com duas baterias de 2 Ah"
@@ -639,6 +651,7 @@ bosch_gsb_18v_50:
       valor: "Motor brushless, torque de 50 Nm, mandril metálico de 13 mm e plataforma Bosch Professional 18V"
 
 
+# ALTERAÇÃO: manter apenas como modelo legado, não como opção atual de destaque. Sugestão de atualização: Bosch GSB185-LI; trocar somente após revisar imagem, links e especificações da variante substituta.
 bosch_gsb_180_li:
   nome: "Bosch GSB 180-LI"
   descricao: "Furadeira e parafusadeira de impacto 18V Bosch Professional, com torque máximo de 54 Nm, mandril de 13 mm e até 27.000 impactos por minuto"
@@ -686,6 +699,7 @@ bosch_gsb_180_li:
       valor: "Torque máximo de 54 Nm, mandril de 13 mm, duas velocidades, função impacto e plataforma Bosch Professional 18V"
 
 
+# REVISÃO: padronizar a família em HP333DZ (ferramenta avulsa) ou HP333DWYE (kit). Não misturar códigos de kit; conferir os links antes de apontá-los para uma variante específica.
 makita_hp333_12v_impacto:
   nome: "Makita HP333 (12V Impacto)"
   descricao: "Furadeira e parafusadeira de impacto 12V max CXT, com motor de 2 polos, torque máximo de 34 Nm, mandril de 10 mm e até 25.500 impactos por minuto"
@@ -792,6 +806,7 @@ makita_dhp490:
       valor: "Motor brushless, torque máximo de 65 Nm, duas velocidades, função impacto e plataforma Makita LXT 18V"
 
 
+# REVISÃO: mantido. Confirmar no título/código comercial que se trata do GSB 12V-30 brushless, com função impacto.
 bosch_gsb_12v_30_brushless:
   nome: "Bosch GSB 12V-30 Brushless"
   descricao: "Furadeira e parafusadeira de impacto 12V com motor brushless, torque máximo de 30 Nm, duas velocidades e até 24.000 impactos por minuto"
@@ -875,6 +890,7 @@ black_decker_ld12s:
 
 
 
+# REVISÃO: mantido como opção 12V de entrada; não confundir com GSR 120-LI, que é sem impacto.
 bosch_gsb_120_li:
   nome: "Parafusadeira e Furadeira de Impacto Bosch GSB 120-LI"
   descricao: "Furadeira e parafusadeira de impacto 12V Professional, com torque máximo de 30 Nm, duas velocidades, mandril de 10 mm e até 22.500 impactos por minuto"
@@ -910,6 +926,7 @@ bosch_gsb_120_li:
       valor: "Função impacto para alvenaria, torque de 30 Nm e duas velocidades em uma ferramenta compacta da linha Bosch Professional 12V"
 
 
+# ALTERAÇÃO: categoria editorial corrigida para parafusadeira compacta (não furadeira com mandril convencional). O GSR 1000 Smart tem bateria integrada e porta-bits; não comparar diretamente com modelos de mandril.
 bosch_gsr_1000_smart:
   nome: "Bosch GSR 1000 Smart Professional"
   descricao: "Furadeira e parafusadeira compacta 12V com bateria integrada de 1,5 Ah, torque de 15 Nm, encaixe de 1/4 pol. e rotação de até 700 rpm."
@@ -920,7 +937,7 @@ bosch_gsr_1000_smart:
     shopee: "https://s.shopee.com.br/1BkZT5lUC"
   especificacoes:
     - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria"
+      valor: Parafusadeira compacta com porta-bits; não possui mandril convencional
     - nome: "Modelo"
       valor: "Bosch GSR 1000 Smart Professional"
     - nome: "Linha"
@@ -972,61 +989,17 @@ bosch_gsr_1000_smart:
     - nome: "Destaque Principal"
       valor: "Corpo compacto, bateria integrada e torque de 15 Nm para tarefas leves"
 
-werca_w_e12:
-  nome: "Werca W-E12"
-  descricao: "Melhor torque de 3 níveis com carregador USB"
-  imagem: "/assets/images/posts/werca-w-e12.png"
+# ALTERAÇÃO: cadastro Werca W-E12 retirado.
+# Motivo: não foi possível validar fabricante/modelo e presença comercial confiável no Brasil; não manter como recomendação.
 
-  links:
-    amazon: ""
-    mercadolivre: ""
-    shopee: ""
+# ALTERAÇÃO: cadastro Black+Decker BDCS90 retirado da lista principal.
+# Motivo: não localizado no catálogo brasileiro atual consultado; manter apenas se houver anúncio ativo e variante comprovada.
+# Alternativa a avaliar: Black+Decker LD12S-BR (parafusadeira compacta) ou BCD704C1-BR (furadeira de impacto).
 
-  especificacoes:
-    - nome: "Marca"
-      valor: "Werca"
-    - nome: "Modelo"
-      valor: "W-E12"
-    - nome: "Alimentação / Voltagem"
-      valor: "10,8V (Bateria recarregável via USB)"
-    - nome: "Capacidade da Bateria"
-      valor: "2000 mAh"
-    - nome: "Rotação / RPM"
-      valor: "150 RPM (Constante)"
-    - nome: "Recursos de Torque"
-      valor: "Controle de 3 níveis"
-    - nome: "Peso Líquido"
-      valor: "1,05 kg"
-
-black_decker_bdcs90:
-  nome: "Black+Decker BDCS90"
-  descricao: "Compacta e leve, perfeita para iniciantes"
-  imagem: "/assets/images/posts/black-decker-bdcs90.png"
-
-  links:
-    amazon: ""
-    mercadolivre: ""
-    shopee: ""
-
-  especificacoes:
-    - nome: "Marca"
-      valor: "Black+Decker"
-    - nome: "Modelo"
-      valor: "BDCS90"
-    - nome: "Alimentação / Voltagem"
-      valor: "3,6V (Íon de Lítio - Micro-USB)"
-    - nome: "Recursos de Torque"
-      valor: "2 níveis de torque"
-    - nome: "Indicador"
-      valor: "LED de nível de bateria"
-    - nome: "Comprimento Total"
-      valor: "15 cm"
-    - nome: "Peso Líquido"
-      valor: "0,85 kg"
-
+# ALTERAÇÃO: reclassificado para PARAFUSADEIRA DE IMPACTO (impact driver), não furadeira/parafusadeira com mandril. Ferramenta com encaixe sextavado 1/4 pol.; separar em categoria própria.
 makita_td110d:
   nome: "Makita TD110D"
-  descricao: "Motor Brushless e compatibilidade Makita 12V"
+  descricao: "Parafusadeira de impacto 12V CXT, encaixe sextavado 1/4 pol. e torque máximo de 110 Nm; não possui mandril de furadeira."
   imagem: "/assets/images/posts/makita-td110d.png"
 
   links:
@@ -1042,15 +1015,16 @@ makita_td110d:
     - nome: "Alimentação / Voltagem"
       valor: "12V Max (Linha CXT / LXT 12V)"
     - nome: "Motor"
-      valor: "Brushless (Sem escovas)"
+      valor: "Motor com escovas; não é brushless"
     - nome: "Recursos de Torque"
-      valor: "3 níveis + função reversa"
+      valor: "Torque máximo de 110 Nm; acionamento variável e reversão"
     - nome: "Iluminação"
       valor: "LED integrado"
     - nome: "Recursos Adicionais"
-      valor: "Sistema de bateria One Key e bolsa de transporte"
+      valor: "Encaixe sextavado 1/4 pol.; acessórios e bolsa dependem do kit"
 
 
+# REVISÃO: mantido. O DCD777 é brushless e possui função impacto; a referência brasileira de kit encontrada é DCD7771D2-BR. Atualizar código comercial e conferir kit/links.
 dewalt_dcd777:
   nome: "DeWalt DCD777 20V MAX Brushless"
   descricao: "Furadeira e parafusadeira sem impacto 20V MAX, motor brushless, mandril de 13 mm, duas velocidades e 15 ajustes de torque."
@@ -1102,6 +1076,7 @@ dewalt_dcd777:
       valor: "Motor brushless, mandril de 13 mm e 15 ajustes de torque para montagens e perfurações"
 
 
+# REVISÃO: manter como modelo FlexiClick específico; não substituir automaticamente pelo GSR 120-LI, pois o sistema de acessórios intercambiáveis é diferencial próprio.
 bosch_gsr_12v_15_fc:
   nome: "Bosch GSR 12V-15 FC Professional"
   descricao: "Furadeira e parafusadeira 12V sem impacto, com sistema FlexiClick, torque de 30 Nm, 20+1 ajustes e duas velocidades."
@@ -1167,6 +1142,7 @@ bosch_gsr_12v_15_fc:
       valor: "Sistema FlexiClick com adaptadores angular e excêntrico para trabalhar próximo de cantos e bordas"
 
 
+# CORREÇÃO: manter e identificar como brushless (motor BL). A DF332DWYE/DF332DZ é uma furadeira/parafusadeira sem impacto; não rotular como motor com escovas.
 makita_df332d:
   nome: "Makita DF332D 12V MAX CXT Brushless"
   descricao: "Furadeira e parafusadeira 12V MAX CXT brushless, com torque de 35 Nm, mandril de 10 mm, duas velocidades e 20 ajustes de torque."
@@ -1181,7 +1157,7 @@ makita_df332d:
     - nome: "Categoria"
       valor: "Furadeira e parafusadeira a bateria"
     - nome: "Modelo"
-      valor: "Makita DF332D"
+      valor: "Makita DF332DWYE / DF332DZ"
     - nome: "Linha"
       valor: "Makita CXT 12V MAX"
     - nome: "Tensão"
@@ -1234,6 +1210,7 @@ makita_df332d:
       valor: "Motor brushless, corpo compacto de 154 mm e 20 ajustes para parafusamento controlado"
 
 
+# ALTERAÇÃO: mover para categoria MARTELETES SDS-PLUS. É martelete perfurador, não furadeira/parafusadeira convencional.
 bosch_gbh_18v_21:
   nome: "Bosch GBH 18V-21 Professional"
   descricao: "Martelete perfurador e rompedor 18V brushless, com encaixe SDS-Plus, energia de impacto de 2,0 J e três modos de operação."
@@ -1244,7 +1221,7 @@ bosch_gbh_18v_21:
     shopee: "https://s.shopee.com.br/80E26yCIfM"
   especificacoes:
     - nome: "Categoria"
-      valor: "Martelete perfurador e rompedor a bateria"
+      valor: Martelete perfurador SDS-Plus a bateria
     - nome: "Modelo"
       valor: "Bosch GBH 18V-21 Professional"
     - nome: "Alimentação"
@@ -1283,6 +1260,7 @@ bosch_gbh_18v_21:
       valor: "Martelete SDS-Plus sem fio, com 2,0 J e motor brushless"
 
 
+# REVISÃO: mantido. Potência nominal de 750 W compatível com a ficha Bosch consultada; separar em furadeiras com fio.
 bosch_gsb_13_re_750w:
   nome: "Bosch GSB 13 RE Professional 750W"
   descricao: "Furadeira de impacto com fio de 750 W, mandril de 13 mm, velocidade variável e até 57.000 impactos por minuto."
@@ -1336,6 +1314,7 @@ bosch_gsb_13_re_750w:
       valor: "750 W, corpo compacto e impacto para perfurações domésticas e profissionais leves"
 
 
+# ALTERAÇÃO: mover para categoria FURADEIRAS COM FIO. É furadeira de impacto elétrica, não modelo a bateria.
 makita_hp2050:
   nome: "Makita HP2050 720W"
   descricao: "Furadeira de impacto com fio de 720 W, duas velocidades mecânicas, mandril de 13 mm e capacidade de até 20 mm em concreto."
@@ -1346,7 +1325,7 @@ makita_hp2050:
     shopee: "https://s.shopee.com.br/9KjVyFSJj4"
   especificacoes:
     - nome: "Categoria"
-      valor: "Furadeira de impacto com fio"
+      valor: Furadeira de impacto elétrica com fio
     - nome: "Modelo"
       valor: "Makita HP2050"
     - nome: "Alimentação"
@@ -1395,6 +1374,7 @@ makita_hp2050:
       valor: "Duas marchas mecânicas e capacidade declarada de 20 mm em concreto"
 
 
+# ALTERAÇÃO: mover para categoria MARTELETES SDS-PLUS. Não comparar diretamente com furadeiras de mandril convencional.
 bosch_gbh_2_21:
   nome: "Bosch GBH 2-21 Professional 720W"
   descricao: "Martelete perfurador e rompedor SDS-Plus com fio, motor de 720 W, energia de impacto de 2,0 J e três modos de operação."
@@ -1405,7 +1385,7 @@ bosch_gbh_2_21:
     shopee: "https://s.shopee.com.br/6VPFW8ACWV"
   especificacoes:
     - nome: "Categoria"
-      valor: "Martelete perfurador e rompedor com fio"
+      valor: Martelete perfurador SDS-Plus com fio
     - nome: "Modelo"
       valor: "Bosch GBH 2-21 Professional"
     - nome: "Alimentação"
@@ -1440,6 +1420,7 @@ bosch_gbh_2_21:
       valor: "Martelete SDS-Plus de 2,0 J para perfuração e cinzelamento leve"
 
 
+# REVISÃO: cadastro individual redundante com o comparativo WAP BPFI 12K4 vs. WF 12K4.2. Manter apenas se a página individual tiver conteúdo/links próprios; confirmar estoque antes de recomendar.
 wap_wf_12k4_2:
   nome: WAP WF 12K4.2
   descricao: Furadeira/parafusadeira de impacto versátil para trabalhos domésticos.
@@ -1465,6 +1446,7 @@ wap_wf_12k4_2:
     valor: Sim
 
 
+# REVISÃO: cadastro individual redundante com o comparativo PFV 012 vs. PFV 012I. Consolidar para evitar duplicidade editorial; manter página separada apenas se tiver intenção de busca e conteúdo próprios.
 vonder_pfv_012:
   nome: Vonder PFV 012
   descricao: Furadeira/parafusadeira sem impacto para uso doméstico.
@@ -1489,6 +1471,7 @@ vonder_pfv_012:
   - nome: Impacto
     valor: Não
 
+# ALTERAÇÃO: tratar como modelo anterior/legado. Sugestão de substituição para catálogo atual: GSB 18V-50 ou GSB185-LI, conforme a faixa e o tipo de impacto desejados.
 bosch_gsb_18v_21:
   nome: Bosch GSB 18V-21
   descricao: Furadeira/parafusadeira de impacto 18v para quem alterna montagem de móveis e furos ocasionais em alvenaria.
@@ -1529,48 +1512,10 @@ bosch_gsb_18v_21:
   - nome: Plataforma
     valor: Bosch Professional 18V
 
-bosch_gsb_18v_50:
-  nome: Bosch GSB 18V-50
-  descricao: Furadeira/parafusadeira de impacto Bosch Professional 18V com motor Brushless, indicada para parafusamento, montagem e perfurações ocasionais em alvenaria.
-  imagem: /assets/images/posts/bosch-gsb-18v-50.png
-  links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1zwG6PX"
-    shopee: "https://s.shopee.com.br/AAIXyG2b1z"
-  especificacoes:
-  - nome: Categoria
-    valor: Furadeira/parafusadeira de impacto a bateria para montagem, parafusamento e perfurações ocasionais em alvenaria
-  - nome: Modelo
-    valor: Bosch GSB 18V-50
-  - nome: Alimentação
-    valor: Bateria de íons de lítio
-  - nome: Motor
-    valor: Brushless (sem escovas de carvão)
-  - nome: Velocidades
-    valor: 0–460 e 0–1.800 rpm
-  - nome: Torque
-    valor: 50 Nm em junta rígida e 28 Nm em junta flexível
-  - nome: Mandril
-    valor: Mandril metálico de 1,5 a 13 mm
-  - nome: Impacto
-    valor: Até 27.000 impactos por minuto
-  - nome: Peso
-    valor: Aproximadamente 1,1 kg sem bateria
-  - nome: Conteúdo do kit
-    valor: A composição de baterias, carregador e maleta depende do código comercial
-  - nome: Aplicações
-    valor: Parafusamento, montagem de móveis e perfurações em madeira, metal e alvenaria compatível com a função de impacto
-  - nome: Limitações
-    valor: Não substitui martelete SDS-Plus em concreto duro, concreto armado denso ou trabalhos de demolição
-  - nome: Tensão
-    valor: 18V
-  - nome: Ajustes de torque
-    valor: 20+2
-  - nome: Plataforma
-    valor: Bosch Professional 18V
+# ALTERAÇÃO: removido este segundo bloco duplicado de bosch_gsb_18v_50.
+# Motivo: a chave YAML repetida pode sobrescrever silenciosamente o primeiro cadastro.
 
-
-
+# REVISÃO: manter como furadeira/parafusadeira brushless SEM impacto. Código brasileiro: DCD708D2-BR; não confundir com DCD709, que possui impacto.
 dewalt_dcd708d2:
   nome: DeWalt DCD708D2
   descricao: Furadeira/parafusadeira compacta atomic 20v max sem impacto, voltada à montagem de móveis e perfuração em madeira e metal.
@@ -1728,6 +1673,7 @@ bosch_gsr_120_li:
     - nome: "Destaque Principal"
       valor: "20+1 ajustes de torque, duas velocidades e bateria removível para montagem e manutenção doméstica"
 
+# REVISÃO: manter como furadeira/parafusadeira sem impacto 12V CXT. Distinguir da DF332DWYE: DF332 é brushless; não atribuir essa característica à DF333.
 makita_df333dwye:
   nome: "Makita DF333DWYE"
   descricao: "Furadeira e parafusadeira sem impacto 12V CXT, com torque de 30 Nm em junta rígida, 20 ajustes de torque, duas velocidades e kit com duas baterias de 1,5 Ah."
@@ -1773,6 +1719,7 @@ makita_df333dwye:
       valor: "Kit com duas baterias, 20 ajustes de torque e duas velocidades para montagem de móveis"
 
 
+# ALTERAÇÃO: padronizar a referência local como Makita DHP485Z (ou DHP485RFJ no kit, conforme variante). XPH14Z é designação de mercado externo; não misturar no título brasileiro.
 makita_xph14z_dhp485:
   nome: "Makita DHP485Z 18V LXT Brushless"
   descricao: "Furadeira e parafusadeira de impacto 18V LXT, com motor brushless, torque máximo de 60 Nm, 21 ajustes de torque, duas velocidades e mandril de 13 mm. Versão Z comercializada sem bateria e carregador."
@@ -1783,7 +1730,7 @@ makita_xph14z_dhp485:
     shopee: ""
   especificacoes:
     - nome: "Modelo Comercial"
-      valor: "Makita DHP485Z"
+      valor: "Makita DHP485Z (Brasil; kit DHP485RFJ, conforme variante)"
     - nome: "Categoria"
       valor: "Furadeira e parafusadeira de impacto a bateria"
     - nome: "Tensão"
@@ -1823,6 +1770,7 @@ makita_xph14z_dhp485:
 
 
 
+# ALERTA DE CÓDIGO: HP333DSAJ não foi validado como código oficial brasileiro. Preferir HP333DZ (avulsa) ou HP333DWYE (kit) somente após conferir que os links/estoque correspondem; não afirmar que o sufixo DSAJ é oficial.
 makita_hp333dsaj:
   nome: Makita HP333D 12V CXT 
   descricao: Furadeira e parafusadeira de impacto 12V max CXT, motor de dois polos, torque máximo de 34 Nm, 20 ajustes
@@ -1864,6 +1812,7 @@ makita_hp333dsaj:
   - nome: Destaque Principal
     valor: Modelo compacto CXT 12V com impacto; verificar o código comercial do kit
 
+# ALTERAÇÃO RECOMENDADA, NÃO APLICADA: DCD700D2-BR não foi confirmado no catálogo brasileiro consultado. Substituto local a avaliar: DCD710D2-BR (12V, sem impacto). Não reaproveitar links/imagem do DCD700 sem validar que apontam para o DCD710.
 dewalt_dcd700d2_br:
   nome: DeWalt DCD700 12V MAX 
   descricao: Furadeira e parafusadeira compacta 12V MAX, sem impacto.
@@ -1899,6 +1848,7 @@ dewalt_dcd700d2_br:
     valor: Furadeira/parafusadeira compacta para madeira, metal e montagem; sem impacto
 
     
+# ALTERAÇÃO RECOMENDADA: GSB 18V-55 não apareceu no catálogo brasileiro 2026 consultado. Avaliar substituição por GSB 18V-65 ou GSB 18V-90 C; escolher a variante e refazer especificações/links antes de publicar.
 bosch_gsb_18v_55:
   nome: Bosch GSB 18V-55 
   descricao: Furadeira e parafusadeira de impacto 18V brushless, torque rígido de 55 Nm, mandril metálico de 13
@@ -1939,10 +1889,10 @@ bosch_gsb_18v_55:
     valor: Motor brushless, torque rígido de 55 Nm e mandril metálico de 13 mm
 
     
+# ALTERAÇÃO: cadastro renomeado no conteúdo para a variante brasileira DHP484Z (ferramenta avulsa); DHP484RFE é alternativa de kit a validar. A chave antiga foi preservada para não quebrar referências internas.
 makita_dhp484rtj:
-  nome: Makita DHP484RTJ 18V LXT Brushless
-  descricao: Kit de furadeira e parafusadeira de impacto 18V LXT brushless, torque máximo declarado de 65 Nm, mandril
-    de 13 mm, duas baterias de 5,0 Ah e maleta Makpac na configuração RTJ oficial.
+  nome: Makita DHP484Z 18V LXT Brushless (ferramenta avulsa)
+  descricao: Furadeira e parafusadeira de impacto 18V LXT brushless. A variante brasileira DHP484Z é ferramenta avulsa; confirmar conteúdo de kit quando anunciado como DHP484RFE.
   imagem: /assets/images/posts/makita-dhp484rtj.png
   links:
     amazon: ''
@@ -1950,7 +1900,7 @@ makita_dhp484rtj:
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
-    valor: Makita DHP484RTJ
+    valor: Makita DHP484Z (avulsa); DHP484RFE (kit, conforme disponibilidade)
   - nome: Categoria
     valor: Furadeira e parafusadeira de impacto
   - nome: Tensão
@@ -1976,11 +1926,11 @@ makita_dhp484rtj:
   - nome: Iluminação
     valor: LED integrado
   - nome: Baterias Inclusas
-    valor: 2 baterias 18V LXT de 5,0 Ah no kit RTJ oficial
+    valor: Não acompanha bateria na versão DHP484Z; verificar conteúdo da DHP484RFE no anúncio
   - nome: Acessórios Inclusos
-    valor: Carregador rápido e maleta Makpac na versão RTJ
+    valor: Acessórios dependem da variante comercial; não atribuir kit RTJ ao código brasileiro sem confirmação
   - nome: Destaque Principal
-    valor: Motor brushless, 65 Nm máximos e kit RTJ com duas baterias de 5,0 Ah
+    valor: Motor brushless, 65 Nm máximos e plataforma LXT 18V; conteúdo do kit depende da variante
 
     
 dewalt_dcd796d2_br:
@@ -2025,6 +1975,7 @@ dewalt_dcd796d2_br:
     valor: 70 Nm máximos, brushless e kit com duas baterias de 2,0 Ah
 
     
+# REVISÃO: mantido, mas em categoria própria de furadeiras/parafusadeiras sem impacto de alto torque. Não confundir com GSB 18V-150 C, que é a versão com impacto.
 bosch_gsr_18v_150c:
   nome: Bosch GSR 18V-150 C Professional
   descricao: Furadeira e parafusadeira sem impacto 18V BITURBO Brushless, torque máximo de 150 Nm, mandril metálico
