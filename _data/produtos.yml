@@ -1697,7 +1697,7 @@ bosch_gsr_120_li:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/2y5ySyN"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/3qObBFmm88"
   especificacoes:
     - nome: "Modelo"
       valor: "Bosch GSR 120-LI Professional (sem impacto)"
@@ -1735,7 +1735,7 @@ makita_df333dwye:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1bsewFh"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/1gK6beTFUE"
   especificacoes:
     - nome: "Modelo Comercial"
       valor: "Makita DF333DWYE"
@@ -1824,14 +1824,14 @@ makita_xph14z_dhp485:
 
 
 makita_hp333dsaj:
-  nome: Makita HP333D 12V CXT (kit DSAJ a confirmar)
+  nome: Makita HP333D 12V CXT 
   descricao: Furadeira e parafusadeira de impacto 12V max CXT, motor de dois polos, torque máximo de 34 Nm, 20 ajustes
     e mandril de 10 mm. A composição do kit HP333DSAJ precisa ser confirmada.
   imagem: /assets/images/posts/makita-hp333dsaj.png
   links:
     amazon: ''
     mercadolivre: "https://meli.la/1YWxv9M"
-    shopee: ''
+    shopee: "https://s.shopee.com.br/4VeHz3E638"
   especificacoes:
   - nome: Modelo Comercial
     valor: Makita HP333D; sufixo DSAJ não localizado nas fichas oficiais consultadas
@@ -1865,9 +1865,8 @@ makita_hp333dsaj:
     valor: Modelo compacto CXT 12V com impacto; verificar o código comercial do kit
 
 dewalt_dcd700d2_br:
-  nome: DeWalt DCD700 12V MAX (kit DCD700D2-BR a confirmar)
-  descricao: Furadeira e parafusadeira compacta 12V MAX, sem impacto, com duas velocidades e mandril de 10 mm. A
-    identificação exata do kit DCD700D2-BR precisa ser conferida.
+  nome: DeWalt DCD700 12V MAX 
+  descricao: Furadeira e parafusadeira compacta 12V MAX, sem impacto.
   imagem: /assets/images/posts/dewalt-dcd700d2-br.png
   links:
     amazon: ''
@@ -1901,7 +1900,7 @@ dewalt_dcd700d2_br:
 
     
 bosch_gsb_18v_55:
-  nome: Bosch GSB 18V-55 Professional
+  nome: Bosch GSB 18V-55 
   descricao: Furadeira e parafusadeira de impacto 18V brushless, torque rígido de 55 Nm, mandril metálico de 13
     mm e duas velocidades.
   imagem: /assets/images/posts/bosch-gsb-18v-55.png
