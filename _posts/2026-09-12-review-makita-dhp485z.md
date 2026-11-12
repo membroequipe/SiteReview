@@ -29,7 +29,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Makita DHP485Z vale a pena em 2026** para quem procura uma furadeira e parafusadeira de impacto 18V, com motor brushless e capacidade para trabalhar em madeira, metal e alvenaria. O modelo combina torque máximo declarado de **60 Nm**, duas velocidades mecânicas, mandril de 13 mm e recursos que favorecem a utilização em montagem, manutenção e instalações profissionais.
+A **Makita DHP485Z vale a pena em 2026** para quem procura uma furadeira e parafusadeira de impacto 18V LXT, com motor brushless e capacidade declarada para trabalhar em madeira, aço e concreto dentro dos limites do fabricante. O modelo combina torque máximo de **60 Nm**, duas velocidades mecânicas, mandril de aperto rápido de 13 mm e 21 níveis de ajuste de torque. É uma opção voltada a usuários frequentes e profissionais que precisam de uma ferramenta versátil, mas não substitui um martelete SDS-Plus em perfurações pesadas.
 
 Seu principal diferencial não é apenas a força. A DHP485Z pertence à plataforma **Makita LXT 18V**, permitindo utilizar baterias compatíveis da mesma linha. Para quem já possui outras ferramentas Makita LXT, isso pode tornar a compra do corpo avulso mais interessante.
 
@@ -49,7 +49,7 @@ Neste review, analisamos a construção, as especificações, as aplicações re
 
 A **Makita DHP485Z** foi desenvolvida para quem precisa alternar entre parafusamento e perfuração sem depender de ferramentas diferentes para cada tarefa. Sua construção reúne motor sem escovas, transmissão com duas velocidades e mecanismo de impacto axial, características úteis em trabalhos variados.
 
-Segundo a Makita Brasil, o equipamento possui dimensões de **182 × 79 × 193 mm** e pesa **1,16 kg sem bateria**. Esses números ajudam a compreender seu porte, mas o peso real durante o trabalho aumenta conforme a bateria instalada.
+O cadastro técnico da Makita Brasil informa dimensões de **182 × 79 × 193 mm** e peso aproximado de **1,16 kg sem bateria**. Portanto, o conjunto pronto para uso será mais pesado. Ao comparar com outras furadeiras, confira se a ficha informa o corpo avulso ou o equipamento com bateria instalada.
 
 Essa diferença merece atenção. Uma bateria de maior capacidade pode oferecer mais autonomia, mas também acrescentar peso ao conjunto. Para quem trabalha em armários, instalações acima da cabeça ou locais de difícil acesso, o equilíbrio entre autonomia e ergonomia pode ser mais importante do que escolher simplesmente a maior bateria disponível.
 
@@ -75,7 +75,7 @@ O mandril convencional também não é um encaixe SDS-Plus. Portanto, a DHP485Z 
 
 ### Motor brushless e proteção XPT
 
-A Makita utiliza um motor **BL (brushless)** na DHP485Z. Diferentemente dos motores convencionais com escovas de carvão, esse sistema emprega controle eletrônico e dispensa o desgaste das escovas.
+A Makita utiliza um motor **BL (brushless)** na DHP485Z. Diferentemente dos motores convencionais com escovas de carvão, esse sistema dispensa as escovas e o desgaste associado a esses componentes.
 
 Na prática, a tecnologia pode favorecer a eficiência energética e reduzir a necessidade de manutenção relacionada às escovas. Entretanto, a autonomia efetiva depende da bateria, da carga aplicada e das condições de trabalho.
 
@@ -87,16 +87,18 @@ Outro recurso é a tecnologia **XPT**, desenvolvida para aumentar a resistência
 
 A Makita DHP485Z combina características que a tornam adequada para diferentes trabalhos. Seu desempenho esperado deve ser avaliado a partir das capacidades declaradas pela fabricante, e não de promessas genéricas de potência.
 
-A ficha oficial informa:
+A ficha técnica cadastrada para a versão brasileira informa:
 
 - **Torque máximo:** 60 Nm.
 - **Torque em junta rígida:** 50 Nm.
 - **Torque em junta flexível:** 27 Nm.
-- **Rotação baixa:** 0–500 rpm.
-- **Rotação alta:** 0–1.900 rpm.
-- **Impactos em baixa:** 0–7.500 por minuto.
-- **Impactos em alta:** 0–28.500 por minuto.
+- **Rotação em baixa velocidade:** 0–500 rpm.
+- **Rotação em alta velocidade:** 0–1.900 rpm.
+- **Impactos em baixa velocidade:** 0–7.500 por minuto.
+- **Impactos em alta velocidade:** 0–28.500 por minuto.
 - **Ajustes de torque:** 21 níveis.
+- **Capacidade de perfuração:** madeira até 38 mm, aço até 13 mm e concreto até 13 mm.
+- **Mandril:** aperto rápido, de 1,5 a 13 mm.
 
 Os valores de torque representam condições de medição específicas. Não significam que a ferramenta aplicará 60 Nm continuamente em qualquer parafuso ou velocidade.
 
@@ -130,9 +132,9 @@ Em peças espessas ou materiais de elevada dureza, a aplicação pode exigir equ
 
 ### Desempenho em alvenaria e concreto
 
-A função impacto amplia as possibilidades de utilização da DHP485Z.
+A função impacto amplia as possibilidades de utilização da DHP485Z em alvenaria compatível.
 
-Segundo a Makita Brasil, a ferramenta possui capacidade nominal de até **13 mm em concreto**, com frequência máxima de **28.500 impactos por minuto**.
+O cadastro técnico brasileiro informa capacidade nominal de até **13 mm em concreto**, com frequência máxima de **28.500 impactos por minuto**. Esse limite não significa que a ferramenta seja indicada para perfurações pesadas, contínuas ou de grande diâmetro em concreto resistente.
 
 O mecanismo produz pequenos golpes axiais combinados com a rotação, auxiliando a perfuração de materiais compatíveis quando utilizada uma broca apropriada.
 
@@ -181,13 +183,13 @@ Não há base suficiente para prometer uma quantidade fixa de furos ou parafusos
 
 A escolha de uma bateria maior pode favorecer trabalhos prolongados, mas também modifica o peso e o equilíbrio da ferramenta.
 
-## Opinião dos Compradores
+## Análise Editorial: vantagens e limitações
 
 A Makita DHP485Z possui características que podem interessar tanto a profissionais quanto a usuários domésticos mais exigentes.
 
-Nesta seção, os pontos apresentados representam uma **análise editorial das vantagens e limitações técnicas**, e não um levantamento estatístico de avaliações verificadas de compradores.
+Os pontos apresentados nesta seção representam uma **análise editorial das vantagens e limitações técnicas**. Não são um levantamento estatístico de avaliações verificadas de compradores.
 
-### Elogios Mais Frequentes
+### Principais vantagens técnicas
 
 - **Motor brushless:** a ausência de escovas de carvão reduz uma fonte comum de desgaste e manutenção.
 - **Versatilidade:** a combinação de parafusamento, perfuração e impacto permite atender diferentes tarefas com uma ferramenta.
@@ -195,7 +197,7 @@ Nesta seção, os pontos apresentados representam uma **análise editorial das v
 - **Mandril de 13 mm:** amplia a compatibilidade com brocas de haste adequada.
 - **Plataforma LXT 18V:** pode facilitar a compra para usuários que já possuem baterias e carregador Makita compatíveis.
 
-### Reclamações Mais Frequentes
+### Limitações que devem ser consideradas
 
 - **Ausência de bateria e carregador:** quem compra a versão Z precisa adquirir esses componentes separadamente, caso ainda não os possua.
 - **Custo inicial:** o investimento total pode aumentar bastante quando são necessários bateria, carregador e maleta.
@@ -213,9 +215,7 @@ A comparação deve considerar não apenas o torque, mas também o motor, a plat
 
 A **Makita DHP484** também pertence à plataforma LXT 18V e utiliza motor brushless, duas velocidades e função impacto.
 
-Uma diferença importante está nas especificações de torque e rotação. A Makita Brasil informa para a DHP484 torque máximo de **65 Nm** e rotação de até **2.000 rpm**, enquanto a DHP485Z apresenta **60 Nm** e até **1.900 rpm**.
-
-Isso não significa automaticamente que a DHP484 seja melhor em qualquer aplicação. As diferenças devem ser avaliadas junto com o preço, a ergonomia, a versão comercial e os acessórios fornecidos.
+Na comparação de especificações apresentada neste artigo, a DHP484 informa torque máximo de **65 Nm** e rotação de até **2.000 rpm**, enquanto a DHP485Z informa **60 Nm** e até **1.900 rpm**. A diferença numérica não determina sozinha qual ferramenta é melhor: considere também dimensões, ergonomia, preço, disponibilidade e conteúdo do kit.
 
 Para quem já possui baterias LXT, ambas podem fazer sentido, dependendo da disponibilidade e do custo do corpo avulso.
 
@@ -223,9 +223,7 @@ Para quem já possui baterias LXT, ambas podem fazer sentido, dependendo da disp
 
 A **Makita HP333** é uma furadeira e parafusadeira de impacto compacta da plataforma CXT 12V.
 
-Ela oferece torque máximo declarado de **34 Nm**, motor com escovas e mandril de 10 mm, características adequadas a montagem, manutenção e perfurações leves.
-
-Já a DHP485Z utiliza motor brushless, plataforma LXT 18V, mandril de 13 mm e torque máximo de 60 Nm.
+O cadastro técnico consultado informa torque máximo de **34 Nm**, motor com escovas e mandril de 10 mm. Já a DHP485Z utiliza motor brushless, plataforma LXT 18V, mandril de 13 mm e torque máximo de **60 Nm**. São ferramentas de plataformas e portes diferentes; a HP333 pode ser mais adequada a tarefas leves e espaços menores, enquanto a DHP485Z oferece capacidades nominais superiores.
 
 Para quem realiza principalmente montagem de móveis pequenos, a HP333 pode representar uma alternativa mais compacta. A DHP485Z é mais interessante quando a prioridade envolve aplicações variadas e maior capacidade nominal.
 
@@ -246,7 +244,7 @@ Já usuários que necessitam de torque significativamente maior devem avaliar a 
 | Makita HP333 | 12V CXT | Com escovas | 34 Nm | Sim |
 | Makita DHP485Z | 18V LXT | Brushless | 60 Nm | Sim |
 | Makita DHP484 | 18V LXT | Brushless | 65 Nm | Sim |
-| Makita DHP486 | 18V LXT | Brushless | Superior ao da DHP485Z | Sim |
+| Makita DHP486 | 18V LXT | Brushless | Consultar ficha específica | Sim |
 
 Os valores de torque são especificações divulgadas pelos fabricantes e não representam resultados de um teste padronizado realizado por nossa equipe.
 
@@ -286,13 +284,22 @@ A DHP485Z possui **função impacto mecânico axial**, mas não é um martelete 
 
 A principal diferença está na configuração comercial. A DHP485Z corresponde à ferramenta avulsa, enquanto a DHP485RFJ é uma apresentação em kit. É necessário conferir na página oficial e no anúncio quais baterias, carregador e acessórios acompanham a versão específica.
 
-### Makita DHP485Z e XPH14Z são a mesma ferramenta?
+### Por que o código XPH14Z aparece associado à DHP485Z em algumas referências?
 
-Não. Embora ambas pertençam à família de furadeiras de impacto a bateria da Makita, a **XPH14Z é um modelo distinto**, comercializado no mercado norte-americano e com especificações próprias. Seus valores de torque e rotação não devem ser utilizados na ficha técnica da DHP485Z.
+A **XPH14Z é uma designação usada no mercado norte-americano**. Para o conteúdo direcionado ao Brasil, a nomenclatura comercial deve permanecer **Makita DHP485Z**; no caso de um kit, a variante brasileira indicada no cadastro é **DHP485RFJ**. Não use o código XPH14Z no título brasileiro nem misture especificações de versões de mercados diferentes.
 
 ### A Makita DHP485Z vale a pena para uso doméstico?
 
 Depende da frequência de utilização e do orçamento. Para reparos ocasionais, uma furadeira mais simples pode ser suficiente. Já para quem executa instalações, trabalha com madeira e metal ou deseja integrar outras ferramentas à plataforma LXT 18V, a DHP485Z pode ser uma compra interessante.
+
+### O que conferir antes de comprar a Makita DHP485Z?
+
+- **Código do modelo:** confirme que o produto é a DHP485Z brasileira; não confunda com códigos de outros mercados.
+- **Versão Z:** o corpo avulso não acompanha bateria, carregador ou maleta.
+- **Versão em kit:** se o anúncio indicar DHP485RFJ, confira a lista de itens incluídos e a quantidade/capacidade das baterias.
+- **Plataforma:** confirme que suas baterias são Makita LXT 18V compatíveis.
+- **Aplicação:** para concreto pesado ou perfurações frequentes, compare com um martelete SDS-Plus.
+- **Peso:** considere que os 1,16 kg informados são sem bateria.
 
 ## Veredito Final e Recomendação de Compra
 
@@ -316,7 +323,6 @@ Antes de comprar, confira o código exato da ferramenta, a compatibilidade das b
 
 ## Fontes Técnicas Oficiais
 
-- [Makita Brasil — DHP485Z: especificações, capacidades, torque, dimensões e itens inclusos](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
+- [Makita Brasil — DHP485Z: especificações, capacidades, torque, dimensões e configuração comercial](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
 - [Makita Brasil — catálogo de furadeiras e parafusadeiras de impacto](https://www.makita.com.br/catalogoF2.asp?codParam2=1)
 - [Makita Brasil — brocas e acessórios compatíveis com a DHP485Z](https://www.makita.com.br/catalogoADetalhes.asp?codParamD=1203)
-
