@@ -44,13 +44,19 @@ cluster_label: "Parafusadeiras de impacto"
 
 ## Makita TD110D: review completo e vale a pena comprar?
 
-A **Makita TD110D** é uma parafusadeira de impacto a bateria da plataforma CXT 12V, desenvolvida para apertar e soltar parafusos e fixadores com mais força do que uma parafusadeira compacta convencional. Seu principal destaque é o torque máximo declarado de **110 N·m**, combinado com encaixe sextavado de 1/4 de polegada, velocidade variável e corpo compacto.
+A **Makita TD110D** é uma parafusadeira de impacto da plataforma **CXT 12V max**, desenvolvida para apertar e soltar parafusos e outros fixadores compatíveis. Seu principal destaque é o torque máximo declarado de **110 N·m**, combinado com encaixe sextavado de 1/4 de polegada, velocidade variável e corpo compacto.
 
-É importante entender a categoria antes de comprar: a TD110D é uma **parafusadeira de impacto**, não uma furadeira/parafusadeira de impacto. Ela não possui mandril de três garras para brocas convencionais e não foi projetada para perfurar madeira, metal ou alvenaria. Seu mecanismo de impacto rotacional ajuda na fixação e remoção de parafusos e parafusos de máquina compatíveis.
+Antes de comprar, é essencial reconhecer a categoria: a TD110D é uma **parafusadeira de impacto (impact driver)**, não uma furadeira/parafusadeira com impacto. Ela não possui mandril convencional de três garras. O encaixe hexagonal de 1/4" recebe bits e acessórios com haste compatível; portanto, não oferece a mesma versatilidade de uma furadeira com mandril para brocas comuns. Seu mecanismo de impacto rotacional é voltado principalmente à fixação e remoção de parafusos e fixadores.
 
-No Brasil, o consumidor encontra principalmente a ferramenta avulsa **TD110DZ** e o kit **TD110DWYE**, que inclui baterias, carregador e maleta. Essa diferença muda bastante o custo final. Quem já tem baterias Makita CXT 12V pode economizar comprando a versão sem bateria; quem está começando na plataforma deve comparar o preço do kit completo antes de decidir.
+No mercado brasileiro, o artigo considera duas referências comerciais: **TD110DZ**, normalmente vendida como ferramenta avulsa, e **TD110DWYE**, apresentada como kit. A composição e a disponibilidade podem variar entre anúncios. Quem já possui baterias Makita CXT 12V compatíveis pode avaliar a versão avulsa; quem está começando na plataforma deve comparar o custo total de ferramenta, bateria e carregador.
 
 {% include resumo-avaliacao.html %}
+
+### Para quem a Makita TD110D faz sentido?
+
+- **Boa escolha:** quem instala e remove parafusos com frequência, trabalha com fixadores compatíveis e precisa de uma ferramenta compacta de impacto.
+- **Pode não ser a melhor escolha:** quem precisa principalmente montar móveis delicados, apertar parafusos pequenos com controle fino ou fazer furos com brocas convencionais.
+- **Antes de fechar a compra:** confirme se o anúncio é da TD110DZ avulsa ou do kit TD110DWYE e se a bateria incluída pertence à plataforma CXT.
 
 ## Ficha técnica da Makita TD110D
 
@@ -60,7 +66,7 @@ No Brasil, o consumidor encontra principalmente a ferramenta avulsa **TD110DZ** 
 | Referências comerciais encontradas no Brasil | TD110DZ (ferramenta avulsa) e TD110DWYE (kit) |
 | Categoria | Parafusadeira de impacto |
 | Plataforma | Makita CXT 12V |
-| Tensão nominal | 10,8 V / 12 V máx. |
+| Tensão nominal | 10,8 V nominal / 12 V max (plataforma CXT) |
 | Torque máximo declarado | 110 N·m |
 | Rotação sem carga | 0–2.600 rpm |
 | Impactos por minuto | 0–3.500 ipm |
@@ -84,7 +90,7 @@ Na TD110D, o usuário controla a velocidade pelo gatilho. A rotação reversíve
 
 O encaixe sextavado de 1/4" recebe bits apropriados para parafusadeiras de impacto. Para aproveitar o mecanismo, prefira bits identificados como próprios para impacto. Bits comuns podem se desgastar ou quebrar mais rapidamente em aplicações exigentes.
 
-A TD110D não deve ser confundida com uma chave de impacto para porcas com encaixe quadrado. Ela usa porta-bits hexagonal de 1/4", voltado a parafusos e fixadores compatíveis.
+A TD110D não deve ser confundida com uma chave de impacto para porcas com encaixe quadrado. Ela usa porta-bits hexagonal de 1/4", voltado a parafusos e fixadores compatíveis. Existem acessórios com haste hexagonal para outras aplicações, mas isso não transforma a ferramenta em uma furadeira convencional nem substitui o mandril de uma furadeira/parafusadeira.
 
 ## Desempenho: para quais trabalhos ela serve?
 
@@ -103,26 +109,25 @@ Para parafusos longos em madeira, faça um teste em uma peça de sobra e avalie 
 
 ### Quando a TD110D não é a ferramenta certa
 
-A TD110D não é indicada para:
+A TD110D não é a escolha mais adequada para:
 
-- Fazer furos com brocas convencionais em madeira, metal ou alvenaria.
-- Trabalhos que exigem mandril de 3/8" ou 1/2".
-- Perfuração com brocas chatas, helicoidais ou para alvenaria.
+- Trabalhos que exigem mandril convencional de 3/8" ou 1/2".
+- Perfuração frequente com brocas comuns, especialmente quando é necessário controlar alinhamento e velocidade com precisão.
 - Aplicações delicadas que exigem controle fino de torque por embreagem.
-- Apertar porcas com soquetes de encaixe quadrado, sem adaptador apropriado e avaliação dos limites.
-- Substituir uma furadeira/parafusadeira quando a mesma ferramenta precisa furar e parafusar.
+- Apertar porcas com soquetes de encaixe quadrado sem o acessório apropriado e sem avaliar os limites do conjunto.
+- Substituir uma furadeira/parafusadeira quando a mesma ferramenta precisa realizar perfurações variadas e parafusamentos.
 
-Se a sua rotina inclui perfuração, uma furadeira/parafusadeira como a Makita DF333D ou Bosch GSR 12V-15 é mais adequada. A TD110D pode complementar uma furadeira, mas não ocupa o mesmo papel.
+A ferramenta pode aceitar acessórios com haste hexagonal de 1/4", desde que sejam compatíveis com o encaixe e com a aplicação. Mesmo assim, para perfuração recorrente, uma furadeira/parafusadeira com mandril — como a Makita DF333D ou a Bosch GSR 12V-15 — costuma ser a opção mais versátil. A TD110D pode complementar uma furadeira, mas não ocupa o mesmo papel.
 
 ## Bateria e plataforma Makita CXT 12V
 
-A TD110D utiliza baterias deslizantes da plataforma Makita CXT 12V. O manual lista baterias como BL1016, BL1021B e BL1041B, mas a compatibilidade deve ser confirmada pelo código e pela orientação oficial da Makita antes da compra.
+A TD110D utiliza baterias deslizantes da plataforma **Makita CXT 12V max**. O manual lista baterias como BL1016, BL1021B e BL1041B. Antes da compra, confirme o código do pack e a compatibilidade indicada pela Makita; não basta o anúncio mencionar apenas “12 V”.
 
-A grande vantagem da plataforma é poder compartilhar baterias compatíveis entre ferramentas CXT. Quem já tem uma furadeira ou outra ferramenta CXT pode comprar a TD110DZ sem bateria e carregador, reduzindo o custo e evitando duplicar acessórios.
+A vantagem da plataforma é compartilhar baterias entre ferramentas CXT compatíveis. Quem já possui uma ferramenta dessa linha e uma bateria adequada pode avaliar a TD110DZ avulsa, evitando comprar acessórios repetidos.
 
-Por outro lado, quem não possui bateria CXT precisa calcular o investimento total. Comprar apenas a ferramenta avulsa e depois adquirir bateria e carregador separadamente pode sair mais caro do que escolher diretamente um kit completo.
+Quem ainda não tem bateria e carregador precisa calcular o investimento completo. Em alguns casos, comprar a ferramenta avulsa e adquirir os acessórios separadamente pode custar mais do que escolher um kit.
 
-Não confunda CXT 12V com a plataforma LXT 18V. As baterias não são intercambiáveis diretamente. Confira a tensão, o formato de encaixe e a referência do pack.
+**Atenção à nomenclatura:** CXT 12V max e LXT 18V são plataformas diferentes. As baterias não são intercambiáveis diretamente. Confira sempre a plataforma, o encaixe e a referência exata da bateria.
 
 ## TD110DZ ou TD110DWYE: qual versão comprar?
 
@@ -133,9 +138,9 @@ Esta é uma das decisões mais importantes para quem pesquisa a Makita TD110D no
 | TD110DZ | Ferramenta avulsa, normalmente sem bateria, carregador e maleta | Quem já possui bateria e carregador Makita CXT 12V compatíveis |
 | TD110DWYE | Kit oficial brasileiro com duas baterias 12V 1,5 Ah, carregador simples, bit Phillips e maleta | Quem está começando na plataforma ou precisa de baterias extras |
 
-A página oficial da Makita Brasil para a TD110DWYE lista duas baterias de 12 V e 1,5 Ah, carregador simples, bit Phillips e maleta. Já os anúncios da TD110DZ consultados informam que a ferramenta é vendida sem bateria e carregador.
+A página oficial da Makita Brasil consultada para a TD110DWYE lista duas baterias de 12 V e 1,5 Ah, carregador simples, bit Phillips e maleta. A TD110DZ é a referência de ferramenta avulsa e costuma ser anunciada sem bateria e carregador.
 
-Atenção: vendedores podem montar kits próprios com duas baterias de 2,0 Ah, bolsas ou acessórios diferentes. Esses anúncios não devem ser descritos como o kit oficial TD110DWYE sem verificar a referência e a embalagem. Leia a lista de itens incluídos, confirme os códigos das baterias e do carregador e compare o valor total.
+Vendedores também podem montar kits próprios com baterias de outras capacidades, bolsas ou acessórios adicionais. Não trate esses conjuntos como o kit oficial TD110DWYE sem conferir o código do produto e a embalagem. Leia a lista de itens incluídos, confirme os códigos das baterias e do carregador e compare o custo total.
 
 ## Ergonomia, dimensões e controle
 
@@ -163,9 +168,9 @@ Para quem está começando e ainda não sabe qual categoria atende melhor sua ro
 
 ## Preço e disponibilidade da Makita TD110D no Brasil
 
-Na pesquisa realizada em **7 de novembro de 2026**, foram encontrados anúncios da TD110DZ sem bateria em diferentes varejistas brasileiros e no Mercado Livre. Os preços observados para a ferramenta avulsa ficaram aproximadamente entre **R$ 343 e R$ 529**, variando por loja, forma de pagamento e disponibilidade. Também foram encontrados kits com baterias e carregador, com valores mais altos; anúncios de conjuntos completos variaram aproximadamente entre **R$ 865 e R$ 1.197**.
+Na pesquisa registrada em **7 de novembro de 2026**, foram observados anúncios da TD110DZ sem bateria em varejistas brasileiros e no Mercado Livre. Os preços encontrados naquele levantamento ficaram aproximadamente entre **R$ 343 e R$ 529** para a ferramenta avulsa. Também foram vistos anúncios de conjuntos com baterias e carregador, em faixas mais altas, aproximadamente entre **R$ 865 e R$ 1.197**.
 
-Esses valores são uma fotografia dos anúncios consultados, não preço fixo, garantia de estoque ou recomendação de vendedor. A pesquisa também encontrou anúncios com composições de kit diferentes. Antes de comprar, confira:
+Esses valores são apenas um registro dos anúncios consultados naquela data. Não representam preço atual garantido, estoque confirmado ou recomendação de vendedor. Como os anúncios podem mudar e os kits podem ter composições diferentes, confira:
 
 1. Se o código é TD110DZ ou TD110DWYE.
 2. Se a ferramenta acompanha bateria, carregador e maleta.
@@ -179,7 +184,7 @@ Não escolha apenas pelo menor preço. Uma TD110DZ avulsa pode parecer mais bara
 
 ### Antes de escolher uma oferta da TD110D
 
-A TD110D aparece no mercado em apresentações diferentes. A **TD110DZ** costuma ser vendida como ferramenta avulsa, enquanto a **TD110DWYE** é um kit com baterias, carregador e maleta, conforme a configuração comercial brasileira consultada.
+A TD110D aparece no mercado em apresentações diferentes. A **TD110DZ** é a referência da ferramenta avulsa, enquanto a **TD110DWYE** corresponde ao kit descrito na página brasileira consultada. Ainda assim, confira a composição efetiva do anúncio antes de pagar, pois revendedores podem oferecer conjuntos montados por conta própria.
 
 Antes de comparar preços, confirme:
 
@@ -252,9 +257,9 @@ Não. A TD110D utiliza a plataforma CXT 12V. As baterias LXT 18V têm outro sist
 
 ## Veredito final: recomendamos a Makita TD110D?
 
-A **Makita TD110D vale a pena para quem precisa de uma parafusadeira de impacto compacta, com torque máximo declarado de 110 N·m, velocidade variável e compatibilidade com a plataforma CXT 12V**. Ela é uma evolução de categoria em relação às parafusadeiras compactas de 3,6 V e pode atender fixações mais exigentes em madeira e metal.
+A **Makita TD110D pode valer a pena para quem precisa de uma parafusadeira de impacto compacta**, com torque máximo declarado de 110 N·m, velocidade variável e compatibilidade com a plataforma CXT 12V max. Seu mecanismo de impacto é voltado a fixações mais exigentes do que aquelas normalmente atendidas por parafusadeiras compactas convencionais.
 
-Seu principal limite é a especialização: não fura com brocas convencionais e não oferece o mesmo controle delicado de uma furadeira/parafusadeira com embreagem. Além disso, a escolha entre TD110DZ e TD110DWYE precisa considerar se você já possui baterias CXT.
+Seu principal limite é a especialização: ela não possui mandril convencional e não substitui uma furadeira/parafusadeira em trabalhos frequentes de perfuração. Também exige cuidado em parafusos pequenos e materiais delicados, pois não oferece embreagem com vários ajustes de torque. A escolha entre TD110DZ e TD110DWYE deve considerar se você já possui baterias CXT compatíveis e o que realmente acompanha o anúncio.
 
 Nossa nota editorial é **8,5/10**. A pontuação considera as especificações oficiais, a proposta de uso, os recursos de controle e a disponibilidade de versões no mercado brasileiro. Não representa teste físico independente. Para quem já tem baterias CXT e realiza fixações frequentes, a TD110DZ pode oferecer boa relação entre custo e utilidade. Para quem está começando na plataforma, o kit TD110DWYE merece comparação cuidadosa com o preço de bateria e carregador comprados separadamente.
 

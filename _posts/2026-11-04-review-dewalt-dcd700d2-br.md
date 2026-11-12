@@ -29,7 +29,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **DeWalt DCD700 vale a pena em 2026** para quem procura uma furadeira e parafusadeira compacta, especialmente para montagem de móveis, instalação de ferragens e pequenos reparos. Com alimentação de **12V MAX**, torque declarado de **24 Nm** e mandril de 10 mm, o modelo apresenta características adequadas a trabalhos que exigem controle e praticidade.
+A **DeWalt DCD700 vale a pena em 2026** para quem procura uma furadeira e parafusadeira compacta para montagem de móveis, instalação de ferragens e pequenos reparos. A família DCD700 utiliza a plataforma **12V MAX**, tem torque de referência de **24 Nm**, mandril de aperto rápido de 10 mm e duas velocidades mecânicas. Há, porém, um cuidado comercial importante para compradores no Brasil: o código de kit **DCD700D2-BR não foi confirmado no catálogo brasileiro consultado**. Antes de comprar, confira o código impresso na ferramenta e a documentação correspondente.
 
 Diferentemente das furadeiras de impacto, a DCD700 foi desenvolvida para **parafusamento e perfuração sem percussão**. Isso significa que ela pode ser utilizada em madeira, MDF, metal e outros materiais compatíveis, mas não é a escolha indicada para quem precisa fazer furos frequentes em paredes de alvenaria ou concreto.
 
@@ -41,11 +41,11 @@ A nota editorial de **7,8/10** considera as especificações da fabricante, as a
   {% include ficha-tecnica.html %}
 </div>
 
-{% include produto-card.html %}
+<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
 
 ## Construção e Ergonomia
 
-A DeWalt DCD700 pertence à categoria das furadeiras e parafusadeiras compactas a bateria. Sua proposta é facilitar trabalhos em que uma ferramenta maior pode ser desnecessária, como montagem de armários, instalação de dobradiças e manutenção de móveis.
+A DeWalt DCD700 pertence à categoria das furadeiras e parafusadeiras compactas a bateria. Sua proposta é facilitar trabalhos em que uma ferramenta maior pode ser desnecessária, como montagem de armários, instalação de dobradiças e manutenção de móveis. A análise técnica deste artigo refere-se à família DCD700; a configuração comercial específica DCD700D2-BR não deve ser tratada como kit brasileiro confirmado.
 
 O formato compacto também favorece o acesso a espaços reduzidos, incluindo interiores de gabinetes, prateleiras e estruturas de madeira. Entretanto, a ergonomia depende da bateria utilizada, da posição de trabalho e do tempo de operação.
 
@@ -99,7 +99,7 @@ A manutenção interna deve ser realizada por assistência técnica autorizada q
 
 ## Desempenho e Aplicações
 
-Segundo a documentação oficial da DeWalt, a DCD700 apresenta **torque de 24 Nm** e duas velocidades mecânicas.
+A documentação técnica da família DCD700 informa **torque de referência de 24 Nm**, duas velocidades mecânicas e **15 posições de ajuste de torque**. Como o cadastro do produto alerta que a variante DCD700D2-BR não foi confirmada no catálogo brasileiro, confira a etiqueta e o manual da unidade anunciada antes de considerar esses dados como confirmação daquela configuração específica.
 
 A rotação sem carga varia de:
 
@@ -120,7 +120,7 @@ A montagem de móveis está entre as aplicações mais coerentes para a DeWalt D
 
 Em materiais como MDF, compensado e madeira macia, o controle de torque é importante para evitar que o parafuso atravesse a peça ou danifique a rosca.
 
-A ferramenta possui regulagem de embreagem para parafusamento, permitindo adaptar a força aplicada conforme o tipo de fixação.
+A ferramenta possui regulagem de embreagem para parafusamento, com **15 posições de ajuste informadas para a família DCD700**, permitindo adaptar a força aplicada conforme o tipo de fixação. O ajuste deve ser testado em uma sobra do mesmo material antes de iniciar a montagem definitiva.
 
 Para instalar dobradiças, corrediças, puxadores e pequenos suportes, recomenda-se começar com torque reduzido e aumentar gradualmente quando necessário.
 
@@ -194,11 +194,11 @@ Não existem dados suficientes nesta análise para prometer uma quantidade espec
 
 Também não é correto afirmar que todas as versões comerciais da DCD700 acompanham duas baterias.
 
-A DeWalt Brasil confirma a DCD700 em um kit combinado DCK201C2-BR, acompanhado de outra ferramenta, duas baterias de 1,3 Ah, carregador e maleta.
+A DeWalt Brasil apresenta a DCD700 no kit combinado **DCK201C2-BR**, junto de outra ferramenta, duas baterias de 1,3 Ah, carregador e maleta.
 
-Entretanto, essa configuração não comprova o conteúdo de um suposto kit DCD700D2-BR.
+Essa informação confirma a presença da DCD700 nessa configuração combinada, mas **não comprova a existência nem o conteúdo de um kit chamado DCD700D2-BR**. O cadastro do produto também sinaliza que esse código não foi confirmado no catálogo brasileiro consultado.
 
-Antes de comprar, confira o código completo da oferta e os acessórios discriminados pelo vendedor.
+Não presuma que um anúncio com o sufixo D2 inclua duas baterias. Confira o código gravado na ferramenta, a etiqueta da embalagem e a lista de componentes fornecida pelo vendedor. Se o código anunciado não corresponder à documentação, não considere as especificações ou os acessórios de outra variante como equivalentes.
 
 Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) e os [reviews de furadeiras e parafusadeiras]({{ '/reviews/' | relative_url }}).
 
@@ -218,7 +218,7 @@ Não realizamos um levantamento estatístico de avaliações verificadas de cons
 - **Mandril de aperto rápido:** facilita a troca de brocas e acessórios compatíveis.
 - **Plataforma 12V MAX:** pode ser conveniente para quem já possui baterias DeWalt compatíveis.
 
-### Reclamações Mais Frequentes
+### Limitações que devem ser consideradas
 
 - **Ausência de impacto:** limita a utilização em alvenaria e concreto.
 - **Capacidade inferior à de modelos maiores:** não é a escolha mais indicada para serviços pesados.
@@ -292,13 +292,11 @@ A DCD700 não possui função impacto e não é indicada para perfuração rotin
 
 Para esse tipo de trabalho, é mais adequado avaliar uma furadeira de impacto ou um martelete, conforme a resistência do material e a frequência de utilização.
 
-### A DeWalt DCD700D2-BR acompanha duas baterias?
+### O kit DeWalt DCD700D2-BR acompanha duas baterias?
 
-Não foi possível confirmar oficialmente a configuração comercial identificada como DCD700D2-BR.
+O código **DCD700D2-BR não foi confirmado no catálogo brasileiro consultado**. A DeWalt apresenta a DCD700 no kit combinado DCK201C2-BR, com duas baterias de 1,3 Ah, carregador e maleta, mas isso não comprova a existência de um kit DCD700D2-BR.
 
-A fabricante apresenta a DCD700 em outros kits, mas isso não permite afirmar que essa versão específica acompanhe duas baterias.
-
-Confira a embalagem e a descrição completa do vendedor.
+Antes de comprar, confirme o código da ferramenta, a etiqueta da embalagem e todos os itens incluídos. Não conclua que o sufixo D2 garante duas baterias.
 
 ### A DeWalt DCD700 é boa para montagem de móveis?
 
@@ -306,11 +304,11 @@ Sim. O formato compacto, o ajuste de torque e as duas velocidades tornam a ferra
 
 É importante selecionar a ponta correta e ajustar a embreagem para evitar danos em MDF, madeira e ferragens.
 
-### Qual é a diferença entre a DCD700 e a DCD710?
+### Devo escolher a DCD700 ou a DCD710D2-BR?
 
-As duas pertencem à categoria de furadeiras e parafusadeiras compactas 12V MAX, mas possuem identificações comerciais e configurações próprias.
+O cadastro de produtos recomenda avaliar a **DCD710D2-BR** como possível alternativa local, pois ela aparece em kit comercial brasileiro. Isso não significa que seja tecnicamente idêntica à DCD700.
 
-A DCD710 é comercializada oficialmente no Brasil em kits específicos. Não se deve presumir que acessórios, dimensões ou detalhes de uma versão sejam automaticamente idênticos aos da outra.
+Compare as especificações, o código completo, o conteúdo do kit e a garantia antes de decidir. Não reutilize fotos, links ou dados comerciais da DCD700 para anunciar a DCD710 sem validar cada informação.
 
 ### A DeWalt DCD700 aceita brocas de 10 mm?
 
@@ -326,6 +324,14 @@ Verifique o funcionamento do gatilho, da reversão, do mandril e das duas veloci
 
 Uma bateria muito desgastada pode reduzir significativamente a vantagem econômica da compra.
 
+### O que conferir antes de comprar a DeWalt DCD700?
+
+- **Código exato:** confira a identificação gravada na ferramenta e na embalagem.
+- **Kit:** não trate DCD700D2-BR como configuração brasileira confirmada.
+- **Baterias e carregador:** confirme quantidade, capacidade e modelo dos componentes descritos na oferta.
+- **Documentação:** compare o manual e a etiqueta da unidade com as especificações da família DCD700.
+- **Alternativa local:** avalie a DCD710D2-BR separadamente; não presuma que seja idêntica à DCD700.
+
 ## Veredito Final e Recomendação de Compra
 
 A **DeWalt DCD700 é uma opção interessante para quem procura uma furadeira e parafusadeira compacta**, especialmente para montagem de móveis, instalação de ferragens e manutenção doméstica.
@@ -336,7 +342,7 @@ O principal limite é a ausência de função impacto.
 
 Quem pretende instalar suportes frequentemente em paredes de alvenaria ou trabalhar com concreto deve considerar uma ferramenta com mecanismo de percussão adequado.
 
-Outro cuidado importante está na identificação comercial. O código DCD700D2-BR não foi confirmado oficialmente nesta análise, portanto não recomendamos comprar com base apenas na expectativa de que o kit contenha duas baterias ou determinados acessórios.
+Outro cuidado importante está na identificação comercial. O código DCD700D2-BR não foi confirmado no catálogo brasileiro consultado. Portanto, não recomendamos comprar com base apenas na expectativa de que o kit contenha duas baterias ou determinados acessórios. A DCD700 aparece em uma configuração combinada oficial DCK201C2-BR; como alternativa local a avaliar, o cadastro aponta a DCD710D2-BR, que exige comparação técnica e comercial própria.
 
 Para quem já possui baterias compatíveis da plataforma DeWalt 12V MAX, a ferramenta pode representar uma opção prática, desde que esteja disponível em boas condições e com preço competitivo.
 
@@ -348,13 +354,13 @@ A nota não representa resultado de ensaio instrumental ou média de avaliaçõe
 
 **Recomendamos a DeWalt DCD700 principalmente para montagem de móveis e manutenção leve.** Para quem precisa de impacto, maior torque ou utilização profissional intensiva, existem alternativas mais adequadas.
 
-{% include produto-card.html %}
+<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
 
 ## Fontes Técnicas Oficiais
 
 - [DeWalt Brasil — Kit DCK201C2-BR com furadeira DCD700: torque, mandril, capacidades e acessórios](https://www.dewalt.com.br/pt-br/produto/dck201c2-br/kit-parafusadeirafuradeira-38-dcd700-parafusadeira-de-impacto-14-dcf805-com)
 - [DeWalt — Manual oficial DCD700 e DCD710](https://support.dewalt.com/hc/es/article_attachments/115004372094)
-- [DeWalt Brasil — DCD710D2-BR: referência para comparação entre modelos 12V](https://www.dewalt.com.br/pt-br/produto/dcd710d2-br/kit-parafusadeirafuradeira-38-10-mm-12v-max-ion-de-litio-carregador-bivolt-2)
+- [DeWalt Brasil — DCD710D2-BR: possível alternativa comercial brasileira, não equivalente automática](https://www.dewalt.com.br/pt-br/produto/dcd710d2-br/kit-parafusadeirafuradeira-38-10-mm-12v-max-ion-de-litio-carregador-bivolt-2)
 
 **Transparência editorial:** este review utiliza documentação oficial da fabricante e análise técnica das especificações. Não foram realizados testes práticos próprios, nem coletada uma amostra estatística de avaliações de consumidores. A configuração comercial DCD700D2-BR exige confirmação antes da publicação de informações específicas sobre seu kit.
 

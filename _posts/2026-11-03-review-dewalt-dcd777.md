@@ -26,7 +26,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **DeWalt DCD777** é uma opção para quem procura uma furadeira e parafusadeira capaz de montar móveis, instalar ferragens e realizar pequenos serviços de manutenção. Neste review, avaliamos o que suas especificações oficiais realmente permitem concluir, quais cuidados ajudam a preservar o MDF e em que situações outra ferramenta pode ser mais indicada. 
+A **DeWalt DCD777** é uma furadeira e parafusadeira a bateria da plataforma 20V MAX, indicada para montagem de móveis, instalação de ferragens e perfuração em madeira e metal. O motor brushless, o mandril de 13 mm, as duas velocidades e a embreagem com 15 posições formam um conjunto versátil para quem precisa ir além do simples parafusamento. Um cuidado importante: a DCD777 **não possui função de impacto**, portanto não é a escolha certa para perfurar alvenaria. 
 
 Se você ainda está escolhendo sua primeira ferramenta, veja também nosso [guia de parafusadeiras para iniciantes]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e a [lista de reviews]({{ '/reviews/' | relative_url }}).
 
@@ -40,21 +40,21 @@ Se você ainda está escolhendo sua primeira ferramenta, veja também nosso [gui
 
 ## Construção e Ergonomia
 
-A DCD777 tem uma proposta diferente da maioria das parafusadeiras vendidas especificamente para montar móveis. Ela não foi desenhada apenas para apertar ferragens de armários; é uma furadeira e parafusadeira de uso geral, com bateria 20V MAX e mandril que recebe acessórios de até 13 mm. Isso amplia suas possibilidades em madeira e metal, mas não significa que ela seja automaticamente a melhor opção para todos os painéis de MDF. O acabamento de um móvel depende muito mais da regulagem correta, da escolha da ponteira e da atenção ao último giro do parafuso do que de força disponível.
+A DCD777 tem uma proposta mais ampla do que a de uma parafusadeira dedicada à montagem de móveis. É uma furadeira/parafusadeira de uso geral, com bateria 20V MAX e mandril metálico de aperto rápido para acessórios de até 13 mm. Isso permite alternar entre parafusamento e perfuração em madeira e metal. Ainda assim, não significa que seja automaticamente a melhor opção para todo painel de MDF: o acabamento depende da regulagem da embreagem, da ponteira correta e do cuidado no aperto final.
 
 O motor sem escovas é uma característica confirmada pelo fabricante. Essa tecnologia elimina a necessidade de escovas de carvão no motor e contribui para eficiência energética, mas não permite prometer uma quantidade específica de parafusos por carga. O rendimento muda conforme a bateria, o diâmetro do parafuso, a densidade da madeira, a temperatura e a maneira de trabalhar. Para uma montagem de guarda-roupa, por exemplo, a ergonomia e o controle em baixa rotação serão percebidos antes de qualquer vantagem abstrata de potência máxima.
 
-O corpo tem aproximadamente 193 mm de comprimento, segundo a DeWalt. É uma dimensão administrável para uma ferramenta de uso geral, embora modelos de 12V e máquinas com cabeçote angular consigam acessar cantos que ela não alcança. O punho ergonômico e a iluminação LED ajudam em ambientes com pouca luz. O LED permanece aceso por cerca de 20 segundos após soltar o gatilho, o que pode facilitar a conferência de uma fixação dentro de um armário. Ainda assim, iluminação integrada não substitui uma lanterna adequada em locais escuros.
+A DCD777 tem corpo compacto para uma ferramenta de uso geral, mas é maior e mais pesada do que muitas opções de 12V voltadas a montagens leves. O catálogo brasileiro informa peso aproximado de 1,5 kg. O punho emborrachado e a iluminação LED ajudam no manuseio e em ambientes com pouca luz. A documentação do modelo também descreve atraso de iluminação após a liberação do gatilho. Em armários estreitos, porém, uma ferramenta menor ou com cabeçote angular pode oferecer acesso melhor.
 
 ## Desempenho e Aplicações
 
 ### O que a ficha técnica realmente confirma
 
-A ficha oficial descreve motor brushless, 340 UWO de potência de saída, duas velocidades, mandril de 1/2 polegada com catraca, comprimento aproximado de 193 mm e LED com atraso de 20 segundos. A versão DCD777D1 inclui bateria DCB203 de 2,0 Ah, carregador DCB107 e gancho de cinto. O fabricante não informa torque em Nm nessa ficha; 340 UWO não deve ser convertido diretamente para Nm.
+A ficha oficial brasileira da **DCD7771D2-BR** confirma motor brushless, torque máximo de **65 Nm**, duas velocidades variáveis e reversíveis de **0–500 / 0–1.750 rpm**, mandril metálico de aperto rápido de **1/2" (13 mm)** e 15 posições de torque. O kit brasileiro inclui duas baterias 20V MAX de 2,0 Ah, carregador bivolt e maleta. O catálogo também informa capacidade máxima de perfuração de 38 mm em madeira e 13 mm em aço. Não confunda a DCD777 com a DCD778: esta última é a versão com função de martelete/impacto.
 
 ### Velocidade, torque e controle de aperto
 
-0–500 rpm na primeira faixa e 0–1.750 rpm na segunda, conforme documentação técnica da família. O desempenho em cada tarefa depende do material, do acessório e da regulagem. Em MDF, o ajuste correto da embreagem e a progressividade do gatilho são essenciais para evitar danos ao revestimento.
+A DCD777 trabalha de **0 a 500 rpm na primeira marcha** e de **0 a 1.750 rpm na segunda**, conforme a ficha técnica brasileira. A primeira marcha favorece o controle durante o parafusamento; a segunda é mais adequada para perfurar com brocas apropriadas. O desempenho em cada tarefa depende do material, do acessório, da bateria e da regulagem. Em MDF, o ajuste correto da embreagem e a progressividade do gatilho são essenciais para evitar danos ao revestimento.
 
 A primeira velocidade é a escolha mais sensata para iniciar o parafusamento de ferragens, corrediças e dobradiças. A rotação menor oferece margem para interromper o aperto antes de esmagar o revestimento do MDF. Na segunda velocidade, a ferramenta fica mais adequada para furar madeira e metal com brocas apropriadas, respeitando os limites de cada acessório. A mudança de marcha deve ser feita com o motor parado; forçar o seletor enquanto a transmissão gira pode danificar o mecanismo.
 
@@ -66,9 +66,9 @@ Também é importante separar potência de resultado. A DeWalt informa 340 UWO, 
 
 ## Opinião dos Compradores: o que observar antes de comprar
 
-Ao consultar anúncios da DCD777, confira primeiro o código completo da versão. DCD777B designa uma configuração sem bateria nem carregador, enquanto o kit DCD777D1, no catálogo norte-americano, inclui uma bateria de 2,0 Ah e carregador. O conteúdo de ofertas brasileiras pode variar. Vale conferir se o vendedor fornece nota fiscal, especifica a origem do produto e informa claramente a assistência aplicável à sua região.
+Ao consultar ofertas no Brasil, confira primeiro o código completo **DCD7771D2-BR**. A página oficial brasileira descreve esse código como kit com duas baterias 20V MAX de 2,0 Ah, carregador bivolt e maleta. Não confunda essa configuração com códigos de outros mercados, como DCD777D1, nem presuma que anúncios de ferramenta avulsa incluam bateria e carregador. Verifique nota fiscal, procedência, garantia e assistência aplicável à sua região.
 
-A bateria da plataforma 20V MAX pode ser uma vantagem econômica para quem já utiliza ferramentas compatíveis da marca. Para quem está começando do zero, o custo real é a soma da ferramenta, da bateria, do carregador e dos acessórios necessários. Um anúncio aparentemente barato de corpo avulso pode deixar de ser vantajoso quando esses itens são comprados separadamente. Não compare kits apenas pela foto principal; leia a lista de componentes.
+A plataforma 20V MAX pode ser uma vantagem econômica para quem já utiliza baterias compatíveis da marca. Para quem está começando do zero, o custo real inclui ferramenta, baterias, carregador e acessórios necessários. A configuração brasileira DCD7771D2-BR é divulgada com duas baterias de 2,0 Ah, carregador bivolt e maleta, mas confirme a lista de componentes do anúncio e a identificação na embalagem. Não compare kits apenas pela foto principal.
 
 Não apresentamos aqui relatos de compradores como se tivessem sido coletados e auditados, nem resultados de testes de bancada próprios. A avaliação considera as especificações documentadas e a adequação prática da proposta ao uso em MDF. Isso é suficiente para apontar vantagens e limites sem inventar números de autonomia, medições de ruído ou desempenho em madeiras específicas.
 
@@ -87,9 +87,9 @@ Não apresentamos aqui relatos de compradores como se tivessem sido coletados e 
 
 ## Comparativo com Concorrentes
 
-Em relação à Bosch GSR 12V-15 FC, a DeWalt aposta em uma plataforma de maior tensão e em um mandril convencional de 13 mm. A Bosch se destaca pela arquitetura FlexiClick, especialmente quando a fixação fica próxima de uma lateral ou em um canto. Em montagens de móveis já instalados, essa diferença de acesso pode valer mais do que ter uma máquina de uso geral.
+Em relação à Bosch GSR 12V-15 FC, a DeWalt oferece plataforma 20V MAX, mandril convencional de 13 mm e torque máximo declarado de 65 Nm. A Bosch se destaca pela arquitetura FlexiClick, especialmente quando a fixação fica próxima de uma lateral ou em um canto. Em montagens de móveis já instalados, o acesso pode valer mais do que a potência disponível.
 
-Contra a Makita DF332D, a DeWalt oferece mandril de maior abertura e compatibilidade com a plataforma 20V MAX. A Makita tem corpo mais curto, de 154 mm, e peso declarado de aproximadamente 1,0 a 1,2 kg com bateria, dependendo da configuração. Ambas são brushless e sem impacto. A melhor escolha depende de quais tarefas aparecem fora da montagem de móveis e de quais baterias o comprador já possui.
+Contra a Makita DF332D, a DeWalt também oferece mandril de 13 mm e compatibilidade com a plataforma 20V MAX. A Makita é uma alternativa 12V mais compacta. As duas são furadeiras/parafusadeiras sem impacto; nenhuma deve ser confundida com um martelete. A melhor escolha depende das tarefas fora da montagem de móveis, do espaço de trabalho e das baterias que o comprador já possui.
 
 ## Como usar a parafusadeira sem danificar MDF
 
@@ -103,13 +103,17 @@ Não use a função de perfuração com embreagem bloqueada para finalizar todos
 
 ## Perguntas Frequentes
 
+### Qual é a diferença entre DeWalt DCD777 e DCD778?
+
+A DCD777 é uma furadeira/parafusadeira brushless sem impacto. A DCD778 é uma versão compacta com função de martelete/impacto. Confira o código completo no anúncio: a diferença muda a capacidade de perfuração em alvenaria.
+
 ### A DeWalt DCD777 tem função impacto?
 
-Não. A DCD777 é uma furadeira e parafusadeira sem impacto. Ela não substitui uma furadeira de impacto ou martelete para concreto.
+Não. A DCD777 é uma furadeira/parafusadeira sem impacto. Ela perfura madeira e metal com brocas adequadas, mas não possui mecanismo de impacto para alvenaria. Para concreto ou alvenaria, escolha uma furadeira de impacto ou martelete apropriado.
 
 ### Qual o torque da DCD777 em Nm?
 
-A página oficial consultada apresenta 340 UWO de potência útil, não um valor de torque em Nm. Não é correto converter uma unidade na outra sem dados adicionais.
+A ficha oficial brasileira da DCD7771D2-BR informa torque máximo de **65 Nm** e 15 posições de embreagem. Não confunda esse valor com a medida UWO apresentada em algumas páginas de outros mercados, pois são grandezas diferentes.
 
 ### A DCD777 serve para montar móveis de MDF?
 
@@ -117,7 +121,7 @@ Sim. O segredo é usar a primeira marcha, iniciar com embreagem baixa, escolher 
 
 ### Ela acompanha bateria e carregador?
 
-Depende do código. O kit DCD777D1 inclui bateria de 2,0 Ah e carregador; a DCD777B é vendida como ferramenta avulsa em alguns mercados.
+A configuração brasileira **DCD7771D2-BR** é divulgada com duas baterias de 2,0 Ah, carregador bivolt e maleta. Como anúncios podem ser montados por revendedores ou usar códigos de outros mercados, confirme os itens incluídos antes da compra.
 
 ### Vale mais a pena que uma 12V?
 
@@ -125,13 +129,14 @@ Para quem também fura madeira e metal e já usa baterias DeWalt 20V MAX, pode v
 
 ## Veredito Final e Recomendação de Compra
 
-A DeWalt DCD777 é uma boa escolha para quem deseja uma única furadeira/parafusadeira para montagem de móveis e manutenção geral. O motor brushless, as duas marchas, o mandril de 13 mm e a embreagem ajustável oferecem uma combinação versátil. O maior cuidado é não confundir versatilidade com necessidade de usar força máxima em MDF.
+A DeWalt DCD777 é uma boa opção para quem deseja uma furadeira/parafusadeira brushless de uso geral, capaz de montar móveis e também perfurar madeira e metal. O mandril de 13 mm, as duas marchas, o torque máximo declarado de 65 Nm e a embreagem com 15 posições oferecem versatilidade. Seu limite importante é não possuir impacto: ela não substitui uma ferramenta própria para perfurar alvenaria.
 
-Para um montador que já possui baterias 20V MAX, ela pode aproveitar um investimento existente. Para o comprador que monta móveis apenas algumas vezes por ano, o preço do conjunto e o tamanho do corpo devem ser comparados com opções 12V. A nota editorial de 8,6/10 reflete esse equilíbrio de qualidades e limitações, não um teste laboratorial ou uma média de avaliações de clientes.
+Para quem já utiliza baterias 20V MAX, o modelo pode aproveitar um investimento existente. Para quem monta móveis apenas ocasionalmente ou trabalha em espaços muito apertados, o tamanho e o custo do conjunto devem ser comparados com opções compactas de 12V. A nota editorial de 8,6/10 reflete a proposta e as especificações documentadas, não um teste laboratorial nem uma média de avaliações de clientes.
 
 ### Referência técnica consultada
 
-- [Ficha oficial do fabricante](https://www.dewalt.com/en-us/product/dcd777d1/20v-max-compact-brushless-drilldriver-kit)
+- [DeWalt Brasil — DCD7771D2-BR, especificações e conteúdo do kit](https://www.dewalt.com.br/pt-br/produto/dcd7771d2-br/parafusadeirafuradeira-12-13mm-20v-max)
+- [Manual DeWalt DCD7771/DCD7781](https://www.toolservicenet.com/i/DEWALT/GLOBALBOM/BR/DCD7771D2/1/Instruction_Manual/EN/NA516957_DCD7771_DCD7781_T1_LA_2_.pdf)
 
 Os dados técnicos podem variar entre revisões e kits comerciais. Confira o código exato antes de comprar.
 

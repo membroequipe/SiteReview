@@ -326,3 +326,4 @@ Antes de comprar, confira o código exato da ferramenta, a compatibilidade das b
 - [Makita Brasil — DHP485Z: especificações, capacidades, torque, dimensões e configuração comercial](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
 - [Makita Brasil — catálogo de furadeiras e parafusadeiras de impacto](https://www.makita.com.br/catalogoF2.asp?codParam2=1)
 - [Makita Brasil — brocas e acessórios compatíveis com a DHP485Z](https://www.makita.com.br/catalogoADetalhes.asp?codParamD=1203)
+

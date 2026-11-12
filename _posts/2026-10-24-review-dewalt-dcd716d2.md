@@ -28,7 +28,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **DeWalt DCD716D2** é um kit de furadeira e parafusadeira de impacto da plataforma **12V MAX**, indicado para quem precisa furar madeira, metal e alvenaria em tarefas de instalação, montagem e manutenção. Sua proposta é oferecer uma ferramenta relativamente compacta, com controle de torque e função impacto, sem exigir uma máquina maior para todo serviço. É importante corrigir uma confusão recorrente: **a DCD716 não é brushless** e seu mandril é de **10 mm**, não de 13 mm. Nesta análise, diferenciamos as especificações publicadas pela fabricante das avaliações editoriais sobre os usos mais adequados.
+A **DeWalt DCD716D2-BR** é a variante brasileira em kit de uma furadeira e parafusadeira de impacto da plataforma **12V MAX**, indicado para quem precisa furar madeira, metal e alvenaria em tarefas de instalação, montagem e manutenção. Sua proposta é oferecer uma ferramenta relativamente compacta, com controle de torque e função impacto, sem exigir uma máquina maior para todo serviço. É importante corrigir uma confusão recorrente: **a DCD716 não é brushless** e seu mandril é de **10 mm**, não de 13 mm. Nesta análise, diferenciamos as especificações publicadas pela fabricante das avaliações editoriais sobre os usos mais adequados.
 
 {% include resumo-avaliacao.html %}
 
@@ -40,7 +40,7 @@ A **DeWalt DCD716D2** é um kit de furadeira e parafusadeira de impacto da plata
 
 ## Construção e Ergonomia
 
-A DCD716D2 usa bateria removível de 12V MAX e tem empunhadura emborrachada, controle de velocidade no gatilho e seletor de reversão. O formato é adequado a montagem de móveis, instalações residenciais e manutenção em locais onde o espaço disponível importa. O peso do conjunto depende da bateria utilizada; por isso, não é correto atribuir um peso exato a todas as configurações sem identificar o kit.
+A DCD716D2-BR usa bateria removível de 12V MAX e tem empunhadura emborrachada, controle de velocidade no gatilho e seletor de reversão. O formato é adequado a montagem de móveis, instalações residenciais e manutenção em locais onde o espaço disponível importa. O peso do conjunto depende da bateria utilizada; por isso, não é correto atribuir um peso exato a todas as configurações sem identificar o kit.
 
 ### Mandril e ajustes
 
@@ -50,17 +50,17 @@ O mandril de **aperto rápido de 3/8 polegada (10 mm)** dispensa chave para pren
 
 O catálogo da DeWalt informa **luz LED**, e a página oficial brasileira confirma **freio elétrico**. Entretanto, não foi encontrada confirmação de três LEDs, três modos de iluminação ou temporização de 20 segundos para este modelo. Antes de comprar, confira as fotos e a lista de recursos do código exato anunciado, especialmente quando o vendedor mistura informações de diferentes furadeiras DeWalt.
 
-Se você está comparando alternativas, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}).
+Se você está comparando alternativas, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
 ## Desempenho e Aplicações
 
 ### Torque, rotação e impacto
 
-A página atual da DeWalt Brasil anuncia **torque máximo de 30 Nm**, enquanto um catálogo da marca apresenta **25 Nm** para a DCD716D2. Essa divergência deve ser considerada ao comparar anúncios. As informações coincidentes incluem rotação sem carga de **0–400 rpm** na primeira marcha e **0–1.500 rpm** na segunda, além de **0–6.000 / 0–22.500 impactos por minuto**. 
+A documentação consultada apresenta uma divergência: a página brasileira da DeWalt anuncia **30 Nm**, enquanto o catálogo DeWalt 2025 informa **25 Nm** para a DCD716D2-BR. Por isso, não trate nenhum dos dois números como universal para todas as ofertas sem conferir a ficha vinculada ao código comercial e à versão anunciada. As informações coincidentes incluem rotação sem carga de **0–400 rpm** na primeira marcha e **0–1.500 rpm** na segunda, além de **0–6.000 / 0–22.500 impactos por minuto**. 
 
 Na prática, a primeira velocidade favorece o controle no parafusamento e em brocas que exigem rotação mais baixa. A segunda é apropriada a furos menores em madeira, metal e alvenaria, respeitando o tipo de broca e as recomendações de segurança. Os 15 ajustes de torque ajudam a reduzir o risco de danificar parafusos e superfícies delicadas, mas não correspondem a valores fixos e universais de Nm por posição.
 
-### Onde a DCD716D2 funciona melhor?
+### Onde a DCD716D2-BR funciona melhor?
 
 A capacidade anunciada na página oficial brasileira é de **25 mm em madeira** e **10 mm em aço**. O catálogo DeWalt também informa capacidade de **10 mm em alvenaria**. Esses valores representam limites especificados para a ferramenta, não a promessa de que todo material ou situação de obra terá o mesmo desempenho. Para instalar prateleiras, montar móveis, fixar suportes leves e realizar manutenção doméstica ou profissional de menor intensidade, a combinação de parafusamento, perfuração e impacto é versátil.
 
@@ -70,7 +70,7 @@ A função impacto é do tipo mecânico, diferente da percussão eletropneumáti
 
 ### Baterias e carregamento
 
-O kit **DCD716D2-BR** é anunciado com **duas baterias e carregador bivolt**. Há uma inconsistência na documentação oficial: o título da página cita baterias de 1,3 Ah, mas a relação de itens inclusos cita duas de 2,0 Ah; o catálogo também apresenta duas de 2,0 Ah. Confirme a capacidade impressa nas baterias e o conteúdo da embalagem antes de finalizar a compra. A autonomia e o tempo de recarga variam com a capacidade, o carregador e o trabalho executado; números de horas ou quantidade de furos sem ensaio documentado não são confiáveis.
+O kit **DCD716D2-BR** é anunciado com **duas baterias e carregador bivolt**. Há uma inconsistência nos materiais oficiais consultados: o título da página brasileira menciona baterias de **1,3 Ah**, enquanto a lista de itens inclusos e o catálogo DeWalt 2025 indicam **duas baterias de 2,0 Ah**. Não presuma que todos os anúncios tragam a mesma configuração. Antes de comprar, peça ao vendedor uma confirmação por escrito da capacidade de cada bateria e confira essa informação nas etiquetas e na embalagem recebida. A autonomia e o tempo de recarga variam com a capacidade, o carregador e o trabalho executado; números de horas ou quantidade de furos sem ensaio documentado não são confiáveis.
 
 ## Pontos Fortes e Limitações
 
@@ -87,17 +87,17 @@ O motor com escovas não oferece a mesma arquitetura dos modelos brushless mais 
 
 | Modelo | Característica principal | Melhor cenário de uso |
 | --- | --- | --- |
-| **DeWalt DCD716D2** | 12V MAX, mandril de 10 mm, duas velocidades e impacto | Montagem, manutenção e alvenaria leve ocasional |
-| **Makita HP333** | 12V max CXT, mandril de 10 mm e função impacto | Quem já usa baterias Makita CXT |
-| **Bosch GSB 12V-35** | Plataforma Bosch Professional 12V, motor brushless e impacto | Quem prioriza motor sem escovas e já possui baterias Bosch 12V |
+| **DeWalt DCD716D2-BR** | 12V MAX, mandril de 10 mm, duas velocidades e impacto | Montagem, manutenção e alvenaria leve ocasional |
+| **Makita HP333DZ / HP333DWYE** | 12V max CXT e função impacto; DZ é avulsa e DWYE é kit | Quem já utiliza a plataforma Makita CXT; conferir qual variante está à venda |
+| **Bosch GSB 12V-30** | Bosch Professional 12V, motor brushless e função impacto | Quem prioriza motor sem escovas e já possui baterias Bosch 12V |
 
-A comparação depende do **código exato** do produto: a Bosch **GSB** tem função impacto, enquanto a **GSR** não é a mesma configuração. Para outras opções, consulte nossos [reviews de furadeiras]({{ '/reviews/' | relative_url }}).
+A comparação depende do **código exato** e da variante comercial. No caso da Makita HP333, a auditoria do catálogo orienta distinguir a **HP333DZ (ferramenta avulsa)** da **HP333DWYE (kit)**, sem presumir que ambas acompanham bateria e carregador. Na Bosch, a família **GSB** tem função impacto; não a confunda com modelos **GSR**, que podem não oferecer esse recurso. Confirme também a disponibilidade e o conteúdo de cada kit no momento da compra. Para outras opções, consulte nossos [reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
 
 ## Perguntas Frequentes
 
-### A DeWalt DCD716D2 é brushless?
+### A DeWalt DCD716D2-BR é brushless?
 
-Não. O catálogo da fabricante identifica a DCD716D2 como um modelo **sem motor brushless**. Ela utiliza a plataforma 12V MAX e oferece duas velocidades, 15 posições de torque e função impacto.
+Não. O catálogo da fabricante identifica a DCD716D2-BR como um modelo **sem motor brushless**. Ela utiliza a plataforma 12V MAX e oferece duas velocidades, 15 posições de torque e função impacto.
 
 ### Qual é o tamanho do mandril?
 
@@ -109,9 +109,9 @@ A rotação sem carga é de **0–400 / 0–1.500 rpm**, com até **6.000 / 22.5
 
 ### O kit vem com duas baterias de 2,0 Ah?
 
-A lista de itens inclusos da página oficial e um catálogo da DeWalt indicam **duas baterias de 2,0 Ah**, mas o título da página oficial menciona **1,3 Ah**. Confirme a configuração com o vendedor e na embalagem antes de comprar.
+A lista de itens inclusos da página oficial e o catálogo DeWalt 2025 indicam **duas baterias de 2,0 Ah**, mas o título da página oficial menciona **1,3 Ah**. Como os materiais divergem, confirme a configuração com o vendedor e na embalagem antes de comprar.
 
-### Posso usar a DCD716D2 para concreto armado?
+### Posso usar a DCD716D2-BR para concreto armado?
 
 Ela não é a opção recomendada para perfuração frequente de concreto estrutural. Para esse serviço, considere um martelete SDS-Plus adequado à aplicação.
 
@@ -121,7 +121,7 @@ A página brasileira da DeWalt informa **garantia limitada de três anos**, **um
 
 ## Veredito Final e Recomendação de Compra
 
-A **DeWalt DCD716D2** pode valer a pena em 2026 para quem procura uma furadeira e parafusadeira de impacto **12V MAX** para montagem, manutenção e perfuração leve, sobretudo se encontrar um kit com duas baterias e carregador por preço competitivo. Os principais argumentos de compra são o controle por duas velocidades, os 15 ajustes de torque, o freio elétrico e a praticidade do mandril de 10 mm. A **nota editorial de 8,7/10** expressa essa adequação de uso; não corresponde a testes laboratoriais realizados pela equipe.
+A **DeWalt DCD716D2-BR** pode valer a pena para quem procura uma furadeira e parafusadeira de impacto **12V MAX** para montagem, manutenção e perfurações leves. Ela faz mais sentido quando o comprador valoriza o formato compacto, as duas velocidades, os 15 ajustes de torque e o freio elétrico — e encontra o kit por um preço coerente com uma ferramenta de motor com escovas e mandril de 10 mm. Antes de comparar preços, confirme se a oferta inclui duas baterias, qual é a capacidade delas e qual carregador acompanha o conjunto. A **nota editorial de 8,7/10** expressa a adequação de uso descrita nesta análise; não corresponde a testes laboratoriais realizados pela equipe.
 
 Por outro lado, não se deve comprar o modelo esperando um motor brushless, mandril de 13 mm ou iluminação tripla. Para concreto estrutural, serviços intensivos e furos maiores, faz mais sentido avaliar um martelete ou uma ferramenta de categoria superior. Antes de fechar o pedido, confirme a capacidade das baterias e o código comercial do kit anunciado.
 

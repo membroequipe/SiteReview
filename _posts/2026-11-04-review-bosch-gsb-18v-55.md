@@ -30,7 +30,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Bosch GSB 18V-55 vale a pena em 2026** para quem procura uma furadeira e parafusadeira de impacto com motor brushless, boa capacidade de trabalho e compatibilidade com a plataforma Bosch Professional 18V. O modelo reúne torque de **55 Nm em junta rígida**, mandril metálico de 13 mm e duas velocidades mecânicas, características interessantes para montagem, instalações e manutenção.
+A **Bosch GSB 18V-55 Professional** reúne características de uma furadeira e parafusadeira de impacto 18V: motor brushless, torque de **55 Nm em junta rígida e 28 Nm em junta flexível**, mandril metálico de 13 mm e duas velocidades. Porém, há uma ressalva importante para quem compra no Brasil: segundo a auditoria do cadastro de produtos do site, esse modelo não foi localizado no catálogo brasileiro consultado em 2026. Portanto, antes de considerar a compra, confirme a disponibilidade local, o código comercial e a garantia. Não presuma que anúncios de outros mercados correspondam à versão brasileira.
 
 Seu principal diferencial está no equilíbrio entre capacidade de perfuração, controle de parafusamento e construção voltada ao uso profissional. A ferramenta pode atender desde trabalhos em madeira e metal até perfurações ocasionais em alvenaria, desde que sejam respeitadas as capacidades declaradas pela fabricante.
 
@@ -46,7 +46,7 @@ Neste review, analisamos as especificações oficiais, as aplicações recomenda
   {% include ficha-tecnica.html %}
 </div>
 
-{% include produto-card.html %}
+<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
 
 ## Construção e Ergonomia
 
@@ -54,7 +54,7 @@ A Bosch GSB 18V-55 integra a linha Professional de ferramentas a bateria da fabr
 
 O modelo possui mandril metálico de aperto rápido, motor sem escovas de carvão e transmissão mecânica com duas velocidades. Esses recursos formam um conjunto adequado a diferentes aplicações, especialmente para profissionais de manutenção, instaladores e usuários que trabalham regularmente com madeira, metal e alvenaria.
 
-O conforto durante a utilização depende da bateria instalada, da posição de trabalho e do tipo de serviço. Em instalações acima da cabeça, por exemplo, o peso total pode influenciar bastante a experiência. Já em uma bancada, a estabilidade e o controle do gatilho podem ser mais relevantes.
+O cadastro técnico de referência informa peso de aproximadamente **1,0 kg sem bateria**. O conjunto pronto para uso será mais pesado, conforme a bateria instalada. O conforto durante a utilização depende da bateria, da posição de trabalho e do tipo de serviço. Em instalações acima da cabeça, por exemplo, o peso total pode influenciar bastante a experiência. Já em uma bancada, a estabilidade e o controle do gatilho podem ser mais relevantes.
 
 Não realizamos medições independentes de ergonomia. Portanto, não seria correto afirmar que a GSB 18V-55 reduz a fadiga em determinado percentual ou oferece conforto superior ao de todos os concorrentes.
 
@@ -161,7 +161,7 @@ Portanto, não seria correto prometer que a ferramenta atravessará qualquer cha
 
 A função impacto amplia as possibilidades de utilização da GSB 18V-55.
 
-Segundo a Bosch, a ferramenta possui capacidade nominal de perfuração de até **13 mm em alvenaria**, com frequência máxima de 27.000 impactos por minuto.
+O cadastro de produtos utilizado nesta revisão registra capacidade nominal de até **10 mm em alvenaria**, com frequência máxima de 27.000 impactos por minuto. Esse limite deve ser tratado como referência da ficha cadastrada e não como indicação para perfurações contínuas em concreto resistente. Antes de comprar uma unidade anunciada no Brasil, confira a ficha técnica vinculada ao código exato do equipamento.
 
 O mecanismo combina rotação e pequenos golpes axiais, auxiliando a perfuração de materiais compatíveis quando utilizada uma broca apropriada.
 
@@ -215,7 +215,7 @@ Não existem dados suficientes nesta análise para estabelecer uma quantidade un
 
 Outro cuidado envolve os kits comerciais.
 
-A Bosch oferece diferentes apresentações da GSB 18V-55, incluindo versões com baterias, carregador e maleta, além de outras configurações.
+Em mercados nos quais o modelo é comercializado, podem existir apresentações com diferentes baterias e acessórios. Entretanto, a auditoria do cadastro do site não localizou a GSB 18V-55 no catálogo brasileiro consultado em 2026. Assim, não trate kits encontrados em páginas estrangeiras como prova de disponibilidade, garantia ou composição de uma oferta brasileira.
 
 Se você ainda está comparando opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) e os [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}).
 
@@ -227,7 +227,7 @@ Entretanto, não realizamos um levantamento estatístico de avaliações verific
 
 Os pontos apresentados a seguir representam vantagens e limitações técnicas identificadas a partir das especificações do produto.
 
-### Elogios Mais Frequentes
+### Principais vantagens técnicas
 
 - **Motor brushless:** dispensa escovas de carvão e reduz uma fonte comum de desgaste.
 - **Mandril metálico de 13 mm:** oferece compatibilidade com diferentes brocas e acessórios.
@@ -235,7 +235,7 @@ Os pontos apresentados a seguir representam vantagens e limitações técnicas i
 - **Torque de 55 Nm:** apresenta capacidade nominal adequada a diferentes tarefas profissionais.
 - **Plataforma Bosch Professional 18V:** pode facilitar o aproveitamento de baterias e carregadores compatíveis.
 
-### Reclamações Mais Frequentes
+### Limitações e pontos de atenção
 
 - **Limitações em concreto pesado:** a função impacto não substitui um martelete SDS-Plus.
 - **Custo inicial:** o investimento pode aumentar quando é necessário adquirir baterias e carregador.
@@ -249,7 +249,7 @@ Os pontos apresentados a seguir representam vantagens e limitações técnicas i
 
 ### Bosch GSB 18V-55 vs Bosch GSB 18V-50
 
-A **Bosch GSB 18V-50 Professional** também possui motor brushless, função impacto e mandril metálico de 13 mm.
+A **Bosch GSB 18V-50 Professional** também possui motor brushless, função impacto e mandril metálico de 13 mm. Para quem compra no Brasil, ela merece atenção adicional: o cadastro de produtos sinaliza a GSB 18V-55 como não localizada no catálogo brasileiro consultado em 2026, enquanto a GSB 18V-50 possui referência comercial brasileira no material de auditoria.
 
 A principal diferença nominal está no torque.
 
@@ -308,9 +308,7 @@ Esses valores representam condições de medição distintas e não devem ser in
 
 ### A Bosch GSB 18V-55 fura concreto?
 
-A ferramenta possui função impacto e capacidade nominal de até 13 mm em alvenaria.
-
-Entretanto, para concreto muito resistente, perfurações frequentes ou trabalhos pesados, um martelete SDS-Plus pode ser mais adequado.
+A ferramenta possui função impacto. O cadastro técnico consultado registra capacidade nominal de até **10 mm em alvenaria**. Isso não significa que seja indicada para perfurações frequentes ou pesadas em concreto resistente. Para esse tipo de serviço, um martelete SDS-Plus pode ser mais adequado.
 
 ### A Bosch GSB 18V-55 acompanha bateria e carregador?
 
@@ -356,9 +354,23 @@ A GSB 18V-55 apresenta torque nominal ligeiramente superior.
 
 Entretanto, a melhor escolha depende do preço, dos acessórios incluídos e da disponibilidade de baterias compatíveis.
 
+### Disponibilidade da Bosch GSB 18V-55 no Brasil: o que o comprador precisa saber?
+
+A auditoria do cadastro de produtos do site registra que a **GSB 18V-55 não foi localizada no catálogo brasileiro consultado em 2026**. O próprio cadastro recomenda avaliar a substituição editorial por **GSB 18V-65** ou **GSB 18V-90 C**, mas ainda não define qual variante deve ocupar seu lugar.
+
+Por isso, este artigo mantém a GSB 18V-55 como objeto da análise técnica, mas não deve ser interpretado como confirmação de que ela esteja disponível oficialmente no Brasil. Antes de publicar ofertas ou recomendações de compra, será necessário escolher um modelo brasileiro substituto e refazer as especificações, imagens e links comerciais. Não basta trocar o nome no título.
+
+### O que verificar antes de considerar uma compra?
+
+- **Mercado de origem:** confirme se o anúncio é de uma unidade destinada ao Brasil ou importada.
+- **Código completo:** confira o código Bosch e a ficha técnica correspondente, não apenas o nome GSB 18V-55.
+- **Garantia:** confirme por escrito quem oferece assistência e garantia no Brasil.
+- **Baterias:** verifique compatibilidade com Bosch Professional 18V e a procedência do conjunto.
+- **Substituição editorial:** compare a GSB 18V-65 e a GSB 18V-90 C antes de escolher um modelo brasileiro para este guia.
+
 ## Veredito Final e Recomendação de Compra
 
-A **Bosch GSB 18V-55 Professional vale a pena** para quem procura uma furadeira e parafusadeira de impacto com motor brushless, mandril metálico e compatibilidade com a plataforma Bosch Professional 18V.
+A **Bosch GSB 18V-55 Professional** apresenta uma ficha técnica interessante para quem procura uma furadeira e parafusadeira de impacto brushless, com mandril metálico e compatibilidade com a plataforma Bosch Professional 18V. Entretanto, a disponibilidade brasileira não está confirmada no cadastro auditado.
 
 Seu torque de **55 Nm em junta rígida**, duas velocidades mecânicas, 20 ajustes de torque e função impacto formam um conjunto versátil para montagem, manutenção e perfurações em materiais compatíveis.
 
@@ -366,11 +378,9 @@ A ferramenta pode atender profissionais que alternam frequentemente entre parafu
 
 Entretanto, sua função impacto não substitui um martelete SDS-Plus em aplicações pesadas de concreto.
 
-Outro ponto decisivo é o custo total.
+Outro ponto decisivo é a disponibilidade comercial. Como o modelo não foi localizado no catálogo brasileiro consultado pela auditoria, não recomendamos direcionar o leitor a uma oferta sem validar previamente o código, a procedência, a garantia e a compatibilidade das baterias.
 
-Quem já possui baterias Bosch Professional 18V pode considerar a compra de uma versão avulsa, caso esteja disponível.
-
-Para quem está começando, é importante comparar o preço da ferramenta com os kits que incluem baterias, carregador e maleta.
+O cadastro sugere avaliar a **Bosch GSB 18V-65** ou a **GSB 18V-90 C** como possíveis substitutas. A escolha precisa ser feita antes de atualizar o artigo, pois cada modelo exige ficha técnica, comparação, imagens e orientação de compra próprias.
 
 **Nossa nota editorial é 8,8/10.**
 
@@ -378,13 +388,11 @@ A avaliação considera o motor brushless, o mandril metálico, o torque declara
 
 A nota não representa resultado de testes laboratoriais próprios nem média de avaliações de compradores.
 
-**Recomendamos a Bosch GSB 18V-55 para instaladores, profissionais de manutenção, marceneiros e usuários frequentes que procuram uma ferramenta 18V versátil.**
+**Como análise técnica, a GSB 18V-55 pode interessar a instaladores, profissionais de manutenção, marceneiros e usuários frequentes que procuram uma ferramenta 18V versátil. Porém, não recomendamos apresentá-la como opção de compra disponível no Brasil sem confirmação de estoque, código comercial e garantia local.**
 
-Para pequenos reparos ocasionais, uma opção compacta e mais econômica pode ser suficiente.
+Para pequenos reparos ocasionais, uma opção compacta e mais econômica pode ser suficiente. Para manter este conteúdo útil e comercialmente correto no mercado brasileiro, o próximo passo editorial é decidir entre a GSB 18V-65 e a GSB 18V-90 C e, então, reconstruir a análise em torno do modelo escolhido.
 
-Antes de comprar, confira a versão comercial, os acessórios incluídos e a compatibilidade das baterias.
-
-{% include produto-card.html %}
+<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
 
 ## Fontes Técnicas Oficiais
 
@@ -393,5 +401,5 @@ Antes de comprar, confira a versão comercial, os acessórios incluídos e a com
 - [Bosch Professional — GSB 18V-50: referência para comparação](https://www.bosch-professional.com/pt/pt/products/gsb-18v-50-06019H5100)
 - [Makita Brasil — DHP485Z: especificações oficiais](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
 
-**Transparência editorial:** este review utiliza especificações divulgadas pelos fabricantes e análise técnica de suas aplicações. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O conteúdo dos kits pode variar conforme o código comercial e o mercado.
+**Transparência editorial:** este review utiliza especificações cadastradas e informações técnicas atribuídas ao fabricante. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. A auditoria do cadastro do site não localizou a GSB 18V-55 no catálogo brasileiro consultado em 2026. O conteúdo dos kits pode variar conforme o código comercial e o mercado; confirme a documentação da variante antes de comprar.
 

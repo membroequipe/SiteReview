@@ -50,7 +50,7 @@ Neste review, analisamos as especificações oficiais, as aplicações recomenda
 
 ## Construção e Ergonomia
 
-A DeWalt DCD796D2-BR integra a linha XR de ferramentas a bateria da fabricante. Sua proposta é oferecer capacidade de perfuração e parafusamento em um equipamento relativamente compacto para sua categoria profissional.
+A DeWalt DCD796D2-BR integra a linha XR de ferramentas a bateria da fabricante. É uma furadeira e parafusadeira de impacto profissional da plataforma 20V MAX — sistema cuja tensão nominal é 18V. Sua proposta é reunir perfuração e parafusamento em um único equipamento, com motor brushless e kit brasileiro que inclui duas baterias de 2,0 Ah.
 
 O modelo combina motor brushless, transmissão de duas velocidades e mandril metálico de aperto rápido. Esses componentes são relevantes para usuários que precisam realizar diferentes tarefas durante o mesmo serviço.
 
@@ -79,7 +79,7 @@ Também é necessário respeitar as recomendações de rotação e os limites de
 
 ### Empunhadura e comandos
 
-A DeWalt DCD796D2-BR possui gatilho de velocidade variável, reversão e seletor mecânico de duas velocidades.
+A DeWalt DCD796D2-BR possui gatilho de velocidade variável, reversão, seletor mecânico de duas velocidades e **14 posições de ajuste de torque**, conforme o cadastro do produto.
 
 Esses recursos permitem adaptar o funcionamento conforme a tarefa.
 
@@ -147,9 +147,9 @@ Para instalar dobradiças, corrediças, puxadores e pequenos suportes, recomenda
 
 Parafusos longos ou de maior diâmetro também podem exigir pré-furos.
 
-A DeWalt informa capacidade nominal de perfuração em madeira de até **40 mm** para a DCD796D2-BR.
+O cadastro técnico do produto informa capacidade nominal de perfuração em madeira de até **40 mm** para a DCD796D2-BR. Para outros materiais, o próprio cadastro orienta consultar o manual da variante; por isso, não atribuímos aqui um limite numérico para aço ou alvenaria sem essa confirmação.
 
-Esse valor não significa que qualquer broca de grande diâmetro poderá ser utilizada continuamente em qualquer espécie de madeira.
+O valor de 40 mm não significa que qualquer broca desse diâmetro poderá ser utilizada continuamente em qualquer espécie de madeira.
 
 A densidade do material, a profundidade do furo e a geometria do acessório influenciam diretamente o esforço exigido.
 
@@ -157,7 +157,7 @@ Em aplicações delicadas, uma ferramenta de torque elevado exige atenção para
 
 ### Desempenho em metal
 
-A DCD796D2-BR também pode ser utilizada para perfuração em metal, respeitando as capacidades previstas na documentação do modelo.
+A DCD796D2-BR também pode ser utilizada para perfuração em metal, respeitando as capacidades previstas no manual da variante. O cadastro consultado não especifica um diâmetro máximo para aço, então não seria correto inventar ou importar um valor de outra versão.
 
 Nesse tipo de aplicação, é importante selecionar o modo sem impacto.
 
@@ -177,7 +177,7 @@ Para perfurações repetitivas em peças metálicas espessas, pode ser necessár
 
 A função impacto é um dos recursos que diferenciam a DCD796D2-BR de uma furadeira e parafusadeira convencional.
 
-A ferramenta combina rotação com golpes axiais, auxiliando a perfuração de materiais compatíveis quando utilizada uma broca apropriada.
+A ferramenta combina rotação com golpes axiais, auxiliando a perfuração de alvenaria compatível quando utilizada uma broca apropriada. O cadastro do produto não fornece um diâmetro máximo confirmado para alvenaria; consulte o manual da variante antes de definir a aplicação.
 
 Esse recurso pode ser útil na instalação de suportes, prateleiras, fixações e componentes em paredes.
 
@@ -259,16 +259,16 @@ Entretanto, não realizamos uma pesquisa estatística de avaliações verificada
 
 Os pontos apresentados abaixo representam vantagens e limitações técnicas identificadas a partir das especificações oficiais.
 
-### Elogios Mais Frequentes
+### Principais vantagens técnicas
 
-- **Motor brushless:** dispensa escovas de carvão e reduz uma fonte de manutenção.
-- **Torque de 70 Nm:** apresenta capacidade nominal interessante para diferentes aplicações.
-- **Kit com duas baterias:** pode favorecer a continuidade do trabalho.
-- **Mandril metálico de 13 mm:** permite utilizar diferentes brocas e acessórios compatíveis.
-- **Função impacto:** amplia as possibilidades de perfuração em alvenaria.
-- **Plataforma 20V MAX:** pode facilitar o aproveitamento de baterias em outras ferramentas DeWalt compatíveis.
+- **Motor brushless:** dispensa escovas de carvão e elimina uma fonte de desgaste.
+- **Torque máximo declarado de 70 Nm:** oferece capacidade nominal para diferentes tarefas de perfuração e parafusamento.
+- **Kit com duas baterias de 2,0 Ah:** permite alternar baterias durante o trabalho.
+- **Mandril metálico de 13 mm:** aceita uma variedade de brocas e acessórios compatíveis.
+- **Função impacto:** amplia as possibilidades de perfuração em alvenaria compatível.
+- **Plataforma 20V MAX:** pode facilitar o aproveitamento de baterias DeWalt compatíveis.
 
-### Reclamações Mais Frequentes
+### Limitações que devem ser consideradas
 
 - **Investimento inicial:** o conjunto completo pode representar custo elevado para usuários ocasionais.
 - **Autonomia variável:** baterias de 2,0 Ah podem exigir trocas mais frequentes em trabalhos intensivos.
@@ -298,19 +298,11 @@ Para escolher entre elas, é importante comparar o preço, o conteúdo do kit, a
 
 ### DeWalt DCD796D2-BR vs Bosch GSB 18V-55
 
-A **Bosch GSB 18V-55 Professional** é outra furadeira e parafusadeira de impacto com motor brushless.
+A **Bosch GSB 18V-55 Professional** também é uma furadeira e parafusadeira de impacto brushless, mas há uma ressalva comercial: a auditoria do YAML do site registra que esse modelo não foi localizado no catálogo brasileiro consultado em 2026.
 
-A Bosch declara torque de **55 Nm em junta rígida e 28 Nm em junta flexível**, enquanto a DeWalt informa torque máximo de 70 Nm.
+A Bosch informa 55 Nm em junta rígida e 28 Nm em junta flexível, enquanto a DeWalt informa torque máximo de 70 Nm. Esses números não devem ser comparados como se fossem necessariamente obtidos sob a mesma condição de medição.
 
-Esses números devem ser interpretados com cuidado, pois os fabricantes podem utilizar condições de medição e nomenclaturas diferentes.
-
-Ambas possuem mandril de 13 mm, duas velocidades e função impacto.
-
-A escolha pode depender principalmente da plataforma de baterias já utilizada, do preço e da assistência técnica disponível.
-
-Quem já possui ferramentas Bosch Professional 18V pode considerar a compatibilidade das baterias como um fator importante.
-
-Da mesma forma, usuários da plataforma DeWalt 20V MAX podem encontrar vantagens em permanecer no mesmo sistema.
+Embora ambas tenham mandril de 13 mm, duas velocidades e função impacto, a GSB 18V-55 não deve ser apresentada como alternativa de compra brasileira confirmada. Para o leitor no Brasil, compare a DCD796D2-BR com modelos Bosch efetivamente comercializados no país, após validar as respectivas fichas técnicas.
 
 ### Tabela comparativa
 
@@ -319,13 +311,13 @@ Da mesma forma, usuários da plataforma DeWalt 20V MAX podem encontrar vantagens
 | Alimentação | 20V MAX | 20V MAX | 18V |
 | Plataforma | DeWalt XR | DeWalt 20V MAX | Bosch Professional |
 | Motor | Brushless | Brushless | Brushless |
-| Torque declarado | 70 Nm máximo | 65 Nm máximo | 55 Nm rígido / 28 Nm flexível |
+| Torque declarado | 70 Nm máximo | 65 Nm máximo | 55 Nm rígido / 28 Nm flexível* |
 | Mandril | Metálico de 13 mm | 13 mm | Metálico de 13 mm |
 | Velocidades | 2 | 2 | 2 |
 | Função impacto | Sim | Sim | Sim |
 | Baterias inclusas | 2 de 2,0 Ah | Dependem do kit | Dependem do kit |
 
-Os valores representam especificações declaradas pelos fabricantes e não resultados de testes comparativos próprios.
+Os valores representam especificações declaradas pelos fabricantes e não resultados de testes comparativos próprios. *A GSB 18V-55 não foi localizada no catálogo brasileiro consultado pela auditoria do site; a linha aparece apenas como referência técnica, não como recomendação de compra local confirmada.
 
 ## Perguntas Frequentes
 
@@ -337,7 +329,7 @@ Essa tecnologia elimina a necessidade de substituição das escovas, mas não di
 
 ### Qual é o torque da DeWalt DCD796D2-BR?
 
-A fabricante informa **70 Nm de torque máximo**.
+A fabricante informa **70 Nm de torque máximo**. O cadastro também registra 14 posições de ajuste de torque.
 
 Esse valor representa uma especificação nominal e não significa que a ferramenta disponibilize exatamente o mesmo torque em qualquer aplicação.
 
@@ -397,11 +389,20 @@ Para pequenos reparos ocasionais, o investimento em um kit profissional completo
 
 Entretanto, para quem realiza reformas, montagens e manutenção regularmente, a ferramenta pode oferecer uma combinação interessante de versatilidade e recursos.
 
+### O que conferir antes de comprar a DeWalt DCD796D2-BR?
+
+- **Código completo:** confirme que o anúncio corresponde à versão brasileira DCD796D2-BR.
+- **Conteúdo do kit:** o cadastro informa duas baterias 20V MAX de 2,0 Ah, carregador bivolt e maleta.
+- **Ajuste de torque:** são 14 posições, além dos modos de perfuração e impacto.
+- **Capacidade em madeira:** até 40 mm, conforme cadastro; para outros materiais, consulte o manual da variante.
+- **Plataforma:** 20V MAX, com tensão nominal de 18V; confirme a compatibilidade de baterias e carregador.
+- **Garantia e procedência:** confira nota fiscal, garantia aplicável e origem das baterias.
+
 ## Veredito Final e Recomendação de Compra
 
 A **DeWalt DCD796D2-BR vale a pena para quem procura uma furadeira e parafusadeira de impacto profissional com motor brushless e kit completo**.
 
-Seu torque máximo declarado de **70 Nm**, duas velocidades mecânicas e mandril metálico de 13 mm formam um conjunto versátil para trabalhos em madeira, metal e alvenaria.
+Seu torque máximo declarado de **70 Nm**, 14 posições de ajuste, duas velocidades mecânicas e mandril metálico de 13 mm formam um conjunto versátil para trabalhos em madeira, metal e alvenaria compatível. O cadastro confirma capacidade de até 40 mm em madeira; para aço e alvenaria, é necessário consultar o manual da variante, sem presumir capacidades não confirmadas.
 
 A configuração brasileira também apresenta uma vantagem comercial importante: duas baterias de 2,0 Ah, carregador e maleta.
 
@@ -433,5 +434,5 @@ Antes de comprar, confira a composição do kit, a garantia aplicável e a proce
 - [DeWalt — Central de suporte e documentação técnica](https://support.dewalt.com/)
 - [Bosch Professional — GSB 18V-55: especificações oficiais para comparação](https://www.bosch-professional.com/gb/en/products/gsb-18v-55-06019H5370)
 
-**Transparência editorial:** este review utiliza documentação oficial dos fabricantes e análise técnica de suas aplicações. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. A composição do kit deve ser conferida no anúncio e na embalagem antes da compra.
+**Transparência editorial:** este review utiliza informações técnicas do cadastro do produto e documentação atribuída ao fabricante. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O cadastro confirma 14 posições de ajuste de torque, capacidade de perfuração de até 40 mm em madeira e não informa limites numéricos confirmados para aço e alvenaria. A composição do kit deve ser conferida no anúncio e na embalagem antes da compra.
 

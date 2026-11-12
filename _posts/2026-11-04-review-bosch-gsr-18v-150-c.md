@@ -52,11 +52,9 @@ Neste review, analisamos as especificações oficiais, as aplicações recomenda
 
 ## Construção e Ergonomia
 
-A Bosch GSR 18V-150 C Professional foi desenvolvida para aplicações que exigem elevada capacidade de perfuração e parafusamento.
+A Bosch GSR 18V-150 C Professional foi desenvolvida para aplicações que exigem elevado torque em perfuração e parafusamento, principalmente em madeira e metal. É uma furadeira/parafusadeira sem impacto da plataforma Bosch Professional 18V.
 
-Sua construção combina motor BITURBO Brushless, transmissão mecânica de duas velocidades e mandril metálico de aperto rápido.
-
-O modelo também possui recursos eletrônicos destinados a auxiliar no controle durante determinadas operações.
+Sua construção combina motor BITURBO Brushless, transmissão metálica de duas velocidades e mandril metálico de aperto rápido de 1,5 a 13 mm. O cadastro do produto informa peso de **2,1 kg sem bateria**, dado importante para avaliar o esforço durante trabalhos prolongados.
 
 Entretanto, o torque elevado exige atenção especial à posição de trabalho e à forma de segurar a ferramenta.
 
@@ -72,7 +70,7 @@ Não realizamos medições ergonômicas independentes. Portanto, não seria corr
 
 ### Mandril metálico de 13 mm
 
-A Bosch GSR 18V-150 C utiliza **mandril metálico de aperto rápido com capacidade de 1,5 a 13 mm**.
+A Bosch GSR 18V-150 C utiliza **mandril metálico de aperto rápido com capacidade de 1,5 a 13 mm**. O diâmetro de 13 mm é a abertura máxima para a haste do acessório, não o limite de perfuração em todos os materiais.
 
 Esse sistema permite instalar diferentes brocas e acessórios compatíveis sem utilizar uma chave de mandril separada.
 
@@ -116,9 +114,9 @@ Entretanto, isso não significa que a ferramenta seja livre de manutenção.
 
 Mandril, transmissão, rolamentos, componentes eletrônicos e baterias continuam sujeitos a desgaste.
 
-A fabricante destaca a utilização de baterias ProCORE18V adequadas para aproveitar o máximo desempenho da tecnologia BITURBO.
+A Bosch recomenda baterias **ProCORE18V de pelo menos 5,5 Ah** para obter a potência máxima indicada para a ferramenta. Uma bateria compatível de menor capacidade pode funcionar, mas não deve ser presumida como capaz de entregar o mesmo desempenho máximo em aplicações exigentes.
 
-Por isso, a escolha da bateria influencia não apenas a autonomia, mas também a capacidade de entregar potência em aplicações exigentes.
+Por isso, a escolha da bateria influencia não apenas a autonomia, mas também a capacidade de entregar potência. Considere que baterias de maior capacidade aumentam o peso total do conjunto.
 
 ## Desempenho e Aplicações
 
@@ -217,9 +215,9 @@ Em MDF, madeira macia e materiais delicados, torque excessivo pode danificar a r
 
 Por isso, é necessário utilizar a regulagem adequada.
 
-A Bosch informa **25 ajustes de torque**, além do modo de perfuração.
+O cadastro informa **25+1 posições de ajuste**: 25 níveis de torque e uma posição adicional para perfuração.
 
-Essa variedade permite adaptar o funcionamento a diferentes aplicações.
+Essa variedade permite adaptar o funcionamento a diferentes aplicações. Comece com uma regulagem baixa em materiais delicados e aumente gradualmente, testando em uma sobra quando possível.
 
 Para parafusos pequenos, recomenda-se começar com torque reduzido e aumentar gradualmente quando necessário.
 
@@ -237,7 +235,7 @@ Quando uma broca fica presa no material, o corpo da furadeira pode sofrer uma re
 
 Em ferramentas de alto torque, esse comportamento exige atenção especial.
 
-O KickBack Control utiliza monitoramento eletrônico para identificar determinadas condições de reação e interromper o acionamento quando necessário.
+O KickBack Control utiliza monitoramento eletrônico para identificar determinadas condições de reação e interromper o acionamento quando necessário. Conforme o cadastro do produto, o recurso possui opção de ativação e desativação; consulte o manual para entender como configurar essa função e em quais situações ela atua.
 
 Entretanto, o sistema não elimina todos os riscos.
 
@@ -265,7 +263,7 @@ Para aproveitar suas funcionalidades, é importante consultar o manual oficial e
 
 A Bosch GSR 18V-150 C pertence à plataforma **Bosch Professional 18V**.
 
-A fabricante recomenda baterias ProCORE18V adequadas para obter o máximo desempenho da tecnologia BITURBO.
+Para obter a potência máxima, o cadastro recomenda baterias **ProCORE18V de pelo menos 5,5 Ah**. Verifique a compatibilidade da bateria e do carregador pelo sistema Bosch Professional 18V e considere o aumento de peso ao escolher capacidades maiores.
 
 Isso significa que a escolha da bateria merece atenção especial.
 
@@ -316,22 +314,23 @@ Entretanto, não realizamos uma pesquisa estatística de avaliações verificada
 
 Os pontos apresentados abaixo representam vantagens e limitações técnicas identificadas a partir das especificações oficiais.
 
-### Elogios Mais Frequentes
+### Principais vantagens técnicas
 
-- **Torque máximo de 150 Nm:** apresenta capacidade nominal elevada para aplicações exigentes.
-- **Motor BITURBO Brushless:** combina tecnologia sem escovas com proposta de alto desempenho.
-- **KickBack Control:** oferece um recurso eletrônico adicional para auxiliar na segurança.
-- **Electronic Angle Detection:** pode ajudar em determinadas aplicações que exigem controle de ângulo.
-- **Mandril metálico de 13 mm:** permite utilizar diferentes acessórios compatíveis.
-- **Plataforma Bosch Professional 18V:** favorece o aproveitamento de baterias compatíveis.
+- **Torque máximo de 150 Nm:** capacidade nominal elevada para aplicações exigentes.
+- **Motor BITURBO Brushless:** tecnologia sem escovas desenvolvida para alto desempenho.
+- **KickBack Control:** recurso eletrônico adicional para auxiliar no controle de reações durante travamentos.
+- **Electronic Angle Detection:** auxilia no controle de ângulo em aplicações compatíveis.
+- **Mandril metálico de 13 mm:** aceita diferentes brocas e acessórios compatíveis.
+- **Plataforma Bosch Professional 18V:** permite compartilhar baterias compatíveis com outras ferramentas do sistema.
 
-### Reclamações Mais Frequentes
+### Limitações que devem ser consideradas
 
 - **Ausência de impacto:** limita a utilização em alvenaria e concreto.
 - **Investimento elevado:** pode ser excessivo para pequenos reparos domésticos.
 - **Necessidade de bateria adequada:** o desempenho máximo depende da configuração recomendada.
 - **Torque elevado:** exige atenção especial durante operações com brocas grandes.
-- **Peso operacional:** baterias de maior capacidade podem tornar o conjunto mais pesado.
+- **Peso operacional:** o corpo pesa aproximadamente 2,1 kg sem bateria; uma bateria ProCORE18V de alta capacidade aumenta o peso total.
+- **Bateria para potência máxima:** a recomendação de ProCORE18V de pelo menos 5,5 Ah pode elevar o investimento inicial.
 
 **Nota sobre avaliações:** os tópicos acima não representam uma contagem de opiniões de compradores. São pontos de atenção derivados da análise técnica do produto.
 
@@ -339,45 +338,23 @@ Os pontos apresentados abaixo representam vantagens e limitações técnicas ide
 
 ### Bosch GSR 18V-150 C vs Bosch GSB 18V-55
 
-A **Bosch GSB 18V-55 Professional** é uma furadeira e parafusadeira de impacto com motor brushless.
+A **Bosch GSB 18V-55 Professional** é uma furadeira e parafusadeira de impacto brushless, com 55 Nm em junta rígida e 28 Nm em junta flexível, conforme a ficha técnica usada na comparação.
 
-Ela apresenta torque de **55 Nm em junta rígida e 28 Nm em junta flexível**.
+Há, porém, uma ressalva comercial: a auditoria do YAML do site informa que a GSB 18V-55 não foi localizada no catálogo brasileiro consultado em 2026. Portanto, ela não deve ser apresentada como alternativa de compra local confirmada.
 
-Já a GSR 18V-150 C possui torque máximo declarado de 150 Nm, com 100 Nm em junta rígida e 84 Nm em junta flexível.
+A GSR 18V-150 C possui 84 Nm em junta flexível, 100 Nm em junta rígida e torque máximo de 150 Nm, mas não possui impacto. A GSB 18V-55 oferece impacto para perfurações compatíveis em alvenaria; a GSR concentra sua proposta em perfurações exigentes em madeira e metal.
 
-Entretanto, a principal diferença não está apenas nos números.
-
-A GSB 18V-55 possui função impacto, permitindo determinadas perfurações em alvenaria.
-
-A GSR 18V-150 C não possui impacto, mas foi desenvolvida para aplicações exigentes de alto torque em madeira e metal.
-
-Portanto, as ferramentas atendem necessidades diferentes.
-
-Para instalações gerais que incluem furos em paredes, a GSB 18V-55 pode ser mais versátil.
-
-Para perfurações exigentes em madeira e metal, a GSR 18V-150 C pode ser mais adequada.
+São ferramentas de aplicações diferentes. Para uma recomendação comercial direcionada ao Brasil, compare a GSR com uma Bosch GSB efetivamente disponível no mercado local, após validar modelo, ficha e garantia.
 
 ### Bosch GSR 18V-150 C vs Makita DHP484RTJ
 
-A **Makita DHP484RTJ** também pertence à categoria de furadeiras e parafusadeiras profissionais a bateria.
+A **Makita DHP484RTJ** é uma furadeira e parafusadeira de impacto brushless da plataforma LXT 18V. A ficha consultada para essa configuração informa torque máximo de 65 Nm, mandril de 13 mm e duas velocidades.
 
-Ela utiliza motor brushless, mandril de 13 mm e duas velocidades mecânicas.
+A diferença de torque declarado é expressiva, mas não basta para concluir que a Bosch seja a melhor escolha em qualquer tarefa. A DHP484RTJ possui impacto para perfurações compatíveis em alvenaria, enquanto a GSR 18V-150 C não possui esse mecanismo e foi projetada para alto torque em madeira e metal.
 
-A Makita apresenta torque máximo declarado de **65 Nm**, enquanto a Bosch informa 150 Nm.
+Observe também que RTJ identifica uma configuração de kit específica, cuja composição pode variar por mercado. Não presuma que a oferta brasileira tenha as mesmas baterias e acessórios da versão consultada na ficha espanhola.
 
-Entretanto, esses números não devem ser utilizados isoladamente para definir a melhor ferramenta.
-
-A DHP484RTJ possui função impacto e pode atender diferentes tarefas em alvenaria.
-
-Já a GSR 18V-150 C não possui impacto e concentra sua proposta em aplicações de alto torque.
-
-Outro ponto importante envolve a plataforma de baterias.
-
-A Makita utiliza baterias LXT 18V, enquanto a Bosch pertence à plataforma Professional 18V.
-
-As baterias não são intercambiáveis entre as marcas.
-
-Por isso, quem já possui ferramentas de determinada plataforma deve considerar o investimento necessário para mudar de sistema.
+A Makita utiliza baterias LXT 18V e a Bosch pertence à plataforma Professional 18V. As baterias não são intercambiáveis entre as marcas.
 
 ### Tabela comparativa
 
@@ -392,9 +369,9 @@ Por isso, quem já possui ferramentas de determinada plataforma deve considerar 
 | Função impacto | Não | Sim | Sim |
 | KickBack Control | Sim | Não informado na ficha consultada | Não informado na ficha consultada |
 | Electronic Angle Detection | Sim | Não | Não |
-| Baterias inclusas | Dependem do kit | Dependem do kit | 2 de 5,0 Ah na configuração RTJ consultada |
+| Baterias inclusas | Dependem do kit | Dependem do kit; disponibilidade brasileira não confirmada pela auditoria | 2 de 5,0 Ah na configuração RTJ consultada* |
 
-Os valores representam especificações declaradas pelos fabricantes e não resultados de testes comparativos próprios.
+Os valores representam especificações declaradas pelos fabricantes e não resultados de testes comparativos próprios. A GSB 18V-55 não foi localizada no catálogo brasileiro consultado pela auditoria do site. *A configuração Makita RTJ citada é uma referência de ficha técnica de outro mercado; confirme a composição do kit vendido no Brasil.
 
 ## Perguntas Frequentes
 
@@ -426,9 +403,9 @@ Para esse tipo de trabalho, pode ser necessário utilizar uma furadeira de impac
 
 ### O que é KickBack Control?
 
-O KickBack Control é um recurso eletrônico desenvolvido para auxiliar na redução do risco associado a determinadas reações bruscas durante travamentos.
+O KickBack Control é um recurso eletrônico desenvolvido para auxiliar na redução do risco associado a determinadas reações bruscas durante travamentos. O cadastro informa que a função pode ser ativada ou desativada; consulte o manual para conhecer a configuração e as condições de atuação.
 
-Entretanto, não elimina todos os riscos e não substitui a utilização correta da ferramenta.
+Entretanto, não elimina todos os riscos e não substitui a utilização correta da ferramenta, a empunhadura auxiliar e os equipamentos de proteção.
 
 ### Para que serve o Electronic Angle Detection?
 
@@ -438,11 +415,9 @@ Sua utilização exige configuração adequada e não substitui a verificação 
 
 ### Qual bateria usar na Bosch GSR 18V-150 C?
 
-A ferramenta utiliza baterias compatíveis com a plataforma Bosch Professional 18V.
+A ferramenta utiliza baterias compatíveis com a plataforma Bosch Professional 18V. Para obter a potência máxima, o cadastro recomenda baterias **ProCORE18V de pelo menos 5,5 Ah**.
 
-Para obter o máximo desempenho da tecnologia BITURBO, a fabricante recomenda baterias ProCORE18V adequadas.
-
-A escolha deve considerar autonomia, peso e exigência da aplicação.
+A escolha deve considerar autonomia, peso e exigência da aplicação. Baterias maiores aumentam o peso do conjunto.
 
 ### A Bosch GSR 18V-150 C é boa para montagem de móveis?
 
@@ -468,6 +443,15 @@ Para pequenos reparos ocasionais, o investimento pode ser excessivo.
 
 Entretanto, para usuários que realizam perfurações exigentes em madeira e metal, a ferramenta pode oferecer recursos relevantes.
 
+### O que conferir antes de comprar a Bosch GSR 18V-150 C?
+
+- **Modelo exato:** confirme GSR 18V-150 C; não confunda com GSB 18V-150 C, que possui impacto.
+- **Peso:** o corpo pesa aproximadamente 2,1 kg sem bateria; considere o peso adicional da bateria.
+- **Bateria:** para potência máxima, a recomendação é ProCORE18V de pelo menos 5,5 Ah.
+- **Conteúdo do kit:** confirme código comercial, baterias, carregador e maleta na oferta específica.
+- **Aplicação:** é uma ferramenta sem impacto, indicada para madeira e metal dentro das capacidades declaradas; não substitui martelete em concreto.
+- **Segurança:** conheça a configuração do KickBack Control e utilize a empunhadura auxiliar conforme o manual.
+
 ## Veredito Final e Recomendação de Compra
 
 A **Bosch GSR 18V-150 C Professional vale a pena para quem precisa de uma furadeira e parafusadeira de alto torque**, especialmente em aplicações exigentes de madeira e metal.
@@ -480,7 +464,7 @@ Entretanto, esses sistemas não substituem os cuidados de segurança e a utiliza
 
 Outro ponto decisivo é a ausência de função impacto.
 
-A GSR 18V-150 C não foi desenvolvida para substituir uma furadeira de impacto ou um martelete em aplicações de alvenaria e concreto.
+A GSR 18V-150 C não foi desenvolvida para substituir uma furadeira de impacto ou um martelete em aplicações de alvenaria e concreto. Seu peso de aproximadamente 2,1 kg sem bateria e a recomendação de uma ProCORE18V de pelo menos 5,5 Ah para potência máxima também devem entrar na decisão de compra.
 
 Por isso, quem precisa de uma ferramenta versátil para instalações gerais deve avaliar se um modelo GSB atende melhor às suas necessidades.
 
@@ -509,5 +493,5 @@ Antes de comprar, confira a configuração comercial, as baterias incluídas e a
 - [Bosch Professional — GSB 18V-55: especificações para comparação](https://www.bosch-professional.com/gb/en/products/gsb-18v-55-06019H5370)
 - [Makita Espanha — DHP484RTJ: ficha técnica oficial para comparação](https://www.makita.es/data/sr/productinfo/generated/dhp484rtj_3.pdf)
 
-**Transparência editorial:** este review utiliza documentação oficial dos fabricantes e análise técnica de suas aplicações. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O conteúdo dos kits pode variar conforme o código comercial e o mercado.
+**Transparência editorial:** este review utiliza dados técnicos do cadastro do produto e documentação oficial dos fabricantes. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O cadastro consultado informa peso de 2,1 kg sem bateria, 25+1 ajustes de torque e recomendação de bateria ProCORE18V de pelo menos 5,5 Ah para potência máxima. O conteúdo dos kits pode variar conforme o código comercial e o mercado.
 

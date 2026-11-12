@@ -26,7 +26,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Makita DF332D** é uma opção para quem procura uma furadeira e parafusadeira capaz de montar móveis, instalar ferragens e realizar pequenos serviços de manutenção. Neste review, avaliamos o que suas especificações oficiais realmente permitem concluir, quais cuidados ajudam a preservar o MDF e em que situações outra ferramenta pode ser mais indicada. 
+A **Makita DF332D 12V MAX CXT** é uma furadeira/parafusadeira compacta, sem impacto e com motor **BL brushless**. Seu corpo de 154 mm, mandril de aperto rápido de até 10 mm, duas velocidades e 20 posições de embreagem fazem dela uma opção para montagem de móveis, instalação de ferragens e perfurações leves em madeira e aço. O diferencial é combinar tamanho reduzido e controle de aperto, sem prometer a capacidade de uma ferramenta maior ou de um modelo com percussão. 
 
 Se você ainda está escolhendo sua primeira ferramenta, veja também nosso [guia de parafusadeiras para iniciantes]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e a [lista de reviews]({{ '/reviews/' | relative_url }}).
 
@@ -40,41 +40,47 @@ Se você ainda está escolhendo sua primeira ferramenta, veja também nosso [gui
 
 ## Construção e Ergonomia
 
-A Makita DF332D ocupa um espaço interessante entre as parafusadeiras domésticas simples e as furadeiras maiores destinadas a tarefas pesadas. É uma ferramenta de 12V MAX da plataforma CXT, com motor brushless e corpo curto. Sua proposta não é impressionar com um número exagerado de rotações, mas oferecer controle, portabilidade e versatilidade em um tamanho que se adapta a bancadas, armários e serviços de manutenção.
+A Makita DF332D ocupa um espaço entre as parafusadeiras compactas de entrada e as furadeiras maiores destinadas a trabalhos mais exigentes. É uma ferramenta da plataforma **CXT 12V MAX**, com motor BL brushless e corpo curto. Sua proposta é oferecer controle, portabilidade e versatilidade para bancadas, armários e serviços de manutenção, e não substituir máquinas de maior capacidade em perfurações pesadas.
 
-O comprimento de 154 mm é um dado importante. Quando o montador precisa trabalhar entre duas prateleiras ou próximo de uma divisória, alguns centímetros a menos podem facilitar o alinhamento da ponteira. A DF332D não possui o cabeçote excêntrico da Bosch FlexiClick, portanto ainda haverá posições inacessíveis com a máquina reta. Mesmo assim, seu corpo compacto é uma vantagem em relação a ferramentas maiores, sobretudo em montagens prolongadas.
+O comprimento de **154 mm** é um dado importante para quem trabalha entre prateleiras, próximo de divisórias ou dentro de armários. Alguns centímetros a menos podem facilitar o posicionamento da ferramenta e o alinhamento da ponteira. A DF332D, porém, não possui cabeçotes angulares ou excêntricos intercambiáveis como o sistema Bosch FlexiClick. Portanto, seu corpo compacto ajuda no acesso, mas não resolve todos os ângulos difíceis.
 
-O motor BL sem escovas é confirmado pela fabricante. A tecnologia permite controle eletrônico e elimina o desgaste associado às escovas de carvão, mas não torna a ferramenta imune a superaquecimento ou sobrecarga. É essencial utilizar brocas adequadas, respeitar a capacidade indicada e interromper o serviço caso o conjunto apresente comportamento anormal. O fato de uma ferramenta ser brushless não autoriza afirmar que sua autonomia será o dobro da de um modelo específico sem testes comparáveis.
+O motor BL brushless é confirmado pela Makita. Por não utilizar escovas de carvão, elimina o desgaste dessas peças e utiliza controle eletrônico do motor. Isso não torna a ferramenta imune a superaquecimento, sobrecarga ou desgaste de outros componentes. Use brocas adequadas, respeite as capacidades indicadas e interrompa o serviço se houver aquecimento ou comportamento anormal. Ser brushless, por si só, não comprova uma autonomia específica nem permite afirmar que a bateria durará o dobro de outra ferramenta sem testes comparáveis.
 
 A ficha oficial registra peso entre 1,0 e 1,2 kg com bateria, conforme a capacidade instalada. A ferramenta possui iluminação LED, reversão, freio elétrico e gatilho de velocidade variável. Esses recursos fazem sentido em montagem: a reversão ajuda na desmontagem, o freio reduz a rotação residual e o LED auxilia na visualização de parafusos dentro de móveis. O efeito prático, porém, depende da posição de trabalho e da iluminação do ambiente.
+
+### Qual versão vale considerar: DF332DZ ou DF332DWYE?
+
+- **DF332DZ:** considere quando já possui bateria e carregador Makita CXT compatíveis; confirme se o anúncio realmente é apenas o corpo da ferramenta.
+- **DF332DWYE:** avalie quando precisa de um conjunto com acessórios; confira a quantidade e a capacidade das baterias, o carregador e o estojo incluídos.
+- **Em qualquer versão:** compare o preço final do kit completo, não apenas o valor destacado no anúncio.
 
 ## Desempenho e Aplicações
 
 ### O que a ficha técnica realmente confirma
 
-Makita informa motor BL brushless, 35/21 Nm em aplicações dura/suave, torque de bloqueio de 32 Nm, 20 ajustes de embreagem, 0–450/0–1.500 rpm, mandril 0,8–10 mm, 28 mm em madeira e 10 mm em aço, corpo 154 x 66 x 217 mm e peso de 1,0 a 1,2 kg conforme bateria.
+O cadastro técnico do produto e a referência internacional consultada informam motor BL brushless, torque de **35 Nm em aplicação dura** e **21 Nm em aplicação suave**, além de torque de bloqueio de **32 Nm** na documentação que apresenta essa medição. A ferramenta tem 20 posições de embreagem mais modo de perfuração, duas velocidades de 0–450 e 0–1.500 rpm, mandril de aperto rápido de 0,8 a 10 mm, capacidade declarada de até 28 mm em madeira e 10 mm em aço, dimensões de 154 x 66 x 217 mm e peso aproximado de 1,0 a 1,2 kg conforme a bateria.
 
 ### Velocidade, torque e controle de aperto
 
 0–450 rpm na primeira marcha e 0–1.500 rpm na segunda. O desempenho em cada tarefa depende do material, do acessório e da regulagem. Em MDF, o ajuste correto da embreagem e a progressividade do gatilho são essenciais para evitar danos ao revestimento.
 
-A Makita declara torque de 35 Nm em aplicação dura e 21 Nm em aplicação suave. Também apresenta torque de bloqueio de 32 Nm em parte da documentação. Esses números seguem condições de medição diferentes e não devem ser somados nem usados como se fossem a mesma grandeza. Para MDF, o dado decisivo é a existência de 20 posições de embreagem, que permitem limitar o aperto antes de o parafuso afundar excessivamente no painel.
+A Makita declara **35 Nm em aplicação dura** e **21 Nm em aplicação suave**. A referência técnica internacional também apresenta **32 Nm de torque de bloqueio**. São condições de medição distintas: não some esses valores nem os trate como ajustes selecionáveis pelo usuário. Para MDF, o recurso mais prático é a embreagem com **20 posições**, além do modo de perfuração, que ajuda a limitar o aperto antes de o parafuso afundar excessivamente no painel.
 
 O procedimento recomendado começa com a seleção da primeira marcha e uma regulagem baixa de embreagem. Em uma peça de sobra, o usuário verifica se a cabeça do parafuso fica assentada sem esmagar a superfície. Caso a embreagem desarme cedo demais, aumenta-se gradualmente o ajuste. Essa etapa pode parecer demorada, mas evita o erro comum de iniciar a montagem com torque máximo e tentar corrigir depois um furo espanado.
 
-A primeira velocidade vai até 450 rpm e favorece o controle. A segunda chega a 1.500 rpm, útil para perfuração e operações que pedem maior rotação. Não há função impacto na DF332D; quem procura uma furadeira com percussão precisa considerar outro modelo, como a linha HP, verificando a referência exata. A distinção é importante porque anúncios de ferramentas visualmente parecidas às vezes misturam fotografias, nomes e fichas técnicas.
+A primeira velocidade vai de 0 a 450 rpm e favorece o controle durante o parafusamento. A segunda chega a 1.500 rpm e atende perfurações com brocas compatíveis. **A DF332D não possui função impacto**: não é indicada para perfurar alvenaria como uma furadeira de impacto ou um martelete. Se essa função for necessária, escolha outro modelo e confira o código exato, pois anúncios podem misturar fotografias e descrições de ferramentas visualmente semelhantes.
 
 O mandril de aperto rápido recebe brocas de 0,8 a 10 mm. A capacidade declarada é de 28 mm em madeira e 10 mm em aço, usando acessórios apropriados e condições compatíveis. Esses valores são limites de aplicação informados pelo fabricante, não uma promessa de que qualquer broca de mesmo diâmetro funcionará bem em toda madeira. Madeira dura, brocas cegas e pressão excessiva podem alterar muito o esforço necessário.
 
 Em painéis de MDF, é prudente usar brocas próprias para madeira, marcar a posição e manter distância adequada das bordas. Parafusos de maior diâmetro ou fixações próximas à extremidade do painel podem exigir pré-furo, de acordo com as instruções da ferragem e a espessura da chapa. Para dobradiças e corrediças, o alinhamento dos furos influencia diretamente a durabilidade. Uma parafusadeira bem regulada ajuda, mas não corrige marcações incorretas.
 
-A bateria da linha CXT permite aproveitar carregadores e acumuladores compatíveis dessa plataforma. A designação 12V MAX corresponde à nomenclatura comercial usada pela Makita em diferentes mercados, enquanto alguns materiais antigos mostram 10,8V nominal. Isso não significa que qualquer bateria Makita de 12V encaixe: o padrão físico e a linha precisam coincidir. Quem já utiliza ferramentas CXT tem um motivo adicional para permanecer no ecossistema.
+A DF332D pertence à plataforma **Makita CXT 12V MAX**. Alguns materiais técnicos de determinados mercados podem apresentar a tensão nominal de 10,8V, enquanto a nomenclatura comercial utiliza 12V MAX. Isso não significa que qualquer bateria Makita identificada como 12V seja compatível: é necessário conferir a plataforma, o encaixe e o código do acumulador. Quem já utiliza ferramentas CXT compatíveis pode aproveitar as baterias existentes, desde que a referência seja adequada.
 
 ## Opinião dos Compradores: o que observar antes de comprar
 
-Antes de comprar, confirme se o anúncio é de corpo avulso ou kit completo. A versão DF332Z, em determinados mercados, é vendida sem bateria e carregador. Já configurações como DF332DSAE ou DF332DSME podem incluir duas baterias, carregador e estojo, com capacidades diferentes. Esses sufixos são relevantes para comparar ofertas e evitar surpresas.
+Antes de comprar, confirme se o anúncio corresponde à ferramenta avulsa **DF332DZ** ou a um kit, como **DF332DWYE**. Os sufixos comerciais identificam apresentações diferentes e podem indicar a presença de baterias, carregador e estojo. A composição e a capacidade das baterias podem variar conforme o mercado e o revendedor. Não presuma que todo anúncio da DF332D inclui os acessórios mostrados em fotografias: confira a lista de itens e o código completo da embalagem.
 
-O custo total também inclui bits adequados, brocas e eventualmente uma segunda bateria. Para montagem ocasional, uma bateria pode atender bem, desde que o usuário organize pausas para recarga. Para uso profissional, ter uma unidade carregando enquanto outra está em serviço pode reduzir interrupções. Não existe um número universal de móveis montados por carga: parafusos, materiais e tempo de uso mudam o resultado.
+O custo total também pode incluir bits, brocas e uma bateria adicional. Para montagem ocasional, uma bateria pode ser suficiente, desde que o usuário organize as pausas para recarga. Em uso profissional, ter uma segunda bateria compatível pode reduzir interrupções. Não existe um número universal de móveis montados por carga: tipo de parafuso, material, diâmetro da broca, pressão aplicada e frequência de uso alteram o consumo.
 
 Esta análise não simula depoimentos de consumidores nem apresenta testes de autonomia que não foram realizados. A recomendação considera o projeto da ferramenta e as informações técnicas da Makita. A confiabilidade da compra também depende de procedência, garantia, assistência e disponibilidade de componentes na região.
 
@@ -93,9 +99,9 @@ Esta análise não simula depoimentos de consumidores nem apresenta testes de au
 
 ## Comparativo com Concorrentes
 
-Contra a Bosch GSR 12V-15 FC, a Makita oferece motor brushless e torque duro nominal de 35 Nm, enquanto a Bosch apresenta 30 Nm e um sistema de cabeçotes intercambiáveis. Se o trabalho exige fixar parafusos próximos de paredes internas, o FlexiClick pode ser decisivo. Em tarefas convencionais sobre bancada, a DF332D é uma alternativa muito interessante pelo corpo curto e pela embreagem ajustável.
+Contra a Bosch GSR 12V-15 FC, a Makita oferece motor brushless confirmado e torque máximo declarado de 35 Nm em aplicação dura. A Bosch declara 30 Nm e se diferencia pelo sistema FlexiClick com cabeçotes intercambiáveis. Se o trabalho exige alcançar parafusos muito próximos de paredes internas ou bordas, os adaptadores da Bosch podem ser decisivos. Em tarefas convencionais, a DF332D oferece corpo curto e embreagem ajustável.
 
-Comparada à DeWalt DCD777, a Makita tem mandril menor, de 10 mm, mas também um corpo mais curto e proposta mais focada em compacidade. A DeWalt se encaixa melhor em quem já utiliza a plataforma 20V MAX ou quer uma furadeira de uso geral com mandril de 13 mm. A Makita pode ser mais confortável quando a rotina concentra muitos parafusos pequenos e deslocamentos entre móveis.
+Comparada à DeWalt DCD777, a Makita tem mandril de até 10 mm e corpo compacto de 154 mm; a DeWalt utiliza mandril de 13 mm e plataforma 20V MAX. A DeWalt pode atender melhor quem precisa de uma ferramenta de uso geral com maior capacidade de mandril. A DF332D pode ser mais conveniente para quem prioriza tamanho reduzido e já utiliza a plataforma CXT 12V MAX.
 
 ## Como usar a parafusadeira sem danificar MDF
 
@@ -131,9 +137,9 @@ Depende do sufixo comercial. Versões de corpo avulso podem vir sem bateria e ca
 
 ## Veredito Final e Recomendação de Compra
 
-A Makita DF332D é uma opção equilibrada para quem busca uma parafusadeira compacta de qualidade e deseja manter o trabalho sob controle. O motor brushless, o corpo de 154 mm, as 20 posições de embreagem e as duas marchas compõem um conjunto apropriado para montagem de móveis, ferragens e pequenas perfurações em madeira e metal.
+A Makita DF332D é uma opção interessante para quem procura uma furadeira/parafusadeira 12V MAX compacta, com motor brushless e controle de aperto. O corpo de 154 mm, as 20 posições de embreagem, as duas velocidades e o mandril de até 10 mm formam um conjunto adequado para montagem de móveis, instalação de ferragens e perfurações leves em madeira e metal.
 
-Ela não substitui uma furadeira de impacto e pode perder em acesso a cantos para a Bosch FlexiClick. Também exige atenção ao conteúdo do kit para que o preço final faça sentido. A nota editorial de 8,8/10 resume sua adequação à montagem de MDF e à manutenção leve, sem alegar testes próprios ou dados de satisfação de compradores.
+Ela não substitui uma furadeira de impacto e não oferece os cabeçotes angulares e excêntricos do sistema Bosch FlexiClick. A compra também exige atenção ao código do kit e aos acessórios incluídos. Se você já possui baterias CXT compatíveis e valoriza uma ferramenta curta, a DF332D merece entrar na comparação. A nota editorial de **8,8/10** representa sua adequação aos usos descritos, sem alegar testes próprios ou dados de satisfação de compradores.
 
 ### Referência técnica consultada
 

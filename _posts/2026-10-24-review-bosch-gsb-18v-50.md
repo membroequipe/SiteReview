@@ -34,6 +34,8 @@ A **Bosch GSB 18V-50** é uma furadeira e parafusadeira de impacto a bateria de 
   {% include ficha-tecnica.html %}
 </div>
 
+**Fontes técnicas:** [Bosch Professional Brasil — GSB 18V-50](https://www.bosch-professional.com/br/pt/products/gsb-18v-50-06019H51E4), [Catálogo Bosch Brasil 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_1_pt_-_empreiteiro_-_web.pdf), [Makita Brasil — DHP485Z](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253) e [DeWalt Brasil — DCD796D2-BR](https://www.dewalt.com.br/pt-br/produto/dcd796d2-br/kit-parafusadeirafuradeira-12-13-mm-com-impacto-20v-max-ion-de-litio-xr).
+
 {% include produto-card.html %}
 
 ## Construção e Ergonomia
@@ -42,11 +44,11 @@ A GSB 18V-50 utiliza **motor brushless**, que dispensa escovas de carvão e redu
 
 O punho emborrachado e o gatilho de velocidade variável favorecem o controle durante a perfuração e o parafusamento. O seletor mecânico oferece duas faixas de velocidade, enquanto os **20 ajustes de torque**, além dos modos de perfuração e impacto, permitem adaptar a ferramenta ao tipo de fixação. Há iluminação LED para ajudar em locais pouco iluminados; a duração exata da luz após soltar o gatilho pode variar conforme a versão.
 
-O peso informado pela Bosch é de aproximadamente **1,1 kg sem bateria**, mas o conjunto fica mais pesado conforme a bateria escolhida. Uma bateria compacta costuma favorecer a mobilidade; uma de maior capacidade pode oferecer mais autonomia, dependendo da carga de trabalho. Confira também nossos [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}) para avaliar modelos da mesma categoria.
+O peso informado pela Bosch é de aproximadamente **1,1 kg sem bateria**, mas o conjunto fica mais pesado conforme a bateria escolhida. Uma bateria compacta costuma favorecer a mobilidade; uma de maior capacidade pode oferecer mais autonomia, dependendo da carga de trabalho. Confira também nossos [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}) para avaliar modelos da mesma categoria.
 
 ## Desempenho e Aplicações
 
-A ficha técnica oficial indica **50 Nm de torque em junta rígida e 28 Nm em junta flexível**. A primeira marcha trabalha de **0 a 460 rpm**, adequada a operações que exigem maior controle, enquanto a segunda alcança **0 a 1.800 rpm** para perfurações mais rápidas. Esses números são especificações nominais, não garantias de desempenho idêntico em todos os materiais.
+A ficha técnica da Bosch informa **28 Nm em junta flexível e 50 Nm em junta rígida**. Há uma diferença de apresentação entre materiais da própria fabricante: a página atual do produto lista 28/50/50 Nm (suave/duro/máximo), enquanto o catálogo brasileiro 2025 apresenta 70/50/28 Nm (máximo/duro/leve). Para uma comparação prática e consistente, considere os valores de **50 Nm em junta rígida e 28 Nm em junta flexível**; não confunda esses números com o torque máximo de bloqueio indicado em alguns catálogos. A primeira marcha trabalha de **0 a 460 rpm**, enquanto a segunda alcança **0 a 1.800 rpm**. São especificações nominais, não garantias de desempenho idêntico em todos os materiais.
 
 No modo impacto, a frequência chega a **27.000 impactos por minuto**. A capacidade nominal de perfuração é de **35 mm em madeira, 13 mm em aço e 13 mm em alvenaria**, desde que sejam utilizadas brocas apropriadas e condições compatíveis com as instruções do fabricante. Em concreto estrutural duro, grandes volumes de furos ou trabalho com armaduras, um martelete SDS-plus é uma escolha mais apropriada.
 
@@ -74,20 +76,22 @@ Não apresentamos depoimentos como citações reais sem identificar a avaliaçã
 
 ## Comparativo com Concorrentes
 
-A **Makita DHP485Z** também é uma furadeira/parafusadeira de impacto brushless da plataforma LXT 18V. A comparação deve considerar a versão exata, os dados oficiais de torque e rotação, o peso com bateria e a disponibilidade de assistência. A escolha pode favorecer a Makita para quem já utiliza baterias LXT, enquanto a Bosch é mais prática para quem já está no ecossistema Professional 18V.
+A **Makita DHP485Z** é uma alternativa brushless da plataforma LXT 18V, também com mandril de 13 mm e função impacto. A página oficial brasileira informa 50 Nm em junta rígida, 27 Nm em junta flexível, rotação de 0–500 / 0–1.900 rpm e até 28.500 impactos por minuto. A variante **DHP485Z é vendida sem bateria, carregador e maleta**, portanto compare o custo do conjunto completo se você ainda não utiliza baterias Makita LXT.
 
-A **DeWalt DCD796** é outra alternativa brushless com mandril de 13 mm. A decisão entre as marcas depende das aplicações, da configuração do kit e das baterias já disponíveis; não há base para afirmar superioridade geral sem testes comparativos controlados.
+Outra opção é a **DeWalt DCD796D2-BR**, versão brasileira em kit da linha 20V MAX XR Brushless. A página oficial informa motor sem escovas, torque máximo anunciado de 70 Nm, mandril metálico de 13 mm, duas velocidades e kit com duas baterias de 2,0 Ah, carregador bivolt e maleta. É uma configuração diferente da Bosch 18V e não deve ser comparada apenas pelo número de torque: considere também peso, acessórios, tensão comercial e plataforma de baterias.
+
+A escolha entre essas ferramentas depende principalmente do ecossistema de baterias que você já possui, da configuração efetivamente anunciada e do tipo de serviço. Não há base para declarar uma vencedora geral sem ensaios comparativos controlados.
 
 <table class="specs-table" style="width: 100%; border-collapse: collapse;">
   <thead><tr style="background-color: #0f172a; color: #ffffff;"><th colspan="3" style="padding: 12px; text-align: left;">Comparativo com Concorrentes</th></tr></thead>
   <tbody>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Bosch GSB 18V-50</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">50 Nm (rígido) / 1.800 rpm / 2 velocidades</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Brushless, mandril metálico 13 mm, Professional 18V</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Makita DHP485Z</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">18V / brushless / 2 velocidades</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa para quem utiliza baterias Makita LXT</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD796</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">20V MAX / brushless / 2 velocidades</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa para quem utiliza baterias DeWalt 20V MAX</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Bosch GSB 18V-50</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">18V / 50 Nm (rígido), 28 Nm (flexível) / 1.800 rpm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Brushless, mandril metálico 13 mm, Professional 18V</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Makita DHP485Z</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">18V / 50 Nm (rígido), 27 Nm (flexível) / 1.900 rpm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Brushless, mandril 13 mm; versão Z sem bateria e carregador</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD796D2-BR</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">20V MAX / 70 Nm anunciados / 2.000 rpm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Brushless, mandril metálico 13 mm; kit brasileiro com 2 baterias de 2,0 Ah</td></tr>
   </tbody>
 </table>
 
-Se quiser ampliar a comparação, consulte nossos [reviews de furadeiras]({{ '/reviews/' | relative_url }}).
+Os números acima vêm das fichas dos fabricantes e não de um teste lado a lado. A Makita DHP485Z e a Bosch GSB 18V-50 são ferramentas 18V; a DeWalt DCD796D2-BR usa a designação comercial 20V MAX. Confira se o anúncio corresponde ao código indicado e se inclui bateria, carregador e maleta. Se quiser ampliar a comparação, consulte nossos [reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
 
 ## Perguntas Frequentes
 
@@ -105,7 +109,7 @@ A função impacto permite perfurar alvenaria com brocas adequadas, dentro do li
 
 ### A ferramenta acompanha bateria e carregador?
 
-Depende do código comercial e do kit. Existem configurações vendidas apenas com a ferramenta e outras com baterias, carregador e maleta. Confira a descrição exata do anúncio antes de comprar.
+Depende do código comercial. O catálogo brasileiro lista, por exemplo, a variante **06019H51E2** sem bateria e carregador, além de configurações com bateria, carregador e maleta, como **06019H51E4** e **06019H51E5**. Confira o número de pedido e a lista de itens inclusos no anúncio; não presuma que toda GSB 18V-50 seja vendida no mesmo kit.
 
 ### É compatível com baterias Bosch ProCORE18V?
 
@@ -118,5 +122,7 @@ A **Bosch GSB 18V-50 vale a pena** para quem procura uma furadeira/parafusadeira
 Seu principal limite é o tipo de serviço: para concreto pesado e furação intensiva, um martelete apropriado tende a ser mais indicado. Para parafusamento delicado, o usuário deve ajustar a embreagem conforme o material. Também é essencial comparar o preço do kit completo, e não apenas o valor da ferramenta sem bateria.
 
 **Recomendação:** se você já utiliza baterias Bosch Professional 18V, a versão sem bateria pode fazer sentido. Se está começando, compare kits que incluam bateria e carregador originais, observando a capacidade e a assistência disponível. A nota **9,1/10** representa a avaliação editorial do conjunto de características, não uma medição de desempenho em laboratório.
+
+**Fontes técnicas:** [Bosch Professional Brasil — GSB 18V-50](https://www.bosch-professional.com/br/pt/products/gsb-18v-50-06019H51E4), [Catálogo Bosch Brasil 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_1_pt_-_empreiteiro_-_web.pdf), [Makita Brasil — DHP485Z](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253) e [DeWalt Brasil — DCD796D2-BR](https://www.dewalt.com.br/pt-br/produto/dcd796d2-br/kit-parafusadeirafuradeira-12-13-mm-com-impacto-20v-max-ion-de-litio-xr).
 
 {% include produto-card.html %}

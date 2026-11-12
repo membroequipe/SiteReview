@@ -1,25 +1,23 @@
 ---
 layout: post
-title: "Review Makita DHP484RTJ: Vale a Pena em 2026? Análise Completa"
-description: "Makita DHP484RTJ vale a pena? Veja torque de 65 Nm, motor brushless, duas baterias de 5 Ah, desempenho, vantagens e limitações."
+title: "Review Makita DHP484Z: Vale a Pena em 2026? Análise Completa"
+description: "Makita DHP484Z vale a pena? Veja torque de 65 Nm, motor brushless, mandril de 13 mm, desempenho e limitações da versão vendida sem bateria e carregador."
 slug: "review-makita-dhp484rtj"
 categories: [furadeiras, reviews]
 produto_id: makita_dhp484rtj
-image: "/assets/images/posts/makita-dhp484rtj.webp"
-image_alt: "Furadeira e parafusadeira de impacto Makita DHP484RTJ 18V LXT brushless com maleta Makpac"
 date: 2026-11-04
 author: "Equipe de Análises"
 
 avaliacao:
   nota: 9.0
   resumo: >-
-    A Makita DHP484RTJ é uma furadeira e parafusadeira de impacto 18V LXT com motor brushless, torque máximo declarado de 65 Nm, mandril de 13 mm e duas velocidades mecânicas. A configuração RTJ documentada pela Makita Espanha inclui duas baterias de 5,0 Ah, carregador rápido e maleta Makpac. A nota editorial de 9,0/10 considera sua versatilidade e a proposta de kit completo, sem representar testes práticos próprios.
+    A Makita DHP484Z é uma furadeira e parafusadeira de impacto 18V LXT com motor brushless, torque máximo declarado de 65 Nm, mandril de 13 mm e duas velocidades mecânicas. A versão Z é comercializada como ferramenta avulsa, sem bateria e carregador. A configuração DHP484RTJ documentada pela Makita Espanha é uma variante de outro mercado e não deve ser confundida com o kit brasileiro. A nota editorial de 9,0/10 considera sua versatilidade e a proposta de kit completo, sem representar testes práticos próprios.
   vantagens:
     - "Motor brushless, sem escovas de carvão"
     - "Torque máximo declarado de 65 Nm, com 21 ajustes de torque"
     - "Duas velocidades e função impacto para diferentes materiais"
     - "Mandril de aperto rápido de 13 mm"
-    - "Kit RTJ documentado com duas baterias de 5,0 Ah, carregador rápido e maleta Makpac"
+    - "Kit RTJ documentado com ferramenta avulsa, sem bateria e carregador"
   desvantagens:
     - "Investimento inicial pode ser elevado para uso doméstico ocasional"
     - "Não substitui um martelete SDS-Plus em concreto resistente"
@@ -29,15 +27,15 @@ avaliacao:
 
 {% include review-toc.html %}
 
-**A Makita DHP484RTJ vale a pena em 2026?** Para quem procura uma furadeira e parafusadeira de impacto profissional, com motor brushless e um conjunto completo de baterias e acessórios, ela merece atenção. O modelo combina a plataforma **Makita LXT 18V**, torque máximo declarado de **65 Nm** e mandril de 13 mm, oferecendo recursos para trabalhos em madeira, metal e alvenaria.
+**A Makita DHP484 vale a pena em 2026?** Para quem procura uma furadeira e parafusadeira de impacto profissional, com motor brushless e plataforma LXT 18V, ela merece atenção. O modelo combina torque máximo declarado de **65 Nm**, mandril de 13 mm e recursos para trabalhos em madeira, metal e alvenaria compatível.
 
-A principal diferença da versão RTJ está no pacote comercial. Na ficha oficial da Makita Espanha, a DHP484RTJ acompanha duas baterias de 5,0 Ah, carregador rápido e maleta Makpac. Isso pode ser interessante para quem está começando na plataforma LXT ou precisa trabalhar com uma bateria enquanto a outra permanece disponível para recarga.
+É essencial, porém, separar as variantes comerciais. A **DHP484RTJ**, documentada pela Makita Espanha, é um kit que inclui ferramenta avulsa, sem bateria e carregador. Já o cadastro de produtos do site identifica a **DHP484Z como a variante brasileira avulsa**, sem bateria. O YAML também aponta a **DHP484RFE como possível alternativa de kit**, cuja composição deve ser confirmada no anúncio brasileiro.
 
-Entretanto, nem todo usuário precisa de um kit completo. Quem já possui baterias e carregador Makita LXT pode encontrar melhor custo-benefício em uma versão avulsa, dependendo dos preços disponíveis.
+Portanto, não presuma que uma oferta nacional identificada como DHP484Z ou DHP484RFE tenha o mesmo conteúdo do kit RTJ espanhol. Confira o código completo e os itens efetivamente incluídos antes de comparar preços.
 
 Também é importante não confundir a DHP484RTJ com a DHP485Z. Embora ambas pertençam à linha 18V LXT e utilizem motor brushless, são modelos diferentes, com especificações e configurações comerciais próprias.
 
-Neste review, analisamos os dados oficiais da fabricante, as aplicações recomendadas, os pontos fortes e as limitações da Makita DHP484RTJ. A nota editorial de **9,0/10** considera essas características, mas não representa resultado de testes práticos próprios nem média de avaliações de compradores.
+Neste review, analisamos os dados oficiais da fabricante, as aplicações recomendadas, os pontos fortes e as limitações da Makita DHP484Z. A nota editorial de **9,0/10** considera essas características, mas não representa resultado de testes práticos próprios nem média de avaliações de compradores.
 
 {% include resumo-avaliacao.html %}
 
@@ -49,7 +47,7 @@ Neste review, analisamos os dados oficiais da fabricante, as aplicações recome
 
 ## Construção e Ergonomia
 
-A Makita DHP484RTJ foi desenvolvida para combinar perfuração e parafusamento em uma ferramenta a bateria de uso profissional. Seu conjunto inclui motor sem escovas, transmissão mecânica de duas velocidades e mandril de aperto rápido.
+A Makita DHP484Z foi desenvolvida para combinar perfuração e parafusamento em uma ferramenta a bateria de uso profissional. Seu conjunto inclui motor sem escovas, transmissão mecânica de duas velocidades e mandril de aperto rápido.
 
 A proposta é atender diferentes tarefas de instalação, manutenção e montagem sem exigir a troca constante de equipamento. Para profissionais que trabalham em locais sem acesso conveniente a tomadas, a alimentação por bateria pode representar uma vantagem prática.
 
@@ -93,7 +91,7 @@ Entretanto, o LED não substitui uma iluminação adequada do ambiente quando a 
 
 ### Motor brushless e manutenção
 
-Um dos principais diferenciais da Makita DHP484RTJ é o **motor brushless**, identificado pela fabricante como motor BL.
+Um dos principais diferenciais da Makita DHP484Z é o **motor brushless**, identificado pela fabricante como motor BL.
 
 Essa tecnologia dispensa as escovas de carvão utilizadas em motores convencionais.
 
@@ -175,7 +173,7 @@ Para perfurações repetitivas em materiais muito resistentes, pode ser necessá
 
 ### Desempenho em alvenaria e concreto
 
-A função impacto amplia a versatilidade da Makita DHP484RTJ.
+A função impacto amplia a versatilidade da Makita DHP484Z.
 
 A fabricante informa capacidade nominal de perfuração de até **13 mm em alvenaria e concreto**, respeitadas as condições previstas na documentação.
 
@@ -215,7 +213,7 @@ Para parafusamentos repetitivos e de grande volume, também pode valer a pena av
 
 ### Autonomia e baterias de 5,0 Ah
 
-A configuração **DHP484RTJ documentada pela Makita Espanha inclui duas baterias LXT de 18V e 5,0 Ah**.
+A configuração **DHP484RTJ documentada pela Makita Espanha inclui duas baterias LXT de 18V e 5,0 Ah**. Essa composição descreve o kit espanhol RTJ e não deve ser atribuída automaticamente às variantes brasileiras DHP484Z ou DHP484RFE.
 
 Esse conjunto pode ser interessante para profissionais que precisam alternar baterias durante a jornada de trabalho.
 
@@ -233,20 +231,15 @@ A plataforma Makita LXT 18V também pode ser conveniente para quem já utiliza o
 
 Nesse caso, a aquisição de um kit com duas baterias adicionais pode ou não representar a melhor escolha financeira.
 
-### O que acompanha a Makita DHP484RTJ?
+### O que acompanha cada versão da Makita DHP484?
 
-Segundo a ficha oficial da Makita Espanha, a configuração DHP484RTJ inclui:
+O conteúdo depende do código comercial e do mercado:
 
-- Furadeira e parafusadeira de impacto Makita DHP484.
-- Duas baterias LXT de 18V e 5,0 Ah.
-- Carregador rápido compatível.
-- Maleta Makpac para transporte e armazenamento.
+- **DHP484RTJ:** a ficha oficial da Makita Espanha documenta duas baterias LXT de 18V e 5,0 Ah, carregador rápido e maleta Makpac.
+- **DHP484Z:** o cadastro do site identifica a variante brasileira como ferramenta avulsa, sem bateria.
+- **DHP484RFE:** aparece no YAML como possível alternativa de kit, mas o conteúdo deve ser confirmado no anúncio brasileiro.
 
-É importante observar que a composição comercial pode variar conforme o país e o distribuidor.
-
-Antes de comprar no Brasil, confira o código completo do produto e os itens discriminados no anúncio.
-
-Também vale verificar a procedência das baterias, a compatibilidade do carregador com a rede elétrica e as condições de garantia.
+Não use a lista de acessórios do RTJ para descrever uma oferta DHP484Z ou DHP484RFE sem comprovação. Antes de comprar, confira o código completo, quantidade e capacidade das baterias, modelo do carregador, maleta, procedência e garantia aplicável.
 
 Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
@@ -258,30 +251,31 @@ Entretanto, não realizamos uma pesquisa estatística de avaliações verificada
 
 Os pontos apresentados abaixo representam vantagens e limitações técnicas identificadas a partir das especificações oficiais.
 
-### Elogios Mais Frequentes
+### Principais vantagens técnicas
 
 - **Motor brushless:** dispensa escovas de carvão e reduz uma fonte de manutenção.
-- **Torque de 65 Nm:** apresenta capacidade nominal interessante para diferentes aplicações.
-- **Kit com duas baterias de 5,0 Ah:** pode favorecer a continuidade do trabalho.
-- **Mandril de 13 mm:** permite utilizar diferentes brocas e acessórios compatíveis.
-- **Função impacto:** amplia as possibilidades de perfuração em alvenaria.
-- **Plataforma LXT 18V:** pode facilitar o aproveitamento de baterias em outras ferramentas Makita compatíveis.
+- **Torque máximo de 65 Nm:** oferece capacidade nominal para diferentes aplicações.
+- **21 ajustes de torque:** ajudam a adaptar o parafusamento ao material e ao fixador.
+- **Mandril de 13 mm:** aceita diferentes brocas e acessórios compatíveis.
+- **Função impacto:** amplia as possibilidades de perfuração em alvenaria compatível.
+- **Plataforma LXT 18V:** permite compartilhar baterias compatíveis com outras ferramentas Makita.
 
-### Reclamações Mais Frequentes
+### Limitações que devem ser consideradas
 
 - **Investimento inicial:** o conjunto completo pode representar custo elevado para usuários ocasionais.
 - **Peso com bateria:** baterias de maior capacidade acrescentam massa ao equipamento.
 - **Limitações em concreto pesado:** não substitui um martelete SDS-Plus.
 - **Kit desnecessário para alguns usuários:** quem já possui baterias LXT pode preferir uma versão avulsa.
-- **Acessórios variáveis por mercado:** a composição deve ser confirmada antes da compra.
+- **Acessórios variáveis por mercado:** RTJ, Z e RFE não devem ser tratados como kits equivalentes.
+- **Martelete ainda necessário em concreto resistente:** a função impacto da furadeira não substitui um SDS-Plus.
 
 **Nota sobre avaliações:** os tópicos acima não representam uma contagem de opiniões de compradores. São pontos de atenção derivados da análise técnica do produto.
 
 ## Comparativo com Concorrentes
 
-### Makita DHP484RTJ vs Makita DHP485Z
+### Makita DHP484 vs Makita DHP485Z
 
-A **Makita DHP485Z** é uma alternativa da mesma plataforma LXT 18V, também com motor brushless e função impacto.
+A **Makita DHP485Z** é uma alternativa da mesma plataforma LXT 18V, também com motor brushless e função impacto. Para a compra no Brasil, a DHP484 deve ser identificada pela variante comercial efetivamente anunciada: DHP484Z é ferramenta avulsa; DHP484RFE é uma referência de kit que exige conferência do conteúdo no anúncio.
 
 Entretanto, existem diferenças importantes.
 
@@ -295,7 +289,7 @@ Outro ponto importante é a configuração comercial.
 
 A DHP485Z é apresentada como ferramenta avulsa, sem bateria e carregador.
 
-Já a DHP484RTJ é um kit que, na configuração oficial espanhola, inclui duas baterias de 5,0 Ah, carregador rápido e maleta Makpac.
+Já a DHP484RTJ é um kit que, na configuração oficial espanhola, inclui ferramenta avulsa, sem bateria e carregador.
 
 Para quem já possui baterias LXT, a DHP485Z pode representar uma alternativa mais econômica.
 
@@ -333,13 +327,13 @@ Os valores representam especificações declaradas pelos fabricantes e não resu
 
 ## Perguntas Frequentes
 
-### A Makita DHP484RTJ é brushless?
+### A Makita DHP484Z é brushless?
 
 Sim. A Makita DHP484 possui motor BL brushless, sem escovas de carvão.
 
 Essa tecnologia elimina a necessidade de substituição das escovas, mas não dispensa os cuidados com transmissão, mandril, componentes eletrônicos e baterias.
 
-### Qual é o torque da Makita DHP484RTJ?
+### Qual é o torque da Makita DHP484Z?
 
 A fabricante informa **65 Nm de torque máximo**, com **54 Nm em junta rígida e 30 Nm em junta flexível**.
 
@@ -347,11 +341,9 @@ Esses valores representam condições de medição diferentes.
 
 O torque disponível durante uma operação real depende do material, da bateria e das condições de trabalho.
 
-### A Makita DHP484RTJ acompanha duas baterias?
+### A Makita DHP484 acompanha duas baterias?
 
-Sim, na configuração documentada pela Makita Espanha, o kit acompanha duas baterias LXT de 18V e 5,0 Ah.
-
-Entretanto, é importante confirmar a composição do pacote comercializado no Brasil antes de comprar.
+A configuração DHP484RTJ documentada pela Makita Espanha inclui duas baterias LXT de 18V e 5,0 Ah. Entretanto, o cadastro brasileiro do site identifica a DHP484Z como ferramenta avulsa, sem bateria. A DHP484RFE é uma possível alternativa de kit, mas sua composição precisa ser conferida no anúncio nacional.
 
 ### A Makita DHP484RTJ fura concreto?
 
@@ -359,13 +351,11 @@ A ferramenta possui função impacto e capacidade nominal de perfuração de at�
 
 Entretanto, não substitui um martelete SDS-Plus em trabalhos pesados ou perfurações frequentes em concreto resistente.
 
-### Qual é a diferença entre a Makita DHP484RTJ e a DHP485Z?
+### Qual é a diferença entre a Makita DHP484 e a DHP485Z?
 
-As duas pertencem à plataforma LXT 18V e possuem motor brushless.
+As duas pertencem à plataforma LXT 18V, possuem motor brushless e função impacto. A DHP484 apresenta torque máximo declarado de 65 Nm, enquanto a DHP485Z informa 60 Nm.
 
-A DHP484 apresenta torque máximo declarado de 65 Nm, enquanto a DHP485Z informa 60 Nm.
-
-Além disso, a versão RTJ documentada inclui duas baterias, carregador e maleta, enquanto a DHP485Z é comercializada como ferramenta avulsa.
+Atenção à configuração comercial: no cadastro brasileiro do site, a DHP484Z é ferramenta avulsa, assim como a DHP485Z. As duas não devem ser comparadas usando o kit RTJ espanhol como se fosse a apresentação nacional.
 
 ### A Makita DHP484RTJ é boa para montagem de móveis?
 
@@ -397,17 +387,24 @@ Para pequenos reparos ocasionais, o investimento em um kit profissional completo
 
 Entretanto, para quem realiza reformas, montagens e manutenção regularmente, a ferramenta pode oferecer uma combinação interessante de versatilidade e autonomia.
 
+### O que conferir antes de comprar a Makita DHP484?
+
+- **Código comercial:** confirme se o anúncio é da DHP484Z avulsa, da DHP484RFE ou de uma unidade RTJ importada.
+- **Baterias:** a DHP484Z do cadastro brasileiro não acompanha baterias; não presuma duas unidades de 5,0 Ah.
+- **Carregador:** confirme o modelo e a compatibilidade elétrica para o Brasil.
+- **Maleta:** verifique se a Makpac está realmente incluída.
+- **Garantia e procedência:** confira nota fiscal, origem do produto e condições de assistência.
+- **Aplicação:** possui impacto mecânico, mas não substitui martelete SDS-Plus em concreto resistente.
+
 ## Veredito Final e Recomendação de Compra
 
-A **Makita DHP484RTJ vale a pena para quem procura uma furadeira e parafusadeira de impacto profissional com motor brushless e kit completo**.
+A **Makita DHP484Z vale a pena para quem procura uma furadeira e parafusadeira de impacto profissional com motor brushless**.
 
-Seu torque máximo declarado de **65 Nm**, duas velocidades mecânicas, 21 ajustes de torque e mandril de 13 mm formam um conjunto versátil para trabalhos em madeira, metal e alvenaria.
+Seu torque máximo declarado de **65 Nm**, duas velocidades mecânicas, 21 ajustes de torque e mandril de 13 mm formam um conjunto versátil para trabalhos em madeira, metal e alvenaria compatível.
 
-A configuração RTJ documentada pela Makita Espanha também apresenta uma vantagem comercial importante: duas baterias de 5,0 Ah, carregador rápido e maleta Makpac.
+A configuração RTJ documentada pela Makita Espanha oferece ferramenta avulsa, sem bateria e carregador. Porém, o cadastro brasileiro do site identifica a DHP484Z como ferramenta avulsa, sem bateria, e aponta a DHP484RFE como possível alternativa de kit a validar.
 
-Esse conjunto pode ser interessante para profissionais que precisam manter a ferramenta disponível durante diferentes etapas de trabalho.
-
-Entretanto, quem já possui baterias e carregador da plataforma LXT 18V deve comparar o preço do kit com versões avulsas.
+Assim, a principal decisão de compra no Brasil é comparar o preço e o conteúdo da variante realmente anunciada, sem presumir que ela reproduza o kit RTJ espanhol.
 
 Outro ponto importante é respeitar os limites da função impacto.
 
@@ -415,11 +412,11 @@ A DHP484RTJ pode realizar perfurações compatíveis em alvenaria, mas não subs
 
 **Nossa nota editorial é 9,0/10.**
 
-A avaliação considera o motor brushless, o torque declarado, a versatilidade, a plataforma de baterias e a proposta de kit completo.
+A avaliação considera o motor brushless, o torque declarado, a versatilidade e a plataforma de baterias; a versão DHP484Z não inclui bateria nem carregador.
 
 A nota não representa resultado de testes laboratoriais próprios nem média de avaliações de compradores.
 
-**Recomendamos a Makita DHP484RTJ principalmente para instaladores, profissionais de manutenção, marceneiros e usuários frequentes que procuram uma ferramenta 18V versátil.**
+**Recomendamos a Makita DHP484 principalmente para instaladores, profissionais de manutenção, marceneiros e usuários frequentes que procuram uma ferramenta 18V versátil.** No Brasil, confirme se a oferta é da DHP484Z avulsa ou de uma configuração de kit identificada como DHP484RFE.
 
 Para quem utiliza a furadeira apenas ocasionalmente, uma opção mais simples pode oferecer melhor relação entre custo e necessidade.
 
@@ -434,5 +431,5 @@ Antes de comprar, confira a composição do kit, a garantia aplicável e a proce
 - [Makita Espanha — Catálogo técnico DHP484 e DDF484](https://www.makita.es/data/pam/public/media/catalog_and_brochures/makita_dhp484_ddf484.pdf)
 - [Makita Brasil — DHP485Z: referência oficial para comparação](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
 
-**Transparência editorial:** este review utiliza documentação oficial da Makita e análise técnica de suas aplicações. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. A composição do kit RTJ foi verificada na documentação da Makita Espanha e deve ser confirmada para ofertas comercializadas no Brasil.
+**Transparência editorial:** este review utiliza documentação oficial da Makita e dados do cadastro de produtos do site. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. A composição de ferramenta avulsa, sem bateria e carregador refere-se à configuração RTJ documentada pela Makita Espanha. O cadastro brasileiro identifica a DHP484Z como ferramenta avulsa e a DHP484RFE como possível alternativa de kit, cuja composição deve ser confirmada no anúncio.
 

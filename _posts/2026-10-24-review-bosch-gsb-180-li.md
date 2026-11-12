@@ -28,13 +28,15 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Bosch GSB 180-LI** é uma furadeira e parafusadeira de impacto a bateria da linha Professional 18V. Seu conjunto de duas velocidades, embreagem para parafusamento e função impacto permite alternar entre montagem de móveis, manutenção, perfuração em madeira e metal e furos ocasionais em alvenaria. O modelo utiliza motor com escovas de carvão substituíveis, e não motor brushless. Nesta análise, distinguimos as especificações do fabricante das avaliações editoriais sobre adequação de uso.
+A **Bosch GSB 180-LI** é uma furadeira e parafusadeira de impacto a bateria de 18V da linha Professional. Ela reúne duas velocidades, embreagem para parafusamento e função impacto para montagem, manutenção e perfurações ocasionais em madeira, metal e alvenaria. Seu motor utiliza escovas de carvão substituíveis: não é brushless. **Em 2026, a GSB 180-LI deve ser tratada como um modelo legado**, e não como lançamento ou principal recomendação atual. A Bosch GSB 185-LI é uma alternativa mais recente da mesma categoria, com motor sem escovas, mas não é uma versão idêntica: há diferenças de construção e especificações que explicamos adiante.
 
 {% include resumo-avaliacao.html %}
 
 <div id="ficha-tecnica" class="specs-table-wrapper">
   {% include ficha-tecnica.html %}
 </div>
+
+**Fontes técnicas:** [Manual Bosch GSB 180-LI (PDF)](https://www.bosch-professional.com/binary/manualsmedia/o484974v21_160992AA08_202410.pdf), [Bosch Professional Brasil — GSB 185-LI](https://www.bosch-professional.com/br/pt/products/gsb-185-li-06019K31E3) e [Catálogo Bosch Brasil 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_7_pt_-_facility_-_web.pdf).
 
 {% include produto-card.html %}
 
@@ -46,7 +48,7 @@ O **mandril de aperto rápido aceita acessórios com hastes compatíveis de 1,5 
 
 Um recurso útil é a **luz de trabalho LED**, expressamente identificada no manual da Bosch. Ela ajuda a visualizar a área próxima à ponta da ferramenta em locais pouco iluminados. O equipamento também possui reversão de giro, útil para retirar parafusos e liberar a broca quando apropriado. A ergonomia percebida e o peso final dependem da bateria instalada e da tarefa realizada.
 
-O motor utiliza escovas de carvão substituíveis, o que facilita determinadas intervenções de manutenção, mas também diferencia a GSB 180-LI de modelos brushless. A Bosch informa compatibilidade com baterias **GBA 18V e ProCORE18V** indicadas no manual; antes de comprar, confira o conjunto de bateria e carregador correspondente ao código da oferta. Para conhecer outras alternativas, veja nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}).
+O motor utiliza escovas de carvão substituíveis. Isso permite a substituição desse componente quando necessária, mas implica manutenção diferente da exigida por motores brushless. A ferramenta pertence à plataforma Bosch Professional 18V; confirme no manual e no anúncio a bateria compatível e, principalmente, se o kit escolhido inclui bateria e carregador. Não presuma que todos os anúncios tragam os mesmos acessórios. Para conhecer opções mais recentes, veja também nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
 ## Desempenho e Aplicações
 
@@ -65,7 +67,7 @@ No parafusamento, a embreagem permite limitar o torque aplicado, ajudando a redu
 
 A autonomia depende da capacidade e do estado da bateria, da dureza do material, do diâmetro do acessório e do tempo de acionamento. Por isso, não é confiável prometer uma quantidade exata de furos ou parafusos por carga sem um ensaio documentado. Em trabalhos prolongados, ter uma segunda bateria compatível reduz a interrupção para recarga. O carregador incluído, quando houver, deve ser verificado no anúncio do kit.
 
-A utilização do modo impacto gera ruído e vibração, especialmente em superfícies minerais. Use óculos de proteção, proteção auditiva quando necessária e siga as orientações do manual. Se a broca travar, solte o gatilho e avalie a causa antes de retomar; a função impacto não elimina o torque de reação. Para consultar mais modelos, veja [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}).
+A utilização do modo impacto gera ruído e vibração, especialmente em superfícies minerais. Use óculos de proteção, proteção auditiva quando necessária e siga as orientações do manual. Se a broca travar, solte o gatilho e avalie a causa antes de retomar; a função impacto não elimina o torque de reação. Para consultar mais modelos, veja [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
 
 ## Opinião dos Compradores
 
@@ -87,28 +89,40 @@ As observações abaixo são **critérios de avaliação para quem pesquisa o mo
 - **Variações de kit:** número de baterias, carregador, maleta e acessórios mudam conforme o código comercial.
 - **Custo total:** para quem não possui baterias Bosch Professional 18V, é preciso considerar o investimento no sistema completo.
 
-## Comparativo com Concorrentes
+## Comparativo: Bosch GSB 180-LI ou GSB 185-LI?
 
-A **Makita DHP484Z** é uma alternativa 18V da plataforma LXT com motor brushless e função impacto. Sua principal diferença em relação à GSB 180-LI é a tecnologia do motor e a plataforma de baterias. Comparações de autonomia, aquecimento ou durabilidade exigiriam testes sob as mesmas condições, portanto não atribuímos vantagens numéricas sem esse controle.
+A comparação mais útil para quem considera comprar a GSB 180-LI em 2026 é com a **Bosch GSB 185-LI**, uma alternativa mais recente da linha Professional 18V. A GSB 180-LI utiliza motor com escovas; a GSB 185-LI tem motor brushless, que reduz a manutenção associada à substituição de escovas e pode oferecer maior eficiência por carga, conforme as condições de uso.
 
-A **DeWalt DCD796** também é uma furadeira e parafusadeira de impacto com motor brushless, da plataforma 20V MAX. É uma opção para quem prioriza essa tecnologia ou já possui baterias DeWalt compatíveis. Antes de comparar preços, verifique se cada anúncio oferece somente a ferramenta ou inclui baterias, carregador e maleta.
+As duas são furadeiras/parafusadeiras de impacto 18V, com duas velocidades, mandril de 13 mm e até 27.000 impactos por minuto. A GSB 180-LI informa torque de **54 Nm em junta rígida e 21 Nm em junta flexível**. Para a GSB 185-LI, a página brasileira da Bosch informa **50 Nm em junta rígida e 21 Nm em junta flexível**, além de peso de aproximadamente 0,89 kg sem bateria. Portanto, não escolha apenas pelo maior número de torque: considere a tecnologia do motor, o tamanho, o estado do produto e o preço do kit.
+
+A GSB 185-LI também é mais compacta, com comprimento de cabeça de 177 mm indicado no catálogo Bosch, enquanto a GSB 180-LI aparece com 210 mm. Isso pode favorecer o trabalho em espaços estreitos. Em contrapartida, se encontrar uma GSB 180-LI em bom estado, com procedência e preço significativamente menor, ela ainda pode atender a tarefas domésticas e de manutenção dentro dos limites técnicos.
+
+**Atenção à compra:** a GSB 180-LI pode aparecer em anúncios de estoque antigo, ferramenta avulsa ou kit. Verifique se o produto é novo, usado ou recondicionado, o código completo, a garantia oferecida pelo vendedor e os itens incluídos. Não trate a GSB 185-LI como substituição automática do anúncio da GSB 180-LI.
 
 <table class="specs-table" style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr style="background-color: #0f172a; color: #ffffff;">
-      <th colspan="3" style="padding: 12px; text-align: left;">Comparativo com Concorrentes</th>
+      <th colspan="3" style="padding: 12px; text-align: left;">Bosch GSB 180-LI x Bosch GSB 185-LI</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Bosch GSB 180-LI</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">18V / 54 Nm rígido / 0–1.900 rpm / motor com escovas</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Impacto, LED e plataforma Bosch Professional 18V</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Makita DHP484Z</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">18V LXT / motor brushless / função impacto</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa para quem utiliza baterias Makita LXT</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD796</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">20V MAX / motor brushless / função impacto</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa para quem utiliza baterias DeWalt compatíveis</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Motor</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">GSB 180-LI: com escovas</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">GSB 185-LI: brushless</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Torque (rígido / flexível)</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">54 / 21 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">50 / 21 Nm</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Rotação</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">0–500 / 0–1.900 rpm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">0–500 / 0–1.900 rpm</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Impactos</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Até 27.000 ipm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Até 27.000 ipm</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Mandril</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">1,5–13 mm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">1,5–13 mm</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Peso sem bateria</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Varia conforme a configuração; consulte o manual</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Aproximadamente 0,89 kg</td></tr>
+    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Posicionamento</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Modelo legado; avaliar preço e condição</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa mais recente e compacta</td></tr>
   </tbody>
 </table>
 
-O melhor custo-benefício depende do preço do kit e das baterias que você já possui. Se quiser ampliar a comparação, consulte [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}).
+Se quiser ampliar a pesquisa, consulte [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}) e compare o custo total dos kits, não apenas o preço da ferramenta avulsa.
 
 ## Perguntas Frequentes
+
+### A Bosch GSB 180-LI ainda vale a pena em 2026?
+
+Pode valer a pena se estiver em boas condições, tiver procedência e for oferecida por um preço competitivo. Como é um modelo legado, confira cuidadosamente a disponibilidade de peças, a garantia e se o anúncio corresponde à ferramenta e ao kit descritos. Para comprar uma ferramenta nova e mais atual, compare também a GSB 185-LI.
 
 ### Para quem a Bosch GSB 180-LI é indicada?
 
@@ -130,13 +144,15 @@ Não diretamente. O equipamento usa mandril de aperto rápido de 1,5 a 13 mm par
 
 Depende da versão comercializada. Existem configurações com duas baterias de 2,0 Ah, carregador GAL 18V-20 e maleta, mas outros anúncios podem apresentar conteúdos diferentes. Confira o código exato e a lista de itens incluídos antes da compra.
 
-## Veredito Final e Recomendação de Compra
+## Veredito Final: a GSB 180-LI ainda é uma boa compra?
 
-A **Bosch GSB 180-LI** é uma opção consistente para quem procura uma ferramenta 18V versátil para parafusar e realizar perfurações em diferentes materiais. Seus pontos favoráveis são o torque de 54 Nm em junta rígida, as duas velocidades, a função impacto, o LED e a integração com o sistema Bosch Professional 18V. O motor com escovas não impede o uso profissional, mas deve ser considerado por quem busca menor necessidade de manutenção.
+A **Bosch GSB 180-LI continua sendo uma ferramenta capaz para montagem, manutenção e perfurações ocasionais**, desde que esteja em boas condições e seja utilizada dentro dos limites indicados pelo fabricante. Seus pontos positivos são a função impacto, duas velocidades, mandril de 13 mm, LED e compatibilidade com a plataforma Bosch Professional 18V. O motor com escovas, porém, a coloca em uma posição diferente das opções brushless mais recentes.
 
-Para profissionais de manutenção e instaladores que alternam entre parafusos, madeira, metal e alvenaria leve, a GSB 180-LI pode atender bem, desde que respeitados os limites de perfuração. Para quem já tem baterias Bosch Professional 18V compatíveis, a versão sem bateria pode fazer sentido. Quem está começando deve comparar o preço total dos kits e verificar quais acessórios realmente acompanham a ferramenta.
+Em 2026, recomendamos tratá-la como uma alternativa de estoque legado, não como primeira escolha automática. Se o preço estiver próximo ao de uma GSB 185-LI nova, a versão mais recente tende a ser a compra mais interessante para quem valoriza motor brushless, formato mais compacto e garantia de um produto novo. Se a GSB 180-LI estiver significativamente mais barata, confirme estado, procedência, garantia, código do kit e disponibilidade de assistência antes de decidir.
 
-**Recomendação:** considere a GSB 180-LI se você valoriza versatilidade e compatibilidade com a plataforma Bosch 18V. Prefira uma alternativa brushless se essa tecnologia for prioridade e um martelete SDS-plus se a rotina envolver concreto resistente. A nota editorial de 8,7/10 expressa essa avaliação de características e adequação de uso, sem alegar testes próprios de torque, autonomia ou durabilidade.
+**Recomendação:** compre a GSB 180-LI somente quando a condição e o preço justificarem a escolha. Para uma compra nova, compare diretamente com a GSB 185-LI. Para concreto resistente e perfurações frequentes, considere um martelete SDS-plus. A nota editorial de 8,7/10 avalia as características do modelo em sua categoria, não sua competitividade atual frente a todos os preços e ofertas.
+
+**Fontes técnicas:** [Manual Bosch GSB 180-LI (PDF)](https://www.bosch-professional.com/binary/manualsmedia/o484974v21_160992AA08_202410.pdf), [Bosch Professional Brasil — GSB 185-LI](https://www.bosch-professional.com/br/pt/products/gsb-185-li-06019K31E3) e [Catálogo Bosch Brasil 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_7_pt_-_facility_-_web.pdf).
 
 {% include produto-card.html %}
 

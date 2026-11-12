@@ -26,7 +26,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Bosch GSR 120-LI** é uma opção de furadeira e parafusadeira a bateria para quem monta móveis, instala dobradiças, fixa prateleiras ou faz reparos em casa. 
+A **Bosch GSR 120-LI Professional** é uma furadeira e parafusadeira a bateria de 12V, sem mecanismo de impacto, indicada para montagem de móveis, instalação de dobradiças, fixação de prateleiras e manutenção leve. Seu conjunto combina duas velocidades, mandril de aperto rápido de até 10 mm e 20+1 posições de ajuste. Neste review, explicamos o que esses recursos significam na prática e em quais situações vale escolher outro tipo de ferramenta. 
 
 Para uma escolha mais ampla, consulte nosso [guia para comprar a primeira parafusadeira]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e a [página de reviews]({{ '/reviews/' | relative_url }}).
 
@@ -40,23 +40,23 @@ Para uma escolha mais ampla, consulte nosso [guia para comprar a primeira parafu
 
 ## Construção e Ergonomia
 
-O anel com 20+1 posições e a proteção eletrônica das células são argumentos relevantes para quem alterna parafusamento e perfuração leve. O conjunto de 12 volts privilegia dimensões menores que as de muitas ferramentas de 18 volts, o que facilita aproximar a ponta de uma dobradiça ou trabalhar dentro de armários. Isso não significa que qualquer espaço será acessível: o comprimento do mandril e da broca continua determinando a folga necessária.
+O anel com **20+1 posições** permite ajustar o limite de aperto para diferentes parafusos e materiais; a posição adicional é destinada à perfuração. A proteção eletrônica ECP (Electronic Cell Protection) ajuda a proteger a bateria contra condições de uso prejudiciais, conforme o sistema Bosch. A plataforma de 12V favorece um conjunto compacto em comparação com muitas ferramentas de 18V, embora o acesso a cantos continue dependendo do comprimento do mandril, da broca e do espaço disponível.
 
-O peso divulgado é **0,8 kg sem bateria**. A comparação entre marcas exige cuidado porque algumas fichas incluem a bateria e outras apresentam a máquina sem ela. Uma bateria de maior capacidade também muda o equilíbrio na mão. Para trabalhos acima da cabeça, a vantagem prática não é apenas reduzir gramas, mas conseguir manter o eixo do parafuso alinhado sem forçar o punho.
+O peso cadastrado é de aproximadamente **0,8 kg sem bateria**. Portanto, o conjunto pronto para uso será mais pesado. Compare esse número apenas com ferramentas avaliadas na mesma condição: algumas fichas informam o peso do corpo, enquanto outras incluem a bateria. A capacidade da bateria também pode alterar o equilíbrio na mão, especialmente em trabalhos acima da cabeça ou durante longos períodos de montagem.
 
 O mandril de aperto rápido aceita acessórios de **0,8 a 10 mm**. Ele dispensa chave de mandril e permite alternar entre brocas e porta-bits, mas exige aperto correto antes do uso. Brocas empenadas, ponteiras gastas ou adaptadores longos prejudicam a precisão e podem aumentar a sensação de vibração. Para marcenaria, uma ponteira adequada ao encaixe do parafuso costuma fazer mais diferença no acabamento que pequenas diferenças de torque máximo.
 
-A configuração oficial 06019G80E1 inclui uma bateria GBA 12V de 2,0 Ah, carregador GAL 12V-20 e maleta; outras ofertas podem ser diferentes. Antes de comprar, compare o código completo do anúncio com o conteúdo da caixa: ferramenta avulsa, uma bateria e duas baterias são ofertas economicamente diferentes. Não presuma que fotos ilustrativas garantem acessórios incluídos.
+O kit de referência **06019G80E1** é cadastrado com **uma bateria GBA 12V de 2,0 Ah, carregador GAL 12V-20 e maleta**. Essa composição não deve ser presumida em todos os anúncios: podem existir ofertas de corpo avulso ou kits diferentes. Antes de comprar, confira o código completo, a quantidade e a capacidade das baterias, o carregador e a maleta na lista de itens incluídos. Fotografias ilustrativas, sozinhas, não comprovam o conteúdo da embalagem.
 
 ## Desempenho e Aplicações
 
 ### Torque e duas velocidades: o que significam
 
-A ficha técnica indica **30/14 Nm** em aplicações dura e suave, respectivamente. Esses números representam condições distintas de medição; não são uma força constante disponível em todos os materiais. Em MDF, por exemplo, o objetivo não é alcançar 30 Nm: é limitar o aperto para não esmagar a superfície, espanar a rosca ou atravessar a chapa. A escolha da embreagem e o controle do gatilho são mais importantes que usar a regulagem máxima.
+A ficha técnica cadastrada informa **30 Nm em junta rígida e 14 Nm em junta flexível**. São condições distintas de medição, não uma força constante disponível em qualquer material. Em MDF, o objetivo não é usar o torque máximo: comece com uma regulagem baixa e aumente gradualmente até o parafuso assentar sem esmagar a chapa ou danificar a rosca. Em MDF, por exemplo, o objetivo não é alcançar 30 Nm: é limitar o aperto para não esmagar a superfície, espanar a rosca ou atravessar a chapa. A escolha da embreagem e o controle do gatilho são mais importantes que usar a regulagem máxima.
 
-As rotações sem carga são **0–400 e 0–1.500 rpm**, nas marchas baixa e alta. A primeira favorece iniciar parafusos e concluir apertos com cuidado. A segunda é útil para furos leves quando o diâmetro da broca e o material permitem maior velocidade. Como os valores são medidos sem carga, a rotação efetiva cai conforme aumenta a resistência. Pressionar demais não substitui broca afiada nem melhora automaticamente a qualidade do furo.
+As rotações sem carga são **0–400 rpm na primeira marcha e 0–1.500 rpm na segunda**. A primeira favorece iniciar parafusos e concluir apertos com cuidado. A segunda é útil para furos leves quando o diâmetro da broca e o material permitem maior velocidade. Como os valores são medidos sem carga, a rotação efetiva cai conforme aumenta a resistência. Pressionar demais não substitui broca afiada nem melhora automaticamente a qualidade do furo.
 
-O fabricante declara capacidade de perfuração de **20 mm em madeira e 10 mm em aço**. Trata-se de limite de referência, não de recomendação para trabalhar continuamente no máximo. Em madeira dura, chapas espessas ou metal, a qualidade da broca, a fixação da peça e o ritmo de avanço influenciam bastante o resultado. Faça pré-furo quando necessário e use proteção ocular, sobretudo em perfurações que produzam cavacos.
+A capacidade de perfuração cadastrada é de **até 20 mm em madeira e 10 mm em aço**. Esses limites dependem do acessório adequado, da fixação da peça e das condições de trabalho; não significam que seja recomendável perfurar continuamente no diâmetro máximo. Trata-se de limite de referência, não de recomendação para trabalhar continuamente no máximo. Em madeira dura, chapas espessas ou metal, a qualidade da broca, a fixação da peça e o ritmo de avanço influenciam bastante o resultado. Faça pré-furo quando necessário e use proteção ocular, sobretudo em perfurações que produzam cavacos.
 
 ### Montagem de móveis e MDF
 
@@ -66,7 +66,7 @@ Na montagem de móveis desmontáveis, confira a profundidade do furo e o comprim
 
 ### Bateria e continuidade de trabalho
 
-A ferramenta utiliza **baterias removíveis Bosch Professional 12V**. A capacidade em ampère-hora influencia o tempo de uso, mas não autoriza prometer uma quantidade fixa de parafusos por carga. O resultado muda com a dureza da madeira, tamanho do fixador, temperatura, estado da bateria e pausas entre operações. Em uma rotina de montagem, uma bateria reserva pode valer mais que um pequeno ganho de rotação nominal.
+A ferramenta utiliza **baterias removíveis da plataforma Bosch Professional 12V**. A capacidade em ampère-hora influencia a autonomia, mas não permite prometer uma quantidade fixa de parafusos por carga. O resultado muda conforme o material, o diâmetro e o comprimento dos parafusos, a broca, a temperatura e o estado da bateria. O resultado muda com a dureza da madeira, tamanho do fixador, temperatura, estado da bateria e pausas entre operações. Em uma rotina de montagem, uma bateria reserva pode valer mais que um pequeno ganho de rotação nominal.
 
 ## Opinião dos Compradores: o que observar
 
@@ -88,9 +88,9 @@ Não reproduzimos avaliações de lojas como se fossem verificadas nem atribuím
 
 ## Comparativo com Concorrentes
 
-A **Bosch GSR 12V-15** tem 30/15 Nm e alcança 1.300 rpm na segunda marcha. A **Bosch GSR 120-LI** mantém 30 Nm em junta rígida, informa 14 Nm em junta suave e sobe a 1.500 rpm. A **Makita DF333DWYE** também declara 30/14 Nm, mas chega a 1.700 rpm e, na configuração brasileira DWYE, vem com duas baterias de 1,5 Ah. Esses dados ajudam a diferenciar os modelos, embora maior rotação não signifique necessariamente melhor resultado em qualquer broca.
+A **Bosch GSR 12V-15** é a comparação mais próxima dentro da própria linha: ambas informam 30 Nm em junta rígida e têm duas velocidades, mas a GSR 12V-15 registra 15 Nm em junta flexível e chega a 1.300 rpm na segunda marcha. A GSR 120-LI informa 14 Nm em junta flexível e alcança 1.500 rpm. Já a **Makita DF333DWYE** declara 30/14 Nm, chega a 1.700 rpm e, na configuração brasileira DWYE cadastrada, acompanha duas baterias de 1,5 Ah. Maior rotação não significa automaticamente melhor resultado: a escolha depende do material, do acessório e do tipo de trabalho.
 
-Para quem já possui baterias Bosch Professional 12V, permanecer na plataforma pode reduzir o custo da próxima compra. Quem está começando do zero deve comparar o preço do conjunto completo e não apenas o corpo da ferramenta. A Makita ganha atratividade pelo kit com duas baterias; a escolha entre as duas Bosch depende também do preço, da disponibilidade e da ergonomia percebida pelo comprador.
+Para quem já possui baterias Bosch Professional 12V compatíveis, permanecer na plataforma pode reduzir o custo da próxima compra. Quem está começando do zero deve comparar o preço do kit completo, incluindo bateria e carregador. A Makita DF333DWYE pode chamar atenção pelo kit cadastrado com duas baterias, enquanto a escolha entre as duas Bosch depende também do preço, da composição da oferta e da ergonomia percebida pelo comprador.
 
 A sigla GSR identifica a versão sem impacto. Não confunda com a GSB 120-LI, que tem função de percussão. Se sua prioridade for alcançar parafusos muito próximos das paredes internas de armários, compare modelos com acessórios angulares específicos. Se o trabalho principal for perfuração em alvenaria, considere uma furadeira com impacto ou um martelete apropriado, em vez de tentar compensar a ausência dessa função com força excessiva.
 
@@ -98,9 +98,17 @@ A sigla GSR identifica a versão sem impacto. Não confunda com a GSB 120-LI, qu
 
 Primeiro, marque o centro dos furos e confira o esquadro da peça. Escolha a broca compatível com o fixador e faça um furo piloto quando o projeto pedir. Prenda a peça com grampos, se necessário, e nunca a segure na direção da broca. Uma superfície estável facilita manter a ferramenta perpendicular e reduz o risco de quebrar a borda de painéis finos.
 
+### O que conferir antes de comprar a Bosch GSR 120-LI?
+
+- **Modelo:** confirme que o anúncio é da GSR 120-LI, sem impacto, e não da GSB 120-LI, que possui percussão.
+- **Código do kit:** o conjunto de referência é 06019G80E1; confira se a oferta corresponde a esse código.
+- **Bateria:** verifique se acompanha uma GBA 12V de 2,0 Ah ou outra configuração informada no anúncio.
+- **Acessórios:** confirme a presença do carregador GAL 12V-20 e da maleta, caso sejam importantes para você.
+- **Aplicação:** lembre-se de que o modelo não possui impacto e não é indicado para perfurar concreto ou alvenaria.
+
 ## Vale a Pena Comprar a Bosch GSR 120-LI?
 
-**Sim, para montagem de móveis, instalação de ferragens e manutenção leve**, desde que você entenda suas limitações. O torque divulgado e as duas marchas compõem uma ferramenta versátil para quem alterna parafusos e furos pequenos. A ausência de impacto é uma escolha coerente com esse perfil de uso, mas impede recomendá-la como solução única para paredes de concreto.
+**Sim, para montagem de móveis, instalação de ferragens, pequenos furos em madeira ou aço e manutenção doméstica leve**, desde que o preço e o conteúdo do kit sejam coerentes. Os 30 Nm em junta rígida, as duas marchas e o anel 20+1 atendem a muitas tarefas de montagem. Por outro lado, a GSR 120-LI não possui impacto: não é a escolha adequada para quem precisa perfurar concreto ou alvenaria com frequência. Se essa for sua necessidade, procure uma furadeira de impacto ou um martelete apropriado.
 
 ## Perguntas Frequentes
 
@@ -112,9 +120,13 @@ Sim. A ferramenta oferece duas marchas e torque adequado a muitas fixações de 
 
 Não é indicada para esse serviço. O modelo não possui mecanismo de impacto; para concreto, escolha uma ferramenta com sistema de percussão apropriado ao material e à dimensão do furo.
 
+### Qual é a diferença entre Bosch GSR 120-LI e GSB 120-LI?
+
+A GSR 120-LI é uma furadeira/parafusadeira sem impacto. A GSB 120-LI possui mecanismo de impacto para perfurações ocasionais em alvenaria compatível. Escolha pela tarefa: para móveis e madeira, a GSR pode atender; para furos ocasionais em tijolo ou bloco, a versão GSB é mais apropriada. Nenhuma delas deve ser tratada como substituta automática de um martelete para concreto duro.
+
 ### Posso usar qualquer bateria de 12 volts?
 
-Não. A tensão nominal, sozinha, não garante compatibilidade. Use baterias e carregadores do sistema aprovado pelo fabricante, conferindo os códigos antes de comprar.
+Não. A tensão nominal, sozinha, não garante compatibilidade. Utilize baterias e carregadores Bosch Professional 12V aprovados para o modelo e confira os códigos indicados pelo fabricante antes de comprar.
 
 ## Fontes e Critérios da Análise
 
