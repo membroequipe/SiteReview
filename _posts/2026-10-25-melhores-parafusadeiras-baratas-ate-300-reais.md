@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 Parafusadeiras Baratas de Até R$ 300: Guia 2026"
+title: "3 Melhores Parafusadeiras Baratas até R$ 300"
 description: "Compare parafusadeiras baratas para móveis e reparos: WAP BPF 12K3, WAP WF 12K4.2 e Vonder PFV 012. Veja especificações e cuidados com preços."
 permalink: /melhores-parafusadeiras-baratas-ate-300-reais/
 slug: melhores-parafusadeiras-baratas-ate-r-300
