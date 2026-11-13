@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Black+Decker LD12S: Vale a Pena em 2026? Análise Completa!"
+marca: "Black+Decker"
+modelo: "Black+Decker LD12S"
 description: "Análise da Black+Decker LD12S-BR 12V sem impacto: mandril de 10 mm, velocidade variável, LED e acessórios. Veja aplicações, limites e se vale a pena."
 slug: "review-black-decker-ld12s"
 categories: [furadeiras, reviews]
