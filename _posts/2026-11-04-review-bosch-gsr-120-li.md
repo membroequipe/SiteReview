@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Bosch GSR 120-LI: Vale a Pena para Móveis e MDF?"
+marca: "Bosch"
+modelo: "Bosch GSR 120-LI"
 description: "Review da Bosch GSR 120-LI: torque, bateria, ergonomia, vantagens e limitações para montagem de móveis, MDF e manutenção."
 slug: "review-bosch-gsr-120-li"
 categories: [furadeiras, reviews]
