@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Makita HP332DWYE ainda vale a pena? Conheça a HP333DWYE, a substituta mais fácil de encontrar
+title: Makita HP332DWYE ainda vale a pena? Conheça sua substituta
+marca: "Makita"
+modelo: "Makita HP332DWYE"
 description: 'Procura a Makita HP332DWYE e não encontra? Veja por que a HP333DWYE é uma alternativa 12V CXT, compare ficha técnica, kit, diferenças e cuidados antes de comprar.'
 slug: review-makita-hp332dwye
 categories:
