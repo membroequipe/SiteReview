@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Vonder PFV 012: Review - Vale a Pena?'
+marca: "Vonder"
+modelo: "Vonder PFV 012"
 description: 'Análise da Vonder PFV 012: especificações oficiais, aplicações, vantagens, limitações e comparação
   para decidir a compra.'
 slug: review-vonder-pfv-012
