@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Makita HP2050: Vale a Pena para Concreto?"
+marca: "Makita"
+modelo: "Makita HP2050"
 description: "Review Makita HP2050: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
 slug: "review-makita-hp2050"
 categories: [furadeiras, reviews]
