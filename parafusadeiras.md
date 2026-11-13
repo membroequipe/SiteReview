@@ -28,7 +28,7 @@ permalink: /parafusadeiras/
     <p>Explore nossos artigos detalhados com testes práticos para decidir qual modelo levar para casa:</p>
     
     <div class="reviews-grid" style="margin-top: 1.5rem;">
-      {% assign parafusadeiras_posts = site.posts | where_exp: "post", "post.category == 'parafusadeiras' or post.categories contains 'parafusadeiras'" %}
+      {% assign parafusadeiras_posts = site.posts | where_exp: "post", "post.category == 'parafusadeiras' or post.categories contains 'parafusadeiras'" | uniq %}
       
       {% if parafusadeiras_posts.size > 0 %}
         {% for post in parafusadeiras_posts %}
