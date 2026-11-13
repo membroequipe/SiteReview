@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bosch GSB 18V-21 é Boa? Review Completo, Ficha Técnica e Vale a Pena em 2026
+marca: "Bosch"
+modelo: "Bosch GSB 18V-21"
 description: 'Review da Bosch GSB 18V-21: desempenho em MDF, ergonomia, bateria, ficha técnica, vantagens, limitações e para quem vale a pena comprar.'
 slug: review-bosch-gsb-18v-21
 categories:
