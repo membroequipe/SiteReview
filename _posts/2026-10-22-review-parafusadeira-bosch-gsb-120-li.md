@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Bosch GSB 120-LI: review da furadeira 12V"
+marca: "Bosch"
+modelo: "Bosch GSB 120-LI"
 description: "Review da Bosch GSB 120-LI: torque de 30 Nm, impacto, bateria 12V, limites de perfuração e comparação técnica com Makita e DeWalt."
 slug: "review-bosch-gsb-120-li"
 categories: [furadeiras, reviews]
