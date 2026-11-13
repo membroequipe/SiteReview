@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'WAP BPF 12K3: Review Completo, Ficha Técnica e Vale a Pena?'
+marca: "WAP"
+modelo: "WAP BPF 12K3"
 description: 'Análise da WAP BPF 12K3: especificações oficiais, aplicações, vantagens, limitações e comparação para
   decidir a compra.'
 slug: review-wap-bpf-12k3
