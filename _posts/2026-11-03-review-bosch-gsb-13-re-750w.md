@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GSB 13 RE 750 W: Vale a Pena para Concreto?"
+title: "Bosch GSB 13 RE 750 W é boa? Análise completa"
 marca: "Bosch"
 modelo: "Bosch GSB 13 RE 750 W"
 description: "Review Bosch GSB 13 RE 750 W: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
