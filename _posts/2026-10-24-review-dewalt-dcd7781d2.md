@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review DeWalt DCD7781D2: Vale a Pena em 2026?"
+title: "DeWalt DCD7781D2 é boa? Análise e ficha técnica"
 marca: "DeWalt"
 modelo: "DeWalt DCD7781D2"
 description: "Análise da DeWalt DCD7781D2: furadeira de impacto brushless 20V, 65 Nm, mandril de 13 mm, kit e limitações. Veja se vale a pena."
