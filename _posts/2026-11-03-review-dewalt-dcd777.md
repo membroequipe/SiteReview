@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review DeWalt DCD777: Vale a Pena para Móveis e MDF?"
+marca: "DeWalt"
+modelo: "DeWalt DCD777"
 description: "Análise da DeWalt DCD777: especificações oficiais, controle de torque, vantagens, limitações e uso na montagem de móveis e MDF."
 slug: "review-dewalt-dcd777"
 categories: [furadeiras, reviews]
