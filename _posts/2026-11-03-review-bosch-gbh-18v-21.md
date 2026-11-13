@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Bosch GBH 18V-21: Vale a Pena para Concreto?"
+marca: "Bosch"
+modelo: "Bosch GBH 18V-21"
 description: "Review Bosch GBH 18V-21: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
 slug: "review-bosch-gbh-18v-21"
 categories: [marteletes, reviews]
