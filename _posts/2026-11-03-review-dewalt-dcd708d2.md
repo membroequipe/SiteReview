@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeWalt DCD708D2 é Boa? Review Completo, Ficha Técnica e Vale a Pena em 2026
+title: DeWalt DCD708D2 é boa? Análise e ficha técnica
 marca: "DeWalt"
 modelo: "DeWalt DCD708D2"
 description: 'Review da DeWalt DCD708D2: desempenho em MDF, ergonomia, bateria, ficha técnica, vantagens, limitações e para quem vale a pena comprar.'
