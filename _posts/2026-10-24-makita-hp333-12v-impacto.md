@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Makita HP333: Vale a Pena em 2026? Análise Completa!"
+marca: "Makita"
+modelo: "Makita HP333"
 description: "Review da Makita HP333 12V CXT: torque máximo de 34 Nm, motor com escovas, mandril de 10 mm e impacto. Confira vantagens, limites e kits."
 slug: "review-makita-hp333-12v-impacto"
 categories: [furadeiras, reviews]
