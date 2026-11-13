@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Bosch GBH 2-21: Vale a Pena para Concreto?"
+marca: "Bosch"
+modelo: "Bosch GBH 2-21"
 description: "Review Bosch GBH 2-21: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
 slug: "review-bosch-gbh-2-21"
 categories: [furadeiras, reviews]
