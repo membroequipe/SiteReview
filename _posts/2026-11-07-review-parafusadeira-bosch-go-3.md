@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bosch GO 3 é Boa? Review da Parafusadeira 3,6V"
+title: "Bosch GO 3 é boa? Análise da parafusadeira 3,6V"
 marca: "Bosch"
 modelo: "Bosch GO 3"
 description: "Review da Bosch GO 3: torque de 5 Nm, bateria 2,0 Ah, USB-C e 7 ajustes. Veja para que serve, limitações e se vale a pena comprar."
