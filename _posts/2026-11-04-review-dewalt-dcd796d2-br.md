@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review DeWalt DCD796D2-BR: Vale a Pena em 2026?"
+marca: "DeWalt"
+modelo: "DeWalt DCD796D2-BR"
 description: "DeWalt DCD796D2-BR vale a pena? Veja torque de 70 Nm, motor brushless, kit com duas baterias, desempenho, vantagens e limitações."
 slug: "review-dewalt-dcd796d2-br"
 categories: [furadeiras, reviews]
