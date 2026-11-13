@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wesco WS2001 é Boa? Review da Parafusadeira 3,6V"
+title: "Wesco WS2001 é boa? Análise da parafusadeira 3,6V"
 marca: "Wesco"
 modelo: "Wesco WS2001 3,6V"
 description: "Review da Wesco WS2001 3,6V: torque de 5 Nm, bateria integrada de 1,5 Ah, USB-C, 300 rpm e kit de bits. Veja limites, preço e se vale a pena."
