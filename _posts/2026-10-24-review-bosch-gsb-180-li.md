@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GSB 180-LI: Vale a Pena em 2026? Análise Completa"
+title: "Bosch GSB 180-LI é boa? Análise e ficha técnica"
 marca: "Bosch"
 modelo: "Bosch GSB 180-LI"
 description: "Review da Bosch GSB 180-LI 18V: torque de 54 Nm, impacto, mandril de 13 mm, LED e compatibilidade com baterias Professional. Veja prós e contras."
