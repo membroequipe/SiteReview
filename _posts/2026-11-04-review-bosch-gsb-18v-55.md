@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GSB 18V-55 Professional: Vale a Pena em 2026?"
+title: "Bosch GSB 18V-55 é boa? Análise completa"
 marca: "Bosch"
 modelo: "Bosch GSB 18V-55"
 description: "Bosch GSB 18V-55 vale a pena? Confira torque de 55 Nm, motor brushless, mandril metálico de 13 mm, vantagens e limitações."
