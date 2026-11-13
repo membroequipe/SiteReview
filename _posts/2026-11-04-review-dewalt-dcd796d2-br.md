@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review DeWalt DCD796D2-BR: Vale a Pena em 2026?"
+title: "DeWalt DCD796D2-BR é boa? Análise completa"
 marca: "DeWalt"
 modelo: "DeWalt DCD796D2-BR"
 description: "DeWalt DCD796D2-BR vale a pena? Veja torque de 70 Nm, motor brushless, kit com duas baterias, desempenho, vantagens e limitações."
