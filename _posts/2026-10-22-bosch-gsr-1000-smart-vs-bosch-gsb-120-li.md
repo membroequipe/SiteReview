@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bosch GSR 1000 Smart vs Bosch GSB 120-LI: Qual Vale Mais a Pena em 2026?"
+title: "Bosch GSR 1000 Smart vs. GSB 120-LI: Qual Escolher?"
 description: "Comparativo completo entre a Bosch GSR 1000 Smart e a GSB 120-LI: torque, função de impacto, baterias e veredito para cada tipo de uso."
 slug: "bosch-gsr-1000-smart-vs-bosch-gsb-120-li"
 category: comparativos
