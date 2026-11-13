@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Makita DHP485Z: Vale a Pena em 2026? Análise Completa"
+modelo: "Makita DHP485Z"
+marca: "Makita"
 description: "Makita DHP485Z vale a pena? Veja torque de 60 Nm, motor brushless, função impacto, desempenho, vantagens e limitações desta furadeira 18V."
 slug: "review-makita-dhp485z"
 categories: [furadeiras, reviews]
