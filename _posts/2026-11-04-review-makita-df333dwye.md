@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Makita DF333DWYE: Vale a Pena para Móveis e MDF?"
+title: "Makita DF333DWYE é boa? Análise e características"
 marca: "Makita"
 modelo: "Makita DF333DWYE"
 description: "Review da Makita DF333DWYE: torque, bateria, ergonomia, vantagens e limitações para montagem de móveis, MDF e manutenção."
