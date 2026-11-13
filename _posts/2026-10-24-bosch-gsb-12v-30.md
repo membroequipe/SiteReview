@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Bosch GSB 12V-30 (12V Brushless): Vale a Pena em 2026? Análise Completa!"
+marca: "Bosch"
+modelo: "Bosch GSB 12V-30"
 description: "Review da Bosch GSB 12V-30 Brushless: torque de 30 Nm, até 1.600 rpm, função impacto e baterias Bosch Professional 12V. Veja vantagens, limitações e aplicações."
 slug: "review-bosch-gsb-12v-30-brushless"
 categories: [furadeiras, reviews]
