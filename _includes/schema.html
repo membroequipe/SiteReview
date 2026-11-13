@@ -4,12 +4,12 @@
 {
   "@context": "https://schema.org/",
   "@type": "Product",
-  "name": "{{ page.title }}",
+  "name": "{{ page.modelo | default: page.title }}",
   "image": "{{ page.image | absolute_url }}",
   "description": "{{ page.description }}",
   "brand": {
     "@type": "Brand",
-    "name": "Makita"
+    "name": "{{ page.marca | default: 'Genérica' }}"
   },
   "review": {
     "@type": "Review",
