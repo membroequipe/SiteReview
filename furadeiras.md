@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Guia Completo de Furadeiras"
-description: "Descubra os modelos ideais para perfuração em alvenaria, concreto e superfícies rígidas com segurança e eficiência."
+title: "Furadeiras: Reviews, Comparativos e Guia de Compra"
+description: "Confira reviews de furadeiras, compare marcas e modelos e descubra qual ferramenta escolher para trabalhos em madeira, metal, alvenaria e concreto."
 permalink: /furadeiras/
 ---
 
@@ -20,7 +20,7 @@ permalink: /furadeiras/
 <div class="site-content">
   <div class="post-content">
 
-    <h1>Furadeiras: encontre o modelo ideal</h1>
+    <h1>Furadeiras: Conheça os Modelos e Escolha a Ideal</h1>
     <p>Compare furadeiras e entenda quais características e potências importam para cada tipo de perfuração, seja em alvenaria, madeira ou metal.</p>
 
     <!-- VITRINE DINÂMICA DE ARTIGOS E COMPARATIVOS -->
