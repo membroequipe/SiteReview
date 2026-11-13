@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review DeWalt DCD716D2: Vale a Pena em 2026?"
+marca: "DeWalt"
+modelo: "DeWalt DCD716D2"
 description: "DeWalt DCD716D2 12V: veja torque, mandril de 10 mm, rotação, impacto, vantagens, limitações e o que conferir antes de comprar o kit."
 slug: "review-dewalt-dcd716d2"
 categories: [furadeiras, reviews]
