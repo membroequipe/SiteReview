@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review DeWalt DCD716D2: Vale a Pena em 2026?"
+title: "DeWalt DCD716D2 é boa? Análise completa"
 marca: "DeWalt"
 modelo: "DeWalt DCD716D2"
 description: "DeWalt DCD716D2 12V: veja torque, mandril de 10 mm, rotação, impacto, vantagens, limitações e o que conferir antes de comprar o kit."
