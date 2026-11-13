@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Makita TD110D é Boa? Review da Parafusadeira de Impacto 12V"
+title: "Makita TD110D é boa? Análise da parafusadeira de impacto"
 marca: "Makita"
 modelo: "Makita TD110D 12V"
 description: "Review da Makita TD110D 12V: torque de 110 Nm, encaixe 1/4, até 2.600 rpm e 3.500 ipm. Veja diferenças entre TD110DZ e TD110DWYE e se vale a pena."
