@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DeWalt DCF887 é Boa? Review da Parafusadeira de Impacto 20V"
+title: "DeWalt DCF887 é boa? Análise da parafusadeira de impacto"
 marca: "DeWalt"
 modelo: "DeWalt DCF887 20V XR"
 description: "Review da DeWalt DCF887 20V XR Brushless: torque de até 205 Nm, 3 velocidades, Precision Drive e encaixe 1/4. Veja versões, limites e alternativas."
