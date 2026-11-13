@@ -4,12 +4,12 @@
 {
   "@context": "https://schema.org/",
   "@type": "Product",
-  "name": "{{ page.modelo | default: page.title }}",
+  "name": "{{ page.modelo | default: page.title | escape }}",
   "image": "{{ page.image | absolute_url }}",
-  "description": "{{ page.description }}",
+  "description": "{{ page.description | escape }}",
   "brand": {
     "@type": "Brand",
-    "name": "{{ page.marca | default: 'Genérica' }}"
+    "name": "{{ page.marca | default: 'Genérica' | escape }}"
   },
   "review": {
     "@type": "Review",
@@ -20,7 +20,7 @@
     },
     "author": {
       "@type": "Organization",
-      "name": "{{ page.author | default: 'Equipe de Análises' }}"
+      "name": "{{ page.author | default: 'Equipe de Análises' | escape }}"
     },
     "datePublished": "{{ page.date | date_to_xmlschema }}"
   }
@@ -41,12 +41,12 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "{{ page.categories[0] | capitalize }}",
+    "name": "{{ page.categories[0] | capitalize | escape }}",
     "item": "{{ '/' | append: page.categories[0] | append: '/' | absolute_url }}"
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "{{ page.title }}"
+    "name": "{{ page.title | escape }}"
   }]
 }
 </script>
