@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Bosch GSB 180-LI: Vale a Pena em 2026? Análise Completa"
+marca: "Bosch"
+modelo: "Bosch GSB 180-LI"
 description: "Review da Bosch GSB 180-LI 18V: torque de 54 Nm, impacto, mandril de 13 mm, LED e compatibilidade com baterias Professional. Veja prós e contras."
 slug: "review-bosch-gsb-180-li"
 categories: [furadeiras, reviews]
