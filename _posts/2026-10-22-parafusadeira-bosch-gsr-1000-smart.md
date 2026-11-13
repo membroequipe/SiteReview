@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Parafusadeira Bosch GSR 1000 Smart: Vale a Pena em 2026? Análise Completa!"
+marca: "Bosch"
+modelo: "Bosch GSR 1000 Smart"
 description: "Análise técnica da Parafusadeira Bosch GSR 1000 Smart: torque de 15 Nm, bateria integrada, limitações e indicação de uso. Confira antes de comprar."
 slug: "review-bosch-gsr-1000-smart"
 categories: [parafusadeiras, reviews]
