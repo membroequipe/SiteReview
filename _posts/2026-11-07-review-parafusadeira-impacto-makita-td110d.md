@@ -196,7 +196,7 @@ Antes de comparar preços, confirme:
 
 Se você já possui baterias CXT 12V compatíveis, a ferramenta avulsa pode reduzir o custo. Se ainda não tem a plataforma, compare o kit completo com o custo de adquirir bateria e carregador separadamente. Verifique também se o anúncio não é um combo com outra ferramenta.
 
-<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
+{% include produto-card.html %}
 
 ## Vantagens e limitações
 
