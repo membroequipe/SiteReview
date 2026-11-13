@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GBH 2-21: Vale a Pena para Concreto?"
+title: "RBosch GBH 2-21 é boa? Análise do Martelete SDS-Plus"
 marca: "Bosch"
 modelo: "Bosch GBH 2-21"
 description: "Review Bosch GBH 2-21: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
