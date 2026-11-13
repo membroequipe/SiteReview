@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GSB 18V-50: Vale a Pena em 2026?"
+title: "Bosch GSB 18V-50 é boa? Análise e ficha técnica"
 marca: "Bosch"
 modelo: "Bosch GSB 18V-50"
 description: "Bosch GSB 18V-50: motor brushless, 50 Nm, mandril metálico de 13 mm e impacto. Veja vantagens, limitações e para quem vale a pena."
