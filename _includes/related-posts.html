@@ -1,0 +1,17 @@
+<section class="related-posts" style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #eaeaea;">
+  <h3>Outros reviews recomendados em {{ page.categories[0] | capitalize }}</h3>
+  <ul>
+    {% assign max_posts = 3 %}
+    {% assign current_slug = page.slug %}
+    {% assign count = 0 %}
+    
+    {% for post in site.posts %}
+      {% if post.categories contains page.categories[0] and post.slug != current_slug and count < max_posts %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
