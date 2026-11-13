@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primeira Parafusadeira: Qual Comprar em 2026? Guia para Iniciantes"
+title: "Primeira Parafusadeira: Qual Comprar? Guia para Iniciantes"
 description: "Saiba qual primeira parafusadeira comprar em 2026. Compare Bosch GSR 1000 Smart, Bosch GSR 120-LI e Makita DF333DWYE para móveis e reparos."
 date: 2026-10-26
 categories: [guias]
