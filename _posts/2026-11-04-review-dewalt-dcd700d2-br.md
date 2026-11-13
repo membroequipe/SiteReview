@@ -202,7 +202,7 @@ Essa informação confirma a presença da DCD700 nessa configuração combinada,
 
 Não presuma que um anúncio com o sufixo D2 inclua duas baterias. Confira o código gravado na ferramenta, a etiqueta da embalagem e a lista de componentes fornecida pelo vendedor. Se o código anunciado não corresponder à documentação, não considere as especificações ou os acessórios de outra variante como equivalentes.
 
-Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) e os [reviews de furadeiras e parafusadeiras]({{ '/reviews/' | relative_url }}).
+Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e os [reviews de furadeiras e parafusadeiras]({{ '/reviews/' | relative_url }}).
 
 ## Opinião dos Compradores
 
