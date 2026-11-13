@@ -250,7 +250,7 @@ Já usuários que necessitam de torque significativamente maior devem avaliar a 
 
 Os valores de torque são especificações divulgadas pelos fabricantes e não representam resultados de um teste padronizado realizado por nossa equipe.
 
-Para conhecer outras alternativas, consulte nosso [comparativo de melhores furadeiras e parafusadeiras de 2026]({{ '/qual-a-melhor-furadeira/' | relative_url }}).
+Para conhecer outras alternativas, consulte nosso [comparativo de melhores furadeiras e parafusadeiras de 2026]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
 ## Perguntas Frequentes
 
