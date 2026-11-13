@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Black+Decker BCD704C1-BR: Vale a Pena? Análise Completa"
+modelo: "Black+Decker BCD704C1-BR"
+marca: "Back+Decker"
 description: "Conheça a Black+Decker BCD704C1-BR: furadeira de impacto 20V MAX, torque de 45 Nm, mandril de 10 mm e limites de uso." 
 slug: "review-black-decker-bcd704c1"
 categories: [furadeiras, reviews]
