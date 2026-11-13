@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Makita DF332D: Vale a Pena para Móveis e MDF?"
+marca: "Makita"
+modelo: "Makita DF332D"
 description: "Análise da Makita DF332D: especificações oficiais, controle de torque, vantagens, limitações e uso na montagem de móveis e MDF."
 slug: "review-makita-df332d"
 categories: [furadeiras, reviews]
