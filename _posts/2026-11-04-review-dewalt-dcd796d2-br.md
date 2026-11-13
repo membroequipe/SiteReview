@@ -251,7 +251,7 @@ Anúncios de ferramentas avulsas ou kits diferentes podem apresentar acessórios
 
 Também vale conferir a procedência das baterias, as condições de garantia e a assistência técnica disponível.
 
-Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}).
+Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
 ## Opinião dos Compradores
 
