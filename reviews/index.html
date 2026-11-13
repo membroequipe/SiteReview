@@ -224,11 +224,11 @@ permalink: /reviews/
     <a href="{{ '/guias/' | relative_url }}">Consultar guias de compra</a>
   </nav>
 
-  {% assign reviews_posts = site.posts | where_exp: "post", "post.categories contains 'reviews'" %}
+  {% assign reviews_posts = site.posts | where_exp: "post", "post.categories contains 'reviews'" | uniq %}
 
-  {% assign furadeiras_reviews = reviews_posts | where_exp: "post", "post.categories contains 'furadeiras'" %}
+  {% assign furadeiras_reviews = reviews_posts | where_exp: "post", "post.categories contains 'furadeiras'" | uniq %}
 
-  {% assign parafusadeiras_reviews = reviews_posts | where_exp: "post", "post.categories contains 'parafusadeiras'" %}
+  {% assign parafusadeiras_reviews = reviews_posts | where_exp: "post", "post.categories contains 'parafusadeiras'" | uniq %}
 
   {% if furadeiras_reviews.size > 0 %}
 
