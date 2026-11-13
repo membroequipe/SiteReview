@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review Bosch GSR 12V-15: Vale a Pena para Móveis e MDF?"
+marca: "Bosch"
+modelo: "Bosch GSR 12V-15"
 description: "Bosch GSR 12V-15 vale a pena? Veja torque, desempenho em MDF e diferenças para a GSR 12V-15 FC FlexiClick."
 slug: "review-bosch-gsr-12v-15"
 categories: [furadeiras, reviews]
