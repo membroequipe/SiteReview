@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GSR 12V-15 FC: Vale a Pena para Móveis e MDF?"
+title: "Bosch GSR 12V-15 FC: análise e ficha técnica"
 marca: "Bosch"
 modelo: "Bosch GSR 12V-15 FC"
 description: "Análise da Bosch GSR 12V-15 FC: especificações oficiais, controle de torque, vantagens, limitações e uso na montagem de móveis e MDF."
