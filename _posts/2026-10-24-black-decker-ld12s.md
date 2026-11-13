@@ -29,7 +29,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A Black+Decker LD12S surge como uma das opções mais acessíveis no segmento de parafusadeiras e furadeiras a bateria de 12V, posicionada estrategicamente para atender o usuário doméstico que busca uma ferramenta leve, compacta e suficiente para reparos cotidianos e montagem de móveis. Se você procura uma ferramenta para tarefas domésticas sem complicação, vale a pena conhecer também nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) para comparar outras opções.
+A Black+Decker LD12S surge como uma das opções mais acessíveis no segmento de parafusadeiras e furadeiras a bateria de 12V, posicionada estrategicamente para atender o usuário doméstico que busca uma ferramenta leve, compacta e suficiente para reparos cotidianos e montagem de móveis. Se você procura uma ferramenta para tarefas domésticas sem complicação, vale a pena conhecer também nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) para comparar outras opções.
 
 {% include resumo-avaliacao.html %}
 
