@@ -49,7 +49,7 @@ As duas velocidades mecânicas ajudam a adaptar a rotação ao tipo de tarefa. O
 
 O peso de aproximadamente 1,3 kg aparece em materiais comerciais, mas a configuração de medição nem sempre é explicitada. O manual informa cerca de 0,9 kg somente para a ferramenta, sem bateria. Por isso, o peso final depende da bateria instalada e não deve ser confundido com o peso do corpo sem bateria.
 
-Para comparar formatos, capacidades e aplicações, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}). Também vale conferir o conteúdo da embalagem: a página oficial da BCD704C1-BR lista ferramenta, uma bateria 20V, carregador bivolt e bit de ponta dupla. Não indica maleta nessa configuração.
+Para comparar formatos, capacidades e aplicações, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}). Também vale conferir o conteúdo da embalagem: a página oficial da BCD704C1-BR lista ferramenta, uma bateria 20V, carregador bivolt e bit de ponta dupla. Não indica maleta nessa configuração.
 
 ## Desempenho e Aplicações
 
