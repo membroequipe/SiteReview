@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Makita DHP484RTJ: análise e ficha técnica"
+title: "Makita DHP484Z é boa? Análise e ficha técnica"
 marca: "Makita"
 modelo: "Makita DHP484Z"
 description: "Makita DHP484Z vale a pena? Veja torque de 65 Nm, motor brushless, mandril de 13 mm, desempenho e limitações da versão vendida sem bateria e carregador."
