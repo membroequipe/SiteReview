@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Melhores Parafusadeiras Leves 12V para Montagem de Móveis em 2026"
+title: "Melhores Parafusadeiras 12V para Montagem de Móveis"
 description: "Compare três parafusadeiras leves 12V para MDF e montagem de móveis: peso, torque, bateria, ergonomia e diferenças entre os modelos."
 permalink: /melhores-parafusadeiras-leves-12v/
 slug: "melhores-parafusadeiras-leves-12v"
