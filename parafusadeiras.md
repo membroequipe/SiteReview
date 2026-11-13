@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Guia Completo de Parafusadeiras"
-description: "Tudo o que você precisa saber para escolher a parafusadeira ideal para marcenaria, montagem de móveis e uso doméstico."
+title: "Parafusadeiras: Reviews, Comparativos e Guia de Compra"
+description: "Encontre reviews de parafusadeiras, compare modelos de Makita, Bosch, DeWalt e outras marcas e escolha a ferramenta ideal para seu trabalho."
 permalink: /parafusadeiras/
 ---
 
@@ -20,7 +20,7 @@ permalink: /parafusadeiras/
 <div class="site-content">
   <div class="post-content">
 
-    <h1>Parafusadeiras: como escolher a ideal</h1>
+    <h1>Parafusadeiras: Compare Modelos e Escolha a Ideal</h1>
     <p>Encontre análises, comparativos e guias de compra para escolher a parafusadeira certa para o seu tipo de trabalho, garantindo durabilidade e o melhor custo-benefício.</p>
 
     <!-- VITRINE DINÂMICA DE ARTIGOS E COMPARATIVOS -->
