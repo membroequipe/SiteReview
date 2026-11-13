@@ -306,7 +306,7 @@ Quem já possui baterias compatíveis pode encontrar vantagem em adquirir soment
 
 Já quem está começando na plataforma pode preferir um kit completo, dependendo do preço e dos acessórios.
 
-Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}).
+Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
 ## Opinião dos Compradores
 
