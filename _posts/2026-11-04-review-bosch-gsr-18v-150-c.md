@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GSR 18V-150 C: Vale a Pena em 2026?"
+title: "Bosch GSR 18V-150 C é boa? Análise completa"
 marca: "Bosch"
 modelo: "Bosch GSR 18V-150 C"
 description: "Bosch GSR 18V-150 C vale a pena? Veja torque de 150 Nm, motor BITURBO Brushless, KickBack Control, desempenho e limitações."
