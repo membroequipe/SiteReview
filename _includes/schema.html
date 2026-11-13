@@ -51,3 +51,31 @@
 }
 </script>
 {% endif %}
+
+{% if page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ '/' | absolute_url }}#website",
+      "url": "{{ '/' | absolute_url }}",
+      "name": "Sua Melhor Ferramenta",
+      "description": "Guias de escolha, comparativos e reviews técnicos de furadeiras e parafusadeiras.",
+      "inLanguage": "pt-BR"
+    },
+    {
+      "@type": "Organization",
+      "@id": "{{ '/' | absolute_url }}#organization",
+      "name": "Sua Melhor Ferramenta",
+      "url": "{{ '/' | absolute_url }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ '/assets/images/logo.png' | absolute_url }}" 
+      }
+    }
+  ]
+}
+</script>
+{% endif %}
