@@ -219,7 +219,7 @@ Outro cuidado envolve os kits comerciais.
 
 Em mercados nos quais o modelo é comercializado, podem existir apresentações com diferentes baterias e acessórios. Entretanto, a auditoria do cadastro do site não localizou a GSB 18V-55 no catálogo brasileiro consultado em 2026. Assim, não trate kits encontrados em páginas estrangeiras como prova de disponibilidade, garantia ou composição de uma oferta brasileira.
 
-Se você ainda está comparando opções, consulte nosso [guia das melhores furadeiras]({{ '/qual-a-melhor-furadeira/' | relative_url }}) e os [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}).
+Se você ainda está comparando opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e os [outros reviews de furadeiras]({{ '/reviews/' | relative_url }}).
 
 ## Opinião dos Compradores
 
