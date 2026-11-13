@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review DeWalt DCD700: Vale a Pena em 2026? Análise Completa"
+marca: "DeWalt"
+modelo: ""DeWalt DCD700"
 description: "DeWalt DCD700 vale a pena? Confira torque de 24 Nm, mandril de 10 mm, desempenho em madeira e metal, vantagens, limitações e baterias."
 slug: "review-dewalt-dcd700d2-br"
 categories: [furadeiras, reviews]
