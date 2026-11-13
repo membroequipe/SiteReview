@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review Bosch GSR 12V-15: Vale a Pena para Móveis e MDF?"
+title: "Bosch GSR 12V-15 é boa? Análise para móveis e MDF"
 marca: "Bosch"
 modelo: "Bosch GSR 12V-15"
 description: "Bosch GSR 12V-15 vale a pena? Veja torque, desempenho em MDF e diferenças para a GSR 12V-15 FC FlexiClick."
