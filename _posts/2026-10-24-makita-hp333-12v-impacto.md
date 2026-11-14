@@ -80,6 +80,8 @@ Se você quer comparar com outras opções, consulte nosso [guia das melhores fu
 
 Uma alternativa da mesma categoria encontrada no catálogo brasileiro é a **Bosch GSB 12V-30**, furadeira/parafusadeira de impacto 12V com motor brushless. A Bosch informa torque de **30 Nm em junta rígida e 18 Nm em junta flexível**, rotação de **0–420 / 0–1.600 rpm**, até **24.000 impactos por minuto** e capacidade de perfuração de até 8 mm em alvenaria. A Makita HP333 anuncia torque máximo de 34 Nm, 30/14 Nm em juntas rígida/flexível e até 25.500 impactos por minuto. Os valores são especificações dos fabricantes, obtidas por critérios que podem variar; não constituem um teste direto de força entre as ferramentas.
 
+Confira também nosso [review completo da Bosch GSB 12V-30](/furadeiras/reviews/review-bosch-gsb-12v-30-brushless/).
+
 A diferença mais clara está no conjunto: a HP333 oferece 20 níveis de torque e duas velocidades, com motor de 2 polos; a GSB 12V-30 utiliza motor sem escovas. A escolha também depende do sistema de baterias que você já possui, do preço e da composição do kit. Não compre uma ferramenta avulsa supondo que ela venha com bateria ou carregador.
 
 <table class="specs-table" style="width: 100%; border-collapse: collapse;">
