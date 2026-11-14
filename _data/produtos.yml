@@ -1,9 +1,3 @@
-# VERSÃO REVISADA COM ANOTAÇÕES — auditoria editorial e de nomenclatura (Brasil, 2026)
-# As linhas iniciadas por "# ALTERAÇÃO", "# REVISÃO", "# CORREÇÃO" ou "# ALERTA"
-# registram o que foi modificado ou o que ainda exige ação editorial. Comentários não alteram o YAML carregado.
-# Os links de afiliado e caminhos de imagens foram preservados nos cadastros mantidos; valide cada destino/variante antes de publicar.
-# Disponibilidade em catálogo não significa estoque atual. Itens com substituição recomendada, mas não aplicada, foram explicitamente sinalizados.
-
 # REVISÃO: mantido. Modelo BCD704C1-BR consta no catálogo brasileiro; preservar links existentes, mas conferir se cada anúncio corresponde ao kit e à capacidade de bateria descritos.
 black_decker_bcd704c1:
   nome: "Black+Decker BCD704C1-BR"
@@ -11,7 +5,7 @@ black_decker_bcd704c1:
   imagem: "/assets/images/posts/black-decker-bcd704c1.png"
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/12VEcdr"
+    mercadolivre: "https://meli.la/1qC2M6v"
     shopee: "https://s.shopee.com.br/1BkWLrOw6"
   especificacoes:
     - nome: "Modelo"
@@ -103,7 +97,7 @@ stanley_sbd716d2t:
 
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/289RkMr"
+    mercadolivre: "https://meli.la/2yFhMnf"
     shopee: "https://s.shopee.com.br/50aQUKNItu"
 
   especificacoes:
@@ -280,7 +274,7 @@ wap_bpf_12k3:
   imagem: "/assets/images/posts/wap-bpf-12k3.png"
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1CsYaZ7"
+    mercadolivre: "https://meli.la/29VQjAK"
     shopee: "https://s.shopee.com.br/1W0YK1XOde"
   especificacoes:
     - nome: "Modelo"
@@ -503,7 +497,7 @@ dewalt_dcd7781d2:
 
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1S7ycvS"
+    mercadolivre: "https://meli.la/1st9D3w"
     shopee: "https://s.shopee.com.br/1BNhvWehpS"
 
   especificacoes:
@@ -609,7 +603,7 @@ bosch_gsb_18v_50:
 
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1qLbM14"
+    mercadolivre: "https://meli.la/1rNohGN"
     shopee: "https://s.shopee.com.br/AAIWeWPrWt"
 
   especificacoes:
@@ -1032,7 +1026,7 @@ dewalt_dcd777:
 
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1AmLLm5"
+    mercadolivre: "https://meli.la/1m6A6qk"
     shopee: "https://s.shopee.com.br/4Ve9vrYCdH"
 
   especificacoes:
@@ -1083,7 +1077,7 @@ bosch_gsr_12v_15_fc:
   imagem: "/assets/images/posts/bosch-gsr-12v-15-fc.png"
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1qedknH"
+    mercadolivre: "https://meli.la/2uonSte"
     shopee: "https://s.shopee.com.br/2gCVkbKkuI"
   especificacoes:
     - nome: "Categoria"
@@ -1150,7 +1144,7 @@ makita_df332d:
 
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/2A7QPjK"
+    mercadolivre: "https://meli.la/1bUXCdg"
     shopee: ""
 
   especificacoes:
@@ -1210,7 +1204,6 @@ makita_df332d:
       valor: "Motor brushless, corpo compacto de 154 mm e 20 ajustes para parafusamento controlado"
 
 
-# ALTERAÇÃO: mover para categoria MARTELETES SDS-PLUS. É martelete perfurador, não furadeira/parafusadeira convencional.
 bosch_gbh_18v_21:
   nome: "Bosch GBH 18V-21 Professional"
   descricao: "Martelete perfurador e rompedor 18V brushless, com encaixe SDS-Plus, energia de impacto de 2,0 J e três modos de operação."
@@ -1427,7 +1420,7 @@ wap_wf_12k4_2:
   imagem: assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/2sR1enJ"
+    mercadolivre: "https://meli.la/1AyjNfQ"
     shopee: "https://s.shopee.com.br/AKby5TxDIM"
   especificacoes:
   - nome: Tensão e bateria
