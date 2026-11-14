@@ -160,29 +160,19 @@ significa necessariamente que o kit completo ficará mais econômico.
 
 Além das características técnicas, a disponibilidade precisa entrar na
 decisão de compra. Nas buscas realizadas para este review, encontramos
-dificuldade para localizar ofertas consistentes da GSB 18V-21 nova no
-Mercado Livre e na Shopee. A presença do modelo em documentação ou
-páginas de outros mercados não garante que exista estoque regular no
+poucas ofertas consistentes da GSB 18V-21 nova no mercado.
+A presença do modelo em documentação ou páginas de outros mercados não garante que exista estoque regular no
 Brasil.
 
 A Bosch mantém modelos mais recentes em seu catálogo brasileiro de
-furadeiras de impacto a bateria, incluindo a GSB 18V-50 e a GSB 185-LI.
+furadeiras de impacto a bateria, como a GSB 18V-50.
 Isso oferece alternativas atuais dentro da própria linha Professional
 18V, mas não confirma, por si só, que a GSB 18V-21 tenha sido oficialmente
 descontinuada no Brasil. Entretanto, a dificuldade de encontrar a GSB 18V-21
 não deve ser apresentada como confirmação de descontinuação oficial sem
 um comunicado específico do fabricante.
 
-Se você encontrar uma GSB 18V-21 à venda, confira se o anúncio
-corresponde exatamente ao modelo, se o produto é novo, se acompanha os
-acessórios descritos e se há garantia válida no Brasil. Em ofertas de
-unidades usadas, recondicionadas ou importadas, avalie também a condição
-da bateria, a procedência e a assistência disponível.
-
-Caso não encontre uma oferta confiável, não recomendamos comprar um
-produto de outro modelo por meio de um botão identificado como GSB
-18V-21. A alternativa precisa aparecer separadamente, com nome, ficha
-técnica e link próprios.
+{% include produto-card.html id="bosch_gsb_18v_50" %}
 
 ## Opinião dos Compradores: o que observar antes de comprar
 
