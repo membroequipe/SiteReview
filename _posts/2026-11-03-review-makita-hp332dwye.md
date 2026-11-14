@@ -3,7 +3,7 @@ layout: post
 title: "Makita HP332DWYE: análise e ficha técnica"
 marca: "Makita"
 modelo: "Makita HP332DWYE"
-description: 'Procura a Makita HP332DWYE e não encontra? Veja por que a HP333DWYE é uma alternativa 12V CXT, compare ficha técnica, kit, diferenças e cuidados antes de comprar.'
+description: 'Conheça a Makita HP332DWYE, suas características, especificações e diferenças em relação à HP333DWYE.'
 slug: review-makita-hp332dwye
 categories:
 - furadeiras
