@@ -218,9 +218,7 @@ importantes: utiliza motor **Brushless**, tem mandril metálico de 13 mm
 e apresenta valores de torque próprios. Portanto, não deve ser tratada
 como se fosse a mesma ferramenta ou apenas uma atualização sem mudanças.
 
-A GSB 18V-50 declara torque de **28 Nm em junta flexível, 50 Nm em junta rígida e 50 Nm de torque máximo**, rotação de **0–460 / 0–1.800 rpm** e frequência de impacto de até **27.000 impactos por minuto**. O peso informado para o corpo sem bateria é de aproximadamente **1,1 kg**. Compare sempre as condições de
-medição indicadas pelo fabricante: o torque de 50 Nm da GSB 18V-50 não é
-superior aos 55 Nm em junta rígida declarados para a GSB 18V-21.
+A GSB 18V-50 declara torque de **28 Nm em junta flexível, 50 Nm em junta rígida e 50 Nm de torque máximo**, rotação de **0–460 / 0–1.800 rpm** e frequência de impacto de até **27.000 impactos por minuto**. O peso informado para o corpo sem bateria é de aproximadamente **1,1 kg**. Compare sempre as condições de medição indicadas pelo fabricante: o torque de 50 Nm da GSB 18V-50 não é superior aos 55 Nm em junta rígida declarados para a GSB 18V-21.
 
 A principal diferença tecnológica é o motor Brushless da GSB 18V-50, que
 não utiliza escovas de carvão. O modelo também pode ser interessante
@@ -228,6 +226,8 @@ para quem procura uma ferramenta profissional 18V com construção atual e
 disponibilidade comercial mais clara. Ainda assim, a escolha deve
 considerar o tipo de serviço, o preço do kit, a bateria incluída e a
 assistência disponível.
+
+Veja também nossa [análise completa da Bosch GSB 18V-50](/furadeiras/reviews/review-bosch-gsb-18v-50/).
 
 A **GSB 185-LI** é outra alternativa da linha Bosch Professional 18V.
 Ela também utiliza motor Brushless, tem proposta mais compacta e peso
