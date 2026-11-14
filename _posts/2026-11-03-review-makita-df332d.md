@@ -3,7 +3,7 @@ layout: post
 title: "Makita DF332D é boa? Análise e ficha técnica"
 marca: "Makita"
 modelo: "Makita DF332D"
-description: "Análise da Makita DF332D: especificações oficiais, controle de torque, vantagens, limitações e uso na montagem de móveis e MDF."
+description: "A Makita DF332D é uma boa opção para montagem de móveis? Veja suas características, controle de torque, aplicações e limitações."
 slug: "review-makita-df332d"
 categories: [furadeiras, reviews]
 produto_id: makita_df332d
