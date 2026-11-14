@@ -247,6 +247,8 @@ A designação completa do kit (por exemplo, HP333DSAJ ou outra variante regiona
 
 {% include produto-card.html id="makita_hp333_12v_impacto" %}
 
+> **Leia também:** [Review da Makita HP333D](/furadeiras/reviews/review-makita-hp333-12v-impacto/)
+
 ---
 
 ### DeWalt DCD700 — Parafusadeira/Furadeira Compacta 12V Max
@@ -277,6 +279,8 @@ A **DeWalt DCD700** é uma parafusadeira/furadeira compacta de 12V Max, sem fun�
 </div>
 
 {% include produto-card.html id="dewalt_dcd700d2_br" %}
+
+> **Leia também:** [Review da DeWalt DCD700](/furadeiras/reviews/review-dewalt-dcd700d2-br/)
 
 ---
 
@@ -310,6 +314,8 @@ O modelo possui seletor de torque com 18 níveis de aperto e uma posição de pe
 </div>
 
 {% include produto-card.html id="wap_bpf_12k3" %}
+
+> **Leia também:** [Review da WAP BPF 12K3](/furadeiras/reviews/review-wap-bpf-12k3/)
 
 ---
 
@@ -345,6 +351,8 @@ A compatibilidade de baterias deve ser conferida dentro da plataforma Bosch Prof
 
 {% include produto-card.html id="bosch_gsb_18v_55" %}
 
+> **Leia também:** [Review da Bosch GSB 18V-55](/furadeiras/reviews/review-bosch-gsb-18v-55/)
+
 ---
 
 ### Makita DHP484 — Furadeira de Impacto 18V LXT
@@ -378,6 +386,8 @@ A sigla do kit é relevante. O modelo DHP484Z é normalmente vendido como corpo 
 </div>
 
 {% include produto-card.html id="makita_dhp484rtj" %}
+
+> **Leia também:** [Review da Makita DHP484Z](/furadeiras/reviews/review-makita-dhp484rtj/)
 
 ---
 
