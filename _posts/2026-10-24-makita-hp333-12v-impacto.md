@@ -58,7 +58,7 @@ A função impacto utiliza percussão mecânica axial, diferente do mecanismo el
 
 A autonomia depende da capacidade e do estado da bateria, do material, da broca, do esforço e das pausas. Não há dados verificáveis que sustentem números fixos de parafusos ou furos por carga. A **HP333DZ** é vendida sem bateria, carregador e maleta. Já a **HP333DWYE**, conforme a ficha oficial brasileira consultada, acompanha duas baterias CXT de 12V e 1,5 Ah, carregador simples, bit e maleta. Não presuma que outros anúncios com o nome HP333 tragam os mesmos itens: confirme o sufixo e a lista de conteúdo.
 
-Se você quer comparar com outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}). Antes de comprar, confira se o anúncio é da **HP333DZ (avulsa)** ou da **HP333DWYE (kit)** e se o conteúdo corresponde à descrição.
+Se você quer comparar com outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}). Antes de comprar, confira se o anúncio é da **HP333DZ (avulsa)** ou da **HP333DWYE (kit)** e se o conteúdo corresponde à descrição.
 
 ## Pontos Fortes e Limitações na Prática
 
