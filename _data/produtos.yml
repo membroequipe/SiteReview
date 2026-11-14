@@ -1505,8 +1505,6 @@ bosch_gsb_18v_21:
   - nome: Plataforma
     valor: Bosch Professional 18V
 
-# ALTERAÇÃO: removido este segundo bloco duplicado de bosch_gsb_18v_50.
-# Motivo: a chave YAML repetida pode sobrescrever silenciosamente o primeiro cadastro.
 
 # REVISÃO: manter como furadeira/parafusadeira brushless SEM impacto. Código brasileiro: DCD708D2-BR; não confundir com DCD709, que possui impacto.
 dewalt_dcd708d2:
@@ -1515,7 +1513,7 @@ dewalt_dcd708d2:
   imagem: /assets/images/posts/dewalt-dcd708d2.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/13i5wZn"
+    mercadolivre: "https://meli.la/27KKGGi"
     shopee: "https://s.shopee.com.br/1LhEZIMrfj"
   especificacoes:
   - nome: Categoria
@@ -1600,7 +1598,7 @@ bosch_gsr_12v_15:
   imagem: "/assets/images/posts/bosch-gsr-12v-15.png"
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1P13d6r"
+    mercadolivre: "https://meli.la/1E8fjPm"
     shopee: ""
   especificacoes:
     - nome: "Modelo"
@@ -1673,7 +1671,7 @@ makita_df333dwye:
   imagem: "/assets/images/posts/makita-df333dwye.png"
   links:
     amazon: ""
-    mercadolivre: "https://meli.la/1bsewFh"
+    mercadolivre: "https://meli.la/33k1ZSG"
     shopee: "https://s.shopee.com.br/1gK6beTFUE"
   especificacoes:
     - nome: "Modelo Comercial"
@@ -1771,7 +1769,7 @@ makita_hp333dsaj:
   imagem: /assets/images/posts/makita-hp333dsaj.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/1YWxv9M"
+    mercadolivre: "https://meli.la/2wx4GNF"
     shopee: "https://s.shopee.com.br/4VeHz3E638"
   especificacoes:
   - nome: Modelo Comercial
@@ -1812,7 +1810,7 @@ dewalt_dcd700d2_br:
   imagem: /assets/images/posts/dewalt-dcd700d2-br.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/2fRD7nx"
+    mercadolivre: "https://meli.la/2z74hUh"
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -1889,7 +1887,7 @@ makita_dhp484rtj:
   imagem: /assets/images/posts/makita-dhp484rtj.png
   links:
     amazon: ''
-    mercadolivre: ''
+    mercadolivre: "https://meli.la/1Q3V2nk"
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -1933,7 +1931,7 @@ dewalt_dcd796d2_br:
   imagem: /assets/images/posts/dewalt-dcd796d2-br.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/1zwmdF3"
+    mercadolivre: "https://meli.la/2kvDGC8"
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
