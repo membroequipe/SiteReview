@@ -46,7 +46,7 @@ A GSB 18V-50 utiliza **motor brushless**, que dispensa escovas de carvão e redu
 
 O punho emborrachado e o gatilho de velocidade variável favorecem o controle durante a perfuração e o parafusamento. O seletor mecânico oferece duas faixas de velocidade, enquanto os **20 ajustes de torque**, além dos modos de perfuração e impacto, permitem adaptar a ferramenta ao tipo de fixação. Há iluminação LED para ajudar em locais pouco iluminados; a duração exata da luz após soltar o gatilho pode variar conforme a versão.
 
-O peso informado pela Bosch é de aproximadamente **1,1 kg sem bateria**, mas o conjunto fica mais pesado conforme a bateria escolhida. Uma bateria compacta costuma favorecer a mobilidade; uma de maior capacidade pode oferecer mais autonomia, dependendo da carga de trabalho. Confira também nossos [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}) para avaliar modelos da mesma categoria.
+O peso informado pela Bosch é de aproximadamente **1,1 kg sem bateria**, mas o conjunto fica mais pesado conforme a bateria escolhida. Uma bateria compacta costuma favorecer a mobilidade; uma de maior capacidade pode oferecer mais autonomia, dependendo da carga de trabalho. Confira também nossos [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}) para avaliar modelos da mesma categoria.
 
 ## Desempenho e Aplicações
 
@@ -93,7 +93,7 @@ A escolha entre essas ferramentas depende principalmente do ecossistema de bater
   </tbody>
 </table>
 
-Os números acima vêm das fichas dos fabricantes e não de um teste lado a lado. A Makita DHP485Z e a Bosch GSB 18V-50 são ferramentas 18V; a DeWalt DCD796D2-BR usa a designação comercial 20V MAX. Confira se o anúncio corresponde ao código indicado e se inclui bateria, carregador e maleta. Se quiser ampliar a comparação, consulte nossos [reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
+Os números acima vêm das fichas dos fabricantes e não de um teste lado a lado. A Makita DHP485Z e a Bosch GSB 18V-50 são ferramentas 18V; a DeWalt DCD796D2-BR usa a designação comercial 20V MAX. Confira se o anúncio corresponde ao código indicado e se inclui bateria, carregador e maleta. Se quiser ampliar a comparação, consulte nossos [reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
 
 ## Perguntas Frequentes
 
