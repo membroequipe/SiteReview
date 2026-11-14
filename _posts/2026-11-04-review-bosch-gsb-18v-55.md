@@ -263,6 +263,8 @@ As duas pertencem à plataforma Bosch Professional 18V.
 
 Por isso, quem já possui baterias compatíveis pode comparar principalmente o preço do corpo avulso, a disponibilidade e os recursos oferecidos.
 
+Para conhecer a outra opção em detalhes, leia nosso [review da Bosch GSB 18V-50](/furadeiras/reviews/review-bosch-gsb-18v-50/).
+
 ### Bosch GSB 18V-55 vs Makita DHP485Z
 
 A **Makita DHP485Z** é outra furadeira e parafusadeira de impacto 18V com motor brushless.
