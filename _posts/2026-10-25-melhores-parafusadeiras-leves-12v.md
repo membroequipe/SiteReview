@@ -40,6 +40,8 @@ Na montagem de armários, gavetas e ferragens, vale iniciar o aperto com cuidado
 
 {% include produto-card.html id="bosch_gsr_1000_smart" %}
 
+> **Leia também:** [Review da Bosch GSR 1000 Smart](/parafusadeiras/reviews/review-bosch-gsr-1000-smart/)
+
 ## Bosch GSR 12V-15: análise individual
 
 A **Bosch GSR 12V-15** é uma furadeira/parafusadeira de 12V com mandril de **1 a 10 mm** e duas velocidades mecânicas: **0–400 e 0–1.300 rpm**. Segundo a Bosch, seu torque é de **15 Nm em aplicação suave e 30 Nm em aplicação dura**. Uma ficha oficial registra **0,95 kg com bateria**, mas o peso real pode mudar conforme a bateria instalada.
@@ -57,6 +59,8 @@ A Bosch informa proteção eletrônica das células, útil para gerenciamento de
 
 {% include produto-card.html id="bosch_gsr_12v_15" %}
 
+> **Leia também:** [Review da Bosch GSR 12V-15](/furadeiras/reviews/review-bosch-gsr-12v-15/)
+
 ## Bosch GSR 12V-15 FC: análise individual
 
 A **Bosch GSR 12V-15 FC** é uma alternativa voltada à versatilidade de acesso. O sistema **FlexiClick** permite utilizar diferentes cabeçotes, incluindo mandril, adaptador angular e adaptador excêntrico, dependendo dos acessórios adquiridos. Essa arquitetura é especialmente útil para fixações próximas a cantos, laterais de armários e espaços onde uma ferramenta convencional não consegue alinhar o bit com o parafuso.
@@ -73,6 +77,8 @@ Antes de comprar, verifique a referência exata do kit. A presença de bateria, 
 - **Limitações:** acessórios elevam o investimento; o peso final varia com bateria e cabeçote; exige conferência cuidadosa do conteúdo da embalagem.
 
 {% include produto-card.html id="bosch_gsr_12v_15_fc" %}
+
+> **Leia também:** [Review da Bosch GSR 12V-15 FC](/furadeiras/reviews/review-bosch-gsr-12v-15-fc/)
 
 ## Comparação lado a lado
 
