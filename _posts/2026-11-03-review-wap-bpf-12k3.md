@@ -3,8 +3,7 @@ layout: post
 title: 'WAP BPF 12K3 é boa? Análise e ficha técnica'
 marca: "WAP"
 modelo: "WAP BPF 12K3"
-description: 'Análise da WAP BPF 12K3: especificações oficiais, aplicações, vantagens, limitações e comparação para
-  decidir a compra.'
+description: 'A WAP BPF 12K3 vale a pena? Conheça suas características, especificações, aplicações e limitações antes de escolher sua próxima parafusadeira.'
 slug: review-wap-bpf-12k3
 categories:
 - furadeiras
