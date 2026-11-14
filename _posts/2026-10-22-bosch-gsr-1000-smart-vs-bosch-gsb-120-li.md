@@ -34,6 +34,8 @@ O modelo possui bateria de íons de lítio integrada, capacidade de 1,5 Ah, rota
 
 {% include produto-card.html id="bosch_gsr_1000_smart" %}
 
+> **Leia também:** [Review da Bosch GSR 1000 Smart](/parafusadeiras/reviews/review-bosch-gsr-1000-smart/)
+
 ### O que dizem os compradores da GSR 1000 Smart
 
 Sem uma amostra identificada e atualizada de avaliações, não é possível afirmar uma nota média ou atribuir um consenso aos compradores. Pelas características técnicas, o formato compacto favorece montagens e pequenos reparos, enquanto a ausência de impacto e os limites oficiais de perfuração — até 10 mm em madeira e 6 mm em aço — restringem aplicações mais exigentes. Como a bateria é integrada, é necessário recarregar a própria ferramenta quando a carga termina.
@@ -50,6 +52,8 @@ De acordo com a ficha técnica oficial, o modelo apresenta torque suave de 14 Nm
 * **Limitações:** O mecanismo de impacto não substitui marteletes SDS para concreto denso ou uso contínuo em construção pesada, e o peso em operação varia conforme a bateria acoplada.
 
 {% include produto-card.html id="bosch_gsb_120_li" %}
+
+> **Leia também:** [Review da Bosch GSB 120-LI](/furadeiras/reviews/review-bosch-gsb-120-li/)
 
 ### O que dizem os compradores da GSB 120-LI
 
@@ -101,4 +105,4 @@ Confira o código exato da variante, o conteúdo da embalagem, o carregador e a 
 A **Bosch GSR 1000 Smart** cumpre bem o papel de uma ferramenta de apoio leve para montagens cotidianas e pequenos reparos. No entanto, para quem procura uma ferramenta mais versátil para diversas demandas residenciais e de manutenção — incluindo perfuração em paredes de tijolo —, a **Bosch GSB 120-LI** entrega um conjunto significativamente mais robusto, potente e versátil.
 
 
-Fontes técnicas: [Manual Bosch GSR 1000 Smart](https://www.bosch-professional.com/binary/manualsmedia/o356539v21_160992A6GC_202102.pdf); [ficha Bosch GSR 1000](https://www.bosch-professional.com/br/pt/products/gsr-1000-06019F40E3); [ficha Bosch GSB 120-LI](https://www.bosch-professional.com/br/pt/products/gsb-120-li-06019G81E4); [Catálogo Bosch 2026](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf).
+Fontes técnicas: [ficha Bosch GSR 1000](https://www.bosch-professional.com/br/pt/products/gsr-1000-06019F40E3); [ficha Bosch GSB 120-LI](https://www.bosch-professional.com/br/pt/products/gsb-120-li-06019G81E4);
