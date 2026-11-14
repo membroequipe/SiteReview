@@ -140,6 +140,8 @@ Antes de finalizar, confirme o modelo exato, o conteúdo do kit, a garantia apli
 
 {% include produto-card.html id="vonder_pfv_012" %}
 
+Se ainda estiver em dúvida entre modelos com ou sem impacto, veja nosso [comparativo completo de qual a melhor furadeira](/guias/qual-a-melhor-furadeira/)
+
 ## Fontes oficiais
 
  - [Ficha técnica ou manual do fabricante](https://www.vonder.com.br/produto/parafusadeirafuradeira_a_bateria_12_v_fonte_de_carregamento_bivolt_automtica_pfv_012_vonder/7916){:target="_blank" rel="noopener nofollow"}
