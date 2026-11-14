@@ -142,6 +142,6 @@ Antes de finalizar, confirme o modelo exato, o conteúdo do kit, a garantia apli
 
 ## Fontes oficiais
 
-- [Ficha técnica ou manual do fabricante](https://www.vonder.com.br/produto/parafusadeirafuradeira_a_bateria_12_v_fonte_de_carregamento_bivolt_automtica_pfv_012_vonder/7916)
+ - [Ficha técnica ou manual do fabricante](https://www.vonder.com.br/produto/parafusadeirafuradeira_a_bateria_12_v_fonte_de_carregamento_bivolt_automtica_pfv_012_vonder/7916){:target="_blank" rel="noopener nofollow"}
 
 *Nota de transparência: análise documental e editorial; não foram realizados testes práticos próprios. Preços e composição dos kits devem ser verificados no momento da compra.*
