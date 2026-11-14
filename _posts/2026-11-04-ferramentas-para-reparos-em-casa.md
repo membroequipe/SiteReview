@@ -53,6 +53,8 @@ Modelos de 12V podem atender muitas tarefas domésticas, especialmente quando o 
 
 O controle de torque é importante porque ajuda a evitar aperto excessivo em parafusos pequenos e ferragens delicadas.
 
+Para conhecer opções compactas, veja também a [análise da Bosch GSR 1000 Smart](/parafusadeiras/reviews/review-bosch-gsr-1000-smart/) e o [review da Makita DF333DWYE](/furadeiras/reviews/review-makita-df333dwye/).
+
 Antes da compra, considere:
 
 - Controle de torque ajustável.
@@ -81,6 +83,8 @@ Já a furadeira com impacto possui um mecanismo de percussão que auxilia em det
 Para concreto muito resistente, furos frequentes ou aplicações exigentes, pode ser necessário um martelete apropriado.
 
 **Dica:** antes de perfurar paredes, verifique a possibilidade de tubulações hidráulicas e cabos elétricos ocultos. Se não for possível identificar uma região segura, procure orientação profissional.
+
+Veja também nossa [análise da Bosch GSB 120-LI](/furadeiras/reviews/review-bosch-gsb-120-li/), uma opção compacta com função de impacto para reparos leves em alvenaria.
 
 ## 3. Chaves de fenda, Phillips e Allen
 
