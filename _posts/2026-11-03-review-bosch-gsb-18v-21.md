@@ -197,8 +197,6 @@ plugue do carregador e a tensão de entrada antes de finalizar o pedido.
 Em anúncios de marketplaces, leia as avaliações referentes ao mesmo
 vendedor e à mesma configuração do kit.
 
-{% include produto-card.html id="bosch_gsb_18v_21" %}
-
 ## Bosch GSB 18V-50: alternativa atual para quem não encontra a GSB 18V-21
 
 Se a GSB 18V-21 não estiver disponível em uma oferta confiável, uma
@@ -324,7 +322,7 @@ Se não houver, considere a GSB 18V-50 ou a GSB 185-LI como alternativas
 separadas, conferindo suas fichas técnicas, acessórios, garantia e
 preço.
 
-{% include produto-card.html id="bosch_gsb_18v_21" %}
+{% include produto-card.html id="bosch_gsb_18v_50" %}
 
 ## Veredito Final e Recomendação de Compra
 
@@ -360,6 +358,3 @@ relative_url }}).
 **Fontes oficiais para conferência das especificações:**
 
 - [Bosch Professional GSB 18V-21 — página do produto](https://www.bosch-professional.com/gb/en/products/gsb-180-li-06019H1176)
-- [Manual Bosch GSB 18V-21 — dados técnicos e instruções](https://www.bosch-professional.com/binary/manualsmedia/o340933v21_160992A4SZ_202010.pdf)
-- [Bosch Brasil GSB 18V-50 — ficha técnica e variantes](https://www.bosch-professional.com/br/pt/products/gsb-18v-50-06019H51E4)
-- [Bosch Brasil GSB 185-LI — ficha técnica e variantes](https://www.bosch-professional.com/br/pt/products/gsb-185-li-06019K31E3)
