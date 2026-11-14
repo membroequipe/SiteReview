@@ -246,6 +246,8 @@ Entretanto, quem trabalha apenas com móveis, ferragens e madeira pode não prec
 
 Nesse caso, o preço, o tamanho e o conteúdo do kit podem ser mais importantes do que a presença de percussão.
 
+Veja também o [review completo da DeWalt DCD716D2](/furadeiras/reviews/review-dewalt-dcd716d2/).
+
 ### DeWalt DCD700 vs Bosch GSR 1000 Smart
 
 A **Bosch GSR 1000 Smart** também é voltada a tarefas leves de montagem e manutenção.
