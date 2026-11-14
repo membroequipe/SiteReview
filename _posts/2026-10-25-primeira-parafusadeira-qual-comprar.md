@@ -41,6 +41,8 @@ A GSR 1000 Smart **não tem função impacto**. Ela não substitui uma furadeira
 
 {% include produto-card.html id="bosch_gsr_1000_smart" %}
 
+> **Leia também:** [Review da Bosch GSR 1000 Smart](/parafusadeiras/reviews/review-bosch-gsr-1000-smart/)
+
 ### 2. Bosch GSR 120-LI — melhor equilíbrio para aprender e evoluir
 
 A **Bosch GSR 120-LI Professional** é uma furadeira/parafusadeira 12V com bateria removível e **20+1 configurações de torque**. A ficha brasileira apresenta **14 Nm em junta suave e 30 Nm em junta dura**, duas faixas de rotação de **0–400 e 0–1.500 rpm**, mandril de **0,8 a 10 mm** e peso de **0,8 kg sem bateria**. O fabricante também destaca proteção eletrônica das células da bateria.
@@ -55,6 +57,8 @@ A GSR 120-LI **não é uma furadeira de impacto**: para concreto e alvenaria res
 
 {% include produto-card.html id="bosch_gsr_120_li" %}
 
+> **Leia também:** [Review da Bosch GSR 120-LI](/furadeiras/reviews/review-bosch-gsr-120-li/)
+
 ### 3. Makita DF333DWYE — melhor kit para quem quer duas baterias
 
 A **Makita DF333DWYE** é uma furadeira/parafusadeira da plataforma **12V CXT**. A ficha oficial brasileira informa **30 Nm em junta rígida e 14 Nm em junta flexível**, **20 níveis de torque**, duas velocidades mecânicas de **0–450 e 0–1.700 rpm**, mandril de **0,8 a 10 mm** e capacidade de perfuração de **21 mm em madeira e 10 mm em aço**. O peso divulgado para o kit é de aproximadamente **1,1 kg**.
@@ -68,6 +72,8 @@ Para um iniciante, a principal vantagem é começar com um conjunto completo e u
 **Pontos positivos:** duas baterias no kit brasileiro, 20 níveis de torque, duas marchas, LED e mandril de 10 mm. **Limitações:** não possui impacto, é maior que uma parafusadeira de bateria integrada e o custo depende da configuração anunciada.
 
 {% include produto-card.html id="makita_df333dwye" %}
+
+> **Leia também:** [Review da Makita DF333DWYE](/furadeiras/reviews/review-makita-df333dwye/)
 
 ## Comparação lado a lado
 
