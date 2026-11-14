@@ -41,7 +41,7 @@ A Black+Decker LD12S surge como uma das opções mais acessíveis no segmento de
 
 ## Construção e Ergonomia
 
-A Black+Decker LD12S-BR é uma furadeira/parafusadeira de 12V **sem mecanismo de impacto**. A ficha brasileira confirma mandril de 3/8" (10 mm), velocidade variável e reversível, empunhadura emborrachada, LED e indicador de nível de bateria. O conjunto atende melhor a tarefas domésticas do que a serviços pesados. Para conhecer outras ferramentas da mesma categoria, veja nossos [reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
+A Black+Decker LD12S-BR é uma furadeira/parafusadeira de 12V **sem mecanismo de impacto**. A ficha brasileira confirma mandril de 3/8" (10 mm), velocidade variável e reversível, empunhadura emborrachada, LED e indicador de nível de bateria. O conjunto atende melhor a tarefas domésticas do que a serviços pesados. Para conhecer outras ferramentas da mesma categoria, veja nossos [reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
 
 O formato e a alimentação sem fio favorecem o uso em armários, gavetas e locais sem tomada próxima. A página oficial da LD12S-BR lista 1,198 kg no campo de peso do produto, mas não esclarece se esse valor corresponde à ferramenta isolada ou ao conjunto comercial. Por isso, não o apresentamos como peso operacional da ferramenta. Se o peso for decisivo para sua compra, confirme essa informação com o fabricante ou com o vendedor da variante anunciada.
 
