@@ -3,7 +3,7 @@ layout: post
 title: "DeWalt DCD777 é boa? Análise e ficha técnica"
 marca: "DeWalt"
 modelo: "DeWalt DCD777"
-description: "Análise da DeWalt DCD777: especificações oficiais, controle de torque, vantagens, limitações e uso na montagem de móveis e MDF."
+description: "Conheça a DeWalt DCD777, suas especificações, controle de torque e aplicações em madeira e montagem de móveis. Veja os pontos fortes e limitações."
 slug: "review-dewalt-dcd777"
 categories: [furadeiras, reviews]
 produto_id: dewalt_dcd777
