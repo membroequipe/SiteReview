@@ -9,6 +9,7 @@ categories: [furadeiras, reviews]
 produto_id: makita_hp2050
 image: "/assets/images/posts/makita-hp2050.webp"
 date: 2026-11-03
+last_modified_at: 2026-11-14
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.7
