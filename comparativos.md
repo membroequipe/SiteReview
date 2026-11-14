@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Guias Comparativos e Melhores Opções"
-description: "Comparativos entre parafusadeiras e furadeiras de várias marcas."
+description: "Compare furadeiras e parafusadeiras de diferentes marcas. Descubra as diferenças, vantagens e qual modelo atende melhor ao seu trabalho."
 permalink: "/comparativos/"
 ---
 
