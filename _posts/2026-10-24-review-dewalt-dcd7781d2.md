@@ -32,7 +32,7 @@ avaliacao:
 
 A **DeWalt DCD7781D2-BR** é uma furadeira e parafusadeira **de impacto** a bateria, com motor brushless e alimentação pela plataforma 20V MAX. Seu principal atrativo é reunir parafusamento com controle de torque, perfuração convencional e impacto mecânico em uma mesma ferramenta. Isso a torna uma candidata interessante para instaladores, profissionais de manutenção e usuários que precisam trabalhar com madeira, metal e alvenaria sem depender de uma tomada.
 
-A ficha técnica deve ser lida com atenção: o torque máximo anunciado é de **65 Nm**, mas isso não significa que a ferramenta mantenha esse valor continuamente em qualquer aplicação. Para comparar outras opções, consulte nossos [reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
+A ficha técnica deve ser lida com atenção: o torque máximo anunciado é de **65 Nm**, mas isso não significa que a ferramenta mantenha esse valor continuamente em qualquer aplicação. Para comparar outras opções, consulte nossos [reviews de furadeiras]({{ '/furadeiras' | relative_url }}).
 
 {% include resumo-avaliacao.html %}
 
