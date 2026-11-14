@@ -69,7 +69,7 @@ No parafusamento, a embreagem permite limitar o torque aplicado, ajudando a redu
 
 A autonomia depende da capacidade e do estado da bateria, da dureza do material, do diâmetro do acessório e do tempo de acionamento. Por isso, não é confiável prometer uma quantidade exata de furos ou parafusos por carga sem um ensaio documentado. Em trabalhos prolongados, ter uma segunda bateria compatível reduz a interrupção para recarga. O carregador incluído, quando houver, deve ser verificado no anúncio do kit.
 
-A utilização do modo impacto gera ruído e vibração, especialmente em superfícies minerais. Use óculos de proteção, proteção auditiva quando necessária e siga as orientações do manual. Se a broca travar, solte o gatilho e avalie a causa antes de retomar; a função impacto não elimina o torque de reação. Para consultar mais modelos, veja [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
+A utilização do modo impacto gera ruído e vibração, especialmente em superfícies minerais. Use óculos de proteção, proteção auditiva quando necessária e siga as orientações do manual. Se a broca travar, solte o gatilho e avalie a causa antes de retomar; a função impacto não elimina o torque de reação. Para consultar mais modelos, veja [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
 
 ## Opinião dos Compradores
 
@@ -118,7 +118,7 @@ A GSB 185-LI também é mais compacta, com comprimento de cabeça de 177 mm indi
   </tbody>
 </table>
 
-Se quiser ampliar a pesquisa, consulte [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}) e compare o custo total dos kits, não apenas o preço da ferramenta avulsa.
+Se quiser ampliar a pesquisa, consulte [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}) e compare o custo total dos kits, não apenas o preço da ferramenta avulsa.
 
 ## Perguntas Frequentes
 
