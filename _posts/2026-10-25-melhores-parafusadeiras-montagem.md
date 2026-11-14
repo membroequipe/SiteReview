@@ -50,6 +50,8 @@ O conjunto, porém, pode ser excessivo para quem só aperta pequenos parafusos d
 
 {% include produto-card.html id="bosch_gsb_18v_21" %}
 
+> **Leia também:** [Review da Bosch GSB 18V-21](/furadeiras/reviews/review-bosch-gsb-18v-21/)
+
 ## 2. DeWalt DCD708: compacta para montagem e perfuração sem impacto
 
 A **DeWalt DCD708**, da linha ATOMIC 20V MAX, é uma furadeira/parafusadeira com **motor brushless**, mandril de **13 mm** e duas faixas de rotação de **0–450 e 0–1.650 rpm**, conforme o manual oficial. Seu formato compacto favorece tarefas dentro de armários, sob bancadas e próximo a divisórias, onde o espaço para posicionar a ferramenta é limitado.
@@ -68,6 +70,8 @@ A nomenclatura **20V MAX** refere-se à tensão máxima inicial da bateria; a te
 **Limitações:** não possui impacto; bateria e carregador variam conforme o kit; preço e quantidade de acessórios não devem ser presumidos.
 
 {% include produto-card.html id="dewalt_dcd708d2" %}
+
+> **Leia também:** [Review da DeWalt DCD708D2](/furadeiras/reviews/review-dewalt-dcd708d2/)
 
 ## 3. Makita HP332: compacta 12V CXT com motor BL e impacto
 
@@ -88,6 +92,8 @@ Para o uso principal deste guia — montagem de móveis — a função impacto d
 **Limitações:** capacidade declarada de 8 mm em concreto; plataforma 12V CXT específica; kits variam conforme o código; não acompanha 70 acessórios na configuração oficial citada.
 
 {% include produto-card.html id="makita_hp332dwye" %}
+
+> **Leia também:** [Review da Makita HP332DWYE](/furadeiras/reviews/review-makita-hp332dwye/)
 
 ## Comparativo técnico: Bosch, DeWalt e Makita
 
