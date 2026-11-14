@@ -6,6 +6,7 @@ slug: "qual-a-melhor-furadeira"
 categories: [guias]
 image: /assets/images/posts/melhores-furadeiras.webp
 date: 2026-10-22
+last_modified_at: 2026-11-14
 author: "Equipe de Análises"
 ---
 
