@@ -3,8 +3,7 @@ layout: post
 title: 'Vonder PFV 012 é boa? Análise e características'
 marca: "Vonder"
 modelo: "Vonder PFV 012"
-description: 'Análise da Vonder PFV 012: especificações oficiais, aplicações, vantagens, limitações e comparação
-  para decidir a compra.'
+description: 'Conheça a Vonder PFV 012: confira especificações, recursos, aplicações e limitações para avaliar se essa parafusadeira atende às suas necessidades.'
 slug: review-vonder-pfv-012
 categories:
 - furadeiras
