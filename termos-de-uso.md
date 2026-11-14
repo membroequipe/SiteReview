@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Termos de Uso"
+description: "Consulte as condições de utilização do Sua Melhor Ferramenta, incluindo responsabilidades, propriedade intelectual, conteúdo editorial e links de afiliados."
 permalink: /termos-de-uso/
 ---
 
