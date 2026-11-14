@@ -12,6 +12,7 @@ produto_id: vonder_pfv_012
 image: assets/images/posts/vonder_pfv012i_12v.webp
 image_alt: Parafusadeira e furadeira Vonder PFV 012
 date: '2026-11-03'
+last_modified_at: '2026-11-14'
 author: Equipe de Análises
 avaliacao:
   nota: 8.0
