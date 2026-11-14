@@ -313,6 +313,8 @@ A diferença nominal de torque é pequena e não deve ser utilizada isoladamente
 
 A escolha também depende do preço, da frequência de uso, das baterias incluídas e da preferência pela tecnologia do motor.
 
+Confira também nossa [análise completa da Makita DHP482Z](/furadeiras/reviews/review-makita-dhp482/).
+
 ### Tabela comparativa
 
 | Característica | Makita DHP484RTJ | Makita DHP485Z | Makita DHP482 |
