@@ -3,7 +3,7 @@ layout: post
 title: "Bosch GSR 12V-15 FC: análise e ficha técnica"
 marca: "Bosch"
 modelo: "Bosch GSR 12V-15 FC"
-description: "Análise da Bosch GSR 12V-15 FC: especificações oficiais, controle de torque, vantagens, limitações e uso na montagem de móveis e MDF."
+description: "Conheça a Bosch GSR 12V-15 FC FlexiClick: veja os recursos do sistema modular, aplicações, especificações e limitações da ferramenta."
 slug: "review-bosch-gsr-12v-15-fc"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsr_12v_15_fc
