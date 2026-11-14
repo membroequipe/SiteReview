@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Política de Privacidade"
+description: "Saiba como o Sua Melhor Ferramenta coleta, utiliza e protege dados pessoais, além de conhecer seus direitos e as práticas de privacidade do site."
 permalink: /politica-de-privacidade/
 ---
 
