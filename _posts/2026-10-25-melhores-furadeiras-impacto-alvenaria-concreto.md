@@ -42,6 +42,8 @@ A principal limitação é o custo do sistema: dependendo da versão, baterias e
 
 {% include produto-card.html id="bosch_gbh_18v_21" %}
 
+> **Leia também:** [Review do Bosch GBH 18V-21](/marteletes/reviews/review-bosch-gbh-18v-21/)
+
 ### 2. Bosch GSB 13 RE 750 W — melhor furadeira com fio para reparos gerais
 
 A Bosch GSB 13 RE, na **versão brasileira de 750 W**, é uma furadeira de impacto convencional. A página brasileira informa mandril de 1,5 a 13 mm, capacidade de até 13 mm em concreto, 10 mm em aço e 25 mm em madeira. Há versões comerciais com códigos e especificações diferentes; por isso, confirme o número de pedido e a tensão elétrica antes da compra.
@@ -53,6 +55,8 @@ O modelo não substitui um martelete SDS-Plus em perfurações repetitivas de co
 **Pontos positivos:** uso com fio; mandril de 13 mm; função impacto selecionável; versatilidade em madeira, metal e alvenaria. **Limitações:** necessidade de tomada; percussão convencional menos adequada para concreto pesado; conferir variante e voltagem.
 
 {% include produto-card.html id="bosch_gsb_13_re_750w" %}
+
+> **Leia também:** [Review da Bosch GSB 13 RE 750 W](/furadeiras/reviews/review-bosch-gsb-13-re-750w/)
 
 ### 3. Makita HP2050 — opção com fio para quem busca duas velocidades mecânicas
 
@@ -66,6 +70,8 @@ A HP2050 não pertence a uma plataforma de baterias 18V. Para evitar atribuir ca
 
 {% include produto-card.html id="makita_hp2050" %}
 
+> **Leia também:** [Review da Makita HP2050](/furadeiras/reviews/review-makita-hp2050/)
+
 ### 4. Bosch GBH 2-21 — martelete com fio para concreto, sem depender de bateria
 
 Para quem precisa furar concreto com frequência, mas não quer investir em baterias, a Bosch GBH 2-21 é uma alternativa diferente das furadeiras convencionais. É um **martelete SDS-Plus de 720 W**, com **2,0 J de energia de impacto**, três modos de operação e capacidade anunciada de até aproximadamente 21–22 mm em concreto, conforme a variante regional. O peso oficial é de cerca de 2,3 kg.
@@ -77,6 +83,8 @@ A comparação com a GBH 18V-21 deve considerar mobilidade e custo total, não a
 **Pontos positivos:** sistema SDS-Plus; 2,0 J; três modos; alimentação contínua por cabo. **Limitações:** tomada necessária; acessórios específicos; menos compacta para tarefas simples de parafusamento.
 
 {% include produto-card.html id="bosch_gbh_2_21" %}
+
+> **Leia também:** [Review do Bosch GBH 2-21](/furadeiras/reviews/review-bosch-gbh-2-21/)
 
 ## Comparativo rápido das especificações
 
