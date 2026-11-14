@@ -161,11 +161,4 @@ Compare o mesmo código de produto, a quantidade de baterias, a capacidade em Ah
 
 **Escolha a Bosch GSR 1000 Smart** se seu objetivo é resolver pequenos reparos e montagens ocasionais com uma ferramenta compacta e bateria integrada. **Prefira a Bosch GSR 120-LI** se deseja aprender a usar ajustes de torque, duas marchas e diferentes brocas, com possibilidade de trocar a bateria. **Considere a Makita DF333DWYE** se pretende montar móveis com frequência e valoriza começar com duas baterias e maleta.
 
-A recomendação final é verificar o código comercial e segurar a ferramenta na mão, se possível, antes de decidir. Para aprofundar a comparação, consulte nosso [guia completo de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}).
-
-## Fontes oficiais consultadas
-
-- Bosch Professional — Catálogo brasileiro 2025, GSR 1000 Smart: https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_1_pt_-_empreiteiro_-_web.pdf
-- Bosch Professional — GSR 120-LI, ficha brasileira: https://www.bosch-professional.com/br/pt/products/gsr-120-li-06019G80E1
-- Makita Brasil — DF333DWYE, especificações e itens do kit: https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=316
-- Makita Brasil — TD110DWYE, referência para diferenciar parafusadeira de impacto: https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=362
+A recomendação final é verificar o código comercial. Para aprofundar a comparação, consulte nosso [guia completo de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}).
