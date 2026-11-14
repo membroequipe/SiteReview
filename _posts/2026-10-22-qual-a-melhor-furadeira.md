@@ -177,7 +177,7 @@ Não há base na ficha técnica consultada para atribuir Bluetooth, bloqueio ant
 
 {% include produto-card.html id="bosch_gsr_1000_smart" %}
 
-> **Leia também:** [Review da Bosch GSR 1000 Smart](/furadeiras/reviews/review-bosch-gsr-1000-smart/) 
+> **Leia também:** [Review da Bosch GSR 1000 Smart](/parafusadeiras/reviews/review-bosch-gsr-1000-smart/) 
 
 ---
 
