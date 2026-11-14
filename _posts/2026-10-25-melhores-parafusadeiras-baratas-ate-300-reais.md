@@ -24,7 +24,7 @@ A seleção foi feita a partir de **fichas técnicas oficiais de fabricantes**, 
 
 ## WAP BPF 12K3: opção simples para móveis e reparos
 
-A **WAP BPF 12K3 Black**, código **FW009424**, é uma furadeira/parafusadeira de **12 V**, sem função impacto. Segundo a WAP, oferece **17 Nm de torque**, **18 posições de embreagem mais uma de perfuração**, mandril de aperto rápido de **10 mm** e rotação variável de **0 a 740 rpm**. A bateria de íons de lítio tem **1,5 Ah** e o tempo de carregamento indicado é de **3 a 5 horas**. <https://loja.wap.ind.br/parafusadeira-e-furadeira-a-bateria-li-ion-wap-bpf-12k3-black/p>
+A **WAP BPF 12K3 Black**, código **FW009424**, é uma furadeira/parafusadeira de **12 V**, sem função impacto. Segundo a WAP, oferece **17 Nm de torque**, **18 posições de embreagem mais uma de perfuração**, mandril de aperto rápido de **10 mm** e rotação variável de **0 a 740 rpm**. A bateria de íons de lítio tem **1,5 Ah** e o tempo de carregamento indicado é de **3 a 5 horas**. 
 
 Para instalar puxadores, apertar dobradiças, montar uma estante ou fazer furos pequenos em madeira, é uma combinação coerente. A fabricante declara capacidade de perfuração de até **20 mm em madeira** e **6 mm em aço**, respeitadas as condições e brocas apropriadas. Não há justificativa para recomendar esse modelo para concreto ou alvenaria: ele não possui percussão.
 
@@ -39,9 +39,11 @@ A WAP informa LED de trabalho, indicador de carga, reversão e empunhadura embor
 
 {% include produto-card.html id="wap_bpf_12k3" %}
 
+> **Leia também:** [Review da WAP BPF 12K3](/furadeiras/reviews/review-wap-bpf-12k3/)
+
 ## WAP WF 12K4.2: mais recursos, mas atenção ao preço
 
-A **WAP WF 12K4.2**, código **FW010592**, combina parafusamento, perfuração sem impacto e perfuração com impacto. A ficha técnica oficial informa **12 V**, **30 Nm**, bateria de **1,5 Ah**, mandril de **10 mm**, duas marchas com **0–350 e 0–1.400 rpm** e até **22.000 impactos por minuto** na faixa alta. O motor é do tipo **universal com escovas**, não brushless. <https://loja.wap.ind.br/parafusadeira-wf-12k4-2/p>
+A **WAP WF 12K4.2**, código **FW010592**, combina parafusamento, perfuração sem impacto e perfuração com impacto. A ficha técnica oficial informa **12 V**, **30 Nm**, bateria de **1,5 Ah**, mandril de **10 mm**, duas marchas com **0–350 e 0–1.400 rpm** e até **22.000 impactos por minuto** na faixa alta. O motor é do tipo **universal com escovas**, não brushless. 
 
 É uma escolha mais versátil para quem alterna montagem de móveis, perfurações em madeira e furos ocasionais em alvenaria. O fabricante declara capacidades de até **35 mm em madeira**, **10 mm em aço** e **12 mm em concreto**. Esses números representam limites declarados, não garantias de desempenho em qualquer tipo de concreto. Para trabalho frequente em concreto estrutural, um martelete SDS-Plus costuma ser mais apropriado.
 
@@ -56,9 +58,11 @@ Para MDF, o principal benefício não é o impacto, mas a possibilidade de usar 
 
 {% include produto-card.html id="wap_wf_12k4_2" %}
 
+> **Leia também:** [Review da WAP WF 12K4.2](/furadeiras/reviews/review-wap-wf-12k4-2/)
+
 ## Vonder PFV 012: kit completo para quem está começando
 
-A **Vonder PFV 012**, código **60.01.012.000**, é uma furadeira/parafusadeira **12 V sem impacto**, indicada oficialmente para apertar e soltar parafusos de até **6 mm de diâmetro** e perfurar madeira ou metal. A fabricante especifica bateria de íons de lítio de **1,3 Ah**, mandril de aperto rápido de **10 mm**, rotação variável de **0–650 rpm**, reversão e **18 posições de torque mais uma de perfuração**. <https://www.vonder.com.br/produto/parafusadeirafuradeira_a_bateria_12_v_fonte_de_carregamento_bivolt_automtica_pfv_012_vonder/7916>
+A **Vonder PFV 012**, código **60.01.012.000**, é uma furadeira/parafusadeira **12 V sem impacto**, indicada oficialmente para apertar e soltar parafusos de até **6 mm de diâmetro** e perfurar madeira ou metal. A fabricante especifica bateria de íons de lítio de **1,3 Ah**, mandril de aperto rápido de **10 mm**, rotação variável de **0–650 rpm**, reversão e **18 posições de torque mais uma de perfuração**. 
 
 O diferencial é o conteúdo do conjunto descrito pela Vonder: maleta, uma bateria, fonte de carregamento bivolt automática, seis brocas de aço rápido, seis bits, suporte magnético e trena de 5 m. Para quem não tem nenhum acessório, esse pacote pode reduzir compras adicionais. Porém, bits e brocas de um kit inicial não substituem acessórios específicos de qualidade para todos os trabalhos.
 
@@ -74,6 +78,8 @@ Para montagem de móveis, o ajuste de embreagem é mais relevante que a rotaçã
 - **Limitações:** sem impacto; rotação máxima de 650 rpm; bateria de 1,3 Ah; preço abaixo de R$ 300 não confirmado nesta pesquisa.
 
 {% include produto-card.html id="vonder_pfv_012" %}
+
+> **Leia também:** [Review da Vonder PFV 012](/furadeiras/reviews/review-vonder-pfv-012/)
 
 ## Comparação lado a lado
 
