@@ -266,8 +266,6 @@ wap_bpfi_12k4_wf_12k4_2:
     - nome: "Destaque Principal"
       valor: "Duas furadeiras de impacto 12V com 30 Nm e mandril de 10 mm; a principal diferença está na rotação e no conteúdo dos kits"
 
-
-
 wap_bpf_12k3:
   nome: "WAP BPF 12K3"
   descricao: "Furadeira e parafusadeira 12V sem impacto, com torque de 17 Nm, mandril de 10 mm, 18 ajustes de torque e rotação de até 740 rpm."
@@ -1555,7 +1553,7 @@ makita_hp332dwye:
   links:
     amazon: ''
     mercadolivre: "https://meli.la/15zGJu2"
-    shopee: ''
+    shopee: "https://s.shopee.com.br/8pnLoRhlE9"
   especificacoes:
   - nome: Categoria
     valor: Furadeira/parafusadeira de impacto 12v cxt brushless, com kit brasileiro de duas baterias de 1,5 ah
@@ -1718,7 +1716,7 @@ makita_xph14z_dhp485:
   links:
     amazon: ""
     mercadolivre: "https://meli.la/1Vn1jSb"
-    shopee: ""
+    shopee: "https://s.shopee.com.br/BVNUwQO5w"
   especificacoes:
     - nome: "Modelo Comercial"
       valor: "Makita DHP485Z (Brasil; kit DHP485RFJ, conforme variante)"
