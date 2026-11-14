@@ -93,7 +93,7 @@ O motor com escovas não oferece a mesma arquitetura dos modelos brushless mais 
 | **Makita HP333DZ / HP333DWYE** | 12V max CXT e função impacto; DZ é avulsa e DWYE é kit | Quem já utiliza a plataforma Makita CXT; conferir qual variante está à venda |
 | **Bosch GSB 12V-30** | Bosch Professional 12V, motor brushless e função impacto | Quem prioriza motor sem escovas e já possui baterias Bosch 12V |
 
-A comparação depende do **código exato** e da variante comercial. No caso da Makita HP333, a auditoria do catálogo orienta distinguir a **HP333DZ (ferramenta avulsa)** da **HP333DWYE (kit)**, sem presumir que ambas acompanham bateria e carregador. Na Bosch, a família **GSB** tem função impacto; não a confunda com modelos **GSR**, que podem não oferecer esse recurso. Confirme também a disponibilidade e o conteúdo de cada kit no momento da compra. Para outras opções, consulte nossos [reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
+A comparação depende do **código exato** e da variante comercial. No caso da Makita HP333, a auditoria do catálogo orienta distinguir a **HP333DZ (ferramenta avulsa)** da **HP333DWYE (kit)**, sem presumir que ambas acompanham bateria e carregador. Na Bosch, a família **GSB** tem função impacto; não a confunda com modelos **GSR**, que podem não oferecer esse recurso. Confirme também a disponibilidade e o conteúdo de cada kit no momento da compra. Para outras opções, consulte nossos [reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
 
 ## Perguntas Frequentes
 
