@@ -29,7 +29,7 @@ avaliacao:
 
 Este artigo examina a **Bosch GSB 12V-30**, furadeira/parafusadeira de impacto da linha Professional 12V com motor brushless. A ficha oficial informa 30 Nm em aplicação dura e 18 Nm em aplicação macia, duas velocidades, até 24.000 impactos por minuto e mandril de 1 a 10 mm. É uma ferramenta compacta para montagem, instalações e perfurações ocasionais em alvenaria. Não substitui um martelete SDS-Plus em concreto resistente ou trabalhos pesados contínuos. No Brasil, há pelo menos duas configurações oficiais relevantes: a ferramenta em caixa de papelão, sem bateria e carregador, e o kit com duas baterias de 2,0 Ah, carregador e maleta.
 
-Com base no manual e nas fichas oficiais da Bosch, esta análise distingue capacidades declaradas de desempenho que dependeria de testes práticos. Se você procura [outros reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}), também vale conferir nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) para comparar modelos antes de decidir.
+Com base no manual e nas fichas oficiais da Bosch, esta análise distingue capacidades declaradas de desempenho que dependeria de testes práticos. Se você procura [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}), também vale conferir nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) para comparar modelos antes de decidir.
 
 {% include resumo-avaliacao.html %}
 
@@ -97,7 +97,7 @@ Também é importante comparar os kits: a GSB 12V-30 pode ser comprada sem bater
 
 **Qual escolher?** A Bosch GSB 12V-30 é interessante para quem prioriza motor brushless, formato compacto e já utiliza baterias Bosch Professional 12V. A Makita HP333 pode fazer sentido para quem já possui baterias CXT ou encontra um kit com preço competitivo. Para ambas, o custo total depende da bateria, do carregador e dos acessórios incluídos. Nenhuma das duas é a escolha adequada para perfuração frequente em concreto estrutural; nesse cenário, avalie um martelete SDS-Plus.
 
-Para conhecer outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e os [reviews de furadeiras]({{ '/furadeiras/reviews/' | relative_url }}).
+Para conhecer outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e os [reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
 
 ## Perguntas Frequentes
 
