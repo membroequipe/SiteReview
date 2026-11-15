@@ -10,6 +10,7 @@ produto_id: dewalt_dcd716d2
 image: "/assets/images/posts/dewalt-dcd716d2.webp"
 image_alt: "Furadeira e parafusadeira de impacto DeWalt DCD716D2 12V"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -127,6 +128,9 @@ A **DeWalt DCD716D2-BR** pode valer a pena para quem procura uma furadeira e par
 
 Por outro lado, não se deve comprar o modelo esperando um motor brushless, mandril de 13 mm ou iluminação tripla. Para concreto estrutural, serviços intensivos e furos maiores, faz mais sentido avaliar um martelete ou uma ferramenta de categoria superior. Antes de fechar o pedido, confirme a capacidade das baterias e o código comercial do kit anunciado.
 
-**Fontes técnicas:** [DeWalt Brasil — DCD716D2-BR](https://www.dewalt.com.br/pt-br/produto/dcd716d2-br/kit-parafusadeirafuradeira-com-impato-38-10-mm-12v-max-ion-de-litio-carregador) e [Catálogo DeWalt 2025, página 21](https://sulmodulos.com.br/wp-content/uploads/2026/02/Catalogo-Completo-DEWALT.pdf). Há divergência de torque e capacidade das baterias entre materiais oficiais; as especificações devem ser conferidas novamente em atualizações futuras.
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
+
