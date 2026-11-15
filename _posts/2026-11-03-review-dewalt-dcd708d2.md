@@ -12,6 +12,7 @@ produto_id: dewalt_dcd708d2
 image: /assets/images/posts/dewalt-dcd708d2.webp
 image_alt: Furadeira e parafusadeira DeWalt DCD708D2
 date: '2026-11-03'
+last_modified_at: '2026-11-15'
 author: Equipe de Análises
 avaliacao:
   nota: 8.9
@@ -135,5 +136,9 @@ A **DeWalt DCD708D2** recebe nota editorial **8,9/10** por sua adequação à **
 O maior benefício é escolher a ferramenta sabendo o que ela faz e o que não faz. Os principais pontos favoráveis são o corpo compacto para armários e nichos, o motor brushless, as duas velocidades, o mandril de 13 mm e a iluminação de trabalho. Em contrapartida, ela não possui impacto, não é indicada para perfuração em concreto ou alvenaria e não há torque oficial em Nm para comparação direta. O conteúdo do kit D2 também precisa ser confirmado no anúncio brasileiro. Para **perfuração em concreto, tijolos e blocos sem função impacto**, procure uma solução mais apropriada em vez de exigir além do previsto no manual.
 
 Antes de finalizar, confira o conteúdo real da embalagem, os preços atualizados e a assistência no Brasil. Para mais orientações, veja nosso [guia de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}) e o [guia de montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 
 **Fonte oficial:** [Manual DeWalt DCD708 — instruções e segurança](https://www.dewalt.com/GLOBALBOM/QU/DCD708B/1/Instruction_Manual/EN/N592685_DCD708_NA.pdf). Para compra no Brasil, confira a identificação comercial **DCD708D2-BR** e o conteúdo efetivo da embalagem.
