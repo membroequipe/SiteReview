@@ -10,6 +10,7 @@ produto_id: bosch_gsr_120_li
 image: "/assets/images/posts/bosch-gsr-120-li.webp"
 image_alt: "Furadeira e parafusadeira Bosch GSR 120-LI"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.9
@@ -130,6 +131,9 @@ A GSR 120-LI é uma furadeira/parafusadeira sem impacto. A GSB 120-LI possui mec
 
 Não. A tensão nominal, sozinha, não garante compatibilidade. Utilize baterias e carregadores Bosch Professional 12V aprovados para o modelo e confira os códigos indicados pelo fabricante antes de comprar.
 
-## Fontes e Critérios da Análise
+{% include produto-card.html %}
 
-Esta avaliação foi elaborada com base na [ficha técnica oficial do fabricante](https://www.bosch-professional.com/br/pt/products/gsr-120-li-06019G80E1) e nos dados do cadastro do produto no site. Os valores citados são especificações declaradas, não medições independentes. Preços, autonomia real, durabilidade e satisfação de compradores não foram estimados sem evidência verificável. A nota editorial sintetiza adequação a montagem de móveis, versatilidade e limitações; não equivale a um teste de laboratório.
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
+
