@@ -9,6 +9,7 @@ categories: [marteletes, reviews]
 produto_id: bosch_gbh_18v_21
 image: "/assets/images/posts/bosch-gbh-18v-21.webp"
 date: 2026-11-03
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.8
@@ -102,6 +103,8 @@ Use óculos de proteção e proteção auditiva compatível com o trabalho. A po
 
 Depois de furar, limpe o orifício conforme as instruções da bucha ou do chumbador. Alguns sistemas exigem escovação e sopro ou aspiração em sequência específica. Um furo sujo pode reduzir a capacidade de ancoragem mesmo quando a broca e a máquina foram corretamente escolhidas. Evite instalar cargas importantes em bases ocas ou degradadas sem um sistema de fixação dimensionado para elas.
 
+{% include produto-card.html %}
+
 ## Vale a pena comprar?
 
 O melhor custo-benefício depende do preço final e do conjunto necessário para trabalhar. O cadastro do produto informa que bateria e carregador dependem da versão comercial; portanto, compare o custo de ferramenta, acumulador e carregador quando o anúncio for de corpo avulso. Verifique também se o kit inclui punho auxiliar, limitador de profundidade, maleta e outros acessórios anunciados. Compare sempre pelo código completo e pela lista de itens da embalagem.
@@ -145,4 +148,6 @@ As especificações podem mudar conforme país, código de pedido e revisão. Co
 {% include produto-card.html %}
 
 
-**Fontes oficiais consultadas:** [Bosch Professional — GBH 18V-21: ficha técnica e especificações](https://www.bosch-professional.com/gb/en/products/gbh-180-li-brushless-0611911100) e [catálogo Bosch Brasil 2026](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf).
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
