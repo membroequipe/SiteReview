@@ -10,6 +10,7 @@ produto_id: makita_xph14z_dhp485
 image: "/assets/images/posts/makita-dhp485z.webp"
 image_alt: "Furadeira e parafusadeira de impacto Makita DHP485Z 18V LXT brushless"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -323,9 +324,6 @@ Antes de comprar, confira o código exato da ferramenta, a compatibilidade das b
 
 {% include produto-card.html %}
 
-## Fontes Técnicas Oficiais
+## Fontes oficiais
 
-- [Makita Brasil — DHP485Z: especificações, capacidades, torque, dimensões e configuração comercial](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
-- [Makita Brasil — catálogo de furadeiras e parafusadeiras de impacto](https://www.makita.com.br/catalogoF2.asp?codParam2=1)
-- [Makita Brasil — brocas e acessórios compatíveis com a DHP485Z](https://www.makita.com.br/catalogoADetalhes.asp?codParamD=1203)
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
