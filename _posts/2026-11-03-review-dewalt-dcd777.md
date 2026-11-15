@@ -10,6 +10,7 @@ produto_id: dewalt_dcd777
 image: "/assets/images/posts/dewalt-dcd777.webp"
 image_alt: "DeWalt DCD777 em destaque"
 date: 2026-11-03
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.6
@@ -135,11 +136,8 @@ A DeWalt DCD777 é uma boa opção para quem deseja uma furadeira/parafusadeira 
 
 Para quem já utiliza baterias 20V MAX, o modelo pode aproveitar um investimento existente. Para quem monta móveis apenas ocasionalmente ou trabalha em espaços muito apertados, o tamanho e o custo do conjunto devem ser comparados com opções compactas de 12V. A nota editorial de 8,6/10 reflete a proposta e as especificações documentadas, não um teste laboratorial nem uma média de avaliações de clientes.
 
-### Referência técnica consultada
-
-- [DeWalt Brasil — DCD7771D2-BR, especificações e conteúdo do kit](https://www.dewalt.com.br/pt-br/produto/dcd7771d2-br/parafusadeirafuradeira-12-13mm-20v-max)
-- [Manual DeWalt DCD7771/DCD7781](https://www.toolservicenet.com/i/DEWALT/GLOBALBOM/BR/DCD7771D2/1/Instruction_Manual/EN/NA516957_DCD7771_DCD7781_T1_LA_2_.pdf)
-
-Os dados técnicos podem variar entre revisões e kits comerciais. Confira o código exato antes de comprar.
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
