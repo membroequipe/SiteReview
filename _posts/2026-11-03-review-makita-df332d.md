@@ -10,6 +10,7 @@ produto_id: makita_df332d
 image: "/assets/images/posts/makita-df332d.webp"
 image_alt: "Makita DF332D em destaque"
 date: 2026-11-03
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.8
@@ -143,10 +144,8 @@ A Makita DF332D é uma opção interessante para quem procura uma furadeira/para
 
 Ela não substitui uma furadeira de impacto e não oferece os cabeçotes angulares e excêntricos do sistema Bosch FlexiClick. A compra também exige atenção ao código do kit e aos acessórios incluídos. Se você já possui baterias CXT compatíveis e valoriza uma ferramenta curta, a DF332D merece entrar na comparação. A nota editorial de **8,8/10** representa sua adequação aos usos descritos, sem alegar testes próprios ou dados de satisfação de compradores.
 
-### Referência técnica consultada
-
-- [Ficha oficial do fabricante](https://www.makita.co.th/V2Products/Details/1486)
-
-Os dados técnicos podem variar entre revisões e kits comerciais. Confira o código exato antes de comprar.
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante. Os dados técnicos podem variar entre revisões e kits comerciais. 
