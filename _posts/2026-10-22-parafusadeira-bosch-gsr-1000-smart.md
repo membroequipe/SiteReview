@@ -10,6 +10,7 @@ produto_id: bosch_gsr_1000_smart
 image: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.webp"
 image_alt: "Parafusadeira Bosch GSR 1000 Smart em destaque"
 date: 2026-10-22
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -100,6 +101,10 @@ A Bosch GSR 1000 Smart é uma escolha prática para quem precisa principalmente 
 
 A compra faz mais sentido para quem valoriza tamanho reduzido e tarefas leves de parafusamento. Se a necessidade inclui perfuração com brocas convencionais, procure uma furadeira/parafusadeira com mandril. A nota editorial de **8,7/10** considera a proposta específica do produto, não testes próprios nem uma média consolidada de avaliações de consumidores.
 
-**Fontes oficiais consultadas:** [manual Bosch GSR 1000 Smart](https://www.bosch-professional.com/binary/manualsmedia/o356539v21_160992A6GC_202102.pdf), [página oficial Bosch GSR 1000](https://www.bosch-professional.com/br/pt/products/gsr-1000-06019F40E3), [catálogo Bosch 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_1_pt_-_empreiteiro_-_web.pdf), [catálogo Bosch 2026](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf) e [ficha oficial Makita DF001DW](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=697).
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
+
+
