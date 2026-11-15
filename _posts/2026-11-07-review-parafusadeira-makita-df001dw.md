@@ -10,6 +10,7 @@ produto_id: makita_df001dw
 image: /assets/images/posts/makita-df001dw.webp
 image_alt: Parafusadeira Makita DF001DW 3,6V articulada com estojo e conjunto de 81 acessórios
 date: 2026-11-07
+last_modified_at: 2026-11-15
 author: Equipe de Análises
 
 avaliacao:
