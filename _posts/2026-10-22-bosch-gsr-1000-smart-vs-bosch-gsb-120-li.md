@@ -8,6 +8,7 @@ categories: [comparativos]
 image: "/assets/images/posts/bosch-gsr-1000-smart-vs-bosch-gsb-120-li.webp"
 image_alt: "Bosch GSR 1000 Smart e Bosch GSB 120-LI em comparativo"
 date: 2026-10-22
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 ---
 
@@ -105,4 +106,6 @@ Confira o código exato da variante, o conteúdo da embalagem, o carregador e a 
 A **Bosch GSR 1000 Smart** cumpre bem o papel de uma ferramenta de apoio leve para montagens cotidianas e pequenos reparos. No entanto, para quem procura uma ferramenta mais versátil para diversas demandas residenciais e de manutenção — incluindo perfuração em paredes de tijolo —, a **Bosch GSB 120-LI** entrega um conjunto significativamente mais robusto, potente e versátil.
 
 
-Fontes técnicas: [ficha Bosch GSR 1000](https://www.bosch-professional.com/br/pt/products/gsr-1000-06019F40E3); [ficha Bosch GSB 120-LI](https://www.bosch-professional.com/br/pt/products/gsb-120-li-06019G81E4);
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
