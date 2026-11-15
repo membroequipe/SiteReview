@@ -10,6 +10,7 @@ produto_id: bosch_go_3
 image: /assets/images/posts/bosch-go-3.webp
 image_alt: Parafusadeira Bosch GO 3 Professional 3,6V com estojo e cabo USB-C
 date: 2026-11-07
+last_modified_at: 2026-11-15
 author: Equipe de Análises
 
 avaliacao:
@@ -69,6 +70,8 @@ A terceira geração combina bateria interna de 2,0 Ah, carregamento USB-C, enca
 | Diâmetro máximo de parafuso indicado no manual | 5 mm |
 | Modos de acionamento | Botão e pressão contra a peça |
 | Freio | Eletrônico |
+
+{% include produto-card.html %}
 
 Os dados devem ser conferidos pela referência completa do produto. Anúncios de GO, GO 2 e GO 3 podem aparecer misturados nos marketplaces, embora sejam gerações diferentes e tenham acessórios, carregamento e ajustes distintos.
 
@@ -161,7 +164,7 @@ Antes de comprar, confirme:
 
 Se dois anúncios forem da mesma geração e trouxerem a mesma embalagem, compare o custo final e a confiabilidade do vendedor. Um preço menor não compensa se o anúncio não identifica claramente o modelo ou omite itens que você espera receber.
 
-<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
+{% include produto-card.html %}
 
 ## Vantagens e limitações
 
@@ -221,13 +224,9 @@ Ela não é uma compra indicada para quem precisa furar madeira, metal ou parede
 
 Nossa nota editorial é **8,6/10**. A pontuação considera a proposta de uso, os recursos e as especificações oficiais, mas não representa teste físico independente. Para o público certo — quem já tem uma furadeira e deseja uma ferramenta pequena para parafusamento frequente — a GO 3 é uma opção coerente. Para quem precisa de uma única ferramenta para tudo, vale investir em uma furadeira/parafusadeira com mandril.
 
+{% include produto-card.html %}
 
-## Fontes técnicas e comerciais consultadas
+## Fontes oficiais
 
-- [Bosch Professional Brasil — Bosch GO 3, código 06019H22E0](https://www.bosch-professional.com/br/pt/products/bosch-go-gen3-06019H22E0)
-- [Catálogo Bosch Professional 2026 — ficha técnica da GO 3](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf)
-- [Manual técnico Bosch GO — especificações da bateria, rotação, torque e carregamento](https://media.bosch-pt.co.in/binary/manualsmedia/o430719v21_160992A7HT_202309.pdf)
-- [Mercado Livre — anúncios da Bosch GO 3](https://lista.mercadolivre.com.br/bosch-go-3)
-- [Loja do Mecânico — Bosch GO 3, código 06019H22E0](https://www.lojadomecanico.com.br/produto/616949/21/223/parafusadeira-14pol-36v-go3-bosch-06019h22e0-000)
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 *Nota de transparência: análise documental e editorial. Não foram realizados testes práticos próprios nem levantamento estatístico de avaliações de compradores. Preços, estoque, composição dos kits e condições de garantia devem ser confirmados no anúncio e no momento da compra.*
