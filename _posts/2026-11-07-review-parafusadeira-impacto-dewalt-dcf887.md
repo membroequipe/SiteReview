@@ -10,6 +10,7 @@ produto_id: dewalt_dcf887
 image: /assets/images/posts/dewalt-dcf887.webp
 image_alt: Parafusadeira de impacto DeWalt DCF887 20V MAX XR brushless com encaixe sextavado de 1/4 polegada
 date: 2026-11-07
+last_modified_at: 2026-11-15
 author: Equipe de Análises
 
 avaliacao:
@@ -80,6 +81,8 @@ No mercado brasileiro, uma das referências encontradas é a **DCF887B-B3**, com
 **Sobre a taxa de impacto:** o manual técnico da DCF887 informa até 3.800 impactos por minuto, enquanto a página brasileira do combo DCK299H2-BR apresenta 3.600 ipm para a ferramenta. Como há diferença entre fontes comerciais, mantemos a ressalva e recomendamos confirmar a ficha correspondente ao código e à revisão vendidos.
 
 O torque máximo também não deve ser interpretado como torque de aperto garantido em qualquer parafuso. O resultado depende do material, diâmetro e comprimento do fixador, bateria, acessório, tempo de acionamento e técnica de trabalho. Para aplicações que exigem torque final especificado, utilize ferramenta de medição apropriada.
+
+{% include produto-card.html %}
 
 ## O que diferencia a DCF887?
 
@@ -215,7 +218,7 @@ Antes de avançar para a compra, confirme:
 
 Se você já possui baterias 20V MAX, a ferramenta avulsa pode fazer sentido. Se está começando na plataforma, compare o preço do conjunto completo antes de decidir. Não compare o valor de uma ferramenta nua com o de um kit como se fossem a mesma oferta.
 
-<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
+{% include produto-card.html %}
 
 ## Vantagens e limitações
 
@@ -284,9 +287,8 @@ Ela não é a escolha certa para quem precisa furar, trabalhar com parafusos mui
 
 Nossa nota editorial é **8,7/10**. A pontuação considera as especificações oficiais, os modos de operação, a plataforma de bateria e a presença comercial brasileira. Não representa teste físico independente. Para quem já possui baterias DeWalt 20V MAX e executa fixações frequentes, a DCF887 merece entrar na lista de opções. Para quem está começando do zero, compare o preço do kit completo e também a DCF850 antes de decidir.
 
+{% include produto-card.html %}
 
-## Fontes técnicas e comerciais consultadas
+## Fontes oficiais
 
-- [DeWalt Brasil — DCF887B-B3, ferramenta sem bateria e carregador](https://www.dewalt.com.br/pt-br/produto/dcf887b-b3/parafusadeira-de-impacto-14-635mm-sem-fio-20v-max-3-vvr-sem-bateria-e-sem)
-- [DeWalt Brasil — combo DCK299H2-BR com DCF887](https://www.dewalt.com.br/pt-br/produto/dck299h2-br/combo-paraffuradeira-impacto-12-13mm-dcd996-e-parafusadeira-de-impacto-14-635mm)
-- [Manual técnico DeWalt DCF887](https://service.dewalt.com.au/i/DEWALT/GLOBALBOM/XE/DCF887/1/Instruction_Manual/EN/DCF887_T1_10_T20_GB__XE_09_2023.pdf)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
