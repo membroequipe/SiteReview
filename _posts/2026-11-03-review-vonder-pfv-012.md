@@ -12,7 +12,7 @@ produto_id: vonder_pfv_012
 image: assets/images/posts/vonder_pfv012i_12v.webp
 image_alt: Parafusadeira e furadeira Vonder PFV 012
 date: '2026-11-03'
-last_modified_at: '2026-11-14'
+last_modified_at: '2026-11-15'
 author: Equipe de Análises
 avaliacao:
   nota: 8.0
@@ -144,6 +144,6 @@ Se ainda estiver em dúvida entre modelos com ou sem impacto, veja nosso [compar
 
 ## Fontes oficiais
 
- - [Ficha técnica ou manual do fabricante](https://www.vonder.com.br/produto/parafusadeirafuradeira_a_bateria_12_v_fonte_de_carregamento_bivolt_automtica_pfv_012_vonder/7916){:target="_blank" rel="noopener nofollow"}
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 
 *Nota de transparência: análise documental e editorial; não foram realizados testes práticos próprios. Preços e composição dos kits devem ser verificados no momento da compra.*
