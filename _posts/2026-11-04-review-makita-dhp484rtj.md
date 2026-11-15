@@ -10,6 +10,7 @@ produto_id: makita_dhp484rtj
 image: "/assets/images/posts/makita-dhp484rtj.webp"
 image_alt: "Furadeira e parafusadeira de impacto Makita DHP484Z com motor brushless"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -430,12 +431,9 @@ Antes de comprar, confira a composição do kit, a garantia aplicável e a proce
 
 {% include produto-card.html %}
 
-## Fontes Técnicas Oficiais
+## Fontes oficiais
 
-- [Makita Espanha — DHP484RTJ: ficha técnica oficial e conteúdo do kit](https://www.makita.es/data/sr/productinfo/generated/dhp484rtj_3.pdf)
-- [Makita Espanha — DHP484Z: especificações técnicas da ferramenta](https://www.makita.es/data/ab/files/product_info/dhp484z.pdf)
-- [Makita Espanha — Catálogo técnico DHP484 e DDF484](https://www.makita.es/data/pam/public/media/catalog_and_brochures/makita_dhp484_ddf484.pdf)
-- [Makita Brasil — DHP485Z: referência oficial para comparação](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
+  
 **Transparência editorial:** este review utiliza documentação oficial da Makita e dados do cadastro de produtos do site. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. A composição de ferramenta avulsa, sem bateria e carregador refere-se à configuração RTJ documentada pela Makita Espanha. O cadastro brasileiro identifica a DHP484Z como ferramenta avulsa e a DHP484RFE como possível alternativa de kit, cuja composição deve ser confirmada no anúncio.
 
