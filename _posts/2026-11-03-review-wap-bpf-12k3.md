@@ -12,6 +12,7 @@ produto_id: wap_bpf_12k3
 image: /assets/images/posts/wap-bpf-12k3.webp
 image_alt: Parafusadeira e furadeira WAP BPF 12K3
 date: '2026-11-03'
+last_modified_at: '2026-11-15'
 author: Equipe de Análises
 avaliacao:
   nota: 8.1
@@ -141,6 +142,6 @@ Antes de finalizar, confirme o modelo exato, o conteúdo do kit, a garantia apli
 
 ## Fontes oficiais
 
-- [Ficha técnica ou manual do fabricante](https://mais.wap.ind.br/produtos/BPF-12K3/WAP-BPF-12K3-Manual-Rev.04.pdf)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 
 *Nota de transparência: análise documental e editorial; não foram realizados testes práticos próprios. Preços e composição dos kits devem ser verificados no momento da compra.*
