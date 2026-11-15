@@ -10,6 +10,7 @@ produto_id: dewalt_dcd700d2_br
 image: "/assets/images/posts/dewalt-dcd700d2-br.webp"
 image_alt: "Furadeira e parafusadeira DeWalt DCD700 12V MAX sem impacto"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -43,7 +44,7 @@ A nota editorial de **7,8/10** considera as especificações da fabricante, as a
   {% include ficha-tecnica.html %}
 </div>
 
-<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
+{% include produto-card.html %}
 
 ## Construção e Ergonomia
 
@@ -204,6 +205,8 @@ Não presuma que um anúncio com o sufixo D2 inclua duas baterias. Confira o có
 
 Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e os [reviews de furadeiras e parafusadeiras]({{ '/reviews/' | relative_url }}).
 
+{% include produto-card.html %}
+
 ## Opinião dos Compradores
 
 A DeWalt DCD700 possui características que podem interessar principalmente a usuários que procuram uma ferramenta compacta para parafusamento e manutenção.
@@ -358,13 +361,11 @@ A nota não representa resultado de ensaio instrumental ou média de avaliaçõe
 
 **Recomendamos a DeWalt DCD700 principalmente para montagem de móveis e manutenção leve.** Para quem precisa de impacto, maior torque ou utilização profissional intensiva, existem alternativas mais adequadas.
 
-<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
+{% include produto-card.html %}
 
-## Fontes Técnicas Oficiais
+## Fontes oficiais
 
-- [DeWalt Brasil — Kit DCK201C2-BR com furadeira DCD700: torque, mandril, capacidades e acessórios](https://www.dewalt.com.br/pt-br/produto/dck201c2-br/kit-parafusadeirafuradeira-38-dcd700-parafusadeira-de-impacto-14-dcf805-com)
-- [DeWalt — Manual oficial DCD700 e DCD710](https://support.dewalt.com/hc/es/article_attachments/115004372094)
-- [DeWalt Brasil — DCD710D2-BR: possível alternativa comercial brasileira, não equivalente automática](https://www.dewalt.com.br/pt-br/produto/dcd710d2-br/kit-parafusadeirafuradeira-38-10-mm-12v-max-ion-de-litio-carregador-bivolt-2)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 
 **Transparência editorial:** este review utiliza documentação oficial da fabricante e análise técnica das especificações. Não foram realizados testes práticos próprios, nem coletada uma amostra estatística de avaliações de consumidores. A configuração comercial DCD700D2-BR exige confirmação antes da publicação de informações específicas sobre seu kit.
 
