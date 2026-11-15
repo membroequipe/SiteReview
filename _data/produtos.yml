@@ -2216,8 +2216,8 @@ makita_df001dw:
   imagem: "/assets/images/posts/makita-df001dw.webp"
   links:
     amazon: ""
-    mercadolivre: ""
-    shopee: ""
+    mercadolivre: "https://meli.la/1mpzRnV"
+    shopee: "https://s.shopee.com.br/114Vi5cqkW"
   especificacoes:
     - nome: "Modelo"
       valor: "Makita DF001DW"
