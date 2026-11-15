@@ -10,6 +10,7 @@ produto_id: bosch_gsb_180_li
 image: "/assets/images/posts/bosch-gsb-180-li.webp"
 image_alt: "Bosch GSB 180-LI em destaque"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -154,7 +155,8 @@ Em 2026, recomendamos tratá-la como uma alternativa de estoque legado, não com
 
 **Recomendação:** compre a GSB 180-LI somente quando a condição e o preço justificarem a escolha. Para uma compra nova, compare diretamente com a GSB 185-LI. Para concreto resistente e perfurações frequentes, considere um martelete SDS-plus. A nota editorial de 8,7/10 avalia as características do modelo em sua categoria, não sua competitividade atual frente a todos os preços e ofertas.
 
-**Fontes técnicas:** [Manual Bosch GSB 180-LI (PDF)](https://www.bosch-professional.com/binary/manualsmedia/o484974v21_160992AA08_202410.pdf), [Bosch Professional Brasil — GSB 185-LI](https://www.bosch-professional.com/br/pt/products/gsb-185-li-06019K31E3) e [Catálogo Bosch Brasil 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_7_pt_-_facility_-_web.pdf).
-
 {% include produto-card.html %}
 
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
