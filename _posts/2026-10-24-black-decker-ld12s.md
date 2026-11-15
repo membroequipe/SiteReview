@@ -10,6 +10,7 @@ produto_id: black_decker_ld12s
 image: "/assets/images/posts/black-decker-ld12s.webp"
 image_alt: "Black+Decker LD12S em destaque"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -115,12 +116,9 @@ Sua limitação mais importante é a ausência de impacto. Quem pretende instala
 
 A **Bosch GSR 12V-15 Professional** pode ser interessante para quem precisa de especificações de torque e rotação claramente publicadas. A **Makita DF001DW**, por sua vez, é uma opção de parafusamento leve de 3,6V, não uma substituta equivalente para furação. A nota **7,5/10** mantida neste review representa uma avaliação editorial da proposta de uso doméstico, não uma nota consolidada de compradores.
 
-### Fontes oficiais consultadas
-
-- [BLACK+DECKER — LD12S-BR, ficha oficial](https://br.blackanddecker.global/produto/ld12s-br/parafusadeira-furadeira-38-10mm-12v-ion-de-litio-com-13-acessorios-bivolt)
-- [BLACK+DECKER — LD12SP-BR, kit com caixa transparente](https://br.blackanddecker.global/produto/ld12sp-br/kit-parafusadeira-furadeira-38-10mm-12v-ion-de-litio-com-13-acessorios-e-caixa-transparente-bivolt)
-- [BLACK+DECKER — LD12SC-BR](https://br.blackanddecker.global/produto/ld12sc-br/kit-parafusadeira-furadeira-38-10mm-12v-ion-de-litio-com-31-acessorios-e-maleta)
-- [Bosch Professional — GSR 12V-15](https://www.bosch-professional.com/pt/pt/products/gsr-12v-15-060186810G)
-- [Makita Brasil — DF001DW](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=697)
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
+
