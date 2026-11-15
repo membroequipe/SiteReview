@@ -10,6 +10,7 @@ produto_id: black_decker_bcd704c1
 image: "/assets/images/posts/black-decker-bcd704c1.webp"
 image_alt: "Furadeira e parafusadeira de impacto Black+Decker BCD704C1-BR"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -132,12 +133,8 @@ A compra faz mais sentido para quem precisa dessas funções em uma única ferra
 
 Em síntese: é uma ferramenta versátil para tarefas domésticas e perfurações ocasionais, mas a decisão deve considerar seus limites e a configuração real do kit, não apenas a tensão ou o torque anunciado.
 
-## Fontes consultadas
-
-- [BLACK+DECKER Brasil — BCD704C1-BR, ficha oficial](https://br.blackanddecker.global/produto/bcd704c1-br/parafusadeira-furadeira-impacto-38-10mm-20v-max-ion-de-litio-2-velocidades-bivolt)
-- [BLACK+DECKER — Manual da família BCD704](https://www.toolservicenet.com/i/BLACK_DECKER/GLOBALBOM/B3/BCD704C1/1/Instruction_Manual/EN/NA421914_BCD704-T1-LAG_20V.pdf)
-- [Bosch Professional — GSB 18V-21, especificações técnicas](https://www.bosch-professional.com/pt/pt/products/gsb-180-li-06019H110C)
-- [DeWalt — DCD701D2-GB, especificações da versão internacional](https://www.dewalt.co.uk/en-gb/product/dcd701d2-gb/12v-xr-brushless-sub-compact-drill-driver-2-2ah-batteries)
-- [KaBuM — anúncio BCD704C1-BR, referência de varejo para composição de kit e bateria](https://www.kabum.com.br/produto/423138/furadeira-e-parafusadeira-black-decker-20v-com-impacto-3-8-polegadas-bivolt-bcd704c1-br)
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
