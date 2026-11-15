@@ -6,7 +6,7 @@ slug: "qual-a-melhor-furadeira"
 categories: [guias]
 image: /assets/images/posts/melhores-furadeiras.webp
 date: 2026-10-22
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 ---
 
@@ -772,17 +772,8 @@ A escolha deve partir da aplicação, não de um ranking absoluto. Os modelos ab
 
 ---
 
-*Artigo revisado em 4 de novembro de 2026. As especificações foram organizadas a partir de documentação técnica de fabricantes; confira sempre o código regional e a versão do produto. Não foram realizados testes físicos próprios para esta versão do texto. Preços, disponibilidade, códigos de kits e conteúdo de embalagens podem variar conforme o revendedor e a região.*
+*Artigo revisado em 15 de novembro de 2026. As especificações foram organizadas a partir de documentação técnica de fabricantes; confira sempre o código regional e a versão do produto. Não foram realizados testes físicos próprios para esta versão do texto. Preços, disponibilidade, códigos de kits e conteúdo de embalagens podem variar conforme o revendedor e a região.*
 
-## Fontes oficiais e metodologia de consulta
+## Fontes oficiais
 
-- [Manual Bosch GSR 1000 Smart (PDF)](https://www.bosch-professional.com/binary/manualsmedia/o356539v21_160992A6GC_202102.pdf)
-- [Catálogo Bosch Professional 2026 (PDF)](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf)
-- [Manual Bosch GSR 18V-150 C / GSB 18V-150 C (PDF)](https://www.bosch-professional.com/binary/manualsmedia/o522439v21_160992A9D1_202412.pdf)
-- [Bosch Professional — Furadeiras de impacto a bateria](https://www.bosch-professional.com/br/pt/furadeiras-de-impacto-a-bateria-131417-ocs-c/)
-- [Makita Brasil — HP333D no combo CLX228SAX](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=672)
-- [Makita Brasil — DHP484Z](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=249)
-- [Makita USA — XPH14Z](https://makitatools.com/products/details/XPH14Z/)
-- [DeWalt Brasil — DCD796D2-BR](https://www.dewalt.com.br/pt-br/produto/dcd796d2-br/kit-parafusadeirafuradeira-12-13-mm-com-impacto-20v-max-ion-de-litio-xr)
-- [WAP — BPF 12K3, página oficial](https://loja.wap.ind.br/parafusadeira-e-furadeira-a-bateria-li-ion-wap-bpf-12k3-black/p)
-- [WAP — Manual BPF 12K3 (PDF)](https://mais.wap.ind.br/produtos/BPF-12K3/WAP-BPF-12K3-Manual-Rev.04.pdf)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
