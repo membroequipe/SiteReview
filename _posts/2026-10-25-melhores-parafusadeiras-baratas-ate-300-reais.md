@@ -7,6 +7,7 @@ slug: melhores-parafusadeiras-baratas-ate-r-300
 categories: [guias]
 image: "/assets/images/posts/melhores-parafusadeiras-baratas-ate-300-reais.webp"
 date: 2026-10-26
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 ---
 
@@ -147,3 +148,6 @@ Use o carregador indicado pelo fabricante, evite calor excessivo, umidade e arma
 
 **A WAP BPF 12K3 é a escolha mais equilibrada para montagem leve**, considerando as especificações e as ofertas oficiais observadas, mas sua disponibilidade precisa ser confirmada. **A WAP WF 12K4.2 é a mais versátil**, com duas marchas e impacto, porém pode ultrapassar R$ 300. **A Vonder PFV 012 é uma alternativa com kit de acessórios**, desde que apareça a um preço compatível com o teto proposto.
 
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
