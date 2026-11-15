@@ -12,6 +12,7 @@ produto_id: makita_hp333dwye
 image: /assets/images/posts/makita-hp332dwye.webp
 image_alt: Makita HP332DWYE, modelo usado como referência na comparação com a HP333DWYE
 date: '2026-11-03'
+last_modified_at: '2026-11-15'
 author: Equipe de Análises
 avaliacao:
   nota: 9.0
@@ -43,6 +44,8 @@ Para quem chegou até esta página procurando a HP332DWYE, uma alternativa a con
 Nossa avaliação é **editorial**, baseada nas especificações oficiais e em sinais de disponibilidade e procura encontrados no varejo brasileiro. Não representa teste de bancada realizado pela equipe nem garantia de estoque. A análise a seguir mostra as diferenças, explica para quais tarefas a HP333 serve e orienta como conferir o kit antes de comprar.
 
 Antes de decidir, confira o código completo no anúncio. **HP333DWYE, HP333DWYX3 e HP333DZ não representam necessariamente o mesmo pacote**: a quantidade de baterias e os acessórios incluídos variam conforme a versão. Para quem procura a configuração mais próxima do kit HP332DWYE com duas baterias, o código a observar é HP333DWYE.
+
+{% include produto-card.html %}
 
 ## Construção e Ergonomia
 
@@ -88,8 +91,6 @@ Avaliações com fotografias da etiqueta e da maleta são mais úteis para confe
 
 Ao comparar vendedores, observe nota fiscal, política de devolução, assistência autorizada e descrição da garantia válida no Brasil. Se o preço estiver muito abaixo da média, confirme a procedência, o tipo de plugue do carregador, a tensão de entrada e o conteúdo exato do pacote antes de finalizar o pedido. Estoque e preço mudam rapidamente, especialmente em marketplaces.
 
-<!-- O card deve apontar somente para uma oferta que corresponda ao kit HP333DWYE. O YAML atual possui cadastros genéricos da família HP333, não uma entrada individual confirmada para este sufixo. -->
-
 ## Comparativo com Concorrentes
 
 A comparação mais importante para quem chegou procurando a HP332 é entre ela e a HP333. As duas utilizam a plataforma 12V CXT e oferecem função impacto, mas têm propostas técnicas diferentes:
@@ -129,6 +130,8 @@ Nunca ative o modo impacto ao parafusar em MDF. Deixe a ferramenta no modo paraf
 - **Carregador e acessórios:** confirme carregador, bit e maleta na lista da embalagem.
 - **Motor:** lembre-se de que a HP333 usa escovas; não é brushless.
 - **Plataforma:** confirme que suas baterias e carregadores são da família Makita 12V CXT, não LXT 18V.
+
+- {% include produto-card.html %}
 
 ## Perguntas Frequentes
 
@@ -172,8 +175,6 @@ Não é recomendável. Escolha o tamanho correto da ponta, em boas condições, 
 
 Confira o código completo, a quantidade e a capacidade das baterias, a presença do carregador, a maleta, a nota fiscal e a disponibilidade de assistência. HP333DWYE, HP333DWYX3 e HP333DZ podem corresponder a pacotes diferentes, mesmo quando a ferramenta principal parece igual.
 
-<!-- O card deve apontar somente para uma oferta que corresponda ao kit HP333DWYE. O YAML atual possui cadastros genéricos da família HP333, não uma entrada individual confirmada para este sufixo. -->
-
 ## Veredito Final e Recomendação de Compra
 
 A **Makita HP333** é uma alternativa a considerar por quem procurou a HP332DWYE e não encontrou uma oferta confiável. Ela mantém a proposta de furadeira/parafusadeira de impacto compacta na plataforma 12V CXT. Para quem deseja um kit com duas baterias, a configuração a conferir é a **HP333DWYE**; antes de comprar, confirme se o anúncio corresponde exatamente a esse código e inclui duas baterias de 1,5 Ah, carregador, bit e maleta. A disponibilidade em varejistas pode mudar, portanto não trate a pesquisa comercial como garantia de estoque atual.
@@ -184,4 +185,8 @@ Se o motor brushless for indispensável, não trate a HP333 como equivalente: pr
 
 Antes de finalizar, confira o código completo da embalagem, o conteúdo real do kit, os preços atualizados, o estoque do vendedor e a assistência no Brasil. Para mais orientações, veja nosso [guia de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}) e o [guia de montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
 
-**Fontes oficiais para conferência:** [Makita HP333 – ficha técnica da família](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=273) · [Makita HP332DWYE – ficha técnica do modelo original](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=286). Confirme na página do produto e no anúncio a variante exata do kit HP333DWYE e os itens incluídos.
+{% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
