@@ -10,6 +10,7 @@ produto_id: bosch_gtb_185_li
 image: /assets/images/posts/bosch-gtb-185-li.webp
 image_alt: Parafusadeira Bosch Professional GTB 185-LI 18V para drywall com bateria e acessório de profundidade
 date: 2026-11-07
+last_modified_at: 2026-11-15
 author: Equipe de Análises
 
 avaliacao:
@@ -84,6 +85,8 @@ No Brasil, a Bosch oferece a referência **06019K70E1**, normalmente comercializ
 **Atenção aos valores de torque:** algumas páginas técnicas Bosch apresentam 32 Nm como torque máximo em condição dura e 5,2 Nm como torque máximo em materiais macios. Para uma parafusadeira especializada em drywall, o valor de 5,2 Nm em materiais macios é o dado mais pertinente à aplicação. Não interprete 32 Nm como torque de aperto típico ao instalar placas de gesso.
 
 A Bosch indica parafusos para drywall de até 4,2 mm de diâmetro em placas com perfil de aço leve de 0,5 mm na descrição de aplicação do produto. A ficha geral também informa diâmetro máximo de parafuso de 6 mm. São referências de aplicação diferentes; para a instalação, siga as especificações do sistema construtivo, da placa e do fixador.
+
+{% include produto-card.html %}
 
 ## O que diferencia a GTB 185-LI?
 
@@ -296,10 +299,8 @@ A principal decisão de compra é escolher entre a versão avulsa e o kit. Quem 
 
 Nossa nota editorial é **8,9/10**. A pontuação considera a adequação ao trabalho de drywall, os recursos de produtividade, a ergonomia, a plataforma de bateria e a oferta comercial brasileira. Não representa teste físico independente. Para quem instala placas com frequência, a GTB 185-LI merece estar entre as primeiras opções a avaliar. Para uso ocasional ou tarefas variadas, uma ferramenta mais versátil pode fazer mais sentido.
 
+{% include produto-card.html %}
 
-## Fontes técnicas e comerciais consultadas
+## Fontes oficiais
 
-
-- [Bosch Professional — GTB 185-LI, página técnica e recursos](https://www.bosch-professional.com/iq/en/products/gtb-185-li-06019K7021)
-- [Manual Bosch GTB 185-LI, revisão 2025](https://www.bosch-professional.com/binary/manualsmedia/o621946v21_160992AE2F_202511.pdf)
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
