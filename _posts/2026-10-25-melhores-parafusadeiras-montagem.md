@@ -7,6 +7,7 @@ permalink: /melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/
 categories: [guias]
 image: "/assets/images/posts/parafusadeiras-montagem.webp"
 date: 2026-10-26
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 ---
 
@@ -171,11 +172,8 @@ A **Bosch GSB 18V-21** é a opção mais versátil deste trio para quem monta m�
 
 Nenhuma das três é automaticamente a mais barata ou a mais durável em uso real: essas conclusões exigiriam preços atualizados e testes comparativos controlados. Antes de fechar a compra, confira o código exato do kit, a garantia local e os acessórios efetivamente incluídos. Veja também nosso [guia principal de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}).
 
-## Fontes oficiais consultadas
+## Fontes oficiais
 
-- [Bosch Professional — GSB 18V-21: dados técnicos e aplicações](https://www.bosch-professional.com/pt/pt/products/gsb-180-li-06019H110C)
-- [DeWalt — Manual oficial DCD708 e DCD709 (PDF)](https://www.dewalt.com/GLOBALBOM/QU/DCD709B/11/Instruction_Manual/EN/N808990_DCD709.pdf)
-- [Makita Brasil — HP332DWYE: ficha técnica e itens inclusos](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=286)
-- [Makita Brasil — HP332DZ: versão sem bateria e carregador](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=287)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 
-*Transparência editorial: recomendações baseadas em documentação de fabricantes e análise de adequação ao uso, sem testes físicos próprios. Preços e composição de kits devem ser conferidos na loja.*
+*Transparência editorial: recomendações baseadas em documentação de fabricantes e análise de adequação ao uso, sem testes físicos próprios. Preços e composição de kits devem ser conferidos nas lojas.*
