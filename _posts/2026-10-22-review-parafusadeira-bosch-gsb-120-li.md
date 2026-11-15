@@ -126,6 +126,8 @@ Com aproximadamente 0,9 kg **sem bateria** e cerca de 1,1 kg com bateria de 2,0 
 - **Serralheiros, carpinteiros de estrutura e quem perfura concreto frequentemente:** Avaliar ferramentas mais potentes ou marteletes SDS-Plus apropriados, mantendo a GSB 120-LI como ferramenta complementar.
 - **Usuário doméstico e bricolagem:** Opção interessante para reunir parafusamento e impacto leve em uma ferramenta compacta; compare preço e acessórios incluídos antes da compra.
 
+{% include produto-card.html %}
+
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
