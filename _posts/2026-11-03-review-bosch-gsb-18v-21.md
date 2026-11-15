@@ -12,6 +12,7 @@ produto_id: bosch_gsb_18v_21
 image: /assets/images/posts/bosch-gsb-18v-21.webp
 image_alt: Furadeira e parafusadeira Bosch GSB 18V-21
 date: '2026-11-03'
+last_modified_at: '2026-11-15'
 author: Equipe de Análises
 avaliacao:
   nota: 8.7
@@ -355,6 +356,6 @@ parafusadeiras]({{ '/parafusadeiras/' \| relative_url }}) e o [guia de
 montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' |
 relative_url }}).
 
-**Fontes oficiais para conferência das especificações:**
+## Fontes oficiais
 
-- [Bosch Professional GSB 18V-21 — página do produto](https://www.bosch-professional.com/gb/en/products/gsb-180-li-06019H1176)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
