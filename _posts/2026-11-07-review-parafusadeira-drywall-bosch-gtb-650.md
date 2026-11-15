@@ -10,6 +10,7 @@ produto_id: bosch_gtb_650
 image: /assets/images/posts/bosch-gtb-650.webp
 image_alt: Parafusadeira Bosch Professional GTB 650 para drywall 650W com batente de profundidade e maleta
 date: 2026-11-07
+last_modified_at: 2026-11-15
 author: Equipe de Análises
 
 avaliacao:
@@ -83,6 +84,8 @@ No Brasil, a referência consultada é a **06014A20E0**, na versão de 220 V, fo
 | Itens da apresentação consultada | Maleta e 1 bit PH2 |
 
 **Atenção aos diâmetros:** a Bosch diferencia parafusos para gesso cartonado de parafusos autorroscantes para chapa metálica. A página do produto indica parafusos de drywall até 4 mm, inclusive em duas camadas, e autorroscantes até 6 mm em chapa de 1,5 mm. Não interprete o limite de 6 mm como diâmetro geral para qualquer parafuso de drywall.
+
+{% include produto-card.html %}
 
 ## Para que serve a Bosch GTB 650?
 
@@ -212,7 +215,7 @@ Confira estes pontos antes de comprar:
 
 Se o alimentador automático for importante para sua produtividade, some seu custo à ferramenta antes de comparar com outras soluções. A melhor oferta não é necessariamente a que mostra o menor preço inicial, mas a que entrega a configuração necessária para sua rotina.
 
-<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
+{% include produto-card.html %}
 
 ## Vantagens e limitações
 
@@ -283,9 +286,8 @@ Ela não é uma ferramenta para todos. O cabo exige acesso à rede elétrica, a 
 
 Nossa nota editorial é **8,6/10**. A pontuação considera a adequação ao trabalho de drywall, as especificações oficiais, os recursos de produtividade e a presença comercial brasileira. Não representa teste físico independente. Para instaladores que trabalham regularmente com placas e perfis metálicos, a GTB 650 merece consideração; para quem precisa de mobilidade, compare a GTB 185-LI antes de decidir.
 
+{% include produto-card.html %}
 
-## Fontes técnicas e comerciais consultadas
+### Fontes oficiais
 
-
-- [Manual de instruções Bosch GTB 650](https://www.bosch-professional.com/binary/manualsmedia/o402774v21_160992A7XH_202211.pdf)
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
