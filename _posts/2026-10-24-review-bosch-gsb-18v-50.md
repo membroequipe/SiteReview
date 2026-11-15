@@ -10,6 +10,7 @@ produto_id: bosch_gsb_18v_50
 image: "/assets/images/posts/bosch-gsb-18v-50.webp"
 image_alt: "Furadeira e parafusadeira de impacto Bosch GSB 18V-50"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 9.1
@@ -125,6 +126,8 @@ Seu principal limite é o tipo de serviço: para concreto pesado e furação int
 
 **Recomendação:** se você já utiliza baterias Bosch Professional 18V, a versão sem bateria pode fazer sentido. Se está começando, compare kits que incluam bateria e carregador originais, observando a capacidade e a assistência disponível. A nota **9,1/10** representa a avaliação editorial do conjunto de características, não uma medição de desempenho em laboratório.
 
-**Fontes técnicas:** [Bosch Professional Brasil — GSB 18V-50](https://www.bosch-professional.com/br/pt/products/gsb-18v-50-06019H51E4), [Catálogo Bosch Brasil 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_1_pt_-_empreiteiro_-_web.pdf), [Makita Brasil — DHP485Z](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253) e [DeWalt Brasil — DCD796D2-BR](https://www.dewalt.com.br/pt-br/produto/dcd796d2-br/kit-parafusadeirafuradeira-12-13-mm-com-impacto-20v-max-ion-de-litio-xr).
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
