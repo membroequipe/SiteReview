@@ -10,6 +10,7 @@ produto_id: bosch_gsr_12v_15
 image: "/assets/images/posts/bosch-gsr-12v-15.webp"
 image_alt: "Furadeira e parafusadeira Bosch GSR 12V-15"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.8
@@ -113,6 +114,7 @@ Não necessariamente. Este review responde se a **Bosch GSR 12V-15 comum vale a 
 
 Se estiver em dúvida entre as duas versões, consulte também o **review da Bosch GSR 12V-15 FC** na nossa [seção de reviews]({{ '/reviews/' | relative_url }}). 
 
+{% include produto-card.html %}
 
 ## Comparativo com Concorrentes
 
@@ -160,7 +162,6 @@ Não. Os acessórios FlexiClick foram projetados para a interface da versão FC;
 
 Não. A tensão nominal, sozinha, não garante compatibilidade. Utilize baterias e carregadores Bosch Professional 12V compatíveis com o modelo e confira os códigos indicados pelo fabricante antes de comprar.
 
-## Fontes e Critérios da Análise
+## Fontes oficiais
 
-Esta avaliação foi elaborada com base na [ficha técnica oficial da GSR 12V-15](https://www.bosch-professional.com/pt/pt/products/gsr-12v-15-0601868101), nas informações oficiais da linha FlexiClick da Bosch Professional e nos dados do cadastro do produto no site. Os valores citados são especificações declaradas, não medições independentes. Preços, autonomia real, durabilidade e satisfação de compradores não foram estimados sem evidência verificável. A nota editorial sintetiza adequação a montagem de móveis, versatilidade e limitações; não equivale a um teste de laboratório.
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
