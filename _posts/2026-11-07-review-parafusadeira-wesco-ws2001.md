@@ -10,6 +10,7 @@ produto_id: wesco_ws2001
 image: /assets/images/posts/wesco-ws2001.webp
 image_alt: Parafusadeira elétrica Wesco Home WS2001 3,6V com cabo USB-C e conjunto de bits
 date: 2026-11-07
+last_modified_at: 2026-11-15
 author: Equipe de Análises
 
 avaliacao:
@@ -79,6 +80,8 @@ Seu principal atrativo é a praticidade: pesa cerca de 280 g, tem encaixe hexago
 | Acessórios descritos no catálogo | Suporte magnético de 60 mm, bit PH2 de impacto, cabo USB-C e 25 pontas identificadas por cor |
 
 **Observação sobre o kit:** o catálogo Wesco 2024 lista um bit PH2 de impacto, 25 pontas coloridas, suporte magnético e cabo USB-C. O manual de uma apresentação comercial descreve 24 bits de 25 mm mais um bit PH2 de 50 mm. Por isso, alguns vendedores anunciam “24 acessórios” e outros “25 bits”. Confira a lista da embalagem oferecida, sem presumir que todos os anúncios tenham composição idêntica.
+
+{% include produto-card.html %}
 
 ## Para que serve a Wesco WS2001?
 
@@ -192,7 +195,7 @@ Antes de comprar, verifique:
 
 Se duas ofertas tiverem a mesma ferramenta, dê preferência à que explicar claramente o conteúdo do kit e oferecer condições de pós-venda verificáveis. Um conjunto com mais bits só vale a diferença se os acessórios forem úteis para suas tarefas.
 
-<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
+{% include produto-card.html %}
 
 ## Vantagens e limitações
 
@@ -265,13 +268,8 @@ Seu limite está na força e na autonomia: não é uma ferramenta para parafusos
 
 Nossa nota editorial é **7,8/10**. A pontuação considera a proposta doméstica, o peso, o carregamento USB-C, os acessórios e as limitações de torque e bateria. Não representa teste físico independente. Se encontrada por um preço competitivo, a WS2001 é uma opção coerente como ferramenta auxiliar para casa; se estiver próxima do preço de modelos com melhor controle de torque, vale comparar a Bosch GO 3 e a Makita DF001DW.
 
-## Fontes técnicas e comerciais consultadas
+{% include produto-card.html %}
 
-- [Wesco Brasil — catálogo oficial 2024, página da WS2001](https://wesco-ferramentas.s3.sa-east-1.amazonaws.com/2a6dc28e-e334-4efa-afd7-16b487f102f2_file_15.pdf)
-- [Manual Wesco WS2001 (CSD40YT), ficha técnica e acessórios](https://cdn.leroymerlin.com.br/medias/document-91713055-user-manual-parafusadeira-a-bateria-wesco-com-maleta-carregador-e-24-acessorios-3%2C6v-1-4-ws2001-bivolt.pdf)
-- [Wesco Brasil — página oficial de produtos, WS2001 na linha Home](https://www.wescoferramentas.com.br/produto)
-- [Magazine Luiza — Wesco Home WS2001 3,6V USB-C](https://www.magazineluiza.com.br/parafusadeira-wesco-home-ws2001-36v-usbc-com-led-duplo-suporte-magnetico-e-kit-25-bits-ws2001-wesco/p/ek52ea96e5/fs/pafu/?seller_id=falascaferramentas)
-- [Basso Comércio — Wesco WS2001 com estojo e acessórios](https://www.bassocomercio.com.br/ferramentas/ferramentas-a-bateria/parafusadeira-a-bateria-3-6v-c-estojo-24-pcs-wesco)
-- [Radar de Ferramentas — histórico de preços WS2001](https://radardeferramentas.com.br/ferramenta/wesco-ws2001)
-- [MadeiraMadeira — ficha e disponibilidade da WS2001](https://www.madeiramadeira.com.br/parafusadeira-bateria-3-6v-wesco-ws2001-288557506.html)
+## Fontes oficiais
 
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
