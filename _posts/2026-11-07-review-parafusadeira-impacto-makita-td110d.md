@@ -10,6 +10,7 @@ produto_id: makita_td110d
 image: /assets/images/posts/makita-td110d.webp
 image_alt: Parafusadeira de impacto Makita TD110D 12V CXT com encaixe sextavado de 1/4 de polegada
 date: 2026-11-07
+last_modified_at: 2026-11-15
 author: Equipe de Análises
 
 avaliacao:
@@ -83,6 +84,8 @@ No mercado brasileiro, o artigo considera duas referências comerciais: **TD110D
 | Baterias compatíveis indicadas no manual | BL1016, BL1021B e BL1041B |
 
 Os valores de capacidade de fixação são referências do fabricante e não significam que qualquer parafuso dentro dessas medidas possa ser instalado em qualquer material. O resultado depende do tipo de parafuso, madeira ou metal, pré-furo, bit, bateria e técnica de trabalho.
+
+{% include produto-card.html %}
 
 ## O que é uma parafusadeira de impacto e como a TD110D funciona?
 
@@ -265,9 +268,8 @@ Seu principal limite é a especialização: ela não possui mandril convencional
 
 Nossa nota editorial é **8,5/10**. A pontuação considera as especificações oficiais, a proposta de uso, os recursos de controle e a disponibilidade de versões no mercado brasileiro. Não representa teste físico independente. Para quem já tem baterias CXT e realiza fixações frequentes, a TD110DZ pode oferecer boa relação entre custo e utilidade. Para quem está começando na plataforma, o kit TD110DWYE merece comparação cuidadosa com o preço de bateria e carregador comprados separadamente.
 
+{% include produto-card.html %}
 
-## Fontes técnicas e comerciais consultadas
+## Fontes oficiais
 
-- [Makita Brasil — TD110DWYE, ficha oficial e conteúdo do kit](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=362)
-- [Manual de instruções Makita TD110D/TD110DZ](https://storagesitemakita.blob.core.windows.net/arquivos/TD110DZ085604.pdf)
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
