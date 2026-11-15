@@ -9,7 +9,7 @@ categories: [furadeiras, reviews]
 produto_id: makita_hp2050
 image: "/assets/images/posts/makita-hp2050.webp"
 date: 2026-11-03
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.7
@@ -140,10 +140,8 @@ Antes de comprar, confirme a tensão da unidade, o código da versão e os acess
 
 A nota editorial de **8,7/10** considera recursos, versatilidade e adequação à categoria. Não decorre de teste físico nem de média de avaliações de compradores. Se o objetivo principal for concreto muito duro e perfurações repetitivas, dê prioridade a um martelete SDS-Plus; para manutenção variada em madeira, metal e alvenaria dentro das capacidades indicadas, uma furadeira de impacto convencional como a HP2050 pode ser mais prática.
 
-### Fonte oficial consultada
-
-- [Ficha técnica do fabricante](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=759)
-
-As especificações podem mudar conforme país, código de pedido e revisão. Confirme o manual e a etiqueta do produto vendido.
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
