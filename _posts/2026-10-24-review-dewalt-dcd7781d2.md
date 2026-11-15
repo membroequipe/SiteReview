@@ -10,6 +10,7 @@ produto_id: dewalt_dcd7781d2
 image: "/assets/images/posts/dewalt-dcd7781d2.webp"
 image_alt: "Furadeira e parafusadeira de impacto DeWalt DCD7781D2 20V MAX"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -145,9 +146,8 @@ O principal cuidado é não confundir sua função impacto com a percussão de u
 
 A **nota editorial de 9,0/10** considera a ficha técnica, os recursos e a composição do kit. Não representa teste prático próprio nem avaliação estatística de compradores. Antes de fechar a compra, confira preço, código comercial, itens inclusos e disponibilidade de assistência. Veja também nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) para escolher de acordo com o trabalho.
 
-### Fontes técnicas consultadas
-
-- [DeWalt Brasil — DCD7781D2-BR](https://www.dewalt.com.br/pt-br/produto/dcd7781d2br/parafusadeira-furadeira-de-impacto-12-13mm-20v-max-brushless-com-2-baterias-e)
-- [Manual técnico DeWalt DCD7771/DCD7781](https://www.stanleyblackanddecker.com.cn/sites/default/files/product/product_manual/3099/dd887ec02500370b6e2e1a36086d2afc.pdf)
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
