@@ -10,6 +10,7 @@ produto_id: bosch_gsr_18v_150c
 image: "/assets/images/posts/bosch-gsr-18v-150c.webp"
 image_alt: "Furadeira e parafusadeira Bosch GSR 18V-150 C Professional BITURBO Brushless sem impacto"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -488,12 +489,8 @@ Antes de comprar, confira a configuração comercial, as baterias incluídas e a
 
 {% include produto-card.html %}
 
-## Fontes Técnicas Oficiais
+## Fontes oficiais
 
-- [Bosch Professional — GSR 18V-150 C: especificações e recursos oficiais](https://www.bosch-professional.com/in/en/products/gsr-18v-150-c-06019J50L0)
-- [Bosch Professional — Manual oficial GSR 18V-150 C](https://www.bosch-professional.com/binary/manualsmedia/o522439v21_160992A9D1_202412.pdf)
-- [Bosch Professional — GSB 18V-55: especificações para comparação](https://www.bosch-professional.com/gb/en/products/gsb-18v-55-06019H5370)
-- [Makita Espanha — DHP484RTJ: ficha técnica oficial para comparação](https://www.makita.es/data/sr/productinfo/generated/dhp484rtj_3.pdf)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 
 **Transparência editorial:** este review utiliza dados técnicos do cadastro do produto e documentação oficial dos fabricantes. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O cadastro consultado informa peso de 2,1 kg sem bateria, 25+1 ajustes de torque e recomendação de bateria ProCORE18V de pelo menos 5,5 Ah para potência máxima. O conteúdo dos kits pode variar conforme o código comercial e o mercado.
-
