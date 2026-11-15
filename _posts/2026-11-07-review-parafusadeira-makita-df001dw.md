@@ -79,6 +79,8 @@ A Makita Brasil informa rotação de 220 rpm, bateria embutida de 3,6 V, ilumina
 
 A capacidade de 1,5 Ah aparece em fichas oficiais da Makita de outros mercados; a página brasileira consultada confirma a bateria integrada de 3,6 V, mas não informa claramente a capacidade em Ah. Por isso, confirme a especificação da apresentação nacional com o vendedor ou assistência antes de usar esse dado para comparar autonomia.
 
+{% include produto-card.html %}
+
 ## O que diferencia a Makita DF001DW?
 
 O principal diferencial é o **cabo articulado com duas posições**. No formato reto, a ferramenta se comporta como uma chave elétrica alongada e pode ajudar em espaços estreitos ou em parafusos posicionados no fundo de móveis. No formato pistola, oferece uma empunhadura mais familiar para quem está acostumado com parafusadeiras compactas.
@@ -187,7 +189,7 @@ Confira também:
 
 Se a diferença de preço entre dois anúncios for pequena, prefira a oferta que identifica melhor o conteúdo da embalagem e o suporte pós-venda. Não pague mais por acessórios adicionais sem conferir se eles são compatíveis e úteis para o seu tipo de montagem.
 
-<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
+{% include produto-card.html %}
 
 ## Vantagens e limitações
 
@@ -254,9 +256,8 @@ Ela perde atratividade para quem precisa de velocidade variável, bateria remov�
 
 Nossa nota editorial é **8,2/10**. A pontuação considera a proposta de uso, a ergonomia articulada, o conjunto de acessórios e as limitações da plataforma 3,6 V. Não representa um teste físico independente. Para quem já tem uma furadeira e quer uma ferramenta complementar para parafusamento leve, a DF001DW é uma opção coerente. Para quem procura uma única ferramenta para todas as tarefas, recomendamos avaliar uma furadeira/parafusadeira com mandril.
 
+{% include produto-card.html %}
 
-## Fontes técnicas e comerciais consultadas
+## Fontes oficiais
 
-- [Makita Brasil — DF001DW, ficha oficial do produto](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=697)
-- [Makita Brasil — manual de instruções DF001D/DF001DW](https://storagesitemakita.blob.core.windows.net/arquivos/DF001DW084625.pdf)
-- [Makita — manual técnico internacional DF001DW](https://makita.com.vn/uploads/2021/08/df001dw-eng.pdf)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
