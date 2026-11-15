@@ -9,6 +9,7 @@ categories: [furadeiras, reviews]
 produto_id: bosch_gbh_2_21
 image: "/assets/images/posts/bosch-gbh-2-21.webp"
 date: 2026-11-03
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 9.0
@@ -130,10 +131,8 @@ O Bosch GBH 2-21 é uma alternativa coerente para quem precisa de martelete SDS-
 
 A nota editorial de 9,0/10 considera recursos, versatilidade e adequação à categoria. Não decorre de teste físico ou de média de avaliações. Se o objetivo principal for concreto muito duro e perfurações repetitivas, dê prioridade ao mecanismo de martelete SDS-Plus; para manutenção variada em madeira, metal e alvenaria leve, uma furadeira de impacto convencional pode ser mais prática.
 
-### Fonte oficial consultada
-
-- [Ficha técnica do fabricante](https://www.bosch-professional.com/pt/pt/products/gbh-220-06112A6000)
-
-As especificações podem mudar conforme país, código de pedido e revisão. Confirme o manual e a etiqueta do produto vendido.
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
