@@ -3,6 +3,7 @@ layout: post
 title: "Primeira Parafusadeira: Qual Comprar? Guia para Iniciantes"
 description: "Saiba qual primeira parafusadeira comprar em 2026. Compare Bosch GSR 1000 Smart, Bosch GSR 120-LI e Makita DF333DWYE para móveis e reparos."
 date: 2026-10-26
+last_modified_at: 2026-11-15
 categories: [guias]
 slug: "primeira-parafusadeira-qual-comprar-guia-iniciantes"
 image: "/assets/images/posts/primeira-parafusadeira-qual-comprar.webp"
@@ -162,3 +163,7 @@ Compare o mesmo código de produto, a quantidade de baterias, a capacidade em Ah
 **Escolha a Bosch GSR 1000 Smart** se seu objetivo é resolver pequenos reparos e montagens ocasionais com uma ferramenta compacta e bateria integrada. **Prefira a Bosch GSR 120-LI** se deseja aprender a usar ajustes de torque, duas marchas e diferentes brocas, com possibilidade de trocar a bateria. **Considere a Makita DF333DWYE** se pretende montar móveis com frequência e valoriza começar com duas baterias e maleta.
 
 A recomendação final é verificar o código comercial. Para aprofundar a comparação, consulte nosso [guia completo de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}).
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
