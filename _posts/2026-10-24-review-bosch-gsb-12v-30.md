@@ -10,6 +10,7 @@ produto_id: bosch_gsb_12v_30_brushless
 image: "/assets/images/posts/bosch-gsb-12v-30-brushless.webp"
 image_alt: "Bosch GSB 12V-30 em destaque"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -127,11 +128,6 @@ A GSB 12V-30 é menos indicada para perfuração frequente em concreto resistent
 {% include produto-card.html %}
 
 
-## Fontes Técnicas Oficiais
+## Fontes oficiais
 
-- [Bosch Professional Brasil — GSB 12V-30, variante em caixa de papelão 06019G9102](https://www.bosch-professional.com/br/pt/products/gsb-12v-30-06019G9102)
-- [Bosch Professional Brasil — GSB 12V-30, variante em maleta com carregador e duas baterias 06019G91E0](https://www.bosch-professional.com/br/pt/products/gsb-12v-30-06019G91E0)
-- [Bosch — manual oficial GSR/GSB 12V-30 (2024)](https://www.bosch-professional.com/binary/manualsmedia/o480317v21_160992A9ZV_202408.pdf)
-- [Bosch — catálogo brasileiro de produtos 2026](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf)
-- [Makita Brasil — HP333DZ, ferramenta avulsa](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=281)
-- [Makita Brasil — HP333DWYE, kit](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=273)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
