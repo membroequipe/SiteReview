@@ -10,6 +10,7 @@ produto_id: bosch_gsb_120_li
 image: "/assets/images/posts/parafusadeira-bosch-gsb-120-li.webp"
 image_alt: "Furadeira Bosch GSB 120-LI em destaque"
 date: 2026-10-22
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -125,13 +126,6 @@ Com aproximadamente 0,9 kg **sem bateria** e cerca de 1,1 kg com bateria de 2,0 
 - **Serralheiros, carpinteiros de estrutura e quem perfura concreto frequentemente:** Avaliar ferramentas mais potentes ou marteletes SDS-Plus apropriados, mantendo a GSB 120-LI como ferramenta complementar.
 - **Usuário doméstico e bricolagem:** Opção interessante para reunir parafusamento e impacto leve em uma ferramenta compacta; compare preço e acessórios incluídos antes da compra.
 
-### Fontes oficiais consultadas
+## Fontes oficiais
 
-- [Bosch Professional Brasil — GSB 120-LI](https://www.bosch-professional.com/br/pt/products/gsb-120-li-06019G81E0)
-- [Bosch — Catálogo brasileiro 2026](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf)
-- [Bosch — Manual GSB 120-LI / GSR 120-LI](https://www.bosch-professional.com/binary/manualsmedia/o484444v21_160992AA00_202409.pdf)
-- [Makita Brasil — DF333DZ](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=317)
-- [DeWalt — DCD706B](https://www.dewalt.com/en-us/product/dcd706b/12v-max-brushless-cordless-38-hammer-drill-tool-only)
-- [DeWalt — Manual DCD701/DCD706](https://www.dewalt.com/GLOBALBOM/QU/DCD701B/1/Instruction_Manual/EN/NA485236_DCD701_DCD706_T1__NA.pdf)
-
-{% include produto-card.html %}
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
