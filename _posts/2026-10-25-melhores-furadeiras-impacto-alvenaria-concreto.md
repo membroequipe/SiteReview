@@ -7,6 +7,7 @@ slug: melhores-furadeiras-impacto-alvenaria-concreto-2026
 categories: [guias]
 image: "/assets/images/posts/melhores-furadeiras-impacto-alvenaria.webp"
 date: 2026-10-26
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 ---
 
@@ -155,10 +156,6 @@ Para **reparos domésticos em tijolo e alvenaria**, a **Bosch GSB 13 RE de 750 W
 
 A melhor ferramenta não é necessariamente a de maior número na ficha. É a que combina o mecanismo correto, brocas compatíveis, ergonomia e custo total com a tarefa real. Confira o modelo exato e a disponibilidade antes de comprar.
 
-## Fontes oficiais consultadas
+## Fontes oficiais
 
-- [Bosch Professional — GBH 18V-21](https://www.bosch-professional.com/gb/en/products/gbh-180-li-brushless-0611911101)
-- [Bosch Professional Brasil — GSB 13 RE 750 W](https://www.bosch-professional.com/br/pt/products/gsb-13re-06012B80Z0)
-- [Makita — HP2050 720 W](https://www.makita.co.th/V2Products/Details/1582?lang=EN)
-- [Bosch Professional — GBH 2-21](https://www.bosch-professional.com/gb/en/products/gbh-220-06112A6071)
-- [DeWalt — DCD777 sem impacto](https://www.dewalt.com/en-us/product/dcd777b/20v-max-12-compact-drilldriver-tool-only)
+- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
