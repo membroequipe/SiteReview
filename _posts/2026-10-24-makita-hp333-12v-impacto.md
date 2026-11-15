@@ -10,6 +10,7 @@ produto_id: makita_hp333_12v_impacto
 image: "/assets/images/posts/makita-hp333-12v-impacto.webp"
 image_alt: "Makita HP333 em destaque"
 date: 2026-10-24
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -128,8 +129,6 @@ Para quem já utiliza baterias **Makita CXT 12V**, comprar somente o corpo pode 
 
 {% include produto-card.html %}
 
-## Fontes técnicas oficiais
+## Fontes oficiais
 
-- [Makita Brasil — HP333DZ: especificações e conteúdo da ferramenta avulsa](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=281)
-- [Makita Brasil — HP333DWYE: especificações e itens do kit](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=273)
-- [Bosch Professional Brasil — catálogo de ferramentas a bateria 12V, incluindo GSB 12V-30](https://www.bosch-professional.com/br/media/country_content/specials/catalogo/catalogo_de_produtos_bosch-_web-compactado.pdf)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
