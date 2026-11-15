@@ -10,6 +10,7 @@ produto_id: dewalt_dcd796d2_br
 image: "/assets/images/posts/dewalt-dcd796d2-br.webp"
 image_alt: "Furadeira e parafusadeira de impacto DeWalt DCD796D2-BR 20V MAX XR brushless"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -253,6 +254,8 @@ Também vale conferir a procedência das baterias, as condições de garantia e 
 
 Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
+{% include produto-card.html %}
+
 ## Opinião dos Compradores
 
 A DeWalt DCD796D2-BR possui características que podem interessar a profissionais e usuários frequentes.
@@ -430,11 +433,8 @@ Antes de comprar, confira a composição do kit, a garantia aplicável e a proce
 
 {% include produto-card.html %}
 
-## Fontes Técnicas Oficiais
+## Fontes oficiais
 
-- [DeWalt Brasil — DCD796D2-BR: especificações oficiais e conteúdo do kit](https://www.dewalt.com.br/pt-br/produto/dcd796d2-br/kit-parafusadeirafuradeira-12-13-mm-com-impacto-20v-max-ion-de-litio-xr)
-- [DeWalt — Central de suporte e documentação técnica](https://support.dewalt.com/)
-- [Bosch Professional — GSB 18V-55: especificações oficiais para comparação](https://www.bosch-professional.com/gb/en/products/gsb-18v-55-06019H5370)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
 
 **Transparência editorial:** este review utiliza informações técnicas do cadastro do produto e documentação atribuída ao fabricante. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O cadastro confirma 14 posições de ajuste de torque, capacidade de perfuração de até 40 mm em madeira e não informa limites numéricos confirmados para aço e alvenaria. A composição do kit deve ser conferida no anúncio e na embalagem antes da compra.
-
