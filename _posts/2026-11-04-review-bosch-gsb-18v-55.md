@@ -10,6 +10,7 @@ produto_id: bosch_gsb_18v_55
 image: "/assets/images/posts/bosch-gsb-18v-55.webp"
 image_alt: "Bosch GSB 18V-55 Professional, furadeira e parafusadeira de impacto brushless"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 
 avaliacao:
@@ -398,12 +399,9 @@ Para pequenos reparos ocasionais, uma opção compacta e mais econômica pode se
 
 <!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
 
-## Fontes Técnicas Oficiais
+## Fontes oficiais
 
-- [Bosch Professional — GSB 18V-55: características e especificações oficiais](https://www.bosch-professional.com/gb/en/products/gsb-18v-55-06019H5370)
-- [Bosch Professional — GSB 18V-55: outra configuração comercial](https://www.bosch-professional.com/gb/en/products/gsb-18v-55-06019H5302)
-- [Bosch Professional — GSB 18V-50: referência para comparação](https://www.bosch-professional.com/pt/pt/products/gsb-18v-50-06019H5100)
-- [Makita Brasil — DHP485Z: especificações oficiais](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=253)
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
+
 
 **Transparência editorial:** este review utiliza especificações cadastradas e informações técnicas atribuídas ao fabricante. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. A auditoria do cadastro do site não localizou a GSB 18V-55 no catálogo brasileiro consultado em 2026. O conteúdo dos kits pode variar conforme o código comercial e o mercado; confirme a documentação da variante antes de comprar.
-
