@@ -9,6 +9,7 @@ categories: [furadeiras, reviews]
 produto_id: bosch_gsb_13_re_750w
 image: "/assets/images/posts/bosch-gsb-13-re-750w.webp"
 date: 2026-11-03
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.5
@@ -148,3 +149,7 @@ A nota editorial de 8,5/10 considera recursos, versatilidade e adequação à ca
 As especificações podem mudar conforme país, código de pedido e revisão. Confirme o manual e a etiqueta do produto vendido.
 
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
