@@ -10,6 +10,7 @@ produto_id: makita_df333dwye
 image: "/assets/images/posts/makita-df333dwye.webp"
 image_alt: "Furadeira e parafusadeira Makita DF333DWYE"
 date: 2026-11-04
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 9.0
@@ -134,6 +135,8 @@ Não. O cadastro técnico consultado identifica motor de dois polos, com escovas
 
 Não. A tensão nominal, sozinha, não garante compatibilidade. Utilize baterias e carregadores da plataforma Makita 12V max CXT aprovados para o modelo e confira os códigos indicados pelo fabricante.
 
-## Fontes e Critérios da Análise
+{% include produto-card.html %}
 
-Esta avaliação foi elaborada com base na [ficha técnica oficial da Makita Brasil](https://www.makita.com.br/catalogoFDetalhes.asp?codParamD=316) e nos dados do cadastro do produto no site. Os dados do kit DWYE devem ser conferidos no anúncio específico antes da compra. Os valores citados são especificações declaradas, não medições independentes. Preços, autonomia real, durabilidade e satisfação de compradores não foram estimados sem evidência verificável. A nota editorial sintetiza adequação a montagem de móveis, versatilidade e limitações; não equivale a um teste de laboratório.
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
