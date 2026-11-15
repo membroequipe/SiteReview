@@ -10,6 +10,7 @@ produto_id: bosch_gsr_12v_15_fc
 image: "/assets/images/posts/bosch-gsr-12v-15-fc.webp"
 image_alt: "Bosch GSR 12V-15 FC em destaque"
 date: 2026-11-03
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 avaliacao:
   nota: 9.0
@@ -141,10 +142,9 @@ A Bosch GSR 12V-15 FC é uma opção especialmente interessante para montagem de
 
 O principal cuidado é econômico: nem todo usuário precisa pagar por quatro adaptadores. Se o trabalho ocorre quase sempre em superfícies abertas, uma furadeira/parafusadeira compacta convencional pode bastar. Antes de comprar, confirme se o código anunciado é o **06019F60E0** e se inclui os adaptadores de que você realmente precisa. A nota editorial de **9,0/10** representa a adequação ao uso descrito, não uma medição laboratorial de desempenho.
 
-### Referência técnica consultada
-
-- [Ficha oficial do fabricante](https://www.bosch-professional.com/br/pt/products/gsr-12v-15-fc-06019F60E0)
-
-Os dados técnicos podem variar entre revisões e kits comerciais. Confira o código exato antes de comprar.
-
 {% include produto-card.html %}
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.
+Os dados técnicos podem variar entre revisões e kits comerciais. Confira o código exato antes de comprar.
