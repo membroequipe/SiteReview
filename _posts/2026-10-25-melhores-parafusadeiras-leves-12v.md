@@ -7,6 +7,7 @@ slug: "melhores-parafusadeiras-leves-12v"
 categories: [guias]
 image: "/assets/images/posts/melhores-parafusadeiras-leves-12v.webp"
 date: 2026-10-26
+last_modified_at: 2026-11-15
 author: "Equipe de Análises"
 ---
 
@@ -153,10 +154,6 @@ Confirme o código completo do produto, a quantidade e capacidade das baterias, 
 
 Não há um vencedor universal em conforto: a ferramenta ideal depende do tamanho da mão, do acesso ao parafuso, do tempo de uso e da bateria instalada. As recomendações acima são baseadas em documentação técnica, não em testes práticos próprios.
 
-## Fontes oficiais consultadas
+## Fontes oficiais
 
-- [Bosch — catálogo brasileiro de ferramentas 2025, GSR 1000 Smart](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_1_pt_-_empreiteiro_-_web.pdf)
-- [Bosch — ficha técnica GSR 12V-15](https://www.bosch-professional.com/pt/pt/products/gsr-12v-15-0601868101)
-- [Bosch Brasil — ficha técnica GSR 12V-15 FC](https://www.bosch-professional.com/br/pt/products/gsr-12v-15-fc-06019F60E0)
-- [Bosch Brasil — Bosch GO segunda geração](https://www.bosch-professional.com/br/pt/products/bosch-go-gen-2-06019H21E0)
-- [DeWalt — manual DCD794, plataforma 20V MAX](https://assets.dewalt.com/GLOBALBOM/QU/DCD799B/1/Instruction_Manual/EN/DCD794_DCD799_T1_NA.pdf)
+- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
