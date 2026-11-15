@@ -310,3 +310,8 @@ Uma pequena diferença na referência pode representar um kit com mais baterias,
 Por isso, antes de comprar, compare o código completo, as especificações técnicas e o conteúdo da embalagem. Essa verificação evita confundir produtos parecidos e ajuda a escolher a configuração adequada ao seu trabalho.
 
 **Dica final:** quando encontrar duas ofertas com nomes semelhantes, procure a referência completa do fabricante e confira a lista de acessórios incluídos. É a maneira mais segura de saber se os anúncios correspondem exatamente à mesma versão.
+
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
+
