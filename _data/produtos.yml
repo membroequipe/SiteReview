@@ -1,1426 +1,1365 @@
-# REVISÃO: mantido. Modelo BCD704C1-BR consta no catálogo brasileiro; preservar links existentes, mas conferir se cada anúncio corresponde ao kit e à capacidade de bateria descritos.
 black_decker_bcd704c1:
-  nome: "Black+Decker BCD704C1-BR"
-  descricao: "Furadeira e parafusadeira de impacto 20V MAX, com mandril de 10 mm, duas velocidades, torque de 45 Nm e até 21.000 impactos por minuto."
-  imagem: "/assets/images/posts/black-decker-bcd704c1.png"
+  nome: Black+Decker BCD704C1-BR
+  descricao: Furadeira e parafusadeira de impacto 20V MAX, com mandril de 10 mm, duas velocidades, torque de 45 Nm e até 21.000
+    impactos por minuto.
+  imagem: /assets/images/posts/black-decker-bcd704c1.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1qC2M6v"
-    shopee: "https://s.shopee.com.br/1BkWLrOw6"
+    amazon: ''
+    mercadolivre: https://meli.la/1qC2M6v
+    shopee: https://s.shopee.com.br/1BkWLrOw6
   especificacoes:
-    - nome: "Modelo"
-      valor: "BCD704C1-BR"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Tensão"
-      valor: "20V MAX, bateria de íons de lítio removível"
-    - nome: "Torque máximo"
-      valor: "45 Nm, conforme manual oficial BCD704"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 10 mm (3/8 polegada); material não especificado na ficha oficial brasileira"
-    - nome: "Velocidades"
-      valor: "2 velocidades mecânicas; 0–360 / 0–1.400 rpm no manual BCD704"
-    - nome: "Impactos por minuto"
-      valor: "Até 21.000 ipm"
-    - nome: "Ajustes de torque"
-      valor: "10 posições de torque + perfuração + impacto, conforme manual BCD704"
-    - nome: "Capacidade de perfuração"
-      valor: "Madeira: 20 mm | Metal: 10 mm | Alvenaria: 10 mm, conforme página brasileira"
-    - nome: "Função impacto"
-      valor: "Sim, para perfuração em alvenaria"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Itens do kit brasileiro"
-      valor: "Ferramenta, 1 bateria 20V, carregador bivolt e bit de ponta dupla; conferir capacidade da bateria no anúncio"
-    - nome: "Garantia"
-      valor: "1 ano, conforme página oficial brasileira"
-    - nome: "Destaque principal"
-      valor: "Furadeira/parafusadeira 20V MAX com impacto, 45 Nm e mandril de 10 mm"
-
-
-# REVISÃO: mantido como modelo ainda encontrado na linha/catálogo local (variante avulsa DHP482Z). Não apresentar como lançamento; distinguir ferramenta avulsa de kit.
+  - nome: Modelo
+    valor: BCD704C1-BR
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Tensão
+    valor: 20V MAX, bateria de íons de lítio removível
+  - nome: Torque máximo
+    valor: 45 Nm, conforme manual oficial BCD704
+  - nome: Mandril
+    valor: Aperto rápido de 10 mm (3/8 polegada); material não especificado na ficha oficial brasileira
+  - nome: Velocidades
+    valor: 2 velocidades mecânicas; 0–360 / 0–1.400 rpm no manual BCD704
+  - nome: Impactos por minuto
+    valor: Até 21.000 ipm
+  - nome: Ajustes de torque
+    valor: 10 posições de torque + perfuração + impacto, conforme manual BCD704
+  - nome: Capacidade de perfuração
+    valor: 'Madeira: 20 mm | Metal: 10 mm | Alvenaria: 10 mm, conforme página brasileira'
+  - nome: Função impacto
+    valor: Sim, para perfuração em alvenaria
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Itens do kit brasileiro
+    valor: Ferramenta, 1 bateria 20V, carregador bivolt e bit de ponta dupla; conferir capacidade da bateria no anúncio
+  - nome: Garantia
+    valor: 1 ano, conforme página oficial brasileira
+  - nome: Destaque principal
+    valor: Furadeira/parafusadeira 20V MAX com impacto, 45 Nm e mandril de 10 mm
 makita_dhp482:
-  nome: "Makita DHP482"
-  descricao: "Furadeira e parafusadeira de impacto 18V LXT, com motor de 4 polos, torque máximo de 64 Nm, mandril de 13 mm e até 28.500 impactos por minuto"
-  imagem: "/assets/images/posts/makita-dhp482.png"
-
+  nome: Makita DHP482
+  descricao: Furadeira e parafusadeira de impacto 18V LXT, com motor de 4 polos, torque máximo de 64 Nm, mandril de 13 mm
+    e até 28.500 impactos por minuto
+  imagem: /assets/images/posts/makita-dhp482.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1sfZ2wc"
-    shopee: "https://s.shopee.com.br/3LSCUcfTZj"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1sfZ2wc
+    shopee: https://s.shopee.com.br/3LSCUcfTZj
   especificacoes:
-    - nome: "Modelo"
-      valor: "Makita DHP482"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Voltagem / Alimentação"
-      valor: "18V, bateria de íons de lítio removível, plataforma Makita LXT"
-    - nome: "Motor"
-      valor: "Motor de 4 polos com escovas de carvão; não é brushless"
-    - nome: "Torque Máximo"
-      valor: "64 Nm"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "62 Nm / 36 Nm"
-    - nome: "Configurações de Torque"
-      valor: "21 posições de ajuste de torque, com modos de perfuração e impacto"
-    - nome: "Rotação (RPM)"
-      valor: "0–600 rpm (1ª velocidade) / 0–1.900 rpm (2ª velocidade)"
-    - nome: "Taxa de Impacto (IPM)"
-      valor: "0–9.000 ipm (1ª velocidade) / 0–28.500 ipm (2ª velocidade)"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 13 mm (1/2 polegada)"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 38 mm | Metal: 13 mm | Concreto: 13 mm"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Peso Líquido"
-      valor: "Aproximadamente 1,16 kg sem bateria; peso operacional varia conforme a bateria utilizada"
-    - nome: "Comprimento"
-      valor: "198 mm"
-    - nome: "Bateria"
-      valor: "Compatível com baterias Makita LXT 18V adequadas ao modelo; capacidade e quantidade dependem do kit"
-    - nome: "Carregador"
-      valor: "Modelo e tempo de recarga dependem do kit comercializado"
-    - nome: "Proteção"
-      valor: "Tecnologia XPT, projetada para oferecer maior resistência à poeira e aos respingos de água; não significa impermeabilidade"
-    - nome: "Iluminação"
-      valor: "LED duplo integrado para iluminação da área de trabalho"
-    - nome: "Destaque Principal"
-      valor: "Torque máximo de 64 Nm, duas velocidades, função impacto e compatibilidade com a plataforma Makita LXT 18V"
-
-
+  - nome: Modelo
+    valor: Makita DHP482
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Voltagem / Alimentação
+    valor: 18V, bateria de íons de lítio removível, plataforma Makita LXT
+  - nome: Motor
+    valor: Motor de 4 polos com escovas de carvão; não é brushless
+  - nome: Torque Máximo
+    valor: 64 Nm
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 62 Nm / 36 Nm
+  - nome: Configurações de Torque
+    valor: 21 posições de ajuste de torque, com modos de perfuração e impacto
+  - nome: Rotação (RPM)
+    valor: 0–600 rpm (1ª velocidade) / 0–1.900 rpm (2ª velocidade)
+  - nome: Taxa de Impacto (IPM)
+    valor: 0–9.000 ipm (1ª velocidade) / 0–28.500 ipm (2ª velocidade)
+  - nome: Mandril
+    valor: Aperto rápido de 13 mm (1/2 polegada)
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 38 mm | Metal: 13 mm | Concreto: 13 mm'
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Peso Líquido
+    valor: Aproximadamente 1,16 kg sem bateria; peso operacional varia conforme a bateria utilizada
+  - nome: Comprimento
+    valor: 198 mm
+  - nome: Bateria
+    valor: Compatível com baterias Makita LXT 18V adequadas ao modelo; capacidade e quantidade dependem do kit
+  - nome: Carregador
+    valor: Modelo e tempo de recarga dependem do kit comercializado
+  - nome: Proteção
+    valor: Tecnologia XPT, projetada para oferecer maior resistência à poeira e aos respingos de água; não significa impermeabilidade
+  - nome: Iluminação
+    valor: LED duplo integrado para iluminação da área de trabalho
+  - nome: Destaque Principal
+    valor: Torque máximo de 64 Nm, duas velocidades, função impacto e compatibilidade com a plataforma Makita LXT 18V
 stanley_sbd716d2t:
-  nome: "Stanley SBD716D2T"
-  descricao: "Furadeira e parafusadeira de impacto 20V MAX brushless, com torque máximo de 65 Nm, mandril metálico de 13 mm e kit com duas baterias de 2 Ah"
-  imagem: "/assets/images/posts/stanley-sbd716d2t.png"
-
+  nome: Stanley SBD716D2T
+  descricao: Furadeira e parafusadeira de impacto 20V MAX brushless, com torque máximo de 65 Nm, mandril metálico de 13 mm
+    e kit com duas baterias de 2 Ah
+  imagem: /assets/images/posts/stanley-sbd716d2t.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2yFhMnf"
-    shopee: "https://s.shopee.com.br/50aQUKNItu"
-
+    amazon: ''
+    mercadolivre: https://meli.la/2yFhMnf
+    shopee: https://s.shopee.com.br/50aQUKNItu
   especificacoes:
-    - nome: "Modelo comercial"
-      valor: "SBD716D2T-BR"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Linha"
-      valor: "Stanley V20 / 20V MAX"
-    - nome: "Motor"
-      valor: "Brushless (sem escovas de carvão)"
-    - nome: "Torque máximo"
-      valor: "65 Nm"
-    - nome: "Mandril"
-      valor: "Metálico, de aperto rápido, 13 mm (1/2 polegada)"
-    - nome: "Ajustes de torque"
-      valor: "16 posições, conforme página oficial brasileira"
-    - nome: "Velocidades"
-      valor: "2 velocidades mecânicas, com gatilho de velocidade variável"
-    - nome: "Função impacto"
-      valor: "Sim, para perfuração em alvenaria"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Baterias inclusas"
-      valor: "2 baterias Stanley SB202 de 2,0 Ah"
-    - nome: "Carregador incluso"
-      valor: "Stanley SC200 de 2 A"
-    - nome: "Maleta"
-      valor: "Stanley PRO-STACK"
-    - nome: "Garantia"
-      valor: "2 anos, conforme página oficial brasileira"
-    - nome: "Destaque principal"
-      valor: "Motor brushless, 65 Nm, impacto, mandril metálico de 13 mm e kit com duas baterias"
-
-
-
-# REVISÃO: mantido. Comparativo deve incluir também a variante K21 ID03 quando houver disponibilidade; confirmar conteúdo de kit e estoque de cada ID antes de recomendar.
+  - nome: Modelo comercial
+    valor: SBD716D2T-BR
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Linha
+    valor: Stanley V20 / 20V MAX
+  - nome: Motor
+    valor: Brushless (sem escovas de carvão)
+  - nome: Torque máximo
+    valor: 65 Nm
+  - nome: Mandril
+    valor: Metálico, de aperto rápido, 13 mm (1/2 polegada)
+  - nome: Ajustes de torque
+    valor: 16 posições, conforme página oficial brasileira
+  - nome: Velocidades
+    valor: 2 velocidades mecânicas, com gatilho de velocidade variável
+  - nome: Função impacto
+    valor: Sim, para perfuração em alvenaria
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Baterias inclusas
+    valor: 2 baterias Stanley SB202 de 2,0 Ah
+  - nome: Carregador incluso
+    valor: Stanley SC200 de 2 A
+  - nome: Maleta
+    valor: Stanley PRO-STACK
+  - nome: Garantia
+    valor: 2 anos, conforme página oficial brasileira
+  - nome: Destaque principal
+    valor: Motor brushless, 65 Nm, impacto, mandril metálico de 13 mm e kit com duas baterias
 wap_k21_id01_id02:
-  nome: "WAP K21 ID01 vs. ID02 (21V)"
-  descricao: "Comparativo das furadeiras e parafusadeiras de impacto WAP K21 ID01 e ID02, com torque de 45 Nm, mandril de 10 mm, duas velocidades e bateria de 2,0 Ah."
-  imagem: "/assets/images/posts/wap-k21-id01-id02-20v.png"
-
+  nome: WAP K21 ID01 vs. ID02 (21V)
+  descricao: Comparativo das furadeiras e parafusadeiras de impacto WAP K21 ID01 e ID02, com torque de 45 Nm, mandril de 10
+    mm, duas velocidades e bateria de 2,0 Ah.
+  imagem: /assets/images/posts/wap-k21-id01-id02-20v.png
   links:
-    amazon: ""
-    mercadolivre: ""
-    shopee: ""
-
+    amazon: ''
+    mercadolivre: ''
+    shopee: ''
   especificacoes:
-    - nome: "Modelos"
-      valor: "WAP K21 ID01 e WAP K21 ID02"
-    - nome: "Códigos WAP"
-      valor: "ID01: FW009461 | ID02: FW009488"
-    - nome: "Categoria"
-      valor: "Furadeiras e parafusadeiras de impacto a bateria"
-    - nome: "Linha"
-      valor: "WAP K21"
-    - nome: "Tensão da Bateria"
-      valor: "21 V"
-    - nome: "Tipo de Bateria"
-      valor: "Íons de lítio (Li-Ion)"
-    - nome: "Capacidade da Bateria"
-      valor: "2,0 Ah (2.000 mAh)"
-    - nome: "Motor"
-      valor: "Universal RS550 com escovas, confirmado na ID01; não anunciado como brushless na ID02"
-    - nome: "Torque Máximo"
-      valor: "45 Nm em ambos os modelos"
-    - nome: "Mandril"
-      valor: "10 mm (3/8 polegada), de aperto rápido"
-    - nome: "Material do Mandril"
-      valor: "Plástico, conforme componentes oficiais da ID01"
-    - nome: "Ajustes de Torque"
-      valor: "20 + 1 + 1, incluindo modos de perfuração e impacto"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades"
-    - nome: "Rotação / RPM"
-      valor: "0–350 rpm / 0–1.400 rpm"
-    - nome: "Controle de Velocidade"
-      valor: "Eletrônico, variável pela pressão no gatilho"
-    - nome: "Funções"
-      valor: "Parafusar, perfurar e perfurar com impacto"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 20 mm | Aço: 6 mm | Concreto: 13 mm"
-    - nome: "Peso Líquido"
-      valor: "1,1 kg, conforme fichas comerciais oficiais"
-    - nome: "Dimensões"
-      valor: "21 x 7,5 x 23,3 cm (C x L x A)"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Indicador de Carga"
-      valor: "Sim"
-    - nome: "Sistema de Reversão"
-      valor: "Sim"
-    - nome: "Bateria Compatível"
-      valor: "WAP K21 BT02, 21 V e 2,0 Ah"
-    - nome: "Carregador"
-      valor: "ID01: carregador padrão de 0,4 A; conferir configuração comercial da ID02"
-    - nome: "Tempo de Carregamento"
-      valor: "Até 5 horas com carregador padrão da ID01"
-    - nome: "Acessórios"
-      valor: "Bateria, carregador, maleta e clipe para cinto; conferir itens do kit anunciado"
-    - nome: "Garantia da Ferramenta"
-      valor: "12 meses, conforme condições oficiais da WAP"
-    - nome: "Garantia da Bateria"
-      valor: "6 meses, conforme condições oficiais da WAP"
-    - nome: "Destaque Principal"
-      valor: "Duas versões da furadeira de impacto K21 21V com 45 Nm, mandril de 10 mm e bateria removível de 2,0 Ah"
-
-
-
-# REVISÃO: mantido como comparativo de modelos catalogados. Disponibilidade oficial pode variar/constar indisponível; não afirmar estoque sem checar o anúncio no momento da publicação.
+  - nome: Modelos
+    valor: WAP K21 ID01 e WAP K21 ID02
+  - nome: Códigos WAP
+    valor: 'ID01: FW009461 | ID02: FW009488'
+  - nome: Categoria
+    valor: Furadeiras e parafusadeiras de impacto a bateria
+  - nome: Linha
+    valor: WAP K21
+  - nome: Tensão da Bateria
+    valor: 21 V
+  - nome: Tipo de Bateria
+    valor: Íons de lítio (Li-Ion)
+  - nome: Capacidade da Bateria
+    valor: 2,0 Ah (2.000 mAh)
+  - nome: Motor
+    valor: Universal RS550 com escovas, confirmado na ID01; não anunciado como brushless na ID02
+  - nome: Torque Máximo
+    valor: 45 Nm em ambos os modelos
+  - nome: Mandril
+    valor: 10 mm (3/8 polegada), de aperto rápido
+  - nome: Material do Mandril
+    valor: Plástico, conforme componentes oficiais da ID01
+  - nome: Ajustes de Torque
+    valor: 20 + 1 + 1, incluindo modos de perfuração e impacto
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades
+  - nome: Rotação / RPM
+    valor: 0–350 rpm / 0–1.400 rpm
+  - nome: Controle de Velocidade
+    valor: Eletrônico, variável pela pressão no gatilho
+  - nome: Funções
+    valor: Parafusar, perfurar e perfurar com impacto
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 20 mm | Aço: 6 mm | Concreto: 13 mm'
+  - nome: Peso Líquido
+    valor: 1,1 kg, conforme fichas comerciais oficiais
+  - nome: Dimensões
+    valor: 21 x 7,5 x 23,3 cm (C x L x A)
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Indicador de Carga
+    valor: Sim
+  - nome: Sistema de Reversão
+    valor: Sim
+  - nome: Bateria Compatível
+    valor: WAP K21 BT02, 21 V e 2,0 Ah
+  - nome: Carregador
+    valor: 'ID01: carregador padrão de 0,4 A; conferir configuração comercial da ID02'
+  - nome: Tempo de Carregamento
+    valor: Até 5 horas com carregador padrão da ID01
+  - nome: Acessórios
+    valor: Bateria, carregador, maleta e clipe para cinto; conferir itens do kit anunciado
+  - nome: Garantia da Ferramenta
+    valor: 12 meses, conforme condições oficiais da WAP
+  - nome: Garantia da Bateria
+    valor: 6 meses, conforme condições oficiais da WAP
+  - nome: Destaque Principal
+    valor: Duas versões da furadeira de impacto K21 21V com 45 Nm, mandril de 10 mm e bateria removível de 2,0 Ah
 wap_bpfi_12k4_wf_12k4_2:
-  nome: "WAP BPFI 12K4 vs. WF 12K4.2"
-  descricao: "Comparativo de duas furadeiras e parafusadeiras de impacto WAP 12V, com torque máximo de 30 Nm, mandril de 10 mm e bateria de 1,5 Ah."
+  nome: WAP BPFI 12K4 vs. WF 12K4.2
+  descricao: Comparativo de duas furadeiras e parafusadeiras de impacto WAP 12V, com torque máximo de 30 Nm, mandril de 10
+    mm e bateria de 1,5 Ah.
   imagem: /assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png
-
   links:
-    amazon: ""
-    mercadolivre: ""
-    shopee: ""
-
+    amazon: ''
+    mercadolivre: ''
+    shopee: ''
   especificacoes:
-    - nome: "Modelos"
-      valor: "WAP BPFI 12K4 e WAP WF 12K4.2"
-    - nome: "Códigos WAP"
-      valor: "BPFI 12K4: FW008914 | WF 12K4.2: FW010592"
-    - nome: "Categoria"
-      valor: "Furadeiras e parafusadeiras de impacto a bateria"
-    - nome: "Tensão"
-      valor: "12 V, bateria de íons de lítio"
-    - nome: "Motor"
-      valor: "WF 12K4.2: universal com escovas | BPFI 12K4: não anunciado como brushless"
-    - nome: "Torque Máximo"
-      valor: "30 Nm em ambos os modelos"
-    - nome: "Rotação / RPM"
-      valor: "BPFI 12K4: 0–400 / 0–1.500 rpm | WF 12K4.2: 0–350 / 0–1.400 rpm"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades em ambos os modelos"
-    - nome: "Funções"
-      valor: "Parafusar, perfurar e perfurar com impacto"
-    - nome: "Impactos por Minuto"
-      valor: "0–6.000 / 0–22.000 ipm em ambos os modelos"
-    - nome: "Mandril"
-      valor: "10 mm (3/8 polegada), de aperto rápido"
-    - nome: "Ajustes de Torque"
-      valor: "18 níveis de aperto, com seleção de perfuração e impacto"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 35 mm | Aço: 10 mm | Concreto: 12 mm"
-    - nome: "Baterias Inclusas"
-      valor: "1 bateria de íons de lítio de 12 V e 1,5 Ah por kit oficial consultado"
-    - nome: "Carregador"
-      valor: "Bivolt, incluso nas configurações oficiais consultadas"
-    - nome: "Tempo de Carregamento"
-      valor: "3 a 5 horas"
-    - nome: "Peso Líquido"
-      valor: "BPFI 12K4: 1,1 kg | WF 12K4.2: 1,06 kg"
-    - nome: "Iluminação"
-      valor: "LED de trabalho integrado"
-    - nome: "Indicador de Carga"
-      valor: "Sim, indicador de nível da bateria"
-    - nome: "Acessórios"
-      valor: "Maleta, brocas, bits e suporte magnético; quantidades variam conforme o modelo"
-    - nome: "Garantia da Ferramenta"
-      valor: "12 meses, conforme condições oficiais da WAP"
-    - nome: "Garantia da Bateria"
-      valor: "6 meses, conforme condições oficiais da WAP"
-    - nome: "Destaque Principal"
-      valor: "Duas furadeiras de impacto 12V com 30 Nm e mandril de 10 mm; a principal diferença está na rotação e no conteúdo dos kits"
-
+  - nome: Modelos
+    valor: WAP BPFI 12K4 e WAP WF 12K4.2
+  - nome: Códigos WAP
+    valor: 'BPFI 12K4: FW008914 | WF 12K4.2: FW010592'
+  - nome: Categoria
+    valor: Furadeiras e parafusadeiras de impacto a bateria
+  - nome: Tensão
+    valor: 12 V, bateria de íons de lítio
+  - nome: Motor
+    valor: 'WF 12K4.2: universal com escovas | BPFI 12K4: não anunciado como brushless'
+  - nome: Torque Máximo
+    valor: 30 Nm em ambos os modelos
+  - nome: Rotação / RPM
+    valor: 'BPFI 12K4: 0–400 / 0–1.500 rpm | WF 12K4.2: 0–350 / 0–1.400 rpm'
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades em ambos os modelos
+  - nome: Funções
+    valor: Parafusar, perfurar e perfurar com impacto
+  - nome: Impactos por Minuto
+    valor: 0–6.000 / 0–22.000 ipm em ambos os modelos
+  - nome: Mandril
+    valor: 10 mm (3/8 polegada), de aperto rápido
+  - nome: Ajustes de Torque
+    valor: 18 níveis de aperto, com seleção de perfuração e impacto
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 35 mm | Aço: 10 mm | Concreto: 12 mm'
+  - nome: Baterias Inclusas
+    valor: 1 bateria de íons de lítio de 12 V e 1,5 Ah por kit oficial consultado
+  - nome: Carregador
+    valor: Bivolt, incluso nas configurações oficiais consultadas
+  - nome: Tempo de Carregamento
+    valor: 3 a 5 horas
+  - nome: Peso Líquido
+    valor: 'BPFI 12K4: 1,1 kg | WF 12K4.2: 1,06 kg'
+  - nome: Iluminação
+    valor: LED de trabalho integrado
+  - nome: Indicador de Carga
+    valor: Sim, indicador de nível da bateria
+  - nome: Acessórios
+    valor: Maleta, brocas, bits e suporte magnético; quantidades variam conforme o modelo
+  - nome: Garantia da Ferramenta
+    valor: 12 meses, conforme condições oficiais da WAP
+  - nome: Garantia da Bateria
+    valor: 6 meses, conforme condições oficiais da WAP
+  - nome: Destaque Principal
+    valor: Duas furadeiras de impacto 12V com 30 Nm e mandril de 10 mm; a principal diferença está na rotação e no conteúdo
+      dos kits
 wap_bpf_12k3:
-  nome: "WAP BPF 12K3"
-  descricao: "Furadeira e parafusadeira 12V sem impacto, com torque de 17 Nm, mandril de 10 mm, 18 ajustes de torque e rotação de até 740 rpm."
-  imagem: "/assets/images/posts/wap-bpf-12k3.png"
+  nome: WAP BPF 12K3
+  descricao: Furadeira e parafusadeira 12V sem impacto, com torque de 17 Nm, mandril de 10 mm, 18 ajustes de torque e rotação
+    de até 740 rpm.
+  imagem: /assets/images/posts/wap-bpf-12k3.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/29VQjAK"
-    shopee: "https://s.shopee.com.br/1W0YK1XOde"
+    amazon: ''
+    mercadolivre: https://meli.la/29VQjAK
+    shopee: https://s.shopee.com.br/1W0YK1XOde
   especificacoes:
-    - nome: "Modelo"
-      valor: "WAP BPF 12K3"
-    - nome: "Códigos de produto"
-      valor: "FW008649 (amarelo/preto) | FW009424 (BLACK)"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria, sem impacto"
-    - nome: "Tensão"
-      valor: "12 V, bateria de íons de lítio removível"
-    - nome: "Capacidade da bateria"
-      valor: "1,5 Ah nas fichas atuais dos códigos FW008649 e FW009424; catálogos antigos do FW008649 indicam 1,3 Ah"
-    - nome: "Motor"
-      valor: "Universal com escovas de carvão"
-    - nome: "Torque máximo"
-      valor: "17 Nm"
-    - nome: "Ajustes de torque"
-      valor: "18 posições de parafusamento + 1 modo de perfuração"
-    - nome: "Rotação"
-      valor: "0–740 rpm, variável pelo gatilho"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 10 mm (3/8 polegada)"
-    - nome: "Capacidade de perfuração"
-      valor: "Madeira: 20 mm | Aço: 6 mm"
-    - nome: "Função impacto"
-      valor: "Não possui"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Indicador de carga"
-      valor: "Sim"
-    - nome: "Carregador"
-      valor: "Bivolt (127/220 V)"
-    - nome: "Tempo de carregamento"
-      valor: "3 a 5 horas, conforme loja oficial"
-    - nome: "Peso líquido"
-      valor: "1,1 kg"
-    - nome: "Dimensões"
-      valor: "21,5 x 6,9 x 19 cm (C x L x A)"
-    - nome: "Garantia da ferramenta"
-      valor: "12 meses (3 meses legais + 9 meses especiais)"
-    - nome: "Garantia da bateria"
-      valor: "6 meses"
-    - nome: "Destaque principal"
-      valor: "Parafusadeira/furadeira compacta 12V, sem impacto, com 17 Nm e 18 ajustes de torque"
-
-
-
+  - nome: Modelo
+    valor: WAP BPF 12K3
+  - nome: Códigos de produto
+    valor: FW008649 (amarelo/preto) | FW009424 (BLACK)
+  - nome: Categoria
+    valor: Furadeira e parafusadeira a bateria, sem impacto
+  - nome: Tensão
+    valor: 12 V, bateria de íons de lítio removível
+  - nome: Capacidade da bateria
+    valor: 1,5 Ah nas fichas atuais dos códigos FW008649 e FW009424; catálogos antigos do FW008649 indicam 1,3 Ah
+  - nome: Motor
+    valor: Universal com escovas de carvão
+  - nome: Torque máximo
+    valor: 17 Nm
+  - nome: Ajustes de torque
+    valor: 18 posições de parafusamento + 1 modo de perfuração
+  - nome: Rotação
+    valor: 0–740 rpm, variável pelo gatilho
+  - nome: Mandril
+    valor: Aperto rápido de 10 mm (3/8 polegada)
+  - nome: Capacidade de perfuração
+    valor: 'Madeira: 20 mm | Aço: 6 mm'
+  - nome: Função impacto
+    valor: Não possui
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Indicador de carga
+    valor: Sim
+  - nome: Carregador
+    valor: Bivolt (127/220 V)
+  - nome: Tempo de carregamento
+    valor: 3 a 5 horas, conforme loja oficial
+  - nome: Peso líquido
+    valor: 1,1 kg
+  - nome: Dimensões
+    valor: 21,5 x 6,9 x 19 cm (C x L x A)
+  - nome: Garantia da ferramenta
+    valor: 12 meses (3 meses legais + 9 meses especiais)
+  - nome: Garantia da bateria
+    valor: 6 meses
+  - nome: Destaque principal
+    valor: Parafusadeira/furadeira compacta 12V, sem impacto, com 17 Nm e 18 ajustes de torque
 vonder_pfv_238i_020i:
-  nome: "Vonder PFV 238I vs. PFV 020I (20V)"
-  descricao: "Comparativo de duas furadeiras e parafusadeiras de impacto Vonder 20V, com mandril de 10 mm, duas velocidades e até 21.000 impactos por minuto."
-  imagem: "/assets/images/posts/vonder-pfv-020i-20v.png"
-
+  nome: Vonder PFV 238I vs. PFV 020I (20V)
+  descricao: Comparativo de duas furadeiras e parafusadeiras de impacto Vonder 20V, com mandril de 10 mm, duas velocidades
+    e até 21.000 impactos por minuto.
+  imagem: /assets/images/posts/vonder-pfv-020i-20v.png
   links:
-    amazon: ""
-    mercadolivre: ""
-    shopee: ""
-
+    amazon: ''
+    mercadolivre: ''
+    shopee: ''
   especificacoes:
-    - nome: "Modelos"
-      valor: "Vonder PFV 238I e PFV 020I"
-    - nome: "Categoria"
-      valor: "Furadeiras e parafusadeiras de impacto a bateria"
-    - nome: "Tensão"
-      valor: "20 V, bateria de íons de lítio"
-    - nome: "Motor"
-      valor: "Tecnologia do motor não especificada nas fichas oficiais consultadas"
-    - nome: "Torque Máximo"
-      valor: "Não informado em Nm nas fichas oficiais consultadas"
-    - nome: "Mandril"
-      valor: "10 mm (3/8 polegada), de aperto rápido, em ambos os modelos"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades em ambos os modelos"
-    - nome: "Rotação / RPM"
-      valor: "0–400 rpm (1ª velocidade) / 0–1.400 rpm (2ª velocidade)"
-    - nome: "Ajustes de Torque"
-      valor: "18 posições, mais modos de perfuração sem impacto e com impacto"
-    - nome: "Função Impacto"
-      valor: "Sim, presente nos dois modelos"
-    - nome: "Impactos por Minuto"
-      valor: "Até 21.000 ipm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 20 mm | Aço: 10 mm | Concreto/alvenaria: 10 mm"
-    - nome: "Sistema de Reversão"
-      valor: "Sim, rotação reversível"
-    - nome: "Iluminação"
-      valor: "LED integrado em ambos os modelos"
-    - nome: "Indicador de Carga"
-      valor: "Indicador de nível de carga da bateria"
-    - nome: "Baterias Inclusas"
-      valor: "PFV 238I: 1 x 1,5 Ah ou 2 x 1,5 Ah conforme kit | PFV 020I: 2 x 2,0 Ah"
-    - nome: "Carregador"
-      valor: "Fonte bivolt automática, entrada de 100 a 240 V"
-    - nome: "Tempo de Carregamento"
-      valor: "3 a 5 horas em ambos os modelos"
-    - nome: "Peso"
-      valor: "PFV 238I: aproximadamente 1,9 kg na versão de uma bateria e 2,7 kg na página do kit com duas baterias | PFV 020I: 1,30 kg sem acessórios"
-    - nome: "Acessórios"
-      valor: "PFV 238I: maleta, brocas, bits e adaptador magnético; versão de duas baterias também inclui trena de 5 m | PFV 020I: maleta, brocas, bits e acessórios magnéticos"
-    - nome: "Garantia"
-      valor: "12 meses: 90 dias legais mais 9 meses contratuais; locadoras possuem garantia de 90 dias"
-    - nome: "Destaque Principal"
-      valor: "Duas furadeiras de impacto 20V com especificações semelhantes; a principal diferença está nas baterias e no conteúdo dos kits"
-
+  - nome: Modelos
+    valor: Vonder PFV 238I e PFV 020I
+  - nome: Categoria
+    valor: Furadeiras e parafusadeiras de impacto a bateria
+  - nome: Tensão
+    valor: 20 V, bateria de íons de lítio
+  - nome: Motor
+    valor: Tecnologia do motor não especificada nas fichas oficiais consultadas
+  - nome: Torque Máximo
+    valor: Não informado em Nm nas fichas oficiais consultadas
+  - nome: Mandril
+    valor: 10 mm (3/8 polegada), de aperto rápido, em ambos os modelos
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades em ambos os modelos
+  - nome: Rotação / RPM
+    valor: 0–400 rpm (1ª velocidade) / 0–1.400 rpm (2ª velocidade)
+  - nome: Ajustes de Torque
+    valor: 18 posições, mais modos de perfuração sem impacto e com impacto
+  - nome: Função Impacto
+    valor: Sim, presente nos dois modelos
+  - nome: Impactos por Minuto
+    valor: Até 21.000 ipm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 20 mm | Aço: 10 mm | Concreto/alvenaria: 10 mm'
+  - nome: Sistema de Reversão
+    valor: Sim, rotação reversível
+  - nome: Iluminação
+    valor: LED integrado em ambos os modelos
+  - nome: Indicador de Carga
+    valor: Indicador de nível de carga da bateria
+  - nome: Baterias Inclusas
+    valor: 'PFV 238I: 1 x 1,5 Ah ou 2 x 1,5 Ah conforme kit | PFV 020I: 2 x 2,0 Ah'
+  - nome: Carregador
+    valor: Fonte bivolt automática, entrada de 100 a 240 V
+  - nome: Tempo de Carregamento
+    valor: 3 a 5 horas em ambos os modelos
+  - nome: Peso
+    valor: 'PFV 238I: aproximadamente 1,9 kg na versão de uma bateria e 2,7 kg na página do kit com duas baterias | PFV 020I:
+      1,30 kg sem acessórios'
+  - nome: Acessórios
+    valor: 'PFV 238I: maleta, brocas, bits e adaptador magnético; versão de duas baterias também inclui trena de 5 m | PFV
+      020I: maleta, brocas, bits e acessórios magnéticos'
+  - nome: Garantia
+    valor: '12 meses: 90 dias legais mais 9 meses contratuais; locadoras possuem garantia de 90 dias'
+  - nome: Destaque Principal
+    valor: Duas furadeiras de impacto 20V com especificações semelhantes; a principal diferença está nas baterias e no conteúdo
+      dos kits
 vonder_pfv012_pfv012i:
-  nome: "Vonder PFV 012 vs. PFV 012I (12V)"
-  descricao: "Comparativo de duas furadeiras e parafusadeiras Vonder 12V: PFV 012 sem impacto e PFV 012I com impacto, duas velocidades e mandril de 10 mm."
-  imagem: "/assets/images/posts/vonder_pfv012i_12v.png"
-
+  nome: Vonder PFV 012 vs. PFV 012I (12V)
+  descricao: 'Comparativo de duas furadeiras e parafusadeiras Vonder 12V: PFV 012 sem impacto e PFV 012I com impacto, duas
+    velocidades e mandril de 10 mm.'
+  imagem: /assets/images/posts/vonder_pfv012i_12v.png
   links:
-    amazon: ""
-    mercadolivre: ""
-    shopee: ""
-
+    amazon: ''
+    mercadolivre: ''
+    shopee: ''
   especificacoes:
-    - nome: "Modelos"
-      valor: "Vonder PFV 012 e PFV 012I"
-    - nome: "Categoria"
-      valor: "Furadeiras e parafusadeiras a bateria"
-    - nome: "Tensão"
-      valor: "12 V, bateria de íons de lítio"
-    - nome: "Bateria Inclusa"
-      valor: "1 bateria de 12 V e 1,3 Ah em cada kit oficial consultado"
-    - nome: "Motor"
-      valor: "Tipo de motor não especificado nas fichas oficiais consultadas"
-    - nome: "Mandril"
-      valor: "10 mm (3/8 polegada), de aperto rápido, em ambos os modelos"
-    - nome: "Rotação / RPM"
-      valor: "PFV 012: 0–650 rpm | PFV 012I: 0–400 / 0–1.400 rpm"
-    - nome: "Velocidades Mecânicas"
-      valor: "PFV 012: 1 faixa | PFV 012I: 2 faixas"
-    - nome: "Torque Máximo"
-      valor: "Não informado em Nm nas fichas oficiais consultadas"
-    - nome: "Ajustes de Torque"
-      valor: "18 posições em ambos; PFV 012I também possui modo impacto"
-    - nome: "Função Impacto"
-      valor: "PFV 012: não possui | PFV 012I: possui"
-    - nome: "Impactos por Minuto"
-      valor: "PFV 012I: até 21.000 ipm"
-    - nome: "Perfuração em Madeira"
-      valor: "PFV 012: 16 mm | PFV 012I: 20 mm"
-    - nome: "Perfuração em Aço"
-      valor: "10 mm em ambos os modelos"
-    - nome: "Perfuração em Alvenaria"
-      valor: "PFV 012: não indicada | PFV 012I: até 10 mm"
-    - nome: "Peso"
-      valor: "PFV 012: 1,8 kg | PFV 012I: 1,87 kg nas páginas comerciais; composição do peso não especificada"
-    - nome: "Iluminação"
-      valor: "LED integrado em ambos os modelos"
-    - nome: "Indicador de Carga"
-      valor: "Sim, conforme descrição oficial"
-    - nome: "Carregamento"
-      valor: "Tempo informado pela fabricante: 3 a 5 horas"
-    - nome: "Fonte de Alimentação"
-      valor: "Bivolt automática, entrada de 100 a 240 V"
-    - nome: "Acessórios"
-      valor: "Maleta, brocas, bits, soquete magnético e trena, conforme kit oficial"
-    - nome: "Garantia"
-      valor: "12 meses para uso comum, conforme condições oficiais da Vonder"
-    - nome: "Destaque Principal"
-      valor: "PFV 012 para madeira e metal; PFV 012I acrescenta impacto e duas velocidades para aplicações em alvenaria"
-
-# ALTERAÇÃO: corrigir a identificação local do primeiro modelo para SCD711D2K-BR (não SCD711C2K). O segundo permanece SCD712D2K-BR. Revisar título, imagem e links para refletir exatamente as variantes brasileiras.
+  - nome: Modelos
+    valor: Vonder PFV 012 e PFV 012I
+  - nome: Categoria
+    valor: Furadeiras e parafusadeiras a bateria
+  - nome: Tensão
+    valor: 12 V, bateria de íons de lítio
+  - nome: Bateria Inclusa
+    valor: 1 bateria de 12 V e 1,3 Ah em cada kit oficial consultado
+  - nome: Motor
+    valor: Tipo de motor não especificado nas fichas oficiais consultadas
+  - nome: Mandril
+    valor: 10 mm (3/8 polegada), de aperto rápido, em ambos os modelos
+  - nome: Rotação / RPM
+    valor: 'PFV 012: 0–650 rpm | PFV 012I: 0–400 / 0–1.400 rpm'
+  - nome: Velocidades Mecânicas
+    valor: 'PFV 012: 1 faixa | PFV 012I: 2 faixas'
+  - nome: Torque Máximo
+    valor: Não informado em Nm nas fichas oficiais consultadas
+  - nome: Ajustes de Torque
+    valor: 18 posições em ambos; PFV 012I também possui modo impacto
+  - nome: Função Impacto
+    valor: 'PFV 012: não possui | PFV 012I: possui'
+  - nome: Impactos por Minuto
+    valor: 'PFV 012I: até 21.000 ipm'
+  - nome: Perfuração em Madeira
+    valor: 'PFV 012: 16 mm | PFV 012I: 20 mm'
+  - nome: Perfuração em Aço
+    valor: 10 mm em ambos os modelos
+  - nome: Perfuração em Alvenaria
+    valor: 'PFV 012: não indicada | PFV 012I: até 10 mm'
+  - nome: Peso
+    valor: 'PFV 012: 1,8 kg | PFV 012I: 1,87 kg nas páginas comerciais; composição do peso não especificada'
+  - nome: Iluminação
+    valor: LED integrado em ambos os modelos
+  - nome: Indicador de Carga
+    valor: Sim, conforme descrição oficial
+  - nome: Carregamento
+    valor: 'Tempo informado pela fabricante: 3 a 5 horas'
+  - nome: Fonte de Alimentação
+    valor: Bivolt automática, entrada de 100 a 240 V
+  - nome: Acessórios
+    valor: Maleta, brocas, bits, soquete magnético e trena, conforme kit oficial
+  - nome: Garantia
+    valor: 12 meses para uso comum, conforme condições oficiais da Vonder
+  - nome: Destaque Principal
+    valor: PFV 012 para madeira e metal; PFV 012I acrescenta impacto e duas velocidades para aplicações em alvenaria
 stanley_scd711c2k_scd712d2k:
-  nome: "Stanley SCD711D2K-BR vs. SCD712D2K-BR (20V)"
-  descricao: "Comparativo de duas furadeiras e parafusadeiras de impacto Stanley V20: SCD711D2K-BR com especificações a confirmar e SCD712D2K com 60 Nm, ambas com mandril de 13 mm e motor com escovas."
-  imagem: "/assets/images/posts/stanley-scd711c2k.png"
-
+  nome: Stanley SCD711D2K-BR vs. SCD712D2K-BR (20V)
+  descricao: 'Comparativo entre duas furadeiras/parafusadeiras de impacto Stanley V20: a SCD711D2K-BR possui motor brushless
+    e kit com duas baterias de 2,0 Ah; a SCD712D2K-BR declara 60 Nm, mandril metálico de 13 mm e kit com duas baterias de
+    2,0 Ah.'
+  imagem: /assets/images/posts/stanley-scd711c2k.png
   links:
-    amazon: ""
-    mercadolivre: ""
-    shopee: ""
-
+    amazon: ''
+    mercadolivre: ''
+    shopee: ''
   especificacoes:
-    - nome: "Modelos"
-      valor: "Stanley SCD711D2K-BR e SCD712D2K-BR"
-    - nome: "Categoria"
-      valor: "Furadeiras e parafusadeiras de impacto a bateria"
-    - nome: "Plataforma"
-      valor: "Stanley V20 / 20V MAX"
-    - nome: "Motor"
-      valor: "Ambos com escovas de carvão (não brushless)"
-    - nome: "Tensão da Bateria"
-      valor: "20V MAX (18V nominal), íons de lítio"
-    - nome: "Torque Máximo"
-      valor: "SCD711D2K-BR: 50 Nm | SCD712D2K-BR: 60 Nm"
-    - nome: "Rotação / RPM"
-      valor: "SCD711D2K-BR: confirmar rotação na ficha da variante | SCD712D2K-BR: 0–450 / 0–1.700 rpm"
-    - nome: "Função Impacto"
-      valor: "Sim, presente nos dois modelos"
-    - nome: "Impactos por Minuto"
-      valor: "SCD711D2K-BR: confirmar IPM na ficha da variante | SCD712D2K-BR: até 28.900 ipm"
-    - nome: "Mandril"
-      valor: "13 mm, sem chave, em ambos; metálico confirmado na SCD712D2K-BR"
-    - nome: "Ajustes de Torque"
-      valor: "SCD711D2K-BR: confirmar posições na ficha da variante | SCD712D2K-BR: 16 posições"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades em ambos os modelos"
-    - nome: "Capacidade de Perfuração"
-      valor: "Ambos: madeira 35 mm | aço 13 mm | alvenaria 13 mm"
-    - nome: "Baterias Inclusas"
-      valor: "SCD711D2K-BR: confirmar baterias do kit | SCD712D2K-BR: 2 x 2,0 Ah (SB202)"
-    - nome: "Carregador"
-      valor: "SCD712D2K-BR: SC200 de 2 A | SCD711D2K-BR: confirmar carregador do kit"
-    - nome: "Iluminação"
-      valor: "LED integrado em ambos os modelos"
-    - nome: "Peso"
-      valor: "Varia conforme o modelo e a bateria; consultar a configuração comercial"
-    - nome: "Acessórios"
-      valor: "SCD711D2K-BR: confirmar embalagem do kit | SCD712D2K-BR: maleta rígida"
-    - nome: "Garantia"
-      valor: "2 anos nas páginas oficiais consultadas; verificar condições regionais"
-    - nome: "Destaque Principal"
-      valor: "Comparação entre duas furadeiras de impacto V20: 50 Nm (dado a confirmar) na SCD711D2K-BR versus 60 Nm e baterias de 2,0 Ah na SCD712D2K-BR"
-
-
-# ALTERAÇÃO: padronizar o código brasileiro como DCD7781D2BR/DCD7781D2-BR conforme grafia da página consultada. Mantido: motor brushless e função impacto.
+  - nome: Modelos
+    valor: Stanley SCD711D2K-BR e SCD712D2K-BR. O identificador interno do registro foi preservado por compatibilidade.
+  - nome: Categoria
+    valor: Furadeiras e parafusadeiras de impacto a bateria
+  - nome: Plataforma
+    valor: Stanley V20 / 20V MAX
+  - nome: Motor
+    valor: 'SCD711D2K-BR: brushless, conforme página oficial. SCD712D2K-BR: tipo de motor não especificado na página oficial
+      consultada; não classificar como brushless ou com escovas sem manual específico.'
+  - nome: Tensão da Bateria
+    valor: 20V MAX (18V nominal), íons de lítio
+  - nome: Torque Máximo
+    valor: 'SCD711D2K-BR: não informado na página oficial consultada. SCD712D2K-BR: 60 Nm.'
+  - nome: Rotação / RPM
+    valor: 'SCD711D2K-BR: não informado na página oficial consultada. SCD712D2K-BR: 2 velocidades mecânicas; valores de rotação
+      não publicados na página oficial consultada.'
+  - nome: Função Impacto
+    valor: Sim, presente nos dois modelos
+  - nome: Impactos por Minuto
+    valor: 'SCD711D2K-BR: até 25.500 ipm, conforme página oficial. SCD712D2K-BR: a página oficial consultada não publica o
+      valor absoluto de IPM.'
+  - nome: Mandril
+    valor: 13 mm, sem chave, em ambos; metálico confirmado na SCD712D2K-BR
+  - nome: Ajustes de Torque
+    valor: 'SCD711D2K-BR: não informado na página oficial consultada. SCD712D2K-BR: 16 posições.'
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades em ambos os modelos
+  - nome: Capacidade de Perfuração
+    valor: 'Ambos: madeira 35 mm | aço 13 mm | alvenaria 13 mm'
+  - nome: Baterias Inclusas
+    valor: Ambos os kits D2K-BR consultados incluem 2 baterias SB202 de 2,0 Ah.
+  - nome: Carregador
+    valor: Ambos os kits D2K-BR consultados incluem carregador SC200 de 2 A.
+  - nome: Iluminação
+    valor: LED integrado em ambos os modelos
+  - nome: Peso
+    valor: Varia conforme o modelo e a bateria; consultar a configuração comercial
+  - nome: Acessórios
+    valor: Ambos incluem maleta; demais acessórios dependem da listagem específica do kit.
+  - nome: Garantia
+    valor: 2 anos nas páginas oficiais consultadas; verificar condições regionais
+  - nome: Destaque Principal
+    valor: 'SCD711D2K-BR: motor brushless e até 25.500 ipm. SCD712D2K-BR: torque declarado de 60 Nm, mandril metálico e 16
+      posições de torque.'
 dewalt_dcd7781d2:
-  nome: "DeWalt DCD7781D2"
-  descricao: "Furadeira e parafusadeira de impacto 20V MAX brushless, com torque máximo de 65 Nm, mandril metálico de 13 mm e kit com duas baterias de 2 Ah"
-  imagem: "/assets/images/posts/dewalt-dcd7781d2.png"
-
+  nome: DeWalt DCD7781D2
+  descricao: Furadeira e parafusadeira de impacto 20V MAX brushless, com torque máximo de 65 Nm, mandril metálico de 13 mm
+    e kit com duas baterias de 2 Ah
+  imagem: /assets/images/posts/dewalt-dcd7781d2.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1st9D3w"
-    shopee: "https://s.shopee.com.br/1BNhvWehpS"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1st9D3w
+    shopee: https://s.shopee.com.br/1BNhvWehpS
   especificacoes:
-    - nome: "Modelo"
-      valor: "DeWalt DCD7781D2-BR"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Linha"
-      valor: "DeWalt 20V MAX Brushless"
-    - nome: "Motor"
-      valor: "Brushless (sem escovas de carvão)"
-    - nome: "Voltagem / Alimentação"
-      valor: "20V MAX (18V nominal), bateria de íons de lítio"
-    - nome: "Torque Máximo"
-      valor: "65 Nm"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "65 Nm / 26 Nm"
-    - nome: "Rotação / RPM"
-      valor: "0–500 rpm (1ª velocidade) / 0–1.750 rpm (2ª velocidade)"
-    - nome: "Impactos por Minuto (IPM)"
-      valor: "0–8.500 ipm (1ª velocidade) / 0–29.750 ipm (2ª velocidade)"
-    - nome: "Mandril"
-      valor: "Metálico, de aperto rápido, com capacidade de 1,5 a 13 mm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 30 mm | Aço: 13 mm | Alvenaria: 13 mm (manual técnico)"
-    - nome: "Ajustes de Torque"
-      valor: "22 posições conforme catálogo brasileiro"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades, com controle variável pelo gatilho"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Peso Líquido"
-      valor: "Aproximadamente 1,2 kg sem bateria"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminação da área de trabalho"
-    - nome: "Baterias Inclusas"
-      valor: "2 baterias DeWalt 20V MAX de 2,0 Ah"
-    - nome: "Carregador Incluso"
-      valor: "Carregador bivolt DCB107 conforme catálogo brasileiro de 2025"
-    - nome: "Acessórios"
-      valor: "Maleta plástica e manual de instruções"
-    - nome: "Garantia"
-      valor: "Garantia limitada de 3 anos, conforme condições oficiais da DeWalt Brasil"
-    - nome: "Destaque Principal"
-      valor: "Motor brushless, torque máximo de 65 Nm, função impacto e mandril metálico de 13 mm"
-
-
+  - nome: Modelo
+    valor: DeWalt DCD7781D2-BR
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Linha
+    valor: DeWalt 20V MAX Brushless
+  - nome: Motor
+    valor: Brushless (sem escovas de carvão)
+  - nome: Voltagem / Alimentação
+    valor: 20V MAX (18V nominal), bateria de íons de lítio
+  - nome: Torque Máximo
+    valor: 65 Nm
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 65 Nm / 26 Nm
+  - nome: Rotação / RPM
+    valor: 0–500 rpm (1ª velocidade) / 0–1.750 rpm (2ª velocidade)
+  - nome: Impactos por Minuto (IPM)
+    valor: 0–8.500 ipm (1ª velocidade) / 0–29.750 ipm (2ª velocidade)
+  - nome: Mandril
+    valor: Metálico, de aperto rápido, com capacidade de 1,5 a 13 mm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 30 mm | Aço: 13 mm | Alvenaria: 13 mm (manual técnico)'
+  - nome: Ajustes de Torque
+    valor: 22 posições conforme catálogo brasileiro
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades, com controle variável pelo gatilho
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Peso Líquido
+    valor: Aproximadamente 1,2 kg sem bateria
+  - nome: Iluminação
+    valor: LED integrado para iluminação da área de trabalho
+  - nome: Baterias Inclusas
+    valor: 2 baterias DeWalt 20V MAX de 2,0 Ah
+  - nome: Carregador Incluso
+    valor: Carregador bivolt DCB107 conforme catálogo brasileiro de 2025
+  - nome: Acessórios
+    valor: Maleta plástica e manual de instruções
+  - nome: Garantia
+    valor: Garantia limitada de 3 anos, conforme condições oficiais da DeWalt Brasil
+  - nome: Destaque Principal
+    valor: Motor brushless, torque máximo de 65 Nm, função impacto e mandril metálico de 13 mm
 dewalt_dcd716d2:
-  nome: "DeWalt DCD716D2"
-  descricao: "Furadeira e parafusadeira de impacto 12V MAX com torque máximo anunciado de 30 Nm, mandril de 10 mm, duas velocidades e até 22.500 impactos por minuto"
-  imagem: "/assets/images/posts/dewalt-dcd716d2.png"
-
+  nome: DeWalt DCD716D2
+  descricao: Furadeira e parafusadeira de impacto 12V MAX com torque máximo anunciado de 30 Nm, mandril de 10 mm, duas velocidades
+    e até 22.500 impactos por minuto
+  imagem: /assets/images/posts/dewalt-dcd716d2.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2fMxVpg"
-    shopee: "https://s.shopee.com.br/3VlciAVjiB"
-
+    amazon: ''
+    mercadolivre: https://meli.la/2fMxVpg
+    shopee: https://s.shopee.com.br/3VlciAVjiB
   especificacoes:
-    - nome: "Modelo Comercial"
-      valor: "DeWalt DCD716D2-BR"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Voltagem / Alimentação"
-      valor: "12V MAX, bateria de íons de lítio removível"
-    - nome: "Motor"
-      valor: "Motor com escovas de carvão; não é brushless"
-    - nome: "Torque Máximo"
-      valor: "30 Nm na página oficial atual; catálogo DeWalt 2025 informa 25 Nm"
-    - nome: "Rotação / RPM"
-      valor: "0–400 rpm (1ª velocidade) / 0–1.500 rpm (2ª velocidade)"
-    - nome: "Impactos por Minuto (IPM)"
-      valor: "0–6.000 ipm (1ª velocidade) / 0–22.500 ipm (2ª velocidade)"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 10 mm (3/8 polegada)"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 25 mm | Aço: 10 mm | Alvenaria: 10 mm"
-    - nome: "Ajustes de Torque"
-      valor: "15 posições de ajuste"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades, com controle variável pelo gatilho"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Peso"
-      valor: "Aproximadamente 1,1 kg conforme catálogo; verificar configuração"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminação da área de trabalho"
-    - nome: "Freio"
-      valor: "Freio elétrico"
-    - nome: "Baterias Inclusas"
-      valor: "Página oficial lista 2 baterias de 2,0 Ah, mas o título menciona 1,3 Ah; confirmar o kit"
-    - nome: "Carregador Incluso"
-      valor: "Carregador bivolt; modelo específico não confirmado"
-    - nome: "Garantia"
-      valor: "Garantia limitada de 3 anos, conforme condições oficiais da DeWalt Brasil"
-    - nome: "Destaque Principal"
-      valor: "Ferramenta 12V MAX compacta com mandril de 10 mm, duas velocidades, 15 ajustes de torque e função impacto"
-
-
+  - nome: Modelo Comercial
+    valor: DeWalt DCD716D2-BR
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Voltagem / Alimentação
+    valor: 12V MAX, bateria de íons de lítio removível
+  - nome: Motor
+    valor: Motor com escovas de carvão; não é brushless
+  - nome: Torque Máximo
+    valor: 30 Nm na página oficial atual; catálogo DeWalt 2025 informa 25 Nm
+  - nome: Rotação / RPM
+    valor: 0–400 rpm (1ª velocidade) / 0–1.500 rpm (2ª velocidade)
+  - nome: Impactos por Minuto (IPM)
+    valor: 0–6.000 ipm (1ª velocidade) / 0–22.500 ipm (2ª velocidade)
+  - nome: Mandril
+    valor: Aperto rápido de 10 mm (3/8 polegada)
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 25 mm | Aço: 10 mm | Alvenaria: 10 mm'
+  - nome: Ajustes de Torque
+    valor: 15 posições de ajuste
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades, com controle variável pelo gatilho
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Peso
+    valor: Aproximadamente 1,1 kg conforme catálogo; verificar configuração
+  - nome: Iluminação
+    valor: LED integrado para iluminação da área de trabalho
+  - nome: Freio
+    valor: Freio elétrico
+  - nome: Baterias Inclusas
+    valor: 'Divergência na página oficial consultada: o título menciona 1,3 Ah, enquanto a lista de itens inclui 2 baterias
+      de 2,0 Ah. Confirmar etiqueta/código do kit e conteúdo da embalagem antes de publicar a capacidade.'
+  - nome: Carregador Incluso
+    valor: Carregador bivolt; modelo específico não confirmado
+  - nome: Garantia
+    valor: Garantia limitada de 3 anos, conforme condições oficiais da DeWalt Brasil
+  - nome: Destaque Principal
+    valor: Ferramenta 12V MAX compacta com mandril de 10 mm, duas velocidades, 15 ajustes de torque e função impacto
 bosch_gsb_18v_50:
-  nome: "Bosch GSB 18V-50"
-  descricao: "Furadeira e parafusadeira de impacto 18V brushless, com torque máximo de 50 Nm, mandril metálico de 13 mm e até 27.000 impactos por minuto"
-  imagem: "/assets/images/posts/bosch-gsb-18v-50.png"
-
+  nome: Bosch GSB 18V-50
+  descricao: Furadeira e parafusadeira de impacto 18V brushless, com torque máximo de 50 Nm, mandril metálico de 13 mm e até
+    27.000 impactos por minuto
+  imagem: /assets/images/posts/bosch-gsb-18v-50.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1rNohGN"
-    shopee: "https://s.shopee.com.br/AAIWeWPrWt"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1rNohGN
+    shopee: https://s.shopee.com.br/AAIWeWPrWt
   especificacoes:
-    - nome: "Modelo"
-      valor: "Bosch GSB 18V-50"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Voltagem / Alimentação"
-      valor: "18V, bateria de íons de lítio removível, sistema Bosch Professional"
-    - nome: "Motor"
-      valor: "Brushless (sem escovas de carvão)"
-    - nome: "Torque Máximo"
-      valor: "50 Nm"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "50 Nm / 28 Nm"
-    - nome: "Rotação / RPM"
-      valor: "0–460 rpm (1ª velocidade) / 0–1.800 rpm (2ª velocidade)"
-    - nome: "Impactos por Minuto (IPM)"
-      valor: "Até 27.000 ipm"
-    - nome: "Mandril"
-      valor: "Metálico, de aperto rápido, com capacidade de 1,5 a 13 mm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 35 mm | Aço: 13 mm | Alvenaria: 13 mm"
-    - nome: "Ajustes de Torque"
-      valor: "20 níveis, mais modos de perfuração e impacto"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades com controle variável pelo gatilho"
-    - nome: "Peso Líquido"
-      valor: "Aproximadamente 1,1 kg sem bateria"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminação da área de trabalho"
-    - nome: "Bateria"
-      valor: "Compatível com baterias Bosch Professional 18V e ProCORE18V adequadas ao modelo"
-    - nome: "Carregador"
-      valor: "Modelo e tempo de recarga dependem do kit comercializado"
-    - nome: "Destaque Principal"
-      valor: "Motor brushless, torque de 50 Nm, mandril metálico de 13 mm e plataforma Bosch Professional 18V"
-
-
-# ALTERAÇÃO: manter apenas como modelo legado, não como opção atual de destaque. Sugestão de atualização: Bosch GSB185-LI; trocar somente após revisar imagem, links e especificações da variante substituta.
+  - nome: Modelo
+    valor: Bosch GSB 18V-50
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Voltagem / Alimentação
+    valor: 18V, bateria de íons de lítio removível, sistema Bosch Professional
+  - nome: Motor
+    valor: Brushless (sem escovas de carvão)
+  - nome: Torque Máximo
+    valor: 50 Nm
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 50 Nm / 28 Nm
+  - nome: Rotação / RPM
+    valor: 0–460 rpm (1ª velocidade) / 0–1.800 rpm (2ª velocidade)
+  - nome: Impactos por Minuto (IPM)
+    valor: Até 27.000 ipm
+  - nome: Mandril
+    valor: Metálico, de aperto rápido, com capacidade de 1,5 a 13 mm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 35 mm | Aço: 13 mm | Alvenaria: 13 mm'
+  - nome: Ajustes de Torque
+    valor: 20 níveis, mais modos de perfuração e impacto
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades com controle variável pelo gatilho
+  - nome: Peso Líquido
+    valor: Aproximadamente 1,1 kg sem bateria
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Iluminação
+    valor: LED integrado para iluminação da área de trabalho
+  - nome: Bateria
+    valor: Compatível com baterias Bosch Professional 18V e ProCORE18V adequadas ao modelo
+  - nome: Carregador
+    valor: Modelo e tempo de recarga dependem do kit comercializado
+  - nome: Destaque Principal
+    valor: Motor brushless, torque de 50 Nm, mandril metálico de 13 mm e plataforma Bosch Professional 18V
 bosch_gsb_180_li:
-  nome: "Bosch GSB 180-LI"
-  descricao: "Furadeira e parafusadeira de impacto 18V Bosch Professional, com torque máximo de 54 Nm, mandril de 13 mm e até 27.000 impactos por minuto"
-  imagem: "/assets/images/posts/bosch-gsb-180-li.png"
-
+  nome: Bosch GSB 180-LI
+  descricao: Furadeira e parafusadeira de impacto 18V Bosch Professional, com torque máximo de 54 Nm, mandril de 13 mm e até
+    27.000 impactos por minuto
+  imagem: /assets/images/posts/bosch-gsb-180-li.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/12HEh9z"
-    shopee: "https://s.shopee.com.br/906ZH77OJt"
-
+    amazon: ''
+    mercadolivre: https://meli.la/12HEh9z
+    shopee: https://s.shopee.com.br/906ZH77OJt
   especificacoes:
-    - nome: "Modelo"
-      valor: "Bosch GSB 180-LI"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Voltagem / Alimentação"
-      valor: "18V, bateria de íons de lítio removível, plataforma Bosch Professional"
-    - nome: "Motor"
-      valor: "Motor com escovas de carvão substituíveis; não é brushless"
-    - nome: "Torque Máximo"
-      valor: "54 Nm"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "54 Nm / 21 Nm"
-    - nome: "Rotação / RPM"
-      valor: "0–500 rpm (1ª velocidade) / 0–1.900 rpm (2ª velocidade)"
-    - nome: "Impactos por Minuto (IPM)"
-      valor: "Até 27.000 ipm"
-    - nome: "Mandril"
-      valor: "Aperto rápido, capacidade de 1,5 a 13 mm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 35 mm | Aço: 10 mm | Alvenaria: 10 mm"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades, com controle eletrônico pelo gatilho"
-    - nome: "Peso"
-      valor: "Varia conforme a bateria e a configuração comercializada"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminação da área de trabalho"
-    - nome: "Bateria"
-      valor: "Compatível com baterias Bosch Professional 18V adequadas ao modelo; capacidade e quantidade dependem do kit"
-    - nome: "Carregador"
-      valor: "Modelo e tempo de recarga dependem do kit comercializado"
-    - nome: "Destaque Principal"
-      valor: "Torque máximo de 54 Nm, mandril de 13 mm, duas velocidades, função impacto e plataforma Bosch Professional 18V"
-
-
-# REVISÃO: padronizar a família em HP333DZ (ferramenta avulsa) ou HP333DWYE (kit). Não misturar códigos de kit; conferir os links antes de apontá-los para uma variante específica.
+  - nome: Modelo
+    valor: Bosch GSB 180-LI
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Voltagem / Alimentação
+    valor: 18V, bateria de íons de lítio removível, plataforma Bosch Professional
+  - nome: Motor
+    valor: Motor com escovas de carvão substituíveis; não é brushless
+  - nome: Torque Máximo
+    valor: 54 Nm
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 54 Nm / 21 Nm
+  - nome: Rotação / RPM
+    valor: 0–500 rpm (1ª velocidade) / 0–1.900 rpm (2ª velocidade)
+  - nome: Impactos por Minuto (IPM)
+    valor: Até 27.000 ipm
+  - nome: Mandril
+    valor: Aperto rápido, capacidade de 1,5 a 13 mm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 35 mm | Aço: 10 mm | Alvenaria: 10 mm'
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades, com controle eletrônico pelo gatilho
+  - nome: Peso
+    valor: Varia conforme a bateria e a configuração comercializada
+  - nome: Iluminação
+    valor: LED integrado para iluminação da área de trabalho
+  - nome: Bateria
+    valor: Compatível com baterias Bosch Professional 18V adequadas ao modelo; capacidade e quantidade dependem do kit
+  - nome: Carregador
+    valor: Modelo e tempo de recarga dependem do kit comercializado
+  - nome: Destaque Principal
+    valor: Torque máximo de 54 Nm, mandril de 13 mm, duas velocidades, função impacto e plataforma Bosch Professional 18V
 makita_hp333_12v_impacto:
-  nome: "Makita HP333 (12V Impacto)"
-  descricao: "Furadeira e parafusadeira de impacto 12V max CXT, com motor de 2 polos, torque máximo de 34 Nm, mandril de 10 mm e até 25.500 impactos por minuto"
-  imagem: "/assets/images/posts/makita-hp333-12v-impacto.png"
-
+  nome: Makita HP333 (12V Impacto)
+  descricao: Furadeira e parafusadeira de impacto 12V max CXT, com motor de 2 polos, torque máximo de 34 Nm, mandril de 10
+    mm e até 25.500 impactos por minuto
+  imagem: /assets/images/posts/makita-hp333-12v-impacto.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2Jjtcfc"
-    shopee: "https://s.shopee.com.br/9V2ps8cGMR"
-
+    amazon: ''
+    mercadolivre: https://meli.la/2Jjtcfc
+    shopee: https://s.shopee.com.br/9V2ps8cGMR
   especificacoes:
-    - nome: "Modelo"
-      valor: "Makita HP333 (versões e kits variam conforme o mercado)"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Voltagem / Alimentação"
-      valor: "12V max CXT (10,8V nominal), bateria de íons de lítio removível"
-    - nome: "Motor"
-      valor: "Motor de 2 polos com escovas de carvão; não é brushless"
-    - nome: "Torque Máximo"
-      valor: "34 Nm"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "30 Nm / 14 Nm"
-    - nome: "Rotação / RPM"
-      valor: "0–450 rpm (1ª velocidade) / 0–1.700 rpm (2ª velocidade)"
-    - nome: "Impactos por Minuto (IPM)"
-      valor: "0–6.750 ipm (1ª velocidade) / 0–25.500 ipm (2ª velocidade)"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 10 mm (3/8 polegadas)"
-    - nome: "Capacidade de Furação"
-      valor: "Aço: 10 mm | Madeira: 21 mm | Alvenaria: 8 mm"
-    - nome: "Ajustes de Torque"
-      valor: "20 níveis de ajuste, com modos de perfuração e impacto"
-    - nome: "Peso"
-      valor: "Varia conforme a bateria e a configuração comercializada"
-    - nome: "Comprimento"
-      valor: "193 mm"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Freio"
-      valor: "Freio elétrico para parada rápida do mandril"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminação da área de trabalho"
-    - nome: "Bateria"
-      valor: "Compatível com baterias Makita CXT 12V max adequadas ao modelo; capacidade e quantidade dependem do kit"
-    - nome: "Carregador"
-      valor: "Modelo e tempo de recarga dependem da configuração comercializada"
-    - nome: "Garantia Oficial"
-      valor: "Conforme as condições de garantia da Makita Brasil e a documentação do produto"
-    - nome: "Destaque Principal"
-      valor: "Formato compacto, torque máximo de 34 Nm, duas velocidades, função impacto e compatibilidade com a plataforma Makita CXT 12V max"
-
-
+  - nome: Modelo
+    valor: Makita HP333 (versões e kits variam conforme o mercado)
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Voltagem / Alimentação
+    valor: 12V max CXT (10,8V nominal), bateria de íons de lítio removível
+  - nome: Motor
+    valor: Motor de 2 polos com escovas de carvão; não é brushless
+  - nome: Torque Máximo
+    valor: 34 Nm
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 30 Nm / 14 Nm
+  - nome: Rotação / RPM
+    valor: 0–450 rpm (1ª velocidade) / 0–1.700 rpm (2ª velocidade)
+  - nome: Impactos por Minuto (IPM)
+    valor: 0–6.750 ipm (1ª velocidade) / 0–25.500 ipm (2ª velocidade)
+  - nome: Mandril
+    valor: Aperto rápido de 10 mm (3/8 polegadas)
+  - nome: Capacidade de Furação
+    valor: 'Aço: 10 mm | Madeira: 21 mm | Alvenaria: 8 mm'
+  - nome: Ajustes de Torque
+    valor: 20 níveis de ajuste, com modos de perfuração e impacto
+  - nome: Peso
+    valor: Varia conforme a bateria e a configuração comercializada
+  - nome: Comprimento
+    valor: 193 mm
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Freio
+    valor: Freio elétrico para parada rápida do mandril
+  - nome: Iluminação
+    valor: LED integrado para iluminação da área de trabalho
+  - nome: Bateria
+    valor: Compatível com baterias Makita CXT 12V max adequadas ao modelo; capacidade e quantidade dependem do kit
+  - nome: Carregador
+    valor: Modelo e tempo de recarga dependem da configuração comercializada
+  - nome: Garantia Oficial
+    valor: Conforme as condições de garantia da Makita Brasil e a documentação do produto
+  - nome: Destaque Principal
+    valor: Formato compacto, torque máximo de 34 Nm, duas velocidades, função impacto e compatibilidade com a plataforma Makita
+      CXT 12V max
 makita_dhp490:
-  nome: "Makita DHP490"
-  descricao: "Furadeira e parafusadeira de impacto 18V LXT com motor brushless, torque máximo de 65 Nm, mandril de 13 mm e até 28.500 impactos por minuto"
-  imagem: "/assets/images/posts/makita-dhp490.png"
-
+  nome: Makita DHP490
+  descricao: Furadeira e parafusadeira de impacto 18V LXT com motor brushless, torque máximo de 65 Nm, mandril de 13 mm e
+    até 28.500 impactos por minuto
+  imagem: /assets/images/posts/makita-dhp490.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1EexWyo"
-    shopee: "https://s.shopee.com.br/7fbBgsbsQC"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1EexWyo
+    shopee: https://s.shopee.com.br/7fbBgsbsQC
   especificacoes:
-    - nome: "Modelo"
-      valor: "Makita DHP490"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Plataforma"
-      valor: "Makita LXT 18V, bateria de íons de lítio removível"
-    - nome: "Motor"
-      valor: "BL Brushless (sem escovas de carvão)"
-    - nome: "Torque Máximo"
-      valor: "65 Nm"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "50 Nm / 27 Nm"
-    - nome: "Configurações de Torque"
-      valor: "20 níveis de ajuste de torque, com modos de perfuração e impacto"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 1,5 a 13 mm (1/2 polegada)"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades: 0–500 rpm (baixa) / 0–1.900 rpm (alta)"
-    - nome: "Impactos por Minuto (IPM)"
-      valor: "0–7.500 ipm (baixa) / 0–28.500 ipm (alta)"
-    - nome: "Capacidade de Perfuração"
-      valor: "Aço: 13 mm | Madeira: 38 mm | Alvenaria: 13 mm"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Comprimento"
-      valor: "172 mm"
-    - nome: "Peso"
-      valor: "Varia conforme a bateria instalada; consultar o peso da configuração comercializada"
-    - nome: "Proteção"
-      valor: "Tecnologia XPT, projetada para maior resistência à poeira e respingos de água"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminação da área de trabalho"
-    - nome: "Freio"
-      valor: "Freio elétrico para parada rápida da rotação após soltar o gatilho"
-    - nome: "Bateria"
-      valor: "Compatível com baterias Makita LXT 18V adequadas ao modelo; capacidade e quantidade dependem do kit"
-    - nome: "Garantia"
-      valor: "Conforme as condições oficiais da Makita Brasil e a documentação do produto"
-    - nome: "Destaque Principal"
-      valor: "Motor brushless, torque máximo de 65 Nm, duas velocidades, função impacto e plataforma Makita LXT 18V"
-
-
-# REVISÃO: mantido. Confirmar no título/código comercial que se trata do GSB 12V-30 brushless, com função impacto.
+  - nome: Modelo
+    valor: Makita DHP490
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Plataforma
+    valor: Makita LXT 18V, bateria de íons de lítio removível
+  - nome: Motor
+    valor: BL Brushless (sem escovas de carvão)
+  - nome: Torque Máximo
+    valor: 65 Nm
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 50 Nm / 27 Nm
+  - nome: Configurações de Torque
+    valor: 20 níveis de ajuste de torque, com modos de perfuração e impacto
+  - nome: Mandril
+    valor: Aperto rápido de 1,5 a 13 mm (1/2 polegada)
+  - nome: Velocidades Mecânicas
+    valor: '2 velocidades: 0–500 rpm (baixa) / 0–1.900 rpm (alta)'
+  - nome: Impactos por Minuto (IPM)
+    valor: 0–7.500 ipm (baixa) / 0–28.500 ipm (alta)
+  - nome: Capacidade de Perfuração
+    valor: 'Aço: 13 mm | Madeira: 38 mmm | Alvenaria: 13 mm'
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Comprimento
+    valor: 172 mm
+  - nome: Peso
+    valor: Varia conforme a bateria instalada; consultar o peso da configuração comercializada
+  - nome: Proteção
+    valor: Tecnologia XPT, projetada para maior resistência à poeira e respingos de água
+  - nome: Iluminação
+    valor: LED integrado para iluminação da área de trabalho
+  - nome: Freio
+    valor: Freio elétrico para parada rápida da rotação após soltar o gatilho
+  - nome: Bateria
+    valor: Compatível com baterias Makita LXT 18V adequadas ao modelo; capacidade e quantidade dependem do kit
+  - nome: Garantia
+    valor: Conforme as condições oficiais da Makita Brasil e a documentação do produto
+  - nome: Destaque Principal
+    valor: Motor brushless, torque máximo de 65 Nm, duas velocidades, função impacto e plataforma Makita LXT 18V
 bosch_gsb_12v_30_brushless:
-  nome: "Bosch GSB 12V-30 Brushless"
-  descricao: "Furadeira e parafusadeira de impacto 12V com motor brushless, torque máximo de 30 Nm, duas velocidades e até 24.000 impactos por minuto"
-  imagem: "/assets/images/posts/bosch-gsb-12v-30-brushless.png"
-
+  nome: Bosch GSB 12V-30 Brushless
+  descricao: Furadeira e parafusadeira de impacto 12V com motor brushless, torque máximo de 30 Nm, duas velocidades e até
+    24.000 impactos por minuto
+  imagem: /assets/images/posts/bosch-gsb-12v-30-brushless.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1jUVvTZ"
-    shopee: "https://s.shopee.com.br/1gJyY1TX5E"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1jUVvTZ
+    shopee: https://s.shopee.com.br/1gJyY1TX5E
   especificacoes:
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria, linha Bosch Professional"
-    - nome: "Voltagem / Alimentação"
-      valor: "12V, bateria de íons de lítio removível, compatível com o sistema Bosch Professional 12V"
-    - nome: "Motor"
-      valor: "Brushless (sem escovas de carvão)"
-    - nome: "Torque (Junta Suave / Dura)"
-      valor: "18 Nm / 30 Nm"
-    - nome: "Configurações de Torque"
-      valor: "20 posições de torque + modo perfuração + modo impacto"
-    - nome: "Rotação (RPM)"
-      valor: "0–420 rpm (1ª velocidade) / 0–1.600 rpm (2ª velocidade)"
-    - nome: "Taxa de Impacto (IPM)"
-      valor: "Até 24.000 impactos por minuto"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 1,0 a 10 mm (3/8 polegadas)"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 20 mm | Aço: 10 mm | Alvenaria: 8 mm"
-    - nome: "Diâmetro Máximo de Parafusamento"
-      valor: "8 mm"
-    - nome: "Peso Líquido"
-      valor: "Aproximadamente 0,82 kg sem bateria; peso com bateria varia conforme a capacidade utilizada"
-    - nome: "Bateria"
-      valor: "Compatível com baterias Bosch Professional 12V; capacidade e quantidade dependem do kit comercializado"
-    - nome: "Carregador"
-      valor: "Modelo e tempo de carregamento dependem da configuração do kit"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para perfuração em alvenaria"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminação da área de trabalho"
-    - nome: "Destaque Principal"
-      valor: "Motor brushless, torque de 30 Nm e função impacto em uma ferramenta compacta da plataforma Bosch Professional 12V"
-
-
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria, linha Bosch Professional
+  - nome: Voltagem / Alimentação
+    valor: 12V, bateria de íons de lítio removível, compatível com o sistema Bosch Professional 12V
+  - nome: Motor
+    valor: Brushless (sem escovas de carvão)
+  - nome: Torque (Junta Suave / Dura)
+    valor: 18 Nm / 30 Nm
+  - nome: Configurações de Torque
+    valor: 20 posições de torque + modo perfuração + modo impacto
+  - nome: Rotação (RPM)
+    valor: 0–420 rpm (1ª velocidade) / 0–1.600 rpm (2ª velocidade)
+  - nome: Taxa de Impacto (IPM)
+    valor: Até 24.000 impactos por minuto
+  - nome: Mandril
+    valor: Aperto rápido de 1,0 a 10 mm (3/8 polegadas)
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 20 mm | Aço: 10 mm | Alvenaria: 8 mm'
+  - nome: Diâmetro Máximo de Parafusamento
+    valor: 8 mm
+  - nome: Peso Líquido
+    valor: Aproximadamente 0,82 kg sem bateria; peso com bateria varia conforme a capacidade utilizada
+  - nome: Bateria
+    valor: Compatível com baterias Bosch Professional 12V; capacidade e quantidade dependem do kit comercializado
+  - nome: Carregador
+    valor: Modelo e tempo de carregamento dependem da configuração do kit
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para perfuração em alvenaria
+  - nome: Iluminação
+    valor: LED integrado para iluminação da área de trabalho
+  - nome: Destaque Principal
+    valor: Motor brushless, torque de 30 Nm e função impacto em uma ferramenta compacta da plataforma Bosch Professional 12V
 black_decker_ld12s:
-  nome: "Black+Decker LD12S"
-  descricao: "Furadeira e parafusadeira 12V de íons de lítio, compacta, com mandril de 10 mm, velocidade variável e reversível, LED e indicador de carga da bateria"
-  imagem: "/assets/images/posts/black-decker-ld12s.png"
-
+  nome: Black+Decker LD12S
+  descricao: Furadeira e parafusadeira 12V de íons de lítio, compacta, com mandril de 10 mm, velocidade variável e reversível,
+    LED e indicador de carga da bateria
+  imagem: /assets/images/posts/black-decker-ld12s.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1L8vso3"
-    shopee: "https://s.shopee.com.br/1Lh89eXsyC"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1L8vso3
+    shopee: https://s.shopee.com.br/1Lh89eXsyC
   especificacoes:
-    - nome: "Modelo"
-      valor: "LD12S-BR (verificar a versão e os acessórios incluídos na oferta)"
-    - nome: "Tipo"
-      valor: "Furadeira e parafusadeira a bateria, sem impacto"
-    - nome: "Voltagem / Alimentação"
-      valor: "12V Max (íon de lítio)"
-    - nome: "Capacidade da Bateria"
-      valor: "Consultar a capacidade informada no kit específico"
-    - nome: "Mandril"
-      valor: "10 mm (3/8 polegadas), de aperto rápido"
-    - nome: "Torque / Potência"
-      valor: "Torque máximo não confirmado na documentação oficial consultada"
-    - nome: "Configurações de Torque"
-      valor: "Ajuste de torque para parafusamento; quantidade de posições a confirmar"
-    - nome: "Rotação / RPM"
-      valor: "Velocidade variável e reversível; rotação máxima não confirmada"
-    - nome: "Função Impacto"
-      valor: "Não possui (apenas rotação)"
-    - nome: "Capacidade de Perfuração"
-      valor: "Indicada para madeira e metal; diâmetros máximos não confirmados"
-    - nome: "Peso Líquido"
-      valor: "Peso com bateria não confirmado na documentação consultada"
-    - nome: "Destaque Principal"
-      valor: "Design compacto, LED de iluminação, indicador de carga e garantia de 1 ano conforme condições da fabricante"
-
-
-
-# REVISÃO: mantido como opção 12V de entrada; não confundir com GSR 120-LI, que é sem impacto.
+  - nome: Modelo
+    valor: LD12S-BR (verificar a versão e os acessórios incluídos na oferta)
+  - nome: Tipo
+    valor: Furadeira e parafusadeira a bateria, sem impacto
+  - nome: Voltagem / Alimentação
+    valor: 12V Max (íon de lítio)
+  - nome: Capacidade da Bateria
+    valor: Consultar a capacidade informada no kit específico
+  - nome: Mandril
+    valor: 10 mm (3/8 polegadas), de aperto rápido
+  - nome: Torque / Potência
+    valor: Torque máximo não confirmado na documentação oficial consultada
+  - nome: Configurações de Torque
+    valor: Ajuste de torque para parafusamento; quantidade de posições a confirmar
+  - nome: Rotação / RPM
+    valor: Velocidade variável e reversível; rotação máxima não confirmada
+  - nome: Função Impacto
+    valor: Não possui (apenas rotação)
+  - nome: Capacidade de Perfuração
+    valor: Indicada para madeira e metal; diâmetros máximos não confirmados
+  - nome: Peso Líquido
+    valor: Peso com bateria não confirmado na documentação consultada
+  - nome: Destaque Principal
+    valor: Design compacto, LED de iluminação, indicador de carga e garantia de 1 ano conforme condições da fabricante
 bosch_gsb_120_li:
-  nome: "Parafusadeira e Furadeira de Impacto Bosch GSB 120-LI"
-  descricao: "Furadeira e parafusadeira de impacto 12V Professional, com torque máximo de 30 Nm, duas velocidades, mandril de 10 mm e até 22.500 impactos por minuto"
-  imagem: "/assets/images/posts/parafusadeira-bosch-gsb-120-li.png"
-
+  nome: Parafusadeira e Furadeira de Impacto Bosch GSB 120-LI
+  descricao: Furadeira e parafusadeira de impacto 12V Professional, com torque máximo de 30 Nm, duas velocidades, mandril
+    de 10 mm e até 22.500 impactos por minuto
+  imagem: /assets/images/posts/parafusadeira-bosch-gsb-120-li.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1BEytTx"
-    shopee: "https://s.shopee.com.br/6VPEJJAJar"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1BEytTx
+    shopee: https://s.shopee.com.br/6VPEJJAJar
   especificacoes:
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria, linha Bosch Professional 12V"
-    - nome: "Voltagem / Alimentação"
-      valor: "12V, bateria de íons de lítio removível (Bosch Professional 12V)"
-    - nome: "Motor"
-      valor: "Motor com escovas de carvão (brushed); não é brushless"
-    - nome: "Torque Máximo (Duro / Macio)"
-      valor: "30 Nm / 14 Nm"
-    - nome: "Configurações de Torque"
-      valor: "20 posições de torque + modo perfuração + modo impacto (20+2)"
-    - nome: "Rotação / RPM (1ª / 2ª Velocidade)"
-      valor: "0–400 / 0–1.500 rpm"
-    - nome: "Impactos por Minuto (IPM)"
-      valor: "Até 22.500 impactos por minuto"
-    - nome: "Capacidade de Perfuração"
-      valor: "Aço: 10 mm | Madeira: 20 mm | Concreto: 8 mm"
-    - nome: "Mandril"
-      valor: "Aperto rápido de 10 mm (3/8 polegadas), com corpo plástico"
-    - nome: "Peso Líquido (com bateria 2.0 Ah)"
-      valor: "Aproximadamente 1,1 kg com bateria; a Bosch informa cerca de 0,9 kg sem bateria"
-    - nome: "Destaque Principal"
-      valor: "Função impacto para alvenaria, torque de 30 Nm e duas velocidades em uma ferramenta compacta da linha Bosch Professional 12V"
-
-
-# ALTERAÇÃO: categoria editorial corrigida para parafusadeira compacta (não furadeira com mandril convencional). O GSR 1000 Smart tem bateria integrada e porta-bits; não comparar diretamente com modelos de mandril.
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria, linha Bosch Professional 12V
+  - nome: Voltagem / Alimentação
+    valor: 12V, bateria de íons de lítio removível (Bosch Professional 12V)
+  - nome: Motor
+    valor: Motor com escovas de carvão (brushed); não é brushless
+  - nome: Torque Máximo (Duro / Macio)
+    valor: 30 Nm / 14 Nm
+  - nome: Configurações de Torque
+    valor: 20 posições de torque + modo perfuração + modo impacto (20+2)
+  - nome: Rotação / RPM (1ª / 2ª Velocidade)
+    valor: 0–400 / 0–1.500 rpm
+  - nome: Impactos por Minuto (IPM)
+    valor: Até 22.500 impactos por minuto
+  - nome: Capacidade de Perfuração
+    valor: 'Aço: 10 mm | Madeira: 20 mm | Concreto: 8 mm'
+  - nome: Mandril
+    valor: Aperto rápido de 10 mm (3/8 polegadas), com corpo plástico
+  - nome: Peso Líquido (com bateria 2.0 Ah)
+    valor: Aproximadamente 1,1 kg com bateria; a Bosch informa cerca de 0,9 kg sem bateria
+  - nome: Destaque Principal
+    valor: Função impacto para alvenaria, torque de 30 Nm e duas velocidades em uma ferramenta compacta da linha Bosch Professional
+      12V
 bosch_gsr_1000_smart:
-  nome: "Bosch GSR 1000 Smart Professional"
-  descricao: "Furadeira e parafusadeira compacta 12V com bateria integrada de 1,5 Ah, torque de 15 Nm, encaixe de 1/4 pol. e rotação de até 700 rpm."
-  imagem: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.png"
+  nome: Bosch GSR 1000 Smart Professional
+  descricao: Furadeira e parafusadeira compacta 12V com bateria integrada de 1,5 Ah, torque de 15 Nm, encaixe de 1/4 pol.
+    e rotação de até 700 rpm.
+  imagem: /assets/images/posts/parafusadeira-bosch-gsr-1000-smart.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1dKpL1V"
-    shopee: "https://s.shopee.com.br/1BkZT5lUC"
+    amazon: ''
+    mercadolivre: https://meli.la/1dKpL1V
+    shopee: https://s.shopee.com.br/1BkZT5lUC
   especificacoes:
-    - nome: "Categoria"
-      valor: Parafusadeira compacta com porta-bits; não possui mandril convencional
-    - nome: "Modelo"
-      valor: "Bosch GSR 1000 Smart Professional"
-    - nome: "Linha"
-      valor: "Bosch Professional"
-    - nome: "Tensão"
-      valor: "12V"
-    - nome: "Tipo de Bateria"
-      valor: "Íons de lítio (Li-Ion), integrada"
-    - nome: "Capacidade da Bateria"
-      valor: "1,5 Ah"
-    - nome: "Bateria Removível"
-      valor: "Não"
-    - nome: "Motor"
-      valor: "Tecnologia brushless não especificada na ficha oficial consultada"
-    - nome: "Torque Máximo (Duro)"
-      valor: "15 Nm"
-    - nome: "Torque Máximo (Macio)"
-      valor: "6 Nm"
-    - nome: "Ajustes de Torque"
-      valor: "Quantidade de posições não confirmada na ficha consultada"
-    - nome: "Velocidades Mecânicas"
-      valor: "1"
-    - nome: "Rotação / RPM"
-      valor: "0–700 rpm"
-    - nome: "Controle de Velocidade"
-      valor: "Variável pelo interruptor"
-    - nome: "Encaixe"
-      valor: "1/4 pol. (6 mm), para acessórios compatíveis"
-    - nome: "Capacidade de Perfuração"
-      valor: "Indicada para madeira e metal; verificar limites específicos no manual da versão"
-    - nome: "Função Impacto"
-      valor: "Não possui"
-    - nome: "Peso Com Bateria"
-      valor: "0,9 kg"
-    - nome: "Comprimento da Cabeça"
-      valor: "145 mm"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Carregador"
-      valor: "Bivolt, conforme kit oficial brasileiro"
-    - nome: "Tempo de Recarga"
-      valor: "Aproximadamente 1 hora, conforme catálogo Bosch"
-    - nome: "Conectividade"
-      valor: "Não há conectividade Bluetooth ou por aplicativo especificada"
-    - nome: "Compatibilidade de Bateria"
-      valor: "Bateria integrada; não utiliza baterias removíveis Bosch Professional 12V"
-    - nome: "Aplicações"
-      valor: "Montagem de móveis, MDF, pequenos reparos e perfurações leves"
-    - nome: "Destaque Principal"
-      valor: "Corpo compacto, bateria integrada e torque de 15 Nm para tarefas leves"
-
-# ALTERAÇÃO: cadastro Werca W-E12 retirado.
-# Motivo: não foi possível validar fabricante/modelo e presença comercial confiável no Brasil; não manter como recomendação.
-
-# ALTERAÇÃO: cadastro Black+Decker BDCS90 retirado da lista principal.
-# Motivo: não localizado no catálogo brasileiro atual consultado; manter apenas se houver anúncio ativo e variante comprovada.
-# Alternativa a avaliar: Black+Decker LD12S-BR (parafusadeira compacta) ou BCD704C1-BR (furadeira de impacto).
-
-# ALTERAÇÃO: reclassificado para PARAFUSADEIRA DE IMPACTO (impact driver), não furadeira/parafusadeira com mandril. Ferramenta com encaixe sextavado 1/4 pol.; separar em categoria própria.
+  - nome: Categoria
+    valor: Parafusadeira compacta com porta-bits; não possui mandril convencional
+  - nome: Modelo
+    valor: Bosch GSR 1000 Smart Professional
+  - nome: Linha
+    valor: Bosch Professional
+  - nome: Tensão
+    valor: 12V
+  - nome: Tipo de Bateria
+    valor: Íons de lítio (Li-Ion), integrada
+  - nome: Capacidade da Bateria
+    valor: 1,5 Ah
+  - nome: Bateria Removível
+    valor: Não
+  - nome: Motor
+    valor: Tecnologia brushless não especificada na ficha oficial consultada
+  - nome: Torque Máximo (Duro)
+    valor: 15 Nm
+  - nome: Torque Máximo (Macio)
+    valor: 6 Nm
+  - nome: Ajustes de Torque
+    valor: Quantidade de posições não confirmada na ficha consultada
+  - nome: Velocidades Mecânicas
+    valor: '1'
+  - nome: Rotação / RPM
+    valor: 0–700 rpm
+  - nome: Controle de Velocidade
+    valor: Variável pelo interruptor
+  - nome: Encaixe
+    valor: 1/4 pol. (6 mm), para acessórios compatíveis
+  - nome: Capacidade de Perfuração
+    valor: Indicada para madeira e metal; verificar limites específicos no manual da versão
+  - nome: Função Impacto
+    valor: Não possui
+  - nome: Peso Com Bateria
+    valor: 0,9 kg
+  - nome: Comprimento da Cabeça
+    valor: 145 mm
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Carregador
+    valor: Bivolt, conforme kit oficial brasileiro
+  - nome: Tempo de Recarga
+    valor: Aproximadamente 1 hora, conforme catálogo Bosch
+  - nome: Conectividade
+    valor: Não há conectividade Bluetooth ou por aplicativo especificada
+  - nome: Compatibilidade de Bateria
+    valor: Bateria integrada; não utiliza baterias removíveis Bosch Professional 12V
+  - nome: Aplicações
+    valor: Montagem de móveis, MDF, pequenos reparos e perfurações leves
+  - nome: Destaque Principal
+    valor: Corpo compacto, bateria integrada e torque de 15 Nm para tarefas leves
 makita_td110d:
-  nome: "Makita TD110D"
-  descricao: "Parafusadeira de impacto 12V CXT, encaixe sextavado 1/4 pol. e torque máximo de 110 Nm; não possui mandril de furadeira."
-  imagem: "/assets/images/posts/makita-td110d.png"
-
+  nome: Makita TD110D
+  descricao: Parafusadeira de impacto 12V CXT, encaixe sextavado 1/4 pol. e torque máximo de 110 Nm; não possui mandril de
+    furadeira.
+  imagem: /assets/images/posts/makita-td110d.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2M6FELt"
-    shopee: ""
-
+    amazon: ''
+    mercadolivre: https://meli.la/2M6FELt
+    shopee: ''
   especificacoes:
-    - nome: "Marca"
-      valor: "Makita"
-    - nome: "Modelo"
-      valor: "TD110D"
-    - nome: "Alimentação / Voltagem"
-      valor: "12V Max (Linha CXT / LXT 12V)"
-    - nome: "Motor"
-      valor: "Motor com escovas; não é brushless"
-    - nome: "Recursos de Torque"
-      valor: "Torque máximo de 110 Nm; acionamento variável e reversão"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Recursos Adicionais"
-      valor: "Encaixe sextavado 1/4 pol.; acessórios e bolsa dependem do kit"
-
-
-# REVISÃO: mantido. O DCD777 é brushless e possui função impacto; a referência brasileira de kit encontrada é DCD7771D2-BR. Atualizar código comercial e conferir kit/links.
+  - nome: Marca
+    valor: Makita
+  - nome: Modelo
+    valor: TD110D
+  - nome: Referências comerciais brasileiras
+    valor: TD110DZ (ferramenta avulsa) | TD110DWYE (kit)
+  - nome: Categoria
+    valor: Parafusadeira de impacto
+  - nome: Alimentação / Voltagem
+    valor: 12V max, plataforma Makita CXT
+  - nome: Motor
+    valor: Motor de 2 polos, com escovas; não é brushless
+  - nome: Torque máximo
+    valor: 110 Nm
+  - nome: Rotação sem carga
+    valor: 0–2.600 rpm
+  - nome: Impactos por minuto
+    valor: 0–3.500 ipm
+  - nome: Encaixe
+    valor: Sextavado de 1/4 polegada (6,35 mm); não possui mandril convencional
+  - nome: Capacidades de parafusamento
+    valor: 'Parafuso de máquina: M4–M8 | Padrão: M5–M12 | Alta resistência: M5–M10'
+  - nome: Dimensões da TD110DZ
+    valor: 153 x 66 x 167 mm
+  - nome: Peso da TD110DZ
+    valor: 0,83 kg sem bateria
+  - nome: Itens da TD110DZ
+    valor: Ferramenta avulsa, sem bateria, carregador e maleta
+  - nome: Itens da TD110DWYE
+    valor: 2 baterias CXT 12V de 1,5 Ah, carregador simples, bit Phillips e maleta
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Recursos adicionais
+    valor: Velocidade variável, rotação reversível e freio instantâneo
 dewalt_dcd777:
-  nome: "DeWalt DCD777 20V MAX Brushless"
-  descricao: "Furadeira e parafusadeira sem impacto 20V MAX, motor brushless, mandril de 13 mm, duas velocidades e 15 ajustes de torque."
-  imagem: "/assets/images/posts/dewalt-dcd777.png"
-
+  nome: DeWalt DCD777 20V MAX Brushless
+  descricao: Furadeira e parafusadeira sem impacto 20V MAX, motor brushless, mandril de 13 mm, duas velocidades e 15 ajustes
+    de torque.
+  imagem: /assets/images/posts/dewalt-dcd777.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1m6A6qk"
-    shopee: "https://s.shopee.com.br/4Ve9vrYCdH"
-
+    amazon: ''
+    mercadolivre: https://meli.la/1m6A6qk
+    shopee: https://s.shopee.com.br/4Ve9vrYCdH
   especificacoes:
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria"
-    - nome: "Modelo"
-      valor: "DeWalt DCD777"
-    - nome: "Tensão"
-      valor: "20V MAX (18V nominal)"
-    - nome: "Motor"
-      valor: "Brushless (sem escovas de carvão)"
-    - nome: "Funções"
-      valor: "Parafusamento e perfuração sem impacto"
-    - nome: "Torque"
-      valor: "Potência de saída de 340 UWO; torque em Nm não informado na ficha comercial consultada"
-    - nome: "Mandril"
-      valor: "13 mm (1/2 polegada), aperto rápido com catraca"
-    - nome: "Ajustes de Torque"
-      valor: "15 posições de embreagem"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades"
-    - nome: "Rotação / RPM"
-      valor: "0–500 / 0–1.750 rpm"
-    - nome: "Função Impacto"
-      valor: "Não possui"
-    - nome: "Controle de Velocidade"
-      valor: "Variável pelo gatilho"
-    - nome: "Iluminação"
-      valor: "LED com permanência de 20 segundos após soltar o gatilho"
-    - nome: "Comprimento"
-      valor: "Aproximadamente 193 mm"
-    - nome: "Tipo de Bateria"
-      valor: "Íons de lítio, plataforma DeWalt 20V MAX"
-    - nome: "Bateria Inclusa"
-      valor: "Depende do kit; DCD777D1 inclui 1 bateria de 2,0 Ah"
-    - nome: "Carregador"
-      valor: "Incluso em kits selecionados; não acompanha a versão corpo avulso"
-    - nome: "Aplicações"
-      valor: "Montagem de móveis, MDF, madeira, metal e manutenção geral"
-    - nome: "Destaque Principal"
-      valor: "Motor brushless, mandril de 13 mm e 15 ajustes de torque para montagens e perfurações"
-
-
-# REVISÃO: manter como modelo FlexiClick específico; não substituir automaticamente pelo GSR 120-LI, pois o sistema de acessórios intercambiáveis é diferencial próprio.
+  - nome: Categoria
+    valor: Furadeira e parafusadeira a bateria
+  - nome: Modelo
+    valor: DeWalt DCD777
+  - nome: Tensão
+    valor: 20V MAX (18V nominal)
+  - nome: Motor
+    valor: Brushless (sem escovas de carvão)
+  - nome: Funções
+    valor: Parafusamento e perfuração sem impacto
+  - nome: Torque
+    valor: Potência de saída de 340 UWO; torque em Nm não informado na ficha comercial consultada
+  - nome: Mandril
+    valor: 13 mm (1/2 polegada), aperto rápido com catraca
+  - nome: Ajustes de Torque
+    valor: 15 posições de embreagem
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades
+  - nome: Rotação / RPM
+    valor: 0–500 / 0–1.750 rpm
+  - nome: Função Impacto
+    valor: Não possui
+  - nome: Controle de Velocidade
+    valor: Variável pelo gatilho
+  - nome: Iluminação
+    valor: LED com permanência de 20 segundos após soltar o gatilho
+  - nome: Comprimento
+    valor: Aproximadamente 193 mm
+  - nome: Tipo de Bateria
+    valor: Íons de lítio, plataforma DeWalt 20V MAX
+  - nome: Bateria Inclusa
+    valor: Depende do kit; DCD777D1 inclui 1 bateria de 2,0 Ah
+  - nome: Carregador
+    valor: Incluso em kits selecionados; não acompanha a versão corpo avulso
+  - nome: Aplicações
+    valor: Montagem de móveis, MDF, madeira, metal e manutenção geral
+  - nome: Destaque Principal
+    valor: Motor brushless, mandril de 13 mm e 15 ajustes de torque para montagens e perfurações
 bosch_gsr_12v_15_fc:
-  nome: "Bosch GSR 12V-15 FC Professional"
-  descricao: "Furadeira e parafusadeira 12V sem impacto, com sistema FlexiClick, torque de 30 Nm, 20+1 ajustes e duas velocidades."
-  imagem: "/assets/images/posts/bosch-gsr-12v-15-fc.png"
+  nome: Bosch GSR 12V-15 FC Professional
+  descricao: Furadeira e parafusadeira 12V sem impacto, com sistema FlexiClick, torque de 30 Nm, 20+1 ajustes e duas velocidades.
+  imagem: /assets/images/posts/bosch-gsr-12v-15-fc.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2uonSte"
-    shopee: "https://s.shopee.com.br/2gCVkbKkuI"
+    amazon: ''
+    mercadolivre: https://meli.la/2uonSte
+    shopee: https://s.shopee.com.br/2gCVkbKkuI
   especificacoes:
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria"
-    - nome: "Modelo"
-      valor: "Bosch GSR 12V-15 FC Professional"
-    - nome: "Código da Versão Brasileira"
-      valor: "06019F60E0"
-    - nome: "Tensão"
-      valor: "12V"
-    - nome: "Tipo de Bateria"
-      valor: "Íons de lítio (Li-Ion), removível"
-    - nome: "Motor"
-      valor: "Tipo de motor não especificado na ficha oficial consultada"
-    - nome: "Funções"
-      valor: "Parafusamento e perfuração sem impacto"
-    - nome: "Torque Máximo (Duro)"
-      valor: "30 Nm"
-    - nome: "Torque Máximo (Macio)"
-      valor: "15 Nm"
-    - nome: "Ajustes de Torque"
-      valor: "20+1"
-    - nome: "Velocidades Mecânicas"
-      valor: "2"
-    - nome: "Rotação / RPM"
-      valor: "0–400 / 0–1.300 rpm"
-    - nome: "Mandril"
-      valor: "1 a 10 mm, com adaptador GFA 12-B"
-    - nome: "Porta-Bits"
-      valor: "Encaixe sextavado interno de 1/4 pol."
-    - nome: "Sistema FlexiClick"
-      valor: "Adaptadores intercambiáveis para diferentes posições de trabalho"
-    - nome: "Adaptadores"
-      valor: "GFA 12-B (mandril), GFA 12-W (angular), GFA 12-E (excêntrico) e GFA 12-X (porta-bits); conforme kit"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: até 19 mm | Aço: até 10 mm"
-    - nome: "Diâmetro Máximo do Parafuso"
-      valor: "7 mm"
-    - nome: "Função Impacto"
-      valor: "Não possui"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Peso Sem Bateria"
-      valor: "0,6 kg"
-    - nome: "Peso Com Bateria"
-      valor: "0,8 kg, conforme configuração oficial"
-    - nome: "Bateria Inclusa"
-      valor: "A versão 06019F60E0 inclui 1 bateria de 1,5 Ah"
-    - nome: "Carregador"
-      valor: "AL 1115 CV na versão 06019F60E0"
-    - nome: "Compatibilidade"
-      valor: "Sistema Bosch Professional 12V"
-    - nome: "Aplicações"
-      valor: "Montagem de móveis, MDF, dobradiças, ferragens e espaços apertados"
-    - nome: "Destaque Principal"
-      valor: "Sistema FlexiClick com adaptadores angular e excêntrico para trabalhar próximo de cantos e bordas"
-
-
-# CORREÇÃO: manter e identificar como brushless (motor BL). A DF332DWYE/DF332DZ é uma furadeira/parafusadeira sem impacto; não rotular como motor com escovas.
+  - nome: Categoria
+    valor: Furadeira e parafusadeira a bateria
+  - nome: Modelo
+    valor: Bosch GSR 12V-15 FC Professional
+  - nome: Código da Versão Brasileira
+    valor: 06019F60E0
+  - nome: Tensão
+    valor: 12V
+  - nome: Tipo de Bateria
+    valor: Íons de lítio (Li-Ion), removível
+  - nome: Motor
+    valor: Tipo de motor não especificado na ficha oficial consultada
+  - nome: Funções
+    valor: Parafusamento e perfuração sem impacto
+  - nome: Torque Máximo (Duro)
+    valor: 30 Nm
+  - nome: Torque Máximo (Macio)
+    valor: 15 Nm
+  - nome: Ajustes de Torque
+    valor: 20+1
+  - nome: Velocidades Mecânicas
+    valor: '2'
+  - nome: Rotação / RPM
+    valor: 0–400 / 0–1.300 rpm
+  - nome: Mandril
+    valor: 1 a 10 mm, com adaptador GFA 12-B
+  - nome: Porta-Bits
+    valor: Encaixe sextavado interno de 1/4 pol.
+  - nome: Sistema FlexiClick
+    valor: Adaptadores intercambiáveis para diferentes posições de trabalho
+  - nome: Adaptadores
+    valor: GFA 12-B (mandril), GFA 12-W (angular), GFA 12-E (excêntrico) e GFA 12-X (porta-bits); conforme kit
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: até 19 mm | Aço: até 10 mm'
+  - nome: Diâmetro Máximo do Parafuso
+    valor: 7 mm
+  - nome: Função Impacto
+    valor: Não possui
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Peso Sem Bateria
+    valor: 0,6 kg
+  - nome: Peso Com Bateria
+    valor: 0,8 kg, conforme configuração oficial
+  - nome: Bateria Inclusa
+    valor: A versão 06019F60E0 inclui 1 bateria de 1,5 Ah
+  - nome: Carregador
+    valor: AL 1115 CV na versão 06019F60E0
+  - nome: Compatibilidade
+    valor: Sistema Bosch Professional 12V
+  - nome: Aplicações
+    valor: Montagem de móveis, MDF, dobradiças, ferragens e espaços apertados
+  - nome: Destaque Principal
+    valor: Sistema FlexiClick com adaptadores angular e excêntrico para trabalhar próximo de cantos e bordas
 makita_df332d:
-  nome: "Makita DF332D 12V MAX CXT Brushless"
-  descricao: "Furadeira e parafusadeira 12V MAX CXT brushless, com torque de 35 Nm, mandril de 10 mm, duas velocidades e 20 ajustes de torque."
-  imagem: "/assets/images/posts/makita-df332d.png"
-
+  nome: Makita DF332D 12V MAX CXT Brushless
+  descricao: Furadeira e parafusadeira 12V MAX CXT brushless, com torque de 35 Nm, mandril de 10 mm, duas velocidades e 20
+    ajustes de torque.
+  imagem: /assets/images/posts/makita-df332d.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1bUXCdg"
-    shopee: ""
-
+    amazon: ''
+    mercadolivre: https://meli.la/1bUXCdg
+    shopee: ''
   especificacoes:
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria"
-    - nome: "Modelo"
-      valor: "Makita DF332DWYE / DF332DZ"
-    - nome: "Linha"
-      valor: "Makita CXT 12V MAX"
-    - nome: "Tensão"
-      valor: "12V MAX"
-    - nome: "Tipo de Bateria"
-      valor: "Íons de lítio (Li-Ion)"
-    - nome: "Motor"
-      valor: "Brushless (sem escovas de carvão)"
-    - nome: "Funções"
-      valor: "Parafusamento e perfuração sem impacto"
-    - nome: "Torque Máximo (Duro)"
-      valor: "35 Nm"
-    - nome: "Torque Máximo (Macio)"
-      valor: "21 Nm"
-    - nome: "Torque de Bloqueio"
-      valor: "32 Nm, conforme ficha técnica internacional"
-    - nome: "Ajustes de Torque"
-      valor: "20 posições + modo perfuração"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades"
-    - nome: "Rotação / RPM"
-      valor: "0–450 / 0–1.500 rpm"
-    - nome: "Mandril"
-      valor: "0,8 a 10 mm, aperto rápido"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 28 mm | Aço: 10 mm"
-    - nome: "Função Impacto"
-      valor: "Não possui"
-    - nome: "Controle de Velocidade"
-      valor: "Variável pelo gatilho"
-    - nome: "Sistema de Reversão"
-      valor: "Sim"
-    - nome: "Freio Elétrico"
-      valor: "Sim"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Comprimento"
-      valor: "154 mm"
-    - nome: "Dimensões"
-      valor: "154 x 66 x 217 mm, conforme ficha internacional"
-    - nome: "Peso Com Bateria"
-      valor: "Aproximadamente 1,0 a 1,2 kg, conforme bateria"
-    - nome: "Compatibilidade"
-      valor: "Baterias Makita 12V MAX CXT compatíveis"
-    - nome: "Baterias e Carregador"
-      valor: "Dependem do kit; versões corpo avulso não incluem bateria nem carregador"
-    - nome: "Aplicações"
-      valor: "Montagem de móveis, MDF, marcenaria, ferragens e manutenção leve"
-    - nome: "Destaque Principal"
-      valor: "Motor brushless, corpo compacto de 154 mm e 20 ajustes para parafusamento controlado"
-
-
+  - nome: Categoria
+    valor: Furadeira e parafusadeira a bateria
+  - nome: Modelo
+    valor: Makita DF332DWYE / DF332DZ
+  - nome: Linha
+    valor: Makita CXT 12V MAX
+  - nome: Tensão
+    valor: 12V MAX
+  - nome: Tipo de Bateria
+    valor: Íons de lítio (Li-Ion)
+  - nome: Motor
+    valor: Brushless (sem escovas de carvão)
+  - nome: Funções
+    valor: Parafusamento e perfuração sem impacto
+  - nome: Torque Máximo (Duro)
+    valor: 35 Nm
+  - nome: Torque Máximo (Macio)
+    valor: 21 Nm
+  - nome: Torque de Bloqueio
+    valor: 32 Nm, conforme ficha técnica internacional
+  - nome: Ajustes de Torque
+    valor: 20 posições + modo perfuração
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades
+  - nome: Rotação / RPM
+    valor: 0–450 / 0–1.500 rpm
+  - nome: Mandril
+    valor: 0,8 a 10 mm, aperto rápido
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 28 mm | Aço: 10 mm'
+  - nome: Função Impacto
+    valor: Não possui
+  - nome: Controle de Velocidade
+    valor: Variável pelo gatilho
+  - nome: Sistema de Reversão
+    valor: Sim
+  - nome: Freio Elétrico
+    valor: Sim
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Comprimento
+    valor: 154 mm
+  - nome: Dimensões
+    valor: 154 x 66 x 217 mm, conforme ficha internacional
+  - nome: Peso Com Bateria
+    valor: Aproximadamente 1,0 a 1,2 kg, conforme bateria
+  - nome: Compatibilidade
+    valor: Baterias Makita 12V MAX CXT compatíveis
+  - nome: Baterias e Carregador
+    valor: Dependem do kit; versões corpo avulso não incluem bateria nem carregador
+  - nome: Aplicações
+    valor: Montagem de móveis, MDF, marcenaria, ferragens e manutenção leve
+  - nome: Destaque Principal
+    valor: Motor brushless, corpo compacto de 154 mm e 20 ajustes para parafusamento controlado
 bosch_gbh_18v_21:
-  nome: "Bosch GBH 18V-21 Professional"
-  descricao: "Martelete perfurador e rompedor 18V brushless, com encaixe SDS-Plus, energia de impacto de 2,0 J e três modos de operação."
-  imagem: "/assets/images/posts/bosch-gbh-18v-21.png"
+  nome: Bosch GBH 18V-21 Professional
+  descricao: Martelete perfurador e rompedor 18V brushless, com encaixe SDS-Plus, energia de impacto de 2,0 J e três modos
+    de operação.
+  imagem: /assets/images/posts/bosch-gbh-18v-21.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2xtDARb"
-    shopee: "https://s.shopee.com.br/80E26yCIfM"
+    amazon: ''
+    mercadolivre: https://meli.la/2xtDARb
+    shopee: https://s.shopee.com.br/80E26yCIfM
   especificacoes:
-    - nome: "Categoria"
-      valor: Martelete perfurador SDS-Plus a bateria
-    - nome: "Modelo"
-      valor: "Bosch GBH 18V-21 Professional"
-    - nome: "Alimentação"
-      valor: "Bateria recarregável"
-    - nome: "Tensão"
-      valor: "18V"
-    - nome: "Motor"
-      valor: "Brushless (sem escovas de carvão)"
-    - nome: "Energia de Impacto"
-      valor: "2,0 J"
-    - nome: "Sistema de Encaixe"
-      valor: "SDS-Plus"
-    - nome: "Modos de Operação"
-      valor: "Perfuração, perfuração com impacto e cinzelamento"
-    - nome: "Rotação"
-      valor: "0–1.800 rpm"
-    - nome: "Impactos por Minuto"
-      valor: "0–5.100 ipm"
-    - nome: "Perfuração em Concreto"
-      valor: "4 a 21 mm"
-    - nome: "Perfuração em Madeira"
-      valor: "Até 30 mm, com acessórios adequados"
-    - nome: "Perfuração em Metal"
-      valor: "Até 13 mm, com acessórios adequados"
-    - nome: "Peso Sem Bateria"
-      valor: "2,4 kg"
-    - nome: "Plataforma de Baterias"
-      valor: "Bosch Professional 18V"
-    - nome: "Bateria e Carregador"
-      valor: "Dependem da versão comercial"
-    - nome: "Acessórios"
-      valor: "Punho auxiliar e limitador de profundidade; outros itens conforme kit"
-    - nome: "Aplicações"
-      valor: "Perfuração de concreto, alvenaria, pedra e cinzelamento leve"
-    - nome: "Destaque Principal"
-      valor: "Martelete SDS-Plus sem fio, com 2,0 J e motor brushless"
-
-
-# REVISÃO: mantido. Potência nominal de 750 W compatível com a ficha Bosch consultada; separar em furadeiras com fio.
+  - nome: Categoria
+    valor: Martelete perfurador SDS-Plus a bateria
+  - nome: Modelo
+    valor: Bosch GBH 18V-21 Professional
+  - nome: Alimentação
+    valor: Bateria recarregável
+  - nome: Tensão
+    valor: 18V
+  - nome: Motor
+    valor: Brushless (sem escovas de carvão)
+  - nome: Energia de Impacto
+    valor: 2,0 J
+  - nome: Sistema de Encaixe
+    valor: SDS-Plus
+  - nome: Modos de Operação
+    valor: Perfuração, perfuração com impacto e cinzelamento
+  - nome: Rotação
+    valor: 0–1.800 rpm
+  - nome: Impactos por Minuto
+    valor: 0–5.100 ipm
+  - nome: Perfuração em Concreto
+    valor: 4 a 21 mm
+  - nome: Perfuração em Madeira
+    valor: Até 30 mm, com acessórios adequados
+  - nome: Perfuração em Metal
+    valor: Até 13 mm, com acessórios adequados
+  - nome: Peso Sem Bateria
+    valor: 2,4 kg
+  - nome: Plataforma de Baterias
+    valor: Bosch Professional 18V
+  - nome: Bateria e Carregador
+    valor: Dependem da versão comercial
+  - nome: Acessórios
+    valor: Punho auxiliar e limitador de profundidade; outros itens conforme kit
+  - nome: Aplicações
+    valor: Perfuração de concreto, alvenaria, pedra e cinzelamento leve
+  - nome: Destaque Principal
+    valor: Martelete SDS-Plus sem fio, com 2,0 J e motor brushless
 bosch_gsb_13_re_750w:
-  nome: "Bosch GSB 13 RE Professional 750W"
-  descricao: "Furadeira de impacto com fio de 750 W, mandril de 13 mm, velocidade variável e até 57.000 impactos por minuto."
-  imagem: "/assets/images/posts/bosch-gsb-13-re-750w.png"
+  nome: Bosch GSB 13 RE Professional 750W
+  descricao: Furadeira de impacto com fio de 750 W, mandril de 13 mm, velocidade variável e até 57.000 impactos por minuto.
+  imagem: /assets/images/posts/bosch-gsb-13-re-750w.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2LTeFi1"
-    shopee: "https://s.shopee.com.br/7AewIy49tp"
+    amazon: ''
+    mercadolivre: https://meli.la/2LTeFi1
+    shopee: https://s.shopee.com.br/7AewIy49tp
   especificacoes:
-    - nome: "Categoria"
-      valor: "Furadeira de impacto com fio"
-    - nome: "Modelo"
-      valor: "Bosch GSB 13 RE Professional"
-    - nome: "Alimentação"
-      valor: "Rede elétrica"
-    - nome: "Potência Nominal"
-      valor: "750 W"
-    - nome: "Tensão Elétrica"
-      valor: "127V ou 220V, conforme versão"
-    - nome: "Tipo de Impacto"
-      valor: "Percussão mecânica convencional"
-    - nome: "Mandril"
-      valor: "1,5 a 13 mm"
-    - nome: "Rotação Máxima"
-      valor: "3.800 rpm"
-    - nome: "Impactos por Minuto"
-      valor: "0–57.000 ipm"
-    - nome: "Controle de Velocidade"
-      valor: "Variável pelo gatilho"
-    - nome: "Reversão"
-      valor: "Sim"
-    - nome: "Modos de Operação"
-      valor: "Perfuração com e sem impacto"
-    - nome: "Perfuração em Concreto"
-      valor: "Até 13 mm"
-    - nome: "Perfuração em Alvenaria"
-      valor: "Até 13 mm"
-    - nome: "Perfuração em Madeira"
-      valor: "Até 25 mm"
-    - nome: "Perfuração em Aço"
-      valor: "Até 10 mm"
-    - nome: "Peso"
-      valor: "1,7 kg"
-    - nome: "Trava para Uso Contínuo"
-      valor: "Sim"
-    - nome: "Punho Auxiliar"
-      valor: "Conforme configuração comercial"
-    - nome: "Aplicações"
-      valor: "Tijolos, blocos, alvenaria, concreto leve, madeira e metal"
-    - nome: "Destaque Principal"
-      valor: "750 W, corpo compacto e impacto para perfurações domésticas e profissionais leves"
-
-
-# ALTERAÇÃO: mover para categoria FURADEIRAS COM FIO. É furadeira de impacto elétrica, não modelo a bateria.
+  - nome: Categoria
+    valor: Furadeira de impacto com fio
+  - nome: Modelo
+    valor: Bosch GSB 13 RE Professional
+  - nome: Alimentação
+    valor: Rede elétrica
+  - nome: Potência Nominal
+    valor: 750 W
+  - nome: Tensão Elétrica
+    valor: 127V ou 220V, conforme versão
+  - nome: Tipo de Impacto
+    valor: Percussão mecânica convencional
+  - nome: Mandril
+    valor: 1,5 a 13 mm
+  - nome: Rotação Máxima
+    valor: 3.800 rpm
+  - nome: Impactos por Minuto
+    valor: 0–57.000 ipm
+  - nome: Controle de Velocidade
+    valor: Variável pelo gatilho
+  - nome: Reversão
+    valor: Sim
+  - nome: Modos de Operação
+    valor: Perfuração com e sem impacto
+  - nome: Perfuração em Concreto
+    valor: Até 13 mm
+  - nome: Perfuração em Alvenaria
+    valor: Até 13 mm
+  - nome: Perfuração em Madeira
+    valor: Até 25 mm
+  - nome: Perfuração em Aço
+    valor: Até 10 mm
+  - nome: Peso
+    valor: 1,7 kg
+  - nome: Trava para Uso Contínuo
+    valor: Sim
+  - nome: Punho Auxiliar
+    valor: Conforme configuração comercial
+  - nome: Aplicações
+    valor: Tijolos, blocos, alvenaria, concreto leve, madeira e metal
+  - nome: Destaque Principal
+    valor: 750 W, corpo compacto e impacto para perfurações domésticas e profissionais leves
 makita_hp2050:
-  nome: "Makita HP2050 720W"
-  descricao: "Furadeira de impacto com fio de 720 W, duas velocidades mecânicas, mandril de 13 mm e capacidade de até 20 mm em concreto."
-  imagem: "/assets/images/posts/makita-hp2050.png"
+  nome: Makita HP2050 720W
+  descricao: Furadeira de impacto com fio de 720 W, duas velocidades mecânicas, mandril de 13 mm e capacidade de até 20 mm
+    em concreto.
+  imagem: /assets/images/posts/makita-hp2050.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1hURhNg"
-    shopee: "https://s.shopee.com.br/9KjVyFSJj4"
+    amazon: ''
+    mercadolivre: https://meli.la/1hURhNg
+    shopee: https://s.shopee.com.br/9KjVyFSJj4
   especificacoes:
-    - nome: "Categoria"
-      valor: Furadeira de impacto elétrica com fio
-    - nome: "Modelo"
-      valor: "Makita HP2050"
-    - nome: "Alimentação"
-      valor: "Rede elétrica"
-    - nome: "Potência Nominal"
-      valor: "720 W"
-    - nome: "Tensão Elétrica"
-      valor: "Conforme versão comercial"
-    - nome: "Tipo de Impacto"
-      valor: "Percussão mecânica convencional"
-    - nome: "Mandril"
-      valor: "13 mm"
-    - nome: "Velocidades Mecânicas"
-      valor: "2 velocidades"
-    - nome: "Rotação em Baixa"
-      valor: "0–1.200 rpm"
-    - nome: "Rotação em Alta"
-      valor: "0–2.900 rpm"
-    - nome: "Impactos em Baixa"
-      valor: "0–24.000 ipm"
-    - nome: "Impactos em Alta"
-      valor: "0–58.000 ipm"
-    - nome: "Perfuração em Concreto"
-      valor: "Até 20 mm"
-    - nome: "Perfuração em Aço"
-      valor: "Até 13 mm"
-    - nome: "Perfuração em Madeira"
-      valor: "Até 40 mm"
-    - nome: "Controle de Velocidade"
-      valor: "Variável pelo gatilho"
-    - nome: "Rotação Reversível"
-      valor: "Sim"
-    - nome: "Limitador de Torque"
-      valor: "Sim"
-    - nome: "Dupla Isolação"
-      valor: "Sim"
-    - nome: "Peso"
-      valor: "2,3 kg"
-    - nome: "Dimensões"
-      valor: "372 x 220 x 70 mm"
-    - nome: "Acessórios"
-      valor: "Punho lateral, limitador de profundidade e maleta, conforme versão"
-    - nome: "Aplicações"
-      valor: "Perfuração em concreto, alvenaria, madeira e metal"
-    - nome: "Destaque Principal"
-      valor: "Duas marchas mecânicas e capacidade declarada de 20 mm em concreto"
-
-
-# ALTERAÇÃO: mover para categoria MARTELETES SDS-PLUS. Não comparar diretamente com furadeiras de mandril convencional.
+  - nome: Categoria
+    valor: Furadeira de impacto elétrica com fio
+  - nome: Modelo
+    valor: Makita HP2050
+  - nome: Alimentação
+    valor: Rede elétrica
+  - nome: Potência Nominal
+    valor: 720 W
+  - nome: Tensão Elétrica
+    valor: Conforme versão comercial
+  - nome: Tipo de Impacto
+    valor: Percussão mecânica convencional
+  - nome: Mandril
+    valor: 13 mm
+  - nome: Velocidades Mecânicas
+    valor: 2 velocidades
+  - nome: Rotação em Baixa
+    valor: 0–1.200 rpm
+  - nome: Rotação em Alta
+    valor: 0–2.900 rpm
+  - nome: Impactos em Baixa
+    valor: 0–24.000 ipm
+  - nome: Impactos em Alta
+    valor: 0–58.000 ipm
+  - nome: Perfuração em Concreto
+    valor: Até 20 mm
+  - nome: Perfuração em Aço
+    valor: Até 13 mm
+  - nome: Perfuração em Madeira
+    valor: Até 40 mm
+  - nome: Controle de Velocidade
+    valor: Variável pelo gatilho
+  - nome: Rotação Reversível
+    valor: Sim
+  - nome: Limitador de Torque
+    valor: Sim
+  - nome: Dupla Isolação
+    valor: Sim
+  - nome: Peso
+    valor: 2,3 kg
+  - nome: Dimensões
+    valor: 372 x 220 x 70 mm
+  - nome: Acessórios
+    valor: Punho lateral, limitador de profundidade e maleta, conforme versão
+  - nome: Aplicações
+    valor: Perfuração em concreto, alvenaria, madeira e metal
+  - nome: Destaque Principal
+    valor: Duas marchas mecânicas e capacidade declarada de 20 mm em concreto
 bosch_gbh_2_21:
-  nome: "Bosch GBH 2-21 Professional 720W"
-  descricao: "Martelete perfurador e rompedor SDS-Plus com fio, motor de 720 W, energia de impacto de 2,0 J e três modos de operação."
-  imagem: "/assets/images/posts/bosch-gbh-2-21.png"
+  nome: Bosch GBH 2-21 Professional 720W
+  descricao: Martelete perfurador e rompedor SDS-Plus com fio, motor de 720 W, energia de impacto de 2,0 J e três modos de
+    operação.
+  imagem: /assets/images/posts/bosch-gbh-2-21.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2vGMw68"
-    shopee: "https://s.shopee.com.br/6VPFW8ACWV"
+    amazon: ''
+    mercadolivre: https://meli.la/2vGMw68
+    shopee: https://s.shopee.com.br/6VPFW8ACWV
   especificacoes:
-    - nome: "Categoria"
-      valor: Martelete perfurador SDS-Plus com fio
-    - nome: "Modelo"
-      valor: "Bosch GBH 2-21 Professional"
-    - nome: "Alimentação"
-      valor: "Rede elétrica"
-    - nome: "Potência Nominal"
-      valor: "720 W"
-    - nome: "Tensão Elétrica"
-      valor: "Conforme versão comercial"
-    - nome: "Energia de Impacto"
-      valor: "2,0 J"
-    - nome: "Sistema de Encaixe"
-      valor: "SDS-Plus"
-    - nome: "Modos de Operação"
-      valor: "Perfuração, perfuração com impacto e cinzelamento"
-    - nome: "Impactos por Minuto"
-      valor: "0–4.800 ipm"
-    - nome: "Perfuração em Concreto"
-      valor: "Até 22 mm, conforme versão e ficha do fabricante"
-    - nome: "Faixa Ideal em Concreto"
-      valor: "4 a 10 mm"
-    - nome: "Peso"
-      valor: "2,3 kg"
-    - nome: "Função Cinzelamento"
-      valor: "Sim"
-    - nome: "Sistema Vario-Lock"
-      valor: "Sim, para posicionamento do cinzel"
-    - nome: "Acessórios"
-      valor: "Punho auxiliar, limitador de profundidade e maleta, conforme kit"
-    - nome: "Aplicações"
-      valor: "Perfuração de concreto, pedra e alvenaria; remoções e cinzelamentos leves"
-    - nome: "Destaque Principal"
-      valor: "Martelete SDS-Plus de 2,0 J para perfuração e cinzelamento leve"
-
-
-# REVISÃO: cadastro individual redundante com o comparativo WAP BPFI 12K4 vs. WF 12K4.2. Manter apenas se a página individual tiver conteúdo/links próprios; confirmar estoque antes de recomendar.
+  - nome: Categoria
+    valor: Martelete perfurador SDS-Plus com fio
+  - nome: Modelo
+    valor: Bosch GBH 2-21 Professional
+  - nome: Alimentação
+    valor: Rede elétrica
+  - nome: Potência Nominal
+    valor: 720 W
+  - nome: Tensão Elétrica
+    valor: Conforme versão comercial
+  - nome: Energia de Impacto
+    valor: 2,0 J
+  - nome: Sistema de Encaixe
+    valor: SDS-Plus
+  - nome: Modos de Operação
+    valor: Perfuração, perfuração com impacto e cinzelamento
+  - nome: Impactos por Minuto
+    valor: 0–4.800 ipm
+  - nome: Perfuração em Concreto
+    valor: Até 22 mm, conforme versão e ficha do fabricante
+  - nome: Faixa Ideal em Concreto
+    valor: 4 a 10 mm
+  - nome: Peso
+    valor: 2,3 kg
+  - nome: Função Cinzelamento
+    valor: Sim
+  - nome: Sistema Vario-Lock
+    valor: Sim, para posicionamento do cinzel
+  - nome: Acessórios
+    valor: Punho auxiliar, limitador de profundidade e maleta, conforme kit
+  - nome: Aplicações
+    valor: Perfuração de concreto, pedra e alvenaria; remoções e cinzelamentos leves
+  - nome: Destaque Principal
+    valor: Martelete SDS-Plus de 2,0 J para perfuração e cinzelamento leve
 wap_wf_12k4_2:
   nome: WAP WF 12K4.2
   descricao: Furadeira/parafusadeira de impacto versátil para trabalhos domésticos.
   imagem: assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/1AyjNfQ"
-    shopee: "https://s.shopee.com.br/AKby5TxDIM"
+    mercadolivre: https://meli.la/1AyjNfQ
+    shopee: https://s.shopee.com.br/AKby5TxDIM
   especificacoes:
   - nome: Tensão e bateria
     valor: 12 V, 1,5 Ah
@@ -1436,17 +1375,14 @@ wap_wf_12k4_2:
     valor: 1,06 kg
   - nome: Impacto
     valor: Sim
-
-
-# REVISÃO: cadastro individual redundante com o comparativo PFV 012 vs. PFV 012I. Consolidar para evitar duplicidade editorial; manter página separada apenas se tiver intenção de busca e conteúdo próprios.
 vonder_pfv_012:
   nome: Vonder PFV 012
   descricao: Furadeira/parafusadeira sem impacto para uso doméstico.
   imagem: /assets/images/posts/vonder_pfv012i_12v.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/2ZJoQCj"
-    shopee: "https://s.shopee.com.br/2qVx9nRfjh"
+    mercadolivre: https://meli.la/2ZJoQCj
+    shopee: https://s.shopee.com.br/2qVx9nRfjh
   especificacoes:
   - nome: Tensão e bateria
     valor: 12 V, 1,3 Ah
@@ -1462,8 +1398,6 @@ vonder_pfv_012:
     valor: 1,8 kg informado pelo fabricante (massa aproximada)
   - nome: Impacto
     valor: Não
-
-# ALTERAÇÃO: tratar como modelo anterior/legado. Sugestão de substituição para catálogo atual: GSB 18V-50 ou GSB185-LI, conforme a faixa e o tipo de impacto desejados.
 bosch_gsb_18v_21:
   nome: Bosch GSB 18V-21
   descricao: Furadeira/parafusadeira de impacto 18v para quem alterna montagem de móveis e furos ocasionais em alvenaria.
@@ -1503,20 +1437,19 @@ bosch_gsb_18v_21:
     valor: 20+2
   - nome: Plataforma
     valor: Bosch Professional 18V
-
-
-# REVISÃO: manter como furadeira/parafusadeira brushless SEM impacto. Código brasileiro: DCD708D2-BR; não confundir com DCD709, que possui impacto.
 dewalt_dcd708d2:
   nome: DeWalt DCD708D2
-  descricao: Furadeira/parafusadeira compacta atomic 20v max sem impacto, voltada à montagem de móveis e perfuração em madeira e metal.
+  descricao: Furadeira/parafusadeira compacta atomic 20v max sem impacto, voltada à montagem de móveis e perfuração em madeira
+    e metal.
   imagem: /assets/images/posts/dewalt-dcd708d2.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/27KKGGi"
-    shopee: "https://s.shopee.com.br/1LhEZIMrfj"
+    mercadolivre: https://meli.la/27KKGGi
+    shopee: https://s.shopee.com.br/1LhEZIMrfj
   especificacoes:
   - nome: Categoria
-    valor: Furadeira/parafusadeira compacta atomic 20v max sem impacto, voltada à montagem de móveis e perfuração em madeira e metal
+    valor: Furadeira/parafusadeira compacta atomic 20v max sem impacto, voltada à montagem de móveis e perfuração em madeira
+      e metal
   - nome: Modelo
     valor: DeWalt DCD708D2
   - nome: Alimentação
@@ -1545,16 +1478,14 @@ dewalt_dcd708d2:
     valor: aproximadamente 160 mm, corpo da ferramenta
   - nome: Função impacto
     valor: Não possui
-
-
 makita_hp332dwye:
   nome: Makita HP332DWYE
   descricao: Furadeira/parafusadeira de impacto 12v cxt brushless, com kit brasileiro de duas baterias de 1,5 ah.
   imagem: /assets/images/posts/makita-hp332dwye.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/15zGJu2"
-    shopee: "https://s.shopee.com.br/8pnLoRhlE9"
+    mercadolivre: https://meli.la/15zGJu2
+    shopee: https://s.shopee.com.br/8pnLoRhlE9
   especificacoes:
   - nome: Categoria
     valor: Furadeira/parafusadeira de impacto 12v cxt brushless, com kit brasileiro de duas baterias de 1,5 ah
@@ -1590,189 +1521,183 @@ makita_hp332dwye:
     valor: Até 28 mm
   - nome: Perfuração em metal
     valor: Até 10 mm
-
 bosch_gsr_12v_15:
-  nome: "Bosch GSR 12V-15 Professional"
-  descricao: "Furadeira e parafusadeira 12V sem impacto, com torque de 30 Nm em junta rígida, duas velocidades, mandril de 10 mm e bateria removível Bosch Professional 12V."
-  imagem: "/assets/images/posts/bosch-gsr-12v-15.png"
+  nome: Bosch GSR 12V-15 Professional
+  descricao: Furadeira e parafusadeira 12V sem impacto, com torque de 30 Nm em junta rígida, duas velocidades, mandril de
+    10 mm e bateria removível Bosch Professional 12V.
+  imagem: /assets/images/posts/bosch-gsr-12v-15.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1E8fjPm"
-    shopee: ""
+    amazon: ''
+    mercadolivre: https://meli.la/1E8fjPm
+    shopee: ''
   especificacoes:
-    - nome: "Modelo"
-      valor: "Bosch GSR 12V-15 Professional"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria, sem impacto"
-    - nome: "Tensão"
-      valor: "12 V, plataforma Bosch Professional 12V"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "30 Nm / 15 Nm"
-    - nome: "Rotação / RPM"
-      valor: "0–400 rpm (1ª) / 0–1.300 rpm (2ª)"
-    - nome: "Mandril"
-      valor: "Aperto rápido, capacidade de 1 a 10 mm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 19 mm | Aço: 10 mm"
-    - nome: "Diâmetro Máximo de Parafuso"
-      valor: "7 mm"
-    - nome: "Função Impacto"
-      valor: "Não possui"
-    - nome: "Bateria"
-      valor: "Removível, compatível com a plataforma Bosch Professional 12V; quantidade e capacidade variam conforme o kit"
-    - nome: "Peso"
-      valor: "Aproximadamente 0,95 kg com bateria, conforme variante oficial consultada"
-    - nome: "Destaque Principal"
-      valor: "Formato compacto, 30 Nm e duas velocidades para montagem de móveis e perfuração em madeira ou metal"
-
+  - nome: Modelo
+    valor: Bosch GSR 12V-15 Professional
+  - nome: Categoria
+    valor: Furadeira e parafusadeira a bateria, sem impacto
+  - nome: Tensão
+    valor: 12 V, plataforma Bosch Professional 12V
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 30 Nm / 15 Nm
+  - nome: Rotação / RPM
+    valor: 0–400 rpm (1ª) / 0–1.300 rpm (2ª)
+  - nome: Mandril
+    valor: Aperto rápido, capacidade de 1 a 10 mm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 19 mm | Aço: 10 mm'
+  - nome: Diâmetro Máximo de Parafuso
+    valor: 7 mm
+  - nome: Função Impacto
+    valor: Não possui
+  - nome: Bateria
+    valor: Removível, compatível com a plataforma Bosch Professional 12V; quantidade e capacidade variam conforme o kit
+  - nome: Peso
+    valor: Aproximadamente 0,95 kg com bateria, conforme variante oficial consultada
+  - nome: Destaque Principal
+    valor: Formato compacto, 30 Nm e duas velocidades para montagem de móveis e perfuração em madeira ou metal
 bosch_gsr_120_li:
-  nome: "Bosch GSR 120-LI Professional"
-  descricao: "Furadeira e parafusadeira 12V sem impacto, com torque de 30 Nm em junta rígida, mandril de 10 mm, 20+1 ajustes de torque e duas velocidades."
-  imagem: "/assets/images/posts/bosch-gsr-120-li.png"
+  nome: Bosch GSR 120-LI Professional
+  descricao: Furadeira e parafusadeira 12V sem impacto, com torque de 30 Nm em junta rígida, mandril de 10 mm, 20+1 ajustes
+    de torque e duas velocidades.
+  imagem: /assets/images/posts/bosch-gsr-120-li.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2y5ySyN"
-    shopee: "https://s.shopee.com.br/3qObBFmm88"
+    amazon: ''
+    mercadolivre: https://meli.la/2y5ySyN
+    shopee: https://s.shopee.com.br/3qObBFmm88
   especificacoes:
-    - nome: "Modelo"
-      valor: "Bosch GSR 120-LI Professional (sem impacto)"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria"
-    - nome: "Tensão"
-      valor: "12 V, plataforma Bosch Professional 12V"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "30 Nm / 14 Nm"
-    - nome: "Configurações de Torque"
-      valor: "20+1 (20 ajustes de parafusamento e modo de perfuração)"
-    - nome: "Rotação / RPM"
-      valor: "0–400 rpm (1ª) / 0–1.500 rpm (2ª)"
-    - nome: "Mandril"
-      valor: "Aperto rápido, capacidade de 0,8 a 10 mm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 20 mm | Aço: 10 mm"
-    - nome: "Peso sem Bateria"
-      valor: "0,8 kg"
-    - nome: "Função Impacto"
-      valor: "Não possui; diferente da Bosch GSB 120-LI"
-    - nome: "Proteção da Bateria"
-      valor: "Electronic Cell Protection (ECP)"
-    - nome: "Bateria"
-      valor: "Íons de lítio removível; quantidade e capacidade dependem da variante do kit"
-    - nome: "Kit Oficial de Referência"
-      valor: "Código 06019G80E1: 1 bateria GBA 12V 2,0 Ah, carregador GAL 12V-20 e maleta"
-    - nome: "Destaque Principal"
-      valor: "20+1 ajustes de torque, duas velocidades e bateria removível para montagem e manutenção doméstica"
-
-# REVISÃO: manter como furadeira/parafusadeira sem impacto 12V CXT. Distinguir da DF332DWYE: DF332 é brushless; não atribuir essa característica à DF333.
+  - nome: Modelo
+    valor: Bosch GSR 120-LI Professional (sem impacto)
+  - nome: Categoria
+    valor: Furadeira e parafusadeira a bateria
+  - nome: Tensão
+    valor: 12 V, plataforma Bosch Professional 12V
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 30 Nm / 14 Nm
+  - nome: Configurações de Torque
+    valor: 20+1 (20 ajustes de parafusamento e modo de perfuração)
+  - nome: Rotação / RPM
+    valor: 0–400 rpm (1ª) / 0–1.500 rpm (2ª)
+  - nome: Mandril
+    valor: Aperto rápido, capacidade de 0,8 a 10 mm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 20 mm | Aço: 10 mm'
+  - nome: Peso sem Bateria
+    valor: 0,8 kg
+  - nome: Função Impacto
+    valor: Não possui; diferente da Bosch GSB 120-LI
+  - nome: Proteção da Bateria
+    valor: Electronic Cell Protection (ECP)
+  - nome: Bateria
+    valor: Íons de lítio removível; quantidade e capacidade dependem da variante do kit
+  - nome: Kit Oficial de Referência
+    valor: 'Código 06019G80E1: 1 bateria GBA 12V 2,0 Ah, carregador GAL 12V-20 e maleta'
+  - nome: Destaque Principal
+    valor: 20+1 ajustes de torque, duas velocidades e bateria removível para montagem e manutenção doméstica
 makita_df333dwye:
-  nome: "Makita DF333DWYE"
-  descricao: "Furadeira e parafusadeira sem impacto 12V CXT, com torque de 30 Nm em junta rígida, 20 ajustes de torque, duas velocidades e kit com duas baterias de 1,5 Ah."
-  imagem: "/assets/images/posts/makita-df333dwye.png"
+  nome: Makita DF333DWYE
+  descricao: Furadeira e parafusadeira sem impacto 12V CXT, com torque de 30 Nm em junta rígida, 20 ajustes de torque, duas
+    velocidades e kit com duas baterias de 1,5 Ah.
+  imagem: /assets/images/posts/makita-df333dwye.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/33k1ZSG"
-    shopee: "https://s.shopee.com.br/1gK6beTFUE"
+    amazon: ''
+    mercadolivre: https://meli.la/33k1ZSG
+    shopee: https://s.shopee.com.br/1gK6beTFUE
   especificacoes:
-    - nome: "Modelo Comercial"
-      valor: "Makita DF333DWYE"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira a bateria, sem impacto"
-    - nome: "Tensão"
-      valor: "12 V max CXT, bateria de íons de lítio removível"
-    - nome: "Motor"
-      valor: "Motor de 2 polos, conforme catálogo Makita Brasil; não anunciado como brushless"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "30 Nm / 14 Nm"
-    - nome: "Ajustes de Torque"
-      valor: "20 níveis de torque"
-    - nome: "Rotação / RPM"
-      valor: "0–450 rpm (baixa) / 0–1.700 rpm (alta)"
-    - nome: "Mandril"
-      valor: "Aperto rápido, capacidade de 0,8 a 10 mm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 21 mm | Aço: 10 mm"
-    - nome: "Função Impacto"
-      valor: "Não possui"
-    - nome: "Peso"
-      valor: "1,1 kg, conforme ficha Makita Brasil"
-    - nome: "Dimensões (C x L x A)"
-      valor: "179 x 66 x 212 mm"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Funções"
-      valor: "Velocidade variável, reversão e freio elétrico"
-    - nome: "Baterias Inclusas"
-      valor: "2 baterias 12 V CXT de 1,5 Ah"
-    - nome: "Acessórios Inclusos"
-      valor: "Carregador rápido e maleta"
-    - nome: "Destaque Principal"
-      valor: "Kit com duas baterias, 20 ajustes de torque e duas velocidades para montagem de móveis"
-
-
-# ALTERAÇÃO: padronizar a referência local como Makita DHP485Z (ou DHP485RFJ no kit, conforme variante). XPH14Z é designação de mercado externo; não misturar no título brasileiro.
+  - nome: Modelo Comercial
+    valor: Makita DF333DWYE
+  - nome: Categoria
+    valor: Furadeira e parafusadeira a bateria, sem impacto
+  - nome: Tensão
+    valor: 12 V max CXT, bateria de íons de lítio removível
+  - nome: Motor
+    valor: Motor de 2 polos, conforme catálogo Makita Brasil; não anunciado como brushless
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 30 Nm / 14 Nm
+  - nome: Ajustes de Torque
+    valor: 20 níveis de torque
+  - nome: Rotação / RPM
+    valor: 0–450 rpm (baixa) / 0–1.700 rpm (alta)
+  - nome: Mandril
+    valor: Aperto rápido, capacidade de 0,8 a 10 mm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 21 mm | Aço: 10 mm'
+  - nome: Função Impacto
+    valor: Não possui
+  - nome: Peso
+    valor: 1,1 kg, conforme ficha Makita Brasil
+  - nome: Dimensões (C x L x A)
+    valor: 179 x 66 x 212 mm
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Funções
+    valor: Velocidade variável, reversão e freio elétrico
+  - nome: Baterias Inclusas
+    valor: 2 baterias 12 V CXT de 1,5 Ah
+  - nome: Acessórios Inclusos
+    valor: Carregador rápido e maleta
+  - nome: Destaque Principal
+    valor: Kit com duas baterias, 20 ajustes de torque e duas velocidades para montagem de móveis
 makita_xph14z_dhp485:
-  nome: "Makita DHP485Z 18V LXT Brushless"
-  descricao: "Furadeira e parafusadeira de impacto 18V LXT, com motor brushless, torque máximo de 60 Nm, 21 ajustes de torque, duas velocidades e mandril de 13 mm. Versão Z comercializada sem bateria e carregador."
-  imagem: "/assets/images/posts/makita-dhp485z.png"
+  nome: Makita DHP485Z 18V LXT Brushless
+  descricao: Furadeira e parafusadeira de impacto 18V LXT, com motor brushless, torque máximo de 60 Nm, 21 ajustes de torque,
+    duas velocidades e mandril de 13 mm. Versão Z comercializada sem bateria e carregador.
+  imagem: /assets/images/posts/makita-dhp485z.png
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1Vn1jSb"
-    shopee: "https://s.shopee.com.br/BVNUwQO5w"
+    amazon: ''
+    mercadolivre: https://meli.la/1Vn1jSb
+    shopee: https://s.shopee.com.br/BVNUwQO5w
   especificacoes:
-    - nome: "Modelo Comercial"
-      valor: "Makita DHP485Z (Brasil; kit DHP485RFJ, conforme variante)"
-    - nome: "Categoria"
-      valor: "Furadeira e parafusadeira de impacto a bateria"
-    - nome: "Tensão"
-      valor: "18 V LXT, bateria de íons de lítio removível"
-    - nome: "Motor"
-      valor: "Brushless (BL), sem escovas de carvão"
-    - nome: "Torque Máximo"
-      valor: "60 Nm"
-    - nome: "Torque (Junta Rígida / Flexível)"
-      valor: "50 Nm / 27 Nm"
-    - nome: "Ajustes de Torque"
-      valor: "21 níveis de torque"
-    - nome: "Rotação / RPM"
-      valor: "0–500 rpm (baixa) / 0–1.900 rpm (alta)"
-    - nome: "Impactos por Minuto"
-      valor: "0–7.500 ipm (baixa) / 0–28.500 ipm (alta)"
-    - nome: "Mandril"
-      valor: "Aperto rápido, capacidade de 1,5 a 13 mm"
-    - nome: "Capacidade de Perfuração"
-      valor: "Madeira: 38 mm | Aço: 13 mm | Concreto: 13 mm"
-    - nome: "Função Impacto"
-      valor: "Sim, impacto mecânico para alvenaria"
-    - nome: "Peso"
-      valor: "Aproximadamente 1,16 kg sem bateria"
-    - nome: "Dimensões (C x L x A)"
-      valor: "182 x 79 x 193 mm, conforme configuração de referência"
-    - nome: "Iluminação"
-      valor: "LED integrado"
-    - nome: "Funções"
-      valor: "Velocidade variável, reversão, freio instantâneo e tecnologia XPT de proteção contra poeira e respingos"
-    - nome: "Baterias Inclusas"
-      valor: "Não acompanha bateria na versão DHP485Z"
-    - nome: "Acessórios Inclusos"
-      valor: "Versão avulsa; verificar acessórios fornecidos pelo vendedor"
-    - nome: "Destaque Principal"
-      valor: "Motor brushless, torque máximo de 60 Nm e impacto para aplicações profissionais em madeira, metal e alvenaria"
-
-
-
-# ALERTA DE CÓDIGO: HP333DSAJ não foi validado como código oficial brasileiro. Preferir HP333DZ (avulsa) ou HP333DWYE (kit) somente após conferir que os links/estoque correspondem; não afirmar que o sufixo DSAJ é oficial.
+  - nome: Modelo Comercial
+    valor: Makita DHP485Z (Brasil; kit DHP485RFJ, conforme variante)
+  - nome: Categoria
+    valor: Furadeira e parafusadeira de impacto a bateria
+  - nome: Tensão
+    valor: 18 V LXT, bateria de íons de lítio removível
+  - nome: Motor
+    valor: Brushless (BL), sem escovas de carvão
+  - nome: Torque Máximo
+    valor: 60 Nm
+  - nome: Torque (Junta Rígida / Flexível)
+    valor: 50 Nm / 27 Nm
+  - nome: Ajustes de Torque
+    valor: 21 níveis de torque
+  - nome: Rotação / RPM
+    valor: 0–500 rpm (baixa) / 0–1.900 rpm (alta)
+  - nome: Impactos por Minuto
+    valor: 0–7.500 ipm (baixa) / 0–28.500 ipm (alta)
+  - nome: Mandril
+    valor: Aperto rápido, capacidade de 1,5 a 13 mm
+  - nome: Capacidade de Perfuração
+    valor: 'Madeira: 38 mm | Aço: 13 mm | Concreto: 13 mm'
+  - nome: Função Impacto
+    valor: Sim, impacto mecânico para alvenaria
+  - nome: Peso
+    valor: Aproximadamente 1,16 kg sem bateria
+  - nome: Dimensões (C x L x A)
+    valor: 182 x 79 x 193 mm, conforme configuração de referência
+  - nome: Iluminação
+    valor: LED integrado
+  - nome: Funções
+    valor: Velocidade variável, reversão, freio instantâneo e tecnologia XPT de proteção contra poeira e respingos
+  - nome: Baterias Inclusas
+    valor: Não acompanha bateria na versão DHP485Z
+  - nome: Acessórios Inclusos
+    valor: Versão avulsa; verificar acessórios fornecidos pelo vendedor
+  - nome: Destaque Principal
+    valor: Motor brushless, torque máximo de 60 Nm e impacto para aplicações profissionais em madeira, metal e alvenaria
 makita_hp333dsaj:
-  nome: Makita HP333D 12V CXT 
-  descricao: Furadeira e parafusadeira de impacto 12V max CXT, motor de dois polos, torque máximo de 34 Nm, 20 ajustes
-    e mandril de 10 mm. A composição do kit HP333DSAJ precisa ser confirmada.
+  nome: Makita HP333D 12V CXT (referência de kit DSAJ não confirmada)
+  descricao: Furadeira e parafusadeira de impacto 12V max CXT, motor de dois polos, torque máximo de 34 Nm, 20 ajustes e mandril
+    de 10 mm. A composição do kit HP333DSAJ precisa ser confirmada.
   imagem: /assets/images/posts/makita-hp333dsaj.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/2wx4GNF"
-    shopee: "https://s.shopee.com.br/4VeHz3E638"
+    mercadolivre: https://meli.la/2wx4GNF
+    shopee: https://s.shopee.com.br/4VeHz3E638
   especificacoes:
   - nome: Modelo Comercial
-    valor: Makita HP333D; sufixo DSAJ não localizado nas fichas oficiais consultadas
+    valor: 'Modelo-base HP333D. Códigos oficiais brasileiros localizados: HP333DZ (ferramenta avulsa) e HP333DWYX3 (kit).
+      O sufixo HP333DSAJ não foi confirmado.'
   - nome: Categoria
     valor: Furadeira e parafusadeira de impacto
   - nome: Tensão
@@ -1796,24 +1721,26 @@ makita_hp333dsaj:
   - nome: Função Impacto
     valor: Sim
   - nome: Baterias Inclusas
-    valor: Não confirmado para o código HP333DSAJ; verificar anúncio
+    valor: 'HP333DZ: não acompanha bateria. HP333DWYX3: acompanha 1 bateria 12V CXT de 1,5 Ah. Conteúdo de eventual anúncio
+      HP333DSAJ não confirmado.'
   - nome: Carregador e Maleta
-    valor: Não confirmados para o código HP333DSAJ
+    valor: 'HP333DZ: não acompanha carregador ou maleta. HP333DWYX3: acompanha carregador simples; a página oficial consultada
+      não lista maleta. Conteúdo HP333DSAJ não confirmado.'
   - nome: Destaque Principal
-    valor: Modelo compacto CXT 12V com impacto; verificar o código comercial do kit
-
-# ALTERAÇÃO RECOMENDADA, NÃO APLICADA: DCD700D2-BR não foi confirmado no catálogo brasileiro consultado. Substituto local a avaliar: DCD710D2-BR (12V, sem impacto). Não reaproveitar links/imagem do DCD700 sem validar que apontam para o DCD710.
+    valor: 'HP333D CXT 12V: 34 Nm, 20 níveis de torque, duas velocidades e impacto mecânico. Conferir se o anúncio corresponde
+      à HP333DZ ou HP333DWYX3.'
 dewalt_dcd700d2_br:
-  nome: DeWalt DCD700 12V MAX 
+  nome: DeWalt DCD700 12V MAX (código de kit DCD700D2-BR não confirmado)
   descricao: Furadeira e parafusadeira compacta 12V MAX, sem impacto.
   imagem: /assets/images/posts/dewalt-dcd700d2-br.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/2z74hUh"
+    mercadolivre: https://meli.la/2z74hUh
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
-    valor: DeWalt DCD700; código DCD700D2-BR não confirmado em catálogo oficial brasileiro consultado
+    valor: Ferramenta-base DeWalt DCD700. A página oficial brasileira confirma a DCD700 no kit combinado DCK201C2-BR com a
+      DCF805; não confirma um kit independente denominado DCD700D2-BR.
   - nome: Categoria
     valor: Furadeira e parafusadeira a bateria, sem impacto
   - nome: Tensão
@@ -1821,7 +1748,7 @@ dewalt_dcd700d2_br:
   - nome: Motor
     valor: Com escovas; não anunciado como brushless
   - nome: Torque Máximo
-    valor: 24 Nm, referência técnica da família DCD700; confirmar pela etiqueta/manual da variante
+    valor: 24 Nm, conforme página oficial DeWalt Brasil para a DCD700 incluída no kit DCK201C2-BR.
   - nome: Ajustes de Torque
     valor: 15 posições, conforme documentação técnica da família DCD700
   - nome: Velocidades
@@ -1831,18 +1758,17 @@ dewalt_dcd700d2_br:
   - nome: Função Impacto
     valor: Não possui
   - nome: Baterias Inclusas
-    valor: Não confirmadas para o código DCD700D2-BR
+    valor: 'DCD700 como ferramenta-base: depende do kit. No kit oficial DCK201C2-BR: 2 baterias 12V MAX de 1,3 Ah.'
   - nome: Acessórios Inclusos
-    valor: Confirmar a configuração exata do kit anunciado
+    valor: 'No kit oficial DCK201C2-BR: DCD700 + DCF805, 2 baterias 12V MAX de 1,3 Ah, carregador bivolt e maleta. Não atribuir
+      essa composição a anúncios com código DCD700D2-BR sem confirmação.'
   - nome: Destaque Principal
     valor: Furadeira/parafusadeira compacta para madeira, metal e montagem; sem impacto
-
-    
-# ALTERAÇÃO RECOMENDADA: GSB 18V-55 não apareceu no catálogo brasileiro 2026 consultado. Avaliar substituição por GSB 18V-65 ou GSB 18V-90 C; escolher a variante e refazer especificações/links antes de publicar.
 bosch_gsb_18v_55:
-  nome: Bosch GSB 18V-55 
-  descricao: Furadeira e parafusadeira de impacto 18V brushless, torque rígido de 55 Nm, mandril metálico de 13
-    mm e duas velocidades.
+  nome: Bosch GSB 18V-55
+  descricao: Furadeira e parafusadeira de impacto 18V brushless, torque de 55/28 Nm (junta rígida/flexível), mandril de 13
+    mm e até 27.000 impactos por minuto. A disponibilidade e a configuração comercial no Brasil devem ser verificadas antes
+    da compra.
   imagem: /assets/images/posts/bosch-gsb-18v-55.png
   links:
     amazon: ''
@@ -1866,7 +1792,7 @@ bosch_gsb_18v_55:
   - nome: Mandril
     valor: Metálico, 1,5–13 mm
   - nome: Capacidade de Perfuração
-    valor: 'Madeira: 35 mm | Aço: 13 mm | Alvenaria: 10 mm, conforme página do produto'
+    valor: 'Madeira: 35 mm | Aço: 13 mm | Alvenaria: 13 mm, conforme manual Bosch.'
   - nome: Função Impacto
     valor: Sim
   - nome: Peso
@@ -1877,16 +1803,14 @@ bosch_gsb_18v_55:
     valor: Variam conforme o código do kit; há versões avulsas
   - nome: Destaque Principal
     valor: Motor brushless, torque rígido de 55 Nm e mandril metálico de 13 mm
-
-    
-# ALTERAÇÃO: cadastro renomeado no conteúdo para a variante brasileira DHP484Z (ferramenta avulsa); DHP484RFE é alternativa de kit a validar. A chave antiga foi preservada para não quebrar referências internas.
 makita_dhp484rtj:
   nome: Makita DHP484Z 18V LXT Brushless (ferramenta avulsa)
-  descricao: Furadeira e parafusadeira de impacto 18V LXT brushless. A variante brasileira DHP484Z é ferramenta avulsa; confirmar conteúdo de kit quando anunciado como DHP484RFE.
+  descricao: Furadeira e parafusadeira de impacto 18V LXT brushless. A variante brasileira DHP484Z é ferramenta avulsa; confirmar
+    conteúdo de kit quando anunciado como DHP484RFE.
   imagem: /assets/images/posts/makita-dhp484rtj.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/1Q3V2nk"
+    mercadolivre: https://meli.la/1Q3V2nk
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -1921,16 +1845,14 @@ makita_dhp484rtj:
     valor: Acessórios dependem da variante comercial; não atribuir kit RTJ ao código brasileiro sem confirmação
   - nome: Destaque Principal
     valor: Motor brushless, 65 Nm máximos e plataforma LXT 18V; conteúdo do kit depende da variante
-
-    
 dewalt_dcd796d2_br:
   nome: DeWalt DCD796D2-BR 20V MAX XR Brushless
-  descricao: Kit de furadeira e parafusadeira de impacto 20V MAX XR brushless, torque máximo de 70 Nm, mandril metálico
-    de 13 mm, duas baterias de 2,0 Ah, carregador e maleta.
+  descricao: Kit de furadeira e parafusadeira de impacto 20V MAX XR brushless, torque máximo de 70 Nm, mandril metálico de
+    13 mm, duas baterias de 2,0 Ah, carregador e maleta.
   imagem: /assets/images/posts/dewalt-dcd796d2-br.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/2kvDGC8"
+    mercadolivre: https://meli.la/2kvDGC8
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -1963,17 +1885,14 @@ dewalt_dcd796d2_br:
     valor: Carregador bivolt e maleta plástica
   - nome: Destaque Principal
     valor: 70 Nm máximos, brushless e kit com duas baterias de 2,0 Ah
-
-    
-# REVISÃO: mantido, mas em categoria própria de furadeiras/parafusadeiras sem impacto de alto torque. Não confundir com GSB 18V-150 C, que é a versão com impacto.
 bosch_gsr_18v_150c:
   nome: Bosch GSR 18V-150 C Professional
-  descricao: Furadeira e parafusadeira sem impacto 18V BITURBO Brushless, torque máximo de 150 Nm, mandril metálico
-    de 13 mm, KickBack Control e Electronic Angle Detection.
+  descricao: Furadeira e parafusadeira sem impacto 18V BITURBO Brushless, torque máximo de 150 Nm, mandril metálico de 13
+    mm, KickBack Control e Electronic Angle Detection.
   imagem: /assets/images/posts/bosch-gsr-18v-150c.png
   links:
     amazon: ''
-    mercadolivre: "https://meli.la/2Lmxmjr"
+    mercadolivre: https://meli.la/2Lmxmjr
     shopee: ''
   especificacoes:
   - nome: Modelo Comercial
@@ -2003,341 +1922,395 @@ bosch_gsr_18v_150c:
   - nome: Recursos
     valor: Electronic Angle Detection e transmissão metálica
   - nome: Bateria
-    valor: Compatível com Bosch Professional 18V; fabricante recomenda ProCORE18V de pelo menos 5,5 Ah para máxima
-      potência
+    valor: Compatível com Bosch Professional 18V; fabricante recomenda ProCORE18V de pelo menos 5,5 Ah para máxima potência
   - nome: Baterias Inclusas
     valor: Variam conforme a variante comercial
   - nome: Destaque Principal
     valor: Torque máximo de 150 Nm, controle de reação e detecção eletrônica de ângulo
-
 bosch_gtb_185_li:
-  nome: "Bosch GTB 185-LI"
-  descricao: "Parafusadeira profissional a bateria de 18V para instalação de drywall, com motor brushless, rotação de até 4.500 rpm, tecnologia PowerSAVE, batente de profundidade reversível e compatibilidade com o alimentador automático Bosch GMA 55."
-  imagem: "/assets/images/posts/bosch-gtb-185-li.webp"
+  nome: Bosch GTB 185-LI
+  descricao: Parafusadeira profissional a bateria de 18V para instalação de drywall, com motor brushless, rotação de até 4.500
+    rpm, tecnologia PowerSAVE, batente de profundidade reversível e compatibilidade com o alimentador automático Bosch GMA
+    55.
+  imagem: /assets/images/posts/bosch-gtb-185-li.webp
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2ZMAzAJ"
-    shopee: "https://s.shopee.com.br/4VeNq3qGkD"
+    amazon: ''
+    mercadolivre: https://meli.la/2ZMAzAJ
+    shopee: https://s.shopee.com.br/4VeNq3qGkD
   especificacoes:
-    - nome: "Modelo"
-      valor: "Bosch Professional GTB 185-LI"
-    - nome: "Códigos comerciais"
-      valor: "06019K70E1 (ferramenta avulsa) | 06019K70E0 (kit com 2 baterias e maleta)"
-    - nome: "Categoria"
-      valor: "Parafusadeira profissional a bateria para drywall"
-    - nome: "Tensão"
-      valor: "18 V, plataforma Bosch Professional 18V"
-    - nome: "Motor"
-      valor: "Brushless, sem escovas de carvão"
-    - nome: "Rotação sem carga"
-      valor: "0–4.500 rpm"
-    - nome: "Torque máximo em materiais macios"
-      valor: "5,2 Nm, conforme página técnica Bosch Brasil"
-    - nome: "Torque máximo (condição dura/macia)"
-      valor: "32 Nm, valor também informado na página técnica Bosch; para a aplicação em drywall, considerar especialmente o torque em materiais macios"
-    - nome: "Encaixe"
-      valor: "Sextavado interno de 1/4 polegada (porta-bits)"
-    - nome: "Mandril"
-      valor: "Não possui mandril convencional para brocas; utiliza encaixe sextavado de 1/4 polegada"
-    - nome: "Diâmetro máximo de parafuso"
-      valor: "6 mm, conforme ficha técnica geral"
-    - nome: "Aplicação indicada pela Bosch"
-      valor: "Parafusos para drywall de até 4,2 mm em placas de gesso com perfil de aço leve de 0,5 mm"
-    - nome: "Peso sem bateria"
-      valor: "0,95 kg"
-    - nome: "Peso com bateria GBA 18V 2,0 Ah"
-      valor: "Aproximadamente 1,3 kg"
-    - nome: "Iluminação"
-      valor: "LED integrado para iluminar a área de parafusamento"
-    - nome: "Tecnologia de economia"
-      valor: "PowerSAVE; Bosch anuncia até 3 vezes mais parafusos por carga em comparação com a operação sem PowerSAVE, nas condições de ensaio do fabricante"
-    - nome: "Autonomia divulgada"
-      valor: "Até 1.500 parafusamentos em drywall com bateria GBA 18V 2,0 Ah, conforme ensaio/catálogo Bosch; o resultado real varia conforme a aplicação"
-    - nome: "Batente de profundidade"
-      valor: "Reversível, permitindo inverter o sentido de rotação sem remover o limitador"
-    - nome: "Recursos adicionais"
-      valor: "Freio do motor, reversão, trava do gatilho, clipe para cinto e proteção eletrônica do motor (EMP)"
-    - nome: "Alimentador automático compatível"
-      valor: "Bosch GMA 55, vendido separadamente"
-    - nome: "Compatibilidade de baterias"
-      valor: "Baterias e carregadores compatíveis da plataforma Bosch Professional 18V"
-    - nome: "Itens da versão avulsa 06019K70E1"
-      valor: "Parafusadeira e 1 bit PH2; não acompanha bateria nem carregador"
-    - nome: "Itens do kit 06019K70E0"
-      valor: "Parafusadeira, 2 baterias GBA 18V 2,0 Ah, carregador GAL 18V-20 bivolt, suporte universal magnético e maleta de transporte"
-    - nome: "Garantia"
-      valor: "Consultar as condições vigentes da garantia Bosch Brasil e o registro exigido para eventual extensão"
-    - nome: "Destaque principal"
-      valor: "Parafusadeira drywall 18V brushless, com 4.500 rpm, PowerSAVE, batente reversível e compatibilidade com GMA 55"
-    - nome: "Limitação importante"
-      valor: "Ferramenta especializada em parafusamento para drywall; não substitui uma furadeira/parafusadeira com mandril e não possui função de impacto"
-
+  - nome: Modelo
+    valor: Bosch Professional GTB 185-LI
+  - nome: Códigos comerciais
+    valor: 06019K70E1 (ferramenta avulsa) | 06019K70E0 (kit com 2 baterias e maleta)
+  - nome: Categoria
+    valor: Parafusadeira profissional a bateria para drywall
+  - nome: Tensão
+    valor: 18 V, plataforma Bosch Professional 18V
+  - nome: Motor
+    valor: Brushless, sem escovas de carvão
+  - nome: Rotação sem carga
+    valor: 0–4.500 rpm
+  - nome: Torque máximo em materiais macios
+    valor: 5,2 Nm, conforme página técnica Bosch Brasil
+  - nome: Torque máximo (condição dura/macia)
+    valor: 32 Nm, valor também informado na página técnica Bosch; para a aplicação em drywall, considerar especialmente o
+      torque em materiais macios
+  - nome: Encaixe
+    valor: Sextavado interno de 1/4 polegada (porta-bits)
+  - nome: Mandril
+    valor: Não possui mandril convencional para brocas; utiliza encaixe sextavado de 1/4 polegada
+  - nome: Diâmetro máximo de parafuso
+    valor: 6 mm, conforme ficha técnica geral
+  - nome: Aplicação indicada pela Bosch
+    valor: Parafusos para drywall de até 4,2 mm em placas de gesso com perfil de aço leve de 0,5 mm
+  - nome: Peso sem bateria
+    valor: 0,95 kg
+  - nome: Peso com bateria GBA 18V 2,0 Ah
+    valor: Aproximadamente 1,3 kg
+  - nome: Iluminação
+    valor: LED integrado para iluminar a área de parafusamento
+  - nome: Tecnologia de economia
+    valor: PowerSAVE; Bosch anuncia até 3 vezes mais parafusos por carga em comparação com a operação sem PowerSAVE, nas condições
+      de ensaio do fabricante
+  - nome: Autonomia divulgada
+    valor: Até 1.500 parafusamentos em drywall com bateria GBA 18V 2,0 Ah, conforme ensaio/catálogo Bosch; o resultado real
+      varia conforme a aplicação
+  - nome: Batente de profundidade
+    valor: Reversível, permitindo inverter o sentido de rotação sem remover o limitador
+  - nome: Recursos adicionais
+    valor: Freio do motor, reversão, trava do gatilho, clipe para cinto e proteção eletrônica do motor (EMP)
+  - nome: Alimentador automático compatível
+    valor: Bosch GMA 55, vendido separadamente
+  - nome: Compatibilidade de baterias
+    valor: Baterias e carregadores compatíveis da plataforma Bosch Professional 18V
+  - nome: Itens da versão avulsa 06019K70E1
+    valor: Parafusadeira e 1 bit PH2; não acompanha bateria nem carregador
+  - nome: Itens do kit 06019K70E0
+    valor: Parafusadeira, 2 baterias GBA 18V 2,0 Ah, carregador GAL 18V-20 bivolt, suporte universal magnético e maleta de
+      transporte
+  - nome: Garantia
+    valor: Consultar as condições vigentes da garantia Bosch Brasil e o registro exigido para eventual extensão
+  - nome: Destaque principal
+    valor: Parafusadeira drywall 18V brushless, com 4.500 rpm, PowerSAVE, batente reversível e compatibilidade com GMA 55
+  - nome: Limitação importante
+    valor: Ferramenta especializada em parafusamento para drywall; não substitui uma furadeira/parafusadeira com mandril e
+      não possui função de impacto
 bosch_gtb_650:
-  nome: "Bosch GTB 650"
-  descricao: "Parafusadeira profissional com fio de 650W para instalação de drywall, com rotação de até 5.000 rpm, torque máximo de 12 Nm em materiais macios, batente de profundidade reversível e compatibilidade com o alimentador automático Bosch GMA 55."
-  imagem: "/assets/images/posts/bosch-gtb-650.webp"
+  nome: Bosch GTB 650
+  descricao: Parafusadeira profissional com fio de 650W para instalação de drywall, com rotação de até 5.000 rpm, torque máximo
+    de 12 Nm em materiais macios, batente de profundidade reversível e compatibilidade com o alimentador automático Bosch
+    GMA 55.
+  imagem: /assets/images/posts/bosch-gtb-650.webp
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2G6yWWP"
-    shopee: "https://s.shopee.com.br/3g5Gr3bZgB"
+    amazon: ''
+    mercadolivre: https://meli.la/2G6yWWP
+    shopee: https://s.shopee.com.br/3g5Gr3bZgB
   especificacoes:
-    - nome: "Modelo"
-      valor: "Bosch Professional GTB 650"
-    - nome: "Código comercial brasileiro"
-      valor: "06014A20E0 (0 601 4A2 0E0)"
-    - nome: "EAN"
-      valor: "3165140920933"
-    - nome: "Categoria"
-      valor: "Parafusadeira elétrica profissional para drywall"
-    - nome: "Alimentação"
-      valor: "Com fio, ligada à rede elétrica"
-    - nome: "Tensão da versão brasileira consultada"
-      valor: "220 V; confirme a tensão na etiqueta e no anúncio antes da compra"
-    - nome: "Potência nominal absorvida"
-      valor: "650 W"
-    - nome: "Rotação sem carga"
-      valor: "0–5.000 rpm"
-    - nome: "Rotação sem carga em versão/condição de 240 V"
-      valor: "Até 5.200 rpm, conforme manual; os dados podem variar conforme a tensão e a versão específica"
-    - nome: "Torque máximo em materiais macios"
-      valor: "12 Nm"
-    - nome: "Encaixe"
-      valor: "Sextavado interno de 1/4 polegada (porta-bits)"
-    - nome: "Mandril"
-      valor: "Não possui mandril convencional para brocas"
-    - nome: "Diâmetro máximo de parafuso para drywall"
-      valor: "4 mm, conforme página oficial Bosch Brasil"
-    - nome: "Parafusos autorroscantes em chapa metálica"
-      valor: "Até 6 mm de diâmetro em chapa metálica de 1,5 mm, conforme aplicação indicada pela Bosch"
-    - nome: "Peso"
-      valor: "1,4 kg"
-    - nome: "Dimensões"
-      valor: "283 mm de comprimento x 68 mm de largura x 190 mm de altura, conforme artigo e catálogo brasileiro"
-    - nome: "Batente de profundidade"
-      valor: "Ajustável e reversível; permite desparafusar sem remover o batente"
-    - nome: "Rotação reversível"
-      valor: "Sim"
-    - nome: "Botão trava"
-      valor: "Sim, para manter o funcionamento durante trabalhos contínuos"
-    - nome: "Empunhadura"
-      valor: "Corpo estreito com revestimento Softgrip"
-    - nome: "Clipe para cinto"
-      valor: "Sim"
-    - nome: "Alimentador automático compatível"
-      valor: "Bosch GMA 55, vendido separadamente"
-    - nome: "Parafusos em fita para GMA 55"
-      valor: "Comprimento de 25 a 55 mm; diâmetro máximo de 5 mm e largura de fita de aproximadamente 15,7 a 16 mm, conforme especificações do alimentador"
-    - nome: "Ganho de produtividade anunciado"
-      valor: "Bosch informa aumento de pelo menos 50% com o alimentador automático; resultado depende das condições de trabalho"
-    - nome: "Itens da apresentação brasileira consultada"
-      valor: "Parafusadeira, maleta de transporte e 1 bit PH2"
-    - nome: "Garantia"
-      valor: "Consultar as condições vigentes da garantia Bosch Brasil e os requisitos de registro para eventual extensão"
-    - nome: "Destaque principal"
-      valor: "Parafusadeira drywall com fio de 650 W, 5.000 rpm, batente reversível e compatibilidade com GMA 55"
-    - nome: "Limitação importante"
-      valor: "Ferramenta especializada em parafusamento para drywall; não possui mandril para brocas nem função de perfuração"
-
-
+  - nome: Modelo
+    valor: Bosch Professional GTB 650
+  - nome: Código comercial brasileiro
+    valor: 06014A20E0 (0 601 4A2 0E0)
+  - nome: EAN
+    valor: '3165140920933'
+  - nome: Categoria
+    valor: Parafusadeira elétrica profissional para drywall
+  - nome: Alimentação
+    valor: Com fio, ligada à rede elétrica
+  - nome: Tensão da versão brasileira consultada
+    valor: 220 V; confirme a tensão na etiqueta e no anúncio antes da compra
+  - nome: Potência nominal absorvida
+    valor: 650 W
+  - nome: Rotação sem carga
+    valor: 0–5.000 rpm
+  - nome: Rotação sem carga em versão/condição de 240 V
+    valor: Até 5.200 rpm, conforme manual; os dados podem variar conforme a tensão e a versão específica
+  - nome: Torque máximo em materiais macios
+    valor: 12 Nm
+  - nome: Encaixe
+    valor: Sextavado interno de 1/4 polegada (porta-bits)
+  - nome: Mandril
+    valor: Não possui mandril convencional para brocas
+  - nome: Diâmetro máximo de parafuso para drywall
+    valor: 4 mm, conforme página oficial Bosch Brasil
+  - nome: Parafusos autorroscantes em chapa metálica
+    valor: Até 6 mm de diâmetro em chapa metálica de 1,5 mm, conforme aplicação indicada pela Bosch
+  - nome: Peso
+    valor: 1,4 kg
+  - nome: Dimensões
+    valor: 283 mm de comprimento x 68 mm de largura x 190 mm de altura, conforme artigo e catálogo brasileiro
+  - nome: Batente de profundidade
+    valor: Ajustável e reversível; permite desparafusar sem remover o batente
+  - nome: Rotação reversível
+    valor: Sim
+  - nome: Botão trava
+    valor: Sim, para manter o funcionamento durante trabalhos contínuos
+  - nome: Empunhadura
+    valor: Corpo estreito com revestimento Softgrip
+  - nome: Clipe para cinto
+    valor: Sim
+  - nome: Alimentador automático compatível
+    valor: Bosch GMA 55, vendido separadamente
+  - nome: Parafusos em fita para GMA 55
+    valor: Comprimento de 25 a 55 mm; diâmetro máximo de 5 mm e largura de fita de aproximadamente 15,7 a 16 mm, conforme
+      especificações do alimentador
+  - nome: Ganho de produtividade anunciado
+    valor: Bosch informa aumento de pelo menos 50% com o alimentador automático; resultado depende das condições de trabalho
+  - nome: Itens da apresentação brasileira consultada
+    valor: Parafusadeira, maleta de transporte e 1 bit PH2
+  - nome: Garantia
+    valor: Consultar as condições vigentes da garantia Bosch Brasil e os requisitos de registro para eventual extensão
+  - nome: Destaque principal
+    valor: Parafusadeira drywall com fio de 650 W, 5.000 rpm, batente reversível e compatibilidade com GMA 55
+  - nome: Limitação importante
+    valor: Ferramenta especializada em parafusamento para drywall; não possui mandril para brocas nem função de perfuração
 dewalt_dcf887:
-  nome: "DeWalt DCF887"
-  descricao: "Parafusadeira de impacto profissional sem fio da linha 20V MAX XR, com motor brushless, encaixe hexagonal de 1/4 polegada, três modos de operação e torque máximo declarado de até 205 Nm. Possui modo Precision Drive para maior controle em fixações leves. A versão brasileira DCF887B-B3 é comercializada sem bateria e carregador."
-  imagem: "/assets/images/posts/dewalt-dcf887.webp"
+  nome: DeWalt DCF887
+  descricao: Parafusadeira de impacto profissional sem fio da linha 20V MAX XR, com motor brushless, encaixe hexagonal de
+    1/4 polegada, três modos de operação e torque máximo declarado de até 205 Nm. Possui modo Precision Drive para maior controle
+    em fixações leves. A versão brasileira DCF887B-B3 é comercializada sem bateria e carregador.
+  imagem: /assets/images/posts/dewalt-dcf887.webp
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/2dM6pM7"
-    shopee: ""
+    amazon: ''
+    mercadolivre: https://meli.la/2dM6pM7
+    shopee: ''
   especificacoes:
-    - nome: "Modelo"
-      valor: "DeWalt DCF887"
-    - nome: "Código comercial brasileiro consultado"
-      valor: "DCF887B-B3"
-    - nome: "Categoria"
-      valor: "Parafusadeira de impacto sem fio"
-    - nome: "Plataforma"
-      valor: "DeWalt 20V MAX XR (18 V nominal)"
-    - nome: "Alimentação"
-      valor: "Bateria recarregável DeWalt 20V MAX compatível"
-    - nome: "Motor"
-      valor: "Brushless, sem escovas de carvão"
-    - nome: "Torque máximo declarado"
-      valor: "Até 205 Nm"
-    - nome: "Torque máximo por modo"
-      valor: "Modo 1 Precision Drive: 27 Nm; modo 2 impacto normal: 170 Nm; modo 3 alta velocidade: 205 Nm"
-    - nome: "Velocidade sem carga"
-      valor: "Modo 1: 0–1.000 rpm; modo 2: 0–2.800 rpm; modo 3: 0–3.250 rpm"
-    - nome: "Taxa máxima de impacto"
-      valor: "Há divergência entre fontes: manual técnico consultado informa até 3.800 ipm; página oficial brasileira do combo DCK299H2-BR informa até 3.600 ipm"
-    - nome: "Encaixe"
-      valor: "Sextavado de 1/4 polegada (6,35 mm), com engate rápido"
-    - nome: "Modos de operação"
-      valor: "Três modos: Precision Drive, impacto normal e impacto de alta velocidade"
-    - nome: "Precision Drive"
-      valor: "Modo eletrônico para aplicações leves; inicia como parafusadeira e pode aplicar impactos controlados. Não substitui uma embreagem mecânica de torque"
-    - nome: "Iluminação"
-      valor: "Três LEDs ao redor do encaixe, com permanência acesa por até 20 segundos após soltar o gatilho, conforme manual"
-    - nome: "Gatilho"
-      valor: "Velocidade variável"
-    - nome: "Rotação reversível"
-      valor: "Sim"
-    - nome: "Freio"
-      valor: "Freio eletrônico"
-    - nome: "Gancho para cinto"
-      valor: "Sim; listado na apresentação brasileira DCF887B-B3"
-    - nome: "Comprimento"
-      valor: "Aproximadamente 135 mm"
-    - nome: "Peso sem bateria"
-      valor: "Aproximadamente 0,9 kg, conforme dados do artigo"
-    - nome: "Mandril"
-      valor: "Não possui mandril convencional de três garras"
-    - nome: "Aplicação"
-      valor: "Parafusamento e fixação com bits hexagonais; indicada para fixações em madeira e metal com acessórios apropriados para impacto"
-    - nome: "Perfuração com brocas convencionais"
-      valor: "Não é a função da ferramenta; para perfurar, utilize uma furadeira/parafusadeira com mandril"
-    - nome: "Compatibilidade de bateria"
-      valor: "Sistema DeWalt 20V MAX; a designação 20V MAX corresponde à classe nominal de 18 V"
-    - nome: "Bateria na versão DCF887B-B3"
-      valor: "Não acompanha"
-    - nome: "Carregador na versão DCF887B-B3"
-      valor: "Não acompanha"
-    - nome: "Itens informados para a DCF887B-B3"
-      valor: "Parafusadeira, gancho para cinto e manual; confirme o conteúdo exato na embalagem e no anúncio"
-    - nome: "Combo oficial que inclui a ferramenta"
-      valor: "DCK299H2-BR, com furadeira/parafusadeira de impacto DCD996, DCF887, duas baterias POWERSTACK de 5,0 Ah, carregador e bolsa"
-    - nome: "Garantia anunciada no Brasil"
-      valor: "Garantia limitada de 3 anos, serviço gratuito de 1 ano e satisfação garantida por 90 dias, sujeita às condições da DeWalt"
-    - nome: "Destaque principal"
-      valor: "Motor brushless, até 205 Nm, três modos de operação, Precision Drive e corpo compacto"
-    - nome: "Limitação importante"
-      valor: "Não possui mandril para brocas nem embreagem mecânica de torque; não substitui furadeira ou chave de impacto com encaixe quadrado"
-
+  - nome: Modelo
+    valor: DeWalt DCF887
+  - nome: Código comercial brasileiro consultado
+    valor: DCF887B-B3
+  - nome: Categoria
+    valor: Parafusadeira de impacto sem fio
+  - nome: Plataforma
+    valor: DeWalt 20V MAX XR (18 V nominal)
+  - nome: Alimentação
+    valor: Bateria recarregável DeWalt 20V MAX compatível
+  - nome: Motor
+    valor: Brushless, sem escovas de carvão
+  - nome: Torque máximo declarado
+    valor: Até 205 Nm
+  - nome: Torque máximo por modo
+    valor: 'Modo 1 Precision Drive: 27 Nm; modo 2 impacto normal: 170 Nm; modo 3 alta velocidade: 205 Nm'
+  - nome: Velocidade sem carga
+    valor: 'Modo 1: 0–1.000 rpm; modo 2: 0–2.800 rpm; modo 3: 0–3.250 rpm'
+  - nome: Taxa máxima de impacto
+    valor: 'Há divergência entre fontes: manual técnico consultado informa até 3.800 ipm; página oficial brasileira do combo
+      DCK299H2-BR informa até 3.600 ipm'
+  - nome: Encaixe
+    valor: Sextavado de 1/4 polegada (6,35 mm), com engate rápido
+  - nome: Modos de operação
+    valor: 'Três modos: Precision Drive, impacto normal e impacto de alta velocidade'
+  - nome: Precision Drive
+    valor: Modo eletrônico para aplicações leves; inicia como parafusadeira e pode aplicar impactos controlados. Não substitui
+      uma embreagem mecânica de torque
+  - nome: Iluminação
+    valor: Três LEDs ao redor do encaixe, com permanência acesa por até 20 segundos após soltar o gatilho, conforme manual
+  - nome: Gatilho
+    valor: Velocidade variável
+  - nome: Rotação reversível
+    valor: Sim
+  - nome: Freio
+    valor: Freio eletrônico
+  - nome: Gancho para cinto
+    valor: Sim; listado na apresentação brasileira DCF887B-B3
+  - nome: Comprimento
+    valor: Aproximadamente 135 mm
+  - nome: Peso sem bateria
+    valor: Aproximadamente 0,9 kg, conforme dados do artigo
+  - nome: Mandril
+    valor: Não possui mandril convencional de três garras
+  - nome: Aplicação
+    valor: Parafusamento e fixação com bits hexagonais; indicada para fixações em madeira e metal com acessórios apropriados
+      para impacto
+  - nome: Perfuração com brocas convencionais
+    valor: Não é a função da ferramenta; para perfurar, utilize uma furadeira/parafusadeira com mandril
+  - nome: Compatibilidade de bateria
+    valor: Sistema DeWalt 20V MAX; a designação 20V MAX corresponde à classe nominal de 18 V
+  - nome: Bateria na versão DCF887B-B3
+    valor: Não acompanha
+  - nome: Carregador na versão DCF887B-B3
+    valor: Não acompanha
+  - nome: Itens informados para a DCF887B-B3
+    valor: Parafusadeira, gancho para cinto e manual; confirme o conteúdo exato na embalagem e no anúncio
+  - nome: Combo oficial que inclui a ferramenta
+    valor: DCK299H2-BR, com furadeira/parafusadeira de impacto DCD996, DCF887, duas baterias POWERSTACK de 5,0 Ah, carregador
+      e bolsa
+  - nome: Garantia anunciada no Brasil
+    valor: Garantia limitada de 3 anos, serviço gratuito de 1 ano e satisfação garantida por 90 dias, sujeita às condições
+      da DeWalt
+  - nome: Destaque principal
+    valor: Motor brushless, até 205 Nm, três modos de operação, Precision Drive e corpo compacto
+  - nome: Limitação importante
+    valor: Não possui mandril para brocas nem embreagem mecânica de torque; não substitui furadeira ou chave de impacto com
+      encaixe quadrado
 makita_df001dw:
-  nome: "Makita DF001DW"
-  descricao: "Parafusadeira elétrica compacta de 3,6 V com bateria de íons de lítio integrada, cabo articulado para uso reto ou tipo pistola, rotação de 220 rpm, torque de aperto de 4,0 Nm em junta rígida e 3,0 Nm em junta flexível, iluminação LED e estojo com 81 acessórios na apresentação brasileira."
-  imagem: "/assets/images/posts/makita-df001dw.webp"
+  nome: Makita DF001DW
+  descricao: Parafusadeira elétrica compacta de 3,6 V com bateria de íons de lítio integrada, cabo articulado para uso reto
+    ou tipo pistola, rotação de 220 rpm, torque de aperto de 4,0 Nm em junta rígida e 3,0 Nm em junta flexível, iluminação
+    LED e estojo com 81 acessórios na apresentação brasileira.
+  imagem: /assets/images/posts/makita-df001dw.webp
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/1mpzRnV"
-    shopee: "https://s.shopee.com.br/114Vi5cqkW"
+    amazon: ''
+    mercadolivre: https://meli.la/1mpzRnV
+    shopee: https://s.shopee.com.br/114Vi5cqkW
   especificacoes:
-    - nome: "Modelo"
-      valor: "Makita DF001DW"
-    - nome: "Código do produto"
-      valor: "DF001DW"
-    - nome: "EAN"
-      valor: "088381833837"
-    - nome: "Categoria"
-      valor: "Parafusadeira elétrica sem fio articulada"
-    - nome: "Tensão"
-      valor: "3,6 V"
-    - nome: "Tipo de bateria"
-      valor: "Íons de lítio (Li-ion), integrada ao corpo da ferramenta"
-    - nome: "Capacidade da bateria"
-      valor: "1,5 Ah em ficha oficial da Makita Canadá; a página brasileira não informa claramente essa capacidade"
-    - nome: "Rotação sem carga"
-      valor: "220 rpm"
-    - nome: "Torque de aperto em junta rígida"
-      valor: "4,0 Nm, conforme documentação técnica internacional"
-    - nome: "Torque de aperto em junta flexível"
-      valor: "3,0 Nm, conforme documentação técnica internacional"
-    - nome: "Torque de bloqueio"
-      valor: "6,0 Nm, conforme manual e documentação técnica internacional"
-    - nome: "Torque máximo divulgado pela Makita Brasil"
-      valor: "9 Nm; não deve ser confundido com os valores de torque de aperto em junta rígida ou flexível"
-    - nome: "Encaixe"
-      valor: "Sextavado de 1/4 polegada (6,35 mm) para bits"
-    - nome: "Capacidade de parafusamento"
-      valor: "Parafuso para madeira de 3,8 x 32 mm"
-    - nome: "Dimensões no formato reto"
-      valor: "287 x 47 x 51 mm"
-    - nome: "Dimensões no formato pistola"
-      valor: "205 x 47 x 51 mm"
-    - nome: "Peso"
-      valor: "0,36 kg"
-    - nome: "Tempo de carregamento"
-      valor: "Aproximadamente 3 a 5 horas"
-    - nome: "Tipo de carregamento"
-      valor: "Via USB com conector micro-USB e adaptador AC"
-    - nome: "Alimentação do adaptador"
-      valor: "Adaptador AC bivolt na apresentação brasileira consultada"
-    - nome: "Iluminação"
-      valor: "LED de trabalho com acionamento independente"
-    - nome: "Rotação reversível"
-      valor: "Sim, para apertar e soltar parafusos"
-    - nome: "Empunhadura"
-      valor: "Cabo articulado com posição reta ou tipo pistola"
-    - nome: "Uso manual"
-      valor: "Pode ser utilizada como chave manual, conforme orientação do fabricante"
-    - nome: "Mandril convencional"
-      valor: "Não possui; utiliza encaixe sextavado de 1/4 polegada para bits"
-    - nome: "Função de impacto"
-      valor: "Não possui"
-    - nome: "Acessórios da apresentação brasileira"
-      valor: "Estojo com 81 acessórios, adaptador AC bivolt e cabo USB"
-    - nome: "Destaque principal"
-      valor: "Formato articulado, baixo peso e kit de 81 acessórios para montagem de móveis e pequenos reparos"
-    - nome: "Limitação importante"
-      valor: "Bateria integrada, rotação nominal de 220 rpm e aplicação voltada a parafusamentos leves; não substitui furadeira ou parafusadeira de impacto"
-
-
+  - nome: Modelo
+    valor: Makita DF001DW
+  - nome: Código do produto
+    valor: DF001DW
+  - nome: EAN
+    valor: 088381833837
+  - nome: Categoria
+    valor: Parafusadeira elétrica sem fio articulada
+  - nome: Tensão
+    valor: 3,6 V
+  - nome: Tipo de bateria
+    valor: Íons de lítio (Li-ion), integrada ao corpo da ferramenta
+  - nome: Capacidade da bateria
+    valor: 1,5 Ah em ficha oficial da Makita Canadá; a página brasileira não informa claramente essa capacidade
+  - nome: Rotação sem carga
+    valor: 220 rpm
+  - nome: Torque de aperto em junta rígida
+    valor: 4,0 Nm, conforme documentação técnica internacional
+  - nome: Torque de aperto em junta flexível
+    valor: 3,0 Nm, conforme documentação técnica internacional
+  - nome: Torque de bloqueio
+    valor: 6,0 Nm, conforme manual e documentação técnica internacional
+  - nome: Torque máximo divulgado pela Makita Brasil
+    valor: 9 Nm; não deve ser confundido com os valores de torque de aperto em junta rígida ou flexível
+  - nome: Encaixe
+    valor: Sextavado de 1/4 polegada (6,35 mm) para bits
+  - nome: Capacidade de parafusamento
+    valor: Parafuso para madeira de 3,8 x 32 mm
+  - nome: Dimensões no formato reto
+    valor: 287 x 47 x 51 mm
+  - nome: Dimensões no formato pistola
+    valor: 205 x 47 x 51 mm
+  - nome: Peso
+    valor: 0,36 kg
+  - nome: Tempo de carregamento
+    valor: Aproximadamente 3 a 5 horas
+  - nome: Tipo de carregamento
+    valor: Via USB com conector micro-USB e adaptador AC
+  - nome: Alimentação do adaptador
+    valor: Adaptador AC bivolt na apresentação brasileira consultada
+  - nome: Iluminação
+    valor: LED de trabalho com acionamento independente
+  - nome: Rotação reversível
+    valor: Sim, para apertar e soltar parafusos
+  - nome: Empunhadura
+    valor: Cabo articulado com posição reta ou tipo pistola
+  - nome: Uso manual
+    valor: Pode ser utilizada como chave manual, conforme orientação do fabricante
+  - nome: Mandril convencional
+    valor: Não possui; utiliza encaixe sextavado de 1/4 polegada para bits
+  - nome: Função de impacto
+    valor: Não possui
+  - nome: Acessórios da apresentação brasileira
+    valor: Estojo com 81 acessórios, adaptador AC bivolt e cabo USB
+  - nome: Destaque principal
+    valor: Formato articulado, baixo peso e kit de 81 acessórios para montagem de móveis e pequenos reparos
+  - nome: Limitação importante
+    valor: Bateria integrada, rotação nominal de 220 rpm e aplicação voltada a parafusamentos leves; não substitui furadeira
+      ou parafusadeira de impacto
 wesco_ws2001:
-  nome: "Wesco WS2001"
-  descricao: "Parafusadeira elétrica compacta Wesco Home de 3,6 V, com bateria de íons de lítio integrada de 1,5 Ah, rotação sem carga de até 300 rpm, torque máximo de 5 Nm, torque suave de 2,5 Nm, encaixe hexagonal de 1/4 polegada, três níveis de ajuste de torque e carregamento USB Tipo C."
-  imagem: "/assets/images/posts/wesco-ws2001.webp"
+  nome: Wesco WS2001
+  descricao: Parafusadeira elétrica compacta Wesco Home de 3,6 V, com bateria de íons de lítio integrada de 1,5 Ah, rotação
+    sem carga de até 300 rpm, torque máximo de 5 Nm, torque suave de 2,5 Nm, encaixe hexagonal de 1/4 polegada, três níveis
+    de ajuste de torque e carregamento USB Tipo C.
+  imagem: /assets/images/posts/wesco-ws2001.webp
   links:
-    amazon: ""
-    mercadolivre: "https://meli.la/11gbyxR"
-    shopee: "https://s.shopee.com.br/6q2IfDfk1i"
+    amazon: ''
+    mercadolivre: https://meli.la/11gbyxR
+    shopee: https://s.shopee.com.br/6q2IfDfk1i
   especificacoes:
-    - nome: "Modelo"
-      valor: "Wesco Home WS2001"
-    - nome: "Código do fabricante"
-      valor: "WS2001 (CSD40YT)"
-    - nome: "EAN"
-      valor: "6943475888671 (código informado em anúncios de varejistas; não localizado na página oficial do fabricante)"
-    - nome: "Categoria"
-      valor: "Parafusadeira elétrica compacta sem fio"
-    - nome: "Tensão nominal"
-      valor: "3,6 V"
-    - nome: "Tipo de bateria"
-      valor: "Íons de lítio (Li-ion), integrada ao corpo da ferramenta"
-    - nome: "Capacidade da bateria"
-      valor: "1,5 Ah"
-    - nome: "Rotação sem carga"
-      valor: "0–300 rpm"
-    - nome: "Torque máximo"
-      valor: "5 Nm"
-    - nome: "Torque suave"
-      valor: "2,5 Nm"
-    - nome: "Ajuste de torque"
-      valor: "Três níveis de potência, conforme o manual; a página brasileira da Wesco descreve seletor de torque máximo ou mínimo"
-    - nome: "Encaixe"
-      valor: "Mandril sextavado de 1/4 polegada (6,35 mm)"
-    - nome: "Peso da ferramenta"
-      valor: "0,28 kg"
-    - nome: "Carregamento"
-      valor: "Via cabo USB Tipo C"
-    - nome: "Tempo de carregamento"
-      valor: "Aproximadamente 2 horas em condição de 5 V / 1 A"
-    - nome: "Saída de carregamento compatível"
-      valor: "Até 5 V / 2 A, conforme manual"
-    - nome: "Iluminação"
-      valor: "LED duplo"
-    - nome: "Indicador de bateria"
-      valor: "Indicador de carga e alerta de recarga"
-    - nome: "Rotação reversível"
-      valor: "Sim, para apertar e remover parafusos"
-    - nome: "Trava do eixo"
-      valor: "Trava automática do suporte de bits quando o botão de operação não está pressionado; permite uso manual como chave de fenda"
-    - nome: "Capacidade de perfuração"
-      valor: "O manual prevê perfuração em madeira, metal e plástico com acessórios compatíveis; ferramenta limitada, sem mandril convencional de três garras"
-    - nome: "Acessórios da apresentação de catálogo"
-      valor: "1 suporte magnético de 60 mm, 1 bit PH2 de impacto de 50 mm, 1 cabo USB Tipo C e 25 pontas identificadas por cor"
-    - nome: "Composição dos bits no manual"
-      valor: "24 bits de 25 mm e 1 bit PH2 de 50 mm"
-    - nome: "Garantia"
-      valor: "Manual informa garantia de 1 ano; confirme as condições aplicáveis à compra no Brasil"
-    - nome: "Destaque principal"
-      valor: "Baixo peso de 280 g, bateria integrada de 1,5 Ah, carregamento USB-C e três níveis de ajuste de torque"
-    - nome: "Limitação importante"
-      valor: "Indicada para parafusamento e perfuração leves; não substitui uma furadeira/parafusadeira de 10,8/12 V em trabalhos frequentes ou exigentes"
+  - nome: Modelo
+    valor: Wesco Home WS2001
+  - nome: Código do fabricante
+    valor: WS2001 (CSD40YT)
+  - nome: EAN
+    valor: 6943475888671 (código informado em anúncios de varejistas; não localizado na página oficial do fabricante)
+  - nome: Categoria
+    valor: Parafusadeira elétrica compacta sem fio
+  - nome: Tensão nominal
+    valor: 3,6 V
+  - nome: Tipo de bateria
+    valor: Íons de lítio (Li-ion), integrada ao corpo da ferramenta
+  - nome: Capacidade da bateria
+    valor: 1,5 Ah
+  - nome: Rotação sem carga
+    valor: 0–300 rpm
+  - nome: Torque máximo
+    valor: 5 Nm
+  - nome: Torque suave
+    valor: 2,5 Nm
+  - nome: Ajuste de torque
+    valor: Três níveis de potência, conforme o manual; a página brasileira da Wesco descreve seletor de torque máximo ou mínimo
+  - nome: Encaixe
+    valor: Mandril sextavado de 1/4 polegada (6,35 mm)
+  - nome: Peso da ferramenta
+    valor: 0,28 kg
+  - nome: Carregamento
+    valor: Via cabo USB Tipo C
+  - nome: Tempo de carregamento
+    valor: Aproximadamente 2 horas em condição de 5 V / 1 A
+  - nome: Saída de carregamento compatível
+    valor: Até 5 V / 2 A, conforme manual
+  - nome: Iluminação
+    valor: LED duplo
+  - nome: Indicador de bateria
+    valor: Indicador de carga e alerta de recarga
+  - nome: Rotação reversível
+    valor: Sim, para apertar e remover parafusos
+  - nome: Trava do eixo
+    valor: Trava automática do suporte de bits quando o botão de operação não está pressionado; permite uso manual como chave
+      de fenda
+  - nome: Capacidade de perfuração
+    valor: O manual prevê perfuração em madeira, metal e plástico com acessórios compatíveis; ferramenta limitada, sem mandril
+      convencional de três garras
+  - nome: Acessórios da apresentação de catálogo
+    valor: 1 suporte magnético de 60 mm, 1 bit PH2 de impacto de 50 mm, 1 cabo USB Tipo C e 25 pontas identificadas por cor
+  - nome: Composição dos bits no manual
+    valor: 24 bits de 25 mm e 1 bit PH2 de 50 mm
+  - nome: Garantia
+    valor: Manual informa garantia de 1 ano; confirme as condições aplicáveis à compra no Brasil
+  - nome: Destaque principal
+    valor: Baixo peso de 280 g, bateria integrada de 1,5 Ah, carregamento USB-C e três níveis de ajuste de torque
+  - nome: Limitação importante
+    valor: Indicada para parafusamento e perfuração leves; não substitui uma furadeira/parafusadeira de 10,8/12 V em trabalhos
+      frequentes ou exigentes
+bosch_go_3:
+  nome: Bosch GO 3 Professional
+  descricao: Parafusadeira compacta de 3,6 V com bateria integrada de 2,0 Ah, torque de 5 Nm em junta rígida e 2,5 Nm em junta
+    flexível, rotação de 360 rpm, sete ajustes mecânicos de torque e carregamento USB-C.
+  imagem: /assets/images/posts/bosch-go-3.webp
+  links:
+    amazon: ''
+    mercadolivre: ''
+    shopee: ''
+  especificacoes:
+  - nome: Modelo
+    valor: Bosch GO 3 Professional
+  - nome: Código comercial brasileiro
+    valor: 06019H22E0
+  - nome: Categoria
+    valor: Parafusadeira elétrica compacta
+  - nome: Tensão
+    valor: 3,6 V
+  - nome: Bateria
+    valor: Íons de lítio, integrada ao corpo, capacidade de 2,0 Ah
+  - nome: Torque máximo (junta rígida / flexível)
+    valor: 5 / 2,5 Nm
+  - nome: Rotação sem carga
+    valor: 360 rpm
+  - nome: Ajustes de torque
+    valor: 7 ajustes mecânicos e modo Max Performance
+  - nome: Encaixe
+    valor: Sextavado universal de 1/4 polegada
+  - nome: Carregamento
+    valor: USB-C
+  - nome: Itens da versão brasileira consultada
+    valor: Cabo USB-C, ponta dupla e maleta de armazenamento
+  - nome: Aplicação
+    valor: Parafusamento leve em madeira, metal e plástico; não substitui furadeira com mandril
+  - nome: Fonte
+    valor: Bosch Professional Brasil, código 06019H22E0
