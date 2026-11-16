@@ -1,0 +1,107 @@
+<div class="site-search" role="search">
+  <label for="site-search-input" class="sr-only">Buscar ferramentas, marcas ou guias</label>
+  <input
+    type="search"
+    id="site-search-input"
+    class="site-search-input"
+    placeholder="Buscar modelo, marca ou guia (ex: Vonder, Bosch, MDF)..."
+    autocomplete="off"
+    aria-controls="site-search-results"
+    aria-expanded="false"
+  >
+  <ul id="site-search-results" class="site-search-results" role="listbox" hidden></ul>
+</div>
+
+<script>
+(function () {
+  const input = document.getElementById("site-search-input");
+  const resultsList = document.getElementById("site-search-results");
+  if (!input || !resultsList) return;
+
+  let searchIndex = [];
+  let loadingPromise = null;
+
+  function loadIndex() {
+    if (searchIndex.length > 0) return Promise.resolve();
+    if (loadingPromise) return loadingPromise;
+
+    loadingPromise = fetch('{{ "/search.json" | relative_url }}')
+      .then((res) => res.json())
+      .then((data) => {
+        searchIndex = Array.isArray(data) ? data : [];
+      })
+      .catch((err) => {
+        console.error("Erro ao carregar índice de busca:", err);
+      });
+
+    return loadingPromise;
+  }
+
+  function normalize(str) {
+    return (str || "")
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+  }
+
+  function closeResults() {
+    resultsList.hidden = true;
+    input.setAttribute("aria-expanded", "false");
+  }
+
+  input.addEventListener("focus", loadIndex);
+
+  input.addEventListener("input", async function () {
+    await loadIndex();
+    const query = normalize(input.value.trim());
+
+    if (query.length < 2) {
+      resultsList.innerHTML = "";
+      closeResults();
+      return;
+    }
+
+    const terms = query.split(/\s+/);
+    const matches = searchIndex
+      .filter((item) => {
+        const haystack = normalize(
+          `${item.title} ${item.category} ${item.tags} ${item.excerpt}`
+        );
+        return terms.every((term) => haystack.includes(term));
+      })
+      .slice(0, 6);
+
+    if (matches.length === 0) {
+      resultsList.innerHTML =
+        '<li class="site-search-empty">Nenhuma ferramenta ou guia encontrado.</li>';
+    } else {
+      resultsList.innerHTML = matches
+        .map(
+          (item) => `
+          <li>
+            <a href="${item.url}">
+              <strong>${item.title}</strong>
+              ${item.excerpt ? `<span>${item.excerpt}</span>` : ""}
+            </a>
+          </li>`
+        )
+        .join("");
+    }
+
+    resultsList.hidden = false;
+    input.setAttribute("aria-expanded", "true");
+  });
+
+  input.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") {
+      closeResults();
+    }
+  });
+
+  document.addEventListener("click", function (e) {
+    if (!e.target.closest(".site-search")) {
+      closeResults();
+    }
+  });
+})();
+</script>
