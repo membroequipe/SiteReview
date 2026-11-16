@@ -2904,15 +2904,43 @@ table.specs-table tbody th:first-child {
    ========================================= */
 
 .site-search {
-    position: relative;
     width: 100%;
-    max-width: 540px;
-    margin: 20px auto 28px;
+    max-width: 620px;
+    margin: 4px auto 26px;
+}
+
+.site-search-form {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+}
+
+.site-search-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+    color: var(--primary);
+    font-size: 0.92rem;
+    font-weight: 800;
+    line-height: 1.2;
+    cursor: pointer;
+}
+
+.site-search-label svg {
+    color: var(--accent-hover);
+}
+
+.site-search-field {
+    position: relative;
+    flex: 1;
+    min-width: 0;
 }
 
 .site-search-input {
     width: 100%;
-    min-height: 46px;
+    min-height: 44px;
     padding: 10px 16px;
     background: #ffffff;
     color: var(--primary);
@@ -2995,14 +3023,19 @@ table.specs-table tbody th:first-child {
     font-size: 0.85rem;
 }
 
-.sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
+/* Mobile: rótulo "Buscar" na parte superior */
+@media (max-width: 600px) {
+    .site-search {
+        margin: 0 auto 20px;
+    }
+
+    .site-search-form {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 6px;
+    }
+
+    .site-search-label {
+        font-size: 0.85rem;
+    }
 }
