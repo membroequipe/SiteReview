@@ -1,15 +1,26 @@
 <div class="site-search" role="search">
-  <label for="site-search-input" class="sr-only">Buscar ferramentas, marcas ou guias</label>
-  <input
-    type="search"
-    id="site-search-input"
-    class="site-search-input"
-    placeholder="Buscar modelo, marca ou guia (ex: Vonder, Bosch, MDF)..."
-    autocomplete="off"
-    aria-controls="site-search-results"
-    aria-expanded="false"
-  >
-  <ul id="site-search-results" class="site-search-results" role="listbox" hidden></ul>
+  <form class="site-search-form" onsubmit="event.preventDefault(); document.getElementById('site-search-input').dispatchEvent(new Event('input'));">
+    <label for="site-search-input" class="site-search-label">
+      <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <span>Buscar</span>
+    </label>
+
+    <div class="site-search-field">
+      <input
+        type="search"
+        id="site-search-input"
+        class="site-search-input"
+        placeholder="Modelo, marca ou guia (ex: Vonder, Bosch, MDF)..."
+        autocomplete="off"
+        aria-controls="site-search-results"
+        aria-expanded="false"
+      >
+      <ul id="site-search-results" class="site-search-results" role="listbox" hidden></ul>
+    </div>
+  </form>
 </div>
 
 <script>
