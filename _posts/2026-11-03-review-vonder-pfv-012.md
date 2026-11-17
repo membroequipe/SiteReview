@@ -76,7 +76,7 @@ Na furação, os limites nominais são **16 mm em madeira** e **10 mm em aço**.
 
 **Em MDF e aglomerado**, use a função parafusadeira e comece com o torque baixo. Vá subindo uma posição por vez até a cabeça do parafuso ficar nivelada, sem afundar e sem espanar o encaixe. Esse ajuste fino vale mais do que usar a força máxima.
 
-**Em parede e concreto**, esqueça. Sem impacto, a PFV 012 não é a ferramenta certa. Para concreto, o caminho é uma furadeira de impacto ou um martelete, com a broca correta (veja nosso guia de [brocas para concreto](/brocas-concreto/)). E antes de furar qualquer parede, verifique se não há tubulação ou fiação por dentro.
+**Em parede e concreto**, esqueça. Sem impacto, a PFV 012 não é a ferramenta certa. Para concreto, o caminho é uma furadeira de impacto ou um martelete, com a broca correta. E antes de furar qualquer parede, verifique se não há tubulação ou fiação por dentro.
 
 ## Bateria e manutenção
 
@@ -119,7 +119,7 @@ Não existe vencedora absoluta sem comparar preço e disponibilidade no dia da c
 
 ## Como usar a parafusadeira sem estragar o MDF
 
-Quer mais detalhes sobre essa escolha? Veja nosso guia com [as 3 melhores parafusadeiras para montagem de móveis e MDF](/as-3-melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/). Enquanto isso, o essencial:
+Quer mais detalhes sobre essa escolha? Veja nosso guia com [as 3 melhores parafusadeiras para montagem de móveis e MDF](/guias/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/). Enquanto isso, o essencial:
 
 1. **Ponta certa:** Phillips, Pozidriv e Torx não são intercambiáveis. Ponta errada escapa, arredonda a cabeça do parafuso e risca o acabamento.
 2. **Alinhamento:** mantenha a ferramenta alinhada com o parafuso e faça pressão moderada e constante.
