@@ -3030,3 +3030,45 @@ details.toc-box[open] > summary::after {
         font-size: 0.85rem;
     }
 }
+
+
+/* =========================================
+   CORREÇÃO DEFINITIVA E BLINDADA DE TABELAS
+   ========================================= */
+
+/* 1. Reseta o layout de todas as tabelas de 2 colunas */
+.post-content table:has(tr > :nth-child(2):last-child) {
+    table-layout: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* 2. Salva a primeira coluna (rótulos como "Especificação" ou "Família") */
+.post-content table:has(tr > :nth-child(2):last-child) th:first-child,
+.post-content table:has(tr > :nth-child(2):last-child) td:first-child {
+    white-space: normal !important; /* Deixa quebrar de forma normal, mas com largura garantida */
+    word-break: normal !important;
+    width: 40% !important; /* Fixa em 40% (igual ao desktop, mas sem esmagar) */
+    min-width: 100px !important; /* Impede que suma no celular */
+}
+
+/* 3. Libera a segunda coluna para ocupar o resto da tela */
+.post-content table:has(tr > :nth-child(2):last-child) th:last-child,
+.post-content table:has(tr > :nth-child(2):last-child) td:last-child {
+    width: 60% !important;
+    overflow-wrap: anywhere !important;
+}
+
+/* 4. Garante que o wrapper no celular não empurre a tela pro lado */
+@media (max-width: 768px) {
+    .post-content :is(.table-wrapper, .specs-table-wrapper) {
+        overflow-x: hidden !important; /* Impede vazar para os lados */
+        width: 100% !important;
+    }
+    
+    .post-content table:has(tr > :nth-child(2):last-child) {
+        width: 100% !important;
+        min-width: 0 !important;
+        table-layout: auto !important;
+    }
+}
