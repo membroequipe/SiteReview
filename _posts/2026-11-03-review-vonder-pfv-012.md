@@ -119,7 +119,7 @@ Não existe vencedora absoluta sem comparar preço e disponibilidade no dia da c
 
 ## Como usar a parafusadeira sem estragar o MDF
 
-Quer mais detalhes sobre essa escolha? Veja nosso guia com [as 3 melhores parafusadeiras para montagem de móveis e MDF](/guias/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/). Enquanto isso, o essencial:
+Quer mais detalhes sobre essa escolha? Veja nosso guia com [as 3 melhores parafusadeiras para montagem de móveis e MDF](/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/). Enquanto isso, o essencial:
 
 1. **Ponta certa:** Phillips, Pozidriv e Torx não são intercambiáveis. Ponta errada escapa, arredonda a cabeça do parafuso e risca o acabamento.
 2. **Alinhamento:** mantenha a ferramenta alinhada com o parafuso e faça pressão moderada e constante.
