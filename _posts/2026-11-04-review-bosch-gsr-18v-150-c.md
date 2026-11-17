@@ -10,7 +10,7 @@ produto_id: bosch_gsr_18v_150c
 image: "/assets/images/posts/bosch-gsr-18v-150c.webp"
 image_alt: "Furadeira e parafusadeira Bosch GSR 18V-150 C Professional BITURBO Brushless sem impacto"
 date: 2026-11-04
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -309,6 +309,8 @@ Já quem está começando na plataforma pode preferir um kit completo, dependend
 
 Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
+
+
 ## Opinião dos Compradores
 
 A Bosch GSR 18V-150 C possui características que podem interessar principalmente a profissionais que trabalham com aplicações exigentes.
@@ -487,10 +489,8 @@ Para pequenos reparos domésticos, uma ferramenta mais compacta pode oferecer me
 
 Antes de comprar, confira a configuração comercial, as baterias incluídas e a compatibilidade dos acessórios.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
-
-**Transparência editorial:** este review utiliza dados técnicos do cadastro do produto e documentação oficial dos fabricantes. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O cadastro consultado informa peso de 2,1 kg sem bateria, 25+1 ajustes de torque e recomendação de bateria ProCORE18V de pelo menos 5,5 Ah para potência máxima. O conteúdo dos kits pode variar conforme o código comercial e o mercado.

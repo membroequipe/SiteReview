@@ -10,7 +10,7 @@ produto_id: makita_df333dwye
 image: "/assets/images/posts/makita-df333dwye.webp"
 image_alt: "Furadeira e parafusadeira Makita DF333DWYE"
 date: 2026-11-04
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 avaliacao:
   nota: 9.0
@@ -59,7 +59,7 @@ A ficha técnica cadastrada informa **30 Nm em junta rígida e 14 Nm em junta fl
 
 As rotações sem carga são **0–450 rpm na primeira marcha e 0–1.700 rpm na segunda**. A primeira favorece iniciar parafusos e concluir apertos com cuidado. A segunda é útil para furos leves quando o diâmetro da broca e o material permitem maior velocidade. Como os valores são medidos sem carga, a rotação efetiva cai conforme aumenta a resistência. Pressionar demais não substitui broca afiada nem melhora automaticamente a qualidade do furo.
 
-A capacidade de perfuração cadastrada é de **até 21 mm em madeira e 10 mm em aço**. Esses valores são limites de referência, não uma recomendação para trabalhar continuamente no diâmetro máximo. A broca adequada, a fixação da peça e o avanço controlado influenciam o resultado. Trata-se de limite de referência, não de recomendação para trabalhar continuamente no máximo. Em madeira dura, chapas espessas ou metal, a qualidade da broca, a fixação da peça e o ritmo de avanço influenciam bastante o resultado. Faça pré-furo quando necessário e use proteção ocular, sobretudo em perfurações que produzam cavacos.
+A capacidade de perfuração cadastrada é de **até 21 mm em madeira e 10 mm em aço**. Esses valores são limites de referência, não uma recomendação para trabalhar continuamente no diâmetro máximo. A broca adequada, a fixação da peça e o avanço controlado influenciam o resultado. Trata-se de limite de referência, não de recomendação para trabalhar continuamente no máximo. Faça pré-furo quando necessário e use proteção ocular, sobretudo em perfurações que produzam cavacos.
 
 ### Montagem de móveis e MDF
 
@@ -71,8 +71,7 @@ Na montagem de móveis desmontáveis, confira a profundidade do furo e o comprim
 
 A ferramenta utiliza **baterias removíveis da plataforma Makita 12V max CXT**. A compatibilidade deve ser conferida pelo código da bateria e do carregador, não apenas pela tensão nominal. A capacidade em ampère-hora influencia o tempo de uso, mas não autoriza prometer uma quantidade fixa de parafusos por carga. O resultado muda com a dureza da madeira, tamanho do fixador, temperatura, estado da bateria e pausas entre operações. Em uma rotina de montagem, uma bateria reserva pode valer mais que um pequeno ganho de rotação nominal.
 
-## Opinião dos Compradores: o que observar
-
+## O que considerar antes de comprar
 Não reproduzimos avaliações de lojas como se fossem verificadas nem atribuímos à ferramenta resultados de testes que não fizemos. Para interpretar comentários de compradores, procure identificar a versão exata, o tipo de bateria e o material trabalhado. Um relato de “falta de força” em concreto não é uma crítica válida a uma parafusadeira sem impacto; já dificuldades frequentes em parafusos pequenos podem indicar uso inadequado da embreagem ou ponteira.
 
 ### Vantagens relevantes
@@ -113,6 +112,8 @@ Primeiro, marque o centro dos furos e confira o esquadro da peça. Escolha a bro
 
 **Sim, se sua prioridade for montar móveis, instalar ferragens, apertar parafusos e fazer furos pequenos em madeira ou aço.** Os 30 Nm em junta rígida, as duas velocidades e os 20 ajustes de torque formam um conjunto adequado a muitas tarefas domésticas e de montagem. O kit DWYE com duas baterias de 1,5 Ah também é interessante para quem deseja começar com uma bateria reserva. Porém, a DF333 não possui impacto e não é indicada para perfurar concreto ou alvenaria. Se essa for sua necessidade, procure uma furadeira de impacto ou um martelete apropriado.
 
+
+
 ## Perguntas Frequentes
 
 ### A Makita DF333DWYE serve para montar móveis de MDF?
@@ -135,7 +136,7 @@ Não. O cadastro técnico consultado identifica motor de dois polos, com escovas
 
 Não. A tensão nominal, sozinha, não garante compatibilidade. Utilize baterias e carregadores da plataforma Makita 12V max CXT aprovados para o modelo e confira os códigos indicados pelo fabricante.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

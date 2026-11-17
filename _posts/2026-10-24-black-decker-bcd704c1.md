@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Black+Decker BCD704C1-BR é boa? Análise completa"
+title: "Black+Decker BCD704C1-BR é boa? Review 20V"
 modelo: "Black+Decker BCD704C1-BR"
-marca: "Back+Decker"
-description: "Conheça a Black+Decker BCD704C1-BR: furadeira de impacto 20V MAX, torque de 45 Nm, mandril de 10 mm e limites de uso." 
+marca: "Black+Decker"
+description: "Black+Decker BCD704C1-BR é boa? Veja impacto 20V, torque de 45 Nm, mandril de 10 mm, capacidades de furação e itens incluídos no kit brasileiro."
 slug: "review-black-decker-bcd704c1"
 categories: [furadeiras, reviews]
 produto_id: black_decker_bcd704c1
 image: "/assets/images/posts/black-decker-bcd704c1.webp"
 image_alt: "Furadeira e parafusadeira de impacto Black+Decker BCD704C1-BR"
 date: 2026-10-24
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -32,7 +32,9 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A Black+Decker BCD704C1-BR é uma furadeira/parafusadeira de impacto sem fio da plataforma 20V MAX PowerConnect. Sua proposta é atender montagem de móveis, reparos domésticos e perfurações ocasionais em madeira, metal e alvenaria. A fabricante confirma duas velocidades mecânicas, iluminação LED e até 21.000 impactos por minuto. O manual da família BCD704 informa torque de 45 Nm. Nesta análise, diferenciamos dados oficiais, informações de varejistas e recomendações editoriais, sem atribuir à ferramenta testes práticos que não realizamos.
+A **Black+Decker BCD704C1-BR** é uma furadeira/parafusadeira de impacto 20V MAX para montagem, reparos e perfurações ocasionais em madeira, metal e alvenaria. A fabricante informa duas velocidades, mandril de 10 mm e até 21.000 impactos por minuto; o manual da família BCD704 informa torque de 45 Nm.
+
+**Resposta rápida:** pode atender bem a tarefas domésticas variadas, inclusive furos ocasionais em alvenaria. Não substitui um martelete em concreto resistente ou uso intenso. A avaliação editorial é 8,5/10.
 
 {% include resumo-avaliacao.html %}
 
@@ -93,6 +95,8 @@ A página oficial confirma que o kit acompanha uma bateria de 20V, mas não info
   </tbody>
 </table>
 
+
+
 **Black+Decker BCD704C1-BR vs. Bosch GSB 18V-21 Professional**
 
 A Bosch GSB 18V-21 pertence à linha Professional azul e também oferece função de impacto. A documentação da fabricante informa torque de 21 Nm em junta flexível e 55 Nm em junta rígida, mandril de 13 mm, duas velocidades e até 27.000 impactos por minuto. Em comparação, a BCD704C1-BR tem mandril de 10 mm e é apresentada no catálogo brasileiro com capacidades de perfuração mais limitadas. A Bosch pode ser interessante para quem já utiliza a plataforma Professional 18V ou precisa de mandril maior; a escolha também depende do preço e do conteúdo do kit disponível no Brasil.
@@ -133,7 +137,7 @@ A compra faz mais sentido para quem precisa dessas funções em uma única ferra
 
 Em síntese: é uma ferramenta versátil para tarefas domésticas e perfurações ocasionais, mas a decisão deve considerar seus limites e a configuração real do kit, não apenas a tensão ou o torque anunciado.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

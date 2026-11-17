@@ -10,7 +10,7 @@ produto_id: wesco_ws2001
 image: /assets/images/posts/wesco-ws2001.webp
 image_alt: Parafusadeira elétrica Wesco Home WS2001 3,6V com cabo USB-C e conjunto de bits
 date: 2026-11-07
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: Equipe de Análises
 
 avaliacao:
@@ -196,7 +196,7 @@ Antes de comprar, verifique:
 
 Se duas ofertas tiverem a mesma ferramenta, dê preferência à que explicar claramente o conteúdo do kit e oferecer condições de pós-venda verificáveis. Um conjunto com mais bits só vale a diferença se os acessórios forem úteis para suas tarefas.
 
-{% include produto-card.html %}
+
 
 ## Vantagens e limitações
 
@@ -269,7 +269,8 @@ Seu limite está na força e na versatilidade: não é uma ferramenta para paraf
 
 Nossa nota editorial é **7,8/10**. A pontuação considera a proposta doméstica, o peso, o carregamento USB-C, os acessórios e as limitações de torque e bateria. Não representa teste físico independente. Se encontrada por um preço competitivo, a WS2001 é uma opção coerente como ferramenta auxiliar para casa; se estiver próxima do preço de modelos com melhor controle de torque, vale comparar a Bosch GO 3 e a Makita DF001DW.
 
-{% include produto-card.html %}
+
+
 
 ## Fontes oficiais
 

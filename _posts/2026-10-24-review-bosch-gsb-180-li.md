@@ -1,37 +1,44 @@
 ---
 layout: post
-title: "Bosch GSB 180-LI é boa? Análise e ficha técnica"
+title: "Bosch GSB 180-LI é boa? Review da furadeira 18V"
 marca: "Bosch"
 modelo: "Bosch GSB 180-LI"
-description: "Review da Bosch GSB 180-LI 18V: torque de 54 Nm, impacto, mandril de 13 mm, LED e compatibilidade com baterias Professional. Veja prós e contras."
+description: "Bosch GSB 180-LI vale a pena? Veja torque de 54 Nm, motor com escovas, função impacto, mandril de 13 mm e comparação com a GSB 185-LI."
 slug: "review-bosch-gsb-180-li"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsb_180_li
 image: "/assets/images/posts/bosch-gsb-180-li.webp"
 image_alt: "Bosch GSB 180-LI em destaque"
 date: 2026-10-24
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
   nota: 8.7
   resumo: >-
-    A Bosch GSB 180-LI é uma furadeira e parafusadeira de impacto 18V com motor de escovas substituíveis, torque de 54 Nm em junta rígida, duas velocidades e LED. É uma opção versátil para montagem, manutenção e perfuração ocasional em alvenaria. A nota editorial de 8,7/10 considera recursos e limitações da categoria; não representa ensaio laboratorial.
+    A Bosch GSB 180-LI é uma furadeira e parafusadeira de impacto 18V
+    com motor de escovas substituíveis, torque de 54 Nm em junta rígida,
+    duas velocidades e mandril de 13 mm. Atende montagem, manutenção e
+    perfurações ocasionais em alvenaria. É um modelo de geração anterior;
+    a nota é editorial e não representa ensaio laboratorial.
   vantagens:
-    - "Torque de 54 Nm em junta rígida e duas velocidades para diferentes tarefas"
+    - "Torque declarado de 54 Nm em junta rígida"
     - "Mandril de aperto rápido de 1,5 a 13 mm"
-    - "Luz LED integrada e empunhadura com revestimento para melhor aderência"
-    - "Compatibilidade com baterias Bosch Professional 18V indicadas no manual"
+    - "Duas velocidades, LED e função impacto"
+    - "Escovas de carvão substituíveis"
+    - "Compatibilidade com baterias Bosch Professional 18V indicadas"
   desvantagens:
-    - "Motor com escovas exige eventual manutenção, diferentemente dos brushless"
-    - "Para concreto duro e perfurações repetitivas, um martelete SDS-plus é mais adequado"
-    - "Peso e autonomia variam conforme a bateria utilizada"
-    - "Conteúdo do kit e velocidade de recarga dependem da versão comercializada"
+    - "Motor com escovas, diferente dos modelos brushless"
+    - "Não substitui martelete SDS-Plus em concreto exigente"
+    - "Peso e autonomia variam conforme a bateria"
+    - "Conteúdo do kit depende da versão comercializada"
 ---
 
 {% include review-toc.html %}
 
-A **Bosch GSB 180-LI** é uma furadeira e parafusadeira de impacto a bateria de 18V da linha Professional. Ela reúne duas velocidades, embreagem para parafusamento e função impacto para montagem, manutenção e perfurações ocasionais em madeira, metal e alvenaria. Seu motor utiliza escovas de carvão substituíveis: não é brushless. **Em 2026, a GSB 180-LI deve ser tratada como um modelo legado**, e não como lançamento ou principal recomendação atual. A Bosch GSB 185-LI é uma alternativa mais recente da mesma categoria, com motor sem escovas, mas não é uma versão idêntica: há diferenças de construção e especificações que explicamos adiante.
+A **Bosch GSB 180-LI é uma furadeira e parafusadeira de impacto 18V com motor de escovas de carvão**, duas velocidades e mandril de aperto rápido de 13 mm. Ela pode atender montagem, manutenção e perfurações ocasionais em madeira, aço e alvenaria dentro das capacidades indicadas pela Bosch.
+
+Em 2026, vale tratá-la como um modelo de geração anterior, não como lançamento. A comparação com a GSB 185-LI é útil para quem está escolhendo uma ferramenta nova, mas os dois modelos não são idênticos. Esta análise considera documentação e características técnicas; não realizamos testes próprios de torque, autonomia ou durabilidade.
 
 {% include resumo-avaliacao.html %}
 
@@ -39,123 +46,124 @@ A **Bosch GSB 180-LI** é uma furadeira e parafusadeira de impacto a bateria de 
   {% include ficha-tecnica.html %}
 </div>
 
-**Fontes técnicas:** [Manual Bosch GSB 180-LI (PDF)](https://www.bosch-professional.com/binary/manualsmedia/o484974v21_160992AA08_202410.pdf), [Bosch Professional Brasil — GSB 185-LI](https://www.bosch-professional.com/br/pt/products/gsb-185-li-06019K31E3) e [Catálogo Bosch Brasil 2025](https://www.bosch-professional.com/br/media/country_content/service/after_sales_service/catalogues/2025/6343_trade_-_7_pt_-_facility_-_web.pdf).
+**Documentação técnica:** [Manual Bosch GSB 180-LI (PDF)](https://www.bosch-professional.com/binary/manualsmedia/o409847v21_160992A8JS_202302.pdf) e [Bosch Professional Brasil – GSB 185-LI](https://www.bosch-professional.com/br/pt/products/gsb-185-li-06019K31E3).
 
 {% include produto-card.html %}
 
-## Construção e Ergonomia
+## Construção e recursos
 
-A GSB 180-LI utiliza o formato de empunhadura com bateria deslizante característico da plataforma Bosch Professional 18V. O revestimento da região de pega favorece o controle, enquanto o gatilho de velocidade variável permite começar o giro gradualmente. O seletor superior alterna entre duas faixas mecânicas de rotação, e o anel de ajuste permite escolher a configuração de torque apropriada para o parafuso e o material.
+A GSB 180-LI utiliza bateria removível da plataforma Bosch Professional 18V e motor com escovas de carvão substituíveis. O gatilho permite controlar a velocidade, o seletor escolhe entre duas marchas e o anel de ajuste ajuda a limitar o torque no parafusamento.
 
-O **mandril de aperto rápido aceita acessórios com hastes compatíveis de 1,5 a 13 mm**. Essa capacidade não significa que toda broca de 13 mm seja adequada a qualquer material: é necessário respeitar os limites de perfuração e selecionar o acessório correto. Não há base suficiente para afirmar que o mandril seja inteiramente metálico ou que suas garras tenham um tratamento específico de superfície.
+O mandril de aperto rápido aceita hastes compatíveis de 1,5 a 13 mm. A ferramenta também conta com reversão de giro e luz LED para iluminar a região próxima ao acessório. O peso final depende da bateria e da configuração comercializada; compare o peso do corpo avulso com o conjunto pronto para uso.
 
-Um recurso útil é a **luz de trabalho LED**, expressamente identificada no manual da Bosch. Ela ajuda a visualizar a área próxima à ponta da ferramenta em locais pouco iluminados. O equipamento também possui reversão de giro, útil para retirar parafusos e liberar a broca quando apropriado. A ergonomia percebida e o peso final dependem da bateria instalada e da tarefa realizada.
+Por utilizar motor com escovas, a GSB 180-LI exige manutenção diferente de uma ferramenta brushless. As escovas são componentes sujeitos a desgaste e devem ser verificadas conforme as orientações do manual.
 
-O motor utiliza escovas de carvão substituíveis. Isso permite a substituição desse componente quando necessária, mas implica manutenção diferente da exigida por motores brushless. A ferramenta pertence à plataforma Bosch Professional 18V; confirme no manual e no anúncio a bateria compatível e, principalmente, se o kit escolhido inclui bateria e carregador. Não presuma que todos os anúncios tragam os mesmos acessórios. Para conhecer opções mais recentes, veja também nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
+## Desempenho em madeira, metal e alvenaria
 
-## Desempenho e Aplicações
+O manual Bosch informa torque de 54 Nm em aplicação rígida e 21 Nm em aplicação flexível. A ferramenta possui duas velocidades sem carga:
 
-De acordo com o manual oficial, a GSB 180-LI entrega **54 Nm em aplicação rígida e 21 Nm em aplicação flexível**, valores medidos sob condições padronizadas. Esses números não devem ser confundidos com torque contínuo em qualquer material, pois o esforço disponível na prática varia com a velocidade, a bateria, a broca e a resistência encontrada. A ferramenta tem 20 ajustes de torque e seleções de funcionamento para perfuração e impacto.
+- **Primeira velocidade:** 0 a 500 rpm.
+- **Segunda velocidade:** 0 a 1.900 rpm.
 
-As duas velocidades atendem a trabalhos diferentes:
+Na função impacto, a frequência pode chegar a 27.000 impactos por minuto. A capacidade declarada é de até 35 mm em madeira, 10 mm em aço e 10 mm em alvenaria. Esses valores são limites de referência, não garantia de desempenho igual em qualquer material ou condição.
 
-- **1ª velocidade: 0–500 rpm.** Indicada para parafusamento e perfurações que pedem menor rotação e maior controle.
-- **2ª velocidade: 0–1.900 rpm.** Indicada para perfurações em que a rotação mais alta é apropriada, respeitando a recomendação do fabricante da broca.
+### Madeira e montagem
 
-Na função impacto, o mecanismo pode atingir **27.000 impactos por minuto**. Trata-se de percussão mecânica de uma furadeira de impacto, não do mecanismo pneumático de um martelete rotativo. A capacidade declarada é de até **35 mm em madeira, 10 mm em aço e 10 mm em alvenaria**. Para furos frequentes em concreto resistente, ou aplicações que exigem brocas SDS-plus, um martelete específico costuma ser a escolha mais adequada.
+A primeira marcha pode favorecer o controle no parafusamento e em perfurações que exigem rotação menor. A segunda é adequada a perfurações compatíveis que pedem velocidade mais alta. O anel de torque ajuda a reduzir o risco de apertar demais parafusos em ferragens e materiais delicados.
 
-A GSB 180-LI **não possui encaixe SDS-plus**. Utilize brocas de haste apropriada ao mandril de três garras e ao material. Não recomendamos adaptar brocas SDS-plus para tentar reproduzir o funcionamento de um martelete: isso pode prejudicar a fixação e não transforma a ferramenta em equipamento SDS.
+Em MDF, comece com uma regulagem baixa e teste em uma sobra. Escolha bits adequados ao tipo de parafuso e controle a profundidade do aperto.
 
-No parafusamento, a embreagem permite limitar o torque aplicado, ajudando a reduzir danos a cabeças de parafusos e materiais delicados. O ajuste correto deve ser encontrado progressivamente em uma peça de teste, pois cada posição do anel não corresponde a um valor universal e fixo em Nm. Para drywall, ferragens e montagem de móveis, também é importante escolher bits adequados e controlar a profundidade de aperto.
+### Metal
 
-A autonomia depende da capacidade e do estado da bateria, da dureza do material, do diâmetro do acessório e do tempo de acionamento. Por isso, não é confiável prometer uma quantidade exata de furos ou parafusos por carga sem um ensaio documentado. Em trabalhos prolongados, ter uma segunda bateria compatível reduz a interrupção para recarga. O carregador incluído, quando houver, deve ser verificado no anúncio do kit.
+A capacidade declarada em aço é de até 10 mm. Utilize brocas adequadas ao metal e mantenha a função impacto desligada durante a perfuração convencional. O tipo de aço, a espessura e a broca influenciam o resultado.
 
-A utilização do modo impacto gera ruído e vibração, especialmente em superfícies minerais. Use óculos de proteção, proteção auditiva quando necessária e siga as orientações do manual. Se a broca travar, solte o gatilho e avalie a causa antes de retomar; a função impacto não elimina o torque de reação. Para consultar mais modelos, veja [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
+### Alvenaria
 
-## Opinião dos Compradores
+A função impacto mecânico permite perfurações ocasionais em alvenaria compatível, com broca de haste adequada ao mandril. A GSB 180-LI não possui encaixe SDS-Plus. Para concreto resistente, furos grandes ou trabalho repetitivo, um martelete SDS-Plus é mais apropriado.
 
-As observações abaixo são **critérios de avaliação para quem pesquisa o modelo**, não uma compilação de depoimentos verificados. 
+## Motor com escovas: o que considerar
 
-### Pontos Positivos a Considerar
+A GSB 180-LI não é brushless. Seu motor utiliza escovas de carvão substituíveis, que podem exigir inspeção e troca conforme o uso. Isso não impede a ferramenta de atender aplicações de montagem e manutenção; apenas a diferencia de modelos mais recentes com motor sem escovas.
 
-- **Versatilidade:** as funções de parafusamento, perfuração e impacto atendem a tarefas comuns de montagem e manutenção.
-- **Plataforma de baterias:** quem já utiliza ferramentas Bosch Professional 18V pode aproveitar baterias compatíveis.
-- **Controle de trabalho:** duas velocidades, gatilho variável e ajuste de torque ajudam a adaptar a ferramenta ao material.
-- **LED integrado:** facilita enxergar o ponto de trabalho em áreas menos iluminadas.
-- **Manutenção do motor:** as escovas substituíveis podem facilitar o serviço quando houver desgaste.
+A autonomia depende da capacidade e do estado da bateria, do material, do acessório e do tempo de acionamento. Não é correto prometer uma quantidade fixa de furos ou parafusos por carga sem ensaio documentado. Em serviços prolongados, uma segunda bateria compatível pode reduzir as interrupções para recarga.
 
-### Pontos de Atenção
+## Bosch GSB 180-LI ou GSB 185-LI?
 
-- **Motor com escovas:** há componentes sujeitos a desgaste que não existem em motores brushless.
-- **Limite em concreto:** a função impacto é útil em alvenaria dentro da capacidade declarada, mas não substitui um martelete para uso intensivo.
-- **Peso com bateria:** baterias de maior capacidade aumentam o peso do conjunto.
-- **Variações de kit:** número de baterias, carregador, maleta e acessórios mudam conforme o código comercial.
-- **Custo total:** para quem não possui baterias Bosch Professional 18V, é preciso considerar o investimento no sistema completo.
+A GSB 185-LI é uma alternativa mais recente da linha Professional 18V e utiliza motor brushless. A GSB 180-LI, por sua vez, utiliza escovas de carvão. Ambas são furadeiras/parafusadeiras de impacto, mas têm diferenças de construção e especificações.
 
-## Comparativo: Bosch GSB 180-LI ou GSB 185-LI?
+| Característica | GSB 180-LI | GSB 185-LI |
+|---|---|---|
+| Motor | Com escovas | Brushless |
+| Torque rígido/flexível | 54 / 21 Nm | 50 / 21 Nm |
+| Rotação | 0–500 / 0–1.900 rpm | 0–500 / 0–1.900 rpm |
+| Impactos máximos | 27.000 ipm | 27.000 ipm |
+| Mandril | 1,5–13 mm | 1,5–13 mm |
+| Posicionamento | Modelo de geração anterior | Alternativa mais recente |
 
-A comparação mais útil para quem considera comprar a GSB 180-LI em 2026 é com a **Bosch GSB 185-LI**, uma alternativa mais recente da linha Professional 18V. A GSB 180-LI utiliza motor com escovas; a GSB 185-LI tem motor brushless, que reduz a manutenção associada à substituição de escovas e pode oferecer maior eficiência por carga, conforme as condições de uso.
+Não escolha apenas pelo maior número de torque. Considere o tamanho, o motor, o preço, a condição do produto e o conteúdo do kit. Se encontrar uma GSB 180-LI nova, com procedência e preço significativamente menor, ela ainda pode atender tarefas compatíveis. Se o preço estiver próximo ao de uma GSB 185-LI nova, a opção mais recente merece comparação cuidadosa.
 
-As duas são furadeiras/parafusadeiras de impacto 18V, com duas velocidades, mandril de 13 mm e até 27.000 impactos por minuto. A GSB 180-LI informa torque de **54 Nm em junta rígida e 21 Nm em junta flexível**. Para a GSB 185-LI, a página brasileira da Bosch informa **50 Nm em junta rígida e 21 Nm em junta flexível**, além de peso de aproximadamente 0,89 kg sem bateria. Portanto, não escolha apenas pelo maior número de torque: considere a tecnologia do motor, o tamanho, o estado do produto e o preço do kit.
+Como a GSB 180-LI pode aparecer em anúncios de estoque antigo, ferramenta avulsa ou kit, confirme o código, a condição do produto, a garantia e os acessórios incluídos.
 
-A GSB 185-LI também é mais compacta, com comprimento de cabeça de 177 mm indicado no catálogo Bosch, enquanto a GSB 180-LI aparece com 210 mm. Isso pode favorecer o trabalho em espaços estreitos. Em contrapartida, se encontrar uma GSB 180-LI em bom estado, com procedência e preço significativamente menor, ela ainda pode atender a tarefas domésticas e de manutenção dentro dos limites técnicos.
+Para conhecer outras opções, veja [o guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e nossos [reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
 
-**Atenção à compra:** a GSB 180-LI pode aparecer em anúncios de estoque antigo, ferramenta avulsa ou kit. Verifique se o produto é novo, usado ou recondicionado, o código completo, a garantia oferecida pelo vendedor e os itens incluídos. Não trate a GSB 185-LI como substituição automática do anúncio da GSB 180-LI.
+## O que conferir antes de comprar
 
-<table class="specs-table" style="width: 100%; border-collapse: collapse;">
-  <thead>
-    <tr style="background-color: #0f172a; color: #ffffff;">
-      <th colspan="3" style="padding: 12px; text-align: left;">Bosch GSB 180-LI x Bosch GSB 185-LI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Motor</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">GSB 180-LI: com escovas</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">GSB 185-LI: brushless</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Torque (rígido / flexível)</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">54 / 21 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">50 / 21 Nm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Rotação</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">0–500 / 0–1.900 rpm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">0–500 / 0–1.900 rpm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Impactos</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Até 27.000 ipm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Até 27.000 ipm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Mandril</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">1,5–13 mm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">1,5–13 mm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Peso sem bateria</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Varia conforme a configuração; consulte o manual</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Aproximadamente 0,89 kg</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Posicionamento</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Modelo legado; avaliar preço e condição</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa mais recente e compacta</td></tr>
-  </tbody>
-</table>
+- Confirme que o anúncio corresponde à Bosch GSB 180-LI, e não à GSR 180-LI sem impacto.
+- Verifique se o produto é novo, usado ou recondicionado.
+- Confira se bateria, carregador e maleta estão incluídos.
+- Confirme a compatibilidade da bateria com a plataforma Bosch Professional 18V.
+- Verifique nota fiscal, garantia, reputação do vendedor e política de devolução.
 
-Se quiser ampliar a pesquisa, consulte [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}) e compare o custo total dos kits, não apenas o preço da ferramenta avulsa.
+## Vantagens e limitações
 
-## Perguntas Frequentes
+### Pontos positivos
 
-### A Bosch GSB 180-LI ainda vale a pena em 2026?
+- Torque declarado de 54 Nm em junta rígida.
+- Mandril de 1,5 a 13 mm.
+- Duas velocidades e função impacto.
+- LED integrado.
+- Escovas de carvão substituíveis.
+- Compatibilidade com baterias Bosch Professional 18V indicadas.
 
-Pode valer a pena se estiver em boas condições, tiver procedência e for oferecida por um preço competitivo. Como é um modelo legado, confira cuidadosamente a disponibilidade de peças, a garantia e se o anúncio corresponde à ferramenta e ao kit descritos. Para comprar uma ferramenta nova e mais atual, compare também a GSB 185-LI.
+### Pontos a considerar
 
-### Para quem a Bosch GSB 180-LI é indicada?
+- Motor com escovas, diferente dos modelos brushless.
+- Não substitui martelete SDS-Plus em concreto resistente.
+- Peso e autonomia dependem da bateria.
+- O conteúdo dos kits varia conforme a oferta.
+- Por ser um modelo de geração anterior, é importante avaliar preço, condição e garantia.
 
-É indicada para montagem de móveis, manutenção predial, instalações e perfurações em madeira, metal e alvenaria dentro das capacidades especificadas. Para concreto muito resistente ou furos frequentes e profundos, considere um martelete SDS-plus.
+## Perguntas frequentes sobre a Bosch GSB 180-LI
 
-### Qual é o torque da Bosch GSB 180-LI?
+### A Bosch GSB 180-LI ainda vale a pena?
 
-O torque máximo informado pela Bosch é de **54 Nm em junta rígida e 21 Nm em junta flexível**, conforme a norma indicada no manual. 
+Pode valer a pena se estiver em boas condições, tiver procedência e custar menos que alternativas mais recentes. Confira garantia, disponibilidade de assistência e conteúdo do kit antes de comprar.
 
-### A Bosch GSB 180-LI tem luz LED e motor brushless?
+### A Bosch GSB 180-LI é brushless?
 
-Ela **possui LED integrado**, mas **não é brushless**. Seu motor utiliza escovas de carvão substituíveis, conforme o manual oficial.
+Não. Ela utiliza motor com escovas de carvão substituíveis.
 
-### A Bosch GSB 180-LI aceita brocas SDS-plus?
+### Qual é o torque da GSB 180-LI?
 
-Não diretamente. O equipamento usa mandril de aperto rápido de 1,5 a 13 mm para hastes compatíveis. Para acessórios SDS-plus e perfuração pesada em concreto, escolha um martelete apropriado.
+O manual informa 54 Nm em aplicação rígida e 21 Nm em aplicação flexível.
 
-### O produto acompanha bateria, carregador ou acessórios?
+### A GSB 180-LI aceita brocas SDS-Plus?
 
-Depende da versão comercializada. Existem configurações com duas baterias de 2,0 Ah, carregador GAL 18V-20 e maleta, mas outros anúncios podem apresentar conteúdos diferentes. Confira o código exato e a lista de itens incluídos antes da compra.
+Não diretamente. Ela utiliza mandril convencional de 1,5 a 13 mm. Para brocas SDS-Plus e perfurações pesadas em concreto, escolha um martelete apropriado.
 
-## Veredito Final: a GSB 180-LI ainda é uma boa compra?
+### A GSB 180-LI acompanha bateria e carregador?
 
-A **Bosch GSB 180-LI continua sendo uma ferramenta capaz para montagem, manutenção e perfurações ocasionais**, desde que esteja em boas condições e seja utilizada dentro dos limites indicados pelo fabricante. Seus pontos positivos são a função impacto, duas velocidades, mandril de 13 mm, LED e compatibilidade com a plataforma Bosch Professional 18V. O motor com escovas, porém, a coloca em uma posição diferente das opções brushless mais recentes.
+Depende da apresentação comercial. Confira o código completo e a lista de itens do anúncio; não presuma que todos os kits tragam a mesma quantidade de baterias ou acessórios.
 
-Em 2026, recomendamos tratá-la como uma alternativa de estoque legado, não como primeira escolha automática. Se o preço estiver próximo ao de uma GSB 185-LI nova, a versão mais recente tende a ser a compra mais interessante para quem valoriza motor brushless, formato mais compacto e garantia de um produto novo. Se a GSB 180-LI estiver significativamente mais barata, confirme estado, procedência, garantia, código do kit e disponibilidade de assistência antes de decidir.
+## Veredito: a Bosch GSB 180-LI é uma boa compra?
 
-**Recomendação:** compre a GSB 180-LI somente quando a condição e o preço justificarem a escolha. Para uma compra nova, compare diretamente com a GSB 185-LI. Para concreto resistente e perfurações frequentes, considere um martelete SDS-plus. A nota editorial de 8,7/10 avalia as características do modelo em sua categoria, não sua competitividade atual frente a todos os preços e ofertas.
+A **Bosch GSB 180-LI pode ser uma boa compra para montagem, manutenção e perfurações ocasionais**, desde que o preço e a condição do produto justifiquem a escolha. Ela oferece duas velocidades, mandril de 13 mm, função impacto, LED e torque declarado de 54 Nm em junta rígida.
 
-{% include produto-card.html %}
+O motor com escovas a diferencia de opções brushless mais recentes. Em 2026, recomendamos comparar a oferta com a GSB 185-LI, especialmente se os preços estiverem próximos. Para concreto resistente ou perfurações frequentes, considere um martelete SDS-Plus.
+
+Nossa nota editorial é **8,7/10**. Ela considera os recursos e a adequação de uso do modelo, não sua competitividade em todas as ofertas atuais nem resultados de testes físicos.
+
+
 
 ## Fontes oficiais
 

@@ -10,7 +10,7 @@ produto_id: makita_td110d
 image: /assets/images/posts/makita-td110d.webp
 image_alt: Parafusadeira de impacto Makita TD110D 12V CXT com encaixe sextavado de 1/4 de polegada
 date: 2026-11-07
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: Equipe de Análises
 
 avaliacao:
@@ -171,6 +171,8 @@ A TD110D pode ser uma escolha interessante para quem já usa a plataforma CXT e 
 
 Para quem está começando e ainda não sabe qual categoria atende melhor sua rotina, consulte nosso [guia da primeira parafusadeira: qual comprar?]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Para comparar uma ferramenta compacta de montagem sem impacto, veja também o review da [Bosch GO 3]({{ '/parafusadeiras/reviews/review-parafusadeira-bosch-go-3/' | relative_url }}).
 
+
+
 ## Preço e disponibilidade da Makita TD110D no Brasil
 
 Na pesquisa registrada em **7 de novembro de 2026**, foram observados anúncios da TD110DZ sem bateria em varejistas brasileiros e no Mercado Livre. Os preços encontrados naquele levantamento ficaram aproximadamente entre **R$ 343 e R$ 529** para a ferramenta avulsa. Também foram vistos anúncios de conjuntos com baterias e carregador, em faixas mais altas, aproximadamente entre **R$ 865 e R$ 1.197**.
@@ -201,7 +203,6 @@ Antes de comparar preços, confirme:
 
 Se você já possui baterias CXT 12V compatíveis, a ferramenta avulsa pode reduzir o custo. Se ainda não tem a plataforma, compare o kit completo com o custo de adquirir bateria e carregador separadamente. Verifique também se o anúncio não é um combo com outra ferramenta.
 
-{% include produto-card.html %}
 
 ## Vantagens e limitações
 
@@ -268,7 +269,8 @@ Seu principal limite é a especialização: ela não possui mandril convencional
 
 Nossa nota editorial é **8,5/10**. A pontuação considera as especificações oficiais, a proposta de uso, os recursos de controle e a disponibilidade de versões no mercado brasileiro. Não representa teste físico independente. Para quem já tem baterias CXT e realiza fixações frequentes, a TD110DZ pode oferecer boa relação entre custo e utilidade. Para quem está começando na plataforma, o kit TD110DWYE merece comparação cuidadosa com o preço de bateria e carregador comprados separadamente.
 
-{% include produto-card.html %}
+
+
 
 ## Fontes oficiais
 

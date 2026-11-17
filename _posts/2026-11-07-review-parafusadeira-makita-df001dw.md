@@ -10,7 +10,7 @@ produto_id: makita_df001dw
 image: /assets/images/posts/makita-df001dw.webp
 image_alt: Parafusadeira Makita DF001DW 3,6V articulada com estojo e conjunto de 81 acessórios
 date: 2026-11-07
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: Equipe de Análises
 
 avaliacao:
@@ -190,7 +190,8 @@ Confira também:
 
 Se a diferença de preço entre dois anúncios for pequena, prefira a oferta que identifica melhor o conteúdo da embalagem e o suporte pós-venda. Não pague mais por acessórios adicionais sem conferir se eles são compatíveis e úteis para o seu tipo de montagem.
 
-{% include produto-card.html %}
+
+
 
 ## Vantagens e limitações
 
@@ -257,7 +258,8 @@ Ela perde atratividade para quem precisa de velocidade variável, bateria remov�
 
 Nossa nota editorial é **8,2/10**. A pontuação considera a proposta de uso, a ergonomia articulada, o conjunto de acessórios e as limitações da plataforma 3,6 V. Não representa um teste físico independente. Para quem já tem uma furadeira e quer uma ferramenta complementar para parafusamento leve, a DF001DW é uma opção coerente. Para quem procura uma única ferramenta para todas as tarefas, recomendamos avaliar uma furadeira/parafusadeira com mandril.
 
-{% include produto-card.html %}
+
+
 
 ## Fontes oficiais
 

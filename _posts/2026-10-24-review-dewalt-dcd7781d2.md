@@ -3,30 +3,30 @@ layout: post
 title: "DeWalt DCD7781D2 é boa? Análise e ficha técnica"
 marca: "DeWalt"
 modelo: "DeWalt DCD7781D2"
-description: "Análise da DeWalt DCD7781D2: furadeira de impacto brushless 20V, 65 Nm, mandril de 13 mm, kit e limitações. Veja se vale a pena."
+description: "DeWalt DCD7781D2 é boa? Conheça os 65 Nm, motor brushless, mandril de 13 mm, impacto, kit com duas baterias e limites de uso."
 slug: "review-dewalt-dcd7781d2-vale-a-pena-2026"
 categories: [furadeiras, reviews]
 produto_id: dewalt_dcd7781d2
 image: "/assets/images/posts/dewalt-dcd7781d2.webp"
 image_alt: "Furadeira e parafusadeira de impacto DeWalt DCD7781D2 20V MAX"
 date: 2026-10-24
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
-  nota: 9.0
-  resumo: >-
-    A DeWalt DCD7781D2 combina motor brushless, torque máximo declarado de 65 Nm, mandril metálico de 13 mm e função impacto para trabalhos em madeira, metal e alvenaria. O kit brasileiro inclui duas baterias de 2 Ah, carregador bivolt e maleta. A nota 9,0/10 é uma avaliação editorial das características e da proposta de uso, não resultado de ensaio próprio.
-  vantagens:
-    - "Motor brushless e torque máximo declarado de 65 Nm"
-    - "Função impacto com até 29.750 impactos por minuto"
-    - "Mandril metálico de aperto rápido de 13 mm"
-    - "Kit brasileiro com duas baterias de 2 Ah, carregador bivolt e maleta"
-    - "Compatibilidade com a plataforma DeWalt 20V MAX"
-  desvantagens:
-    - "Baterias de 2 Ah podem exigir recargas frequentes em aplicações intensas"
-    - "Não substitui um martelete SDS-Plus em concreto estrutural ou perfurações pesadas repetitivas"
-    - "O peso e o volume aumentam com baterias de maior capacidade"
+ nota: 9.0
+ resumo: >-
+  A DeWalt DCD7781D2 combina motor brushless, torque máximo declarado de 65 Nm, mandril metálico de 13 mm e função impacto para trabalhos em madeira, metal e alvenaria. O kit brasileiro inclui duas baterias de 2 Ah, carregador bivolt e maleta. A nota 9,0/10 é uma avaliação editorial das características e da proposta de uso, não resultado de ensaio próprio.
+ vantagens:
+  - "Motor brushless e torque máximo declarado de 65 Nm"
+  - "Função impacto com até 29.750 impactos por minuto"
+  - "Mandril metálico de aperto rápido de 13 mm"
+  - "Kit brasileiro com duas baterias de 2 Ah, carregador bivolt e maleta"
+  - "Compatibilidade com a plataforma DeWalt 20V MAX"
+ desvantagens:
+  - "Baterias de 2 Ah podem exigir recargas frequentes em aplicações intensas"
+  - "Não substitui um martelete SDS-Plus em concreto estrutural ou perfurações pesadas repetitivas"
+  - "O peso e o volume aumentam com baterias de maior capacidade"
 ---
 
 {% include review-toc.html %}
@@ -38,7 +38,7 @@ A ficha técnica deve ser lida com atenção: o torque máximo anunciado é de *
 {% include resumo-avaliacao.html %}
 
 <div id="ficha-tecnica" class="specs-table-wrapper">
-  {% include ficha-tecnica.html %}
+ {% include ficha-tecnica.html %}
 </div>
 
 {% include produto-card.html %}
@@ -77,6 +77,8 @@ Na configuração brasileira **DCD7781D2-BR**, o cadastro de produtos identifica
 
 Não há base suficiente para afirmar que uma carga executa um número fixo de furos, que dura um dia inteiro ou que ocorre desligamento térmico após determinada quantidade de trabalho. A autonomia depende de diâmetro, material, pressão aplicada, estado da bateria e frequência de uso. Para jornadas exigentes, uma bateria adicional de maior capacidade pode ser útil, desde que compatível.
 
+
+
 ## O Que Avaliar Antes da Compra
 
 ### Pontos positivos
@@ -100,16 +102,16 @@ A **Makita DHP484Z** é outra opção brushless com impacto, mas pertence à pla
 A DCD7781D2-BR tende a fazer mais sentido para quem já utiliza baterias DeWalt 20V MAX ou deseja o kit brasileiro com duas baterias. Se você já possui ferramentas de outra plataforma, o custo de entrada no ecossistema pode pesar mais do que pequenas diferenças de torque.
 
 <table class="specs-table" style="width: 100%; border-collapse: collapse;">
-  <thead>
-    <tr style="background-color: #0f172a; color: #ffffff;">
-      <th colspan="3" style="padding: 12px; text-align: left;">Comparativo de propostas de uso</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD7781D2-BR</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">20V MAX, brushless, impacto, 65 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Kit cadastrado com 2 baterias de 2,0 Ah, carregador DCB107 e maleta</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD796D2-BR</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">20V MAX, brushless, impacto, 70 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa da mesma plataforma, com kit de 2 baterias de 2,0 Ah</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Makita DHP484Z</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">18V LXT, brushless, impacto, 65 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Versão Z avulsa; considerar o custo de bateria e carregador</td></tr>
-  </tbody>
+ <thead>
+  <tr style="background-color: #0f172a; color: #ffffff;">
+   <th colspan="3" style="padding: 12px; text-align: left;">Comparativo de propostas de uso</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD7781D2-BR</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">20V MAX, brushless, impacto, 65 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Kit cadastrado com 2 baterias de 2,0 Ah, carregador DCB107 e maleta</td></tr>
+  <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>DeWalt DCD796D2-BR</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">20V MAX, brushless, impacto, 70 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Alternativa da mesma plataforma, com kit de 2 baterias de 2,0 Ah</td></tr>
+  <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Makita DHP484Z</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">18V LXT, brushless, impacto, 65 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Versão Z avulsa; considerar o custo de bateria e carregador</td></tr>
+ </tbody>
 </table>
 
 ## Perguntas Frequentes
@@ -146,7 +148,7 @@ O principal cuidado é não confundir sua função impacto com a percussão de u
 
 A **nota editorial de 9,0/10** considera a ficha técnica, os recursos e a composição do kit. Não representa teste prático próprio nem avaliação estatística de compradores. Antes de fechar a compra, confira preço, código comercial, itens inclusos e disponibilidade de assistência. Veja também nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) para escolher de acordo com o trabalho.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

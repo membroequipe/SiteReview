@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Bosch GSB 12V-30 é boa? Análise e ficha técnica"
+title: "Bosch GSB 12V-30 é boa? Review e ficha técnica"
 marca: "Bosch"
 modelo: "Bosch GSB 12V-30"
-description: "Conheça a Bosch GSB 12V-30 Brushless: torque de 30 Nm, motor sem escovas, função impacto e características. Veja vantagens e limitações."
+description: "Bosch GSB 12V-30: conheça o motor brushless, torque de 30 Nm, impacto, autonomia, limites em alvenaria e diferenças entre os kits disponíveis."
 slug: "review-bosch-gsb-12v-30-brushless"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsb_12v_30_brushless
 image: "/assets/images/posts/bosch-gsb-12v-30-brushless.webp"
 image_alt: "Bosch GSB 12V-30 em destaque"
 date: 2026-10-24
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -28,7 +28,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-Este artigo examina a **Bosch GSB 12V-30**, furadeira/parafusadeira de impacto da linha Professional 12V com motor brushless. A ficha oficial informa 30 Nm em aplicação dura e 18 Nm em aplicação macia, duas velocidades, até 24.000 impactos por minuto e mandril de 1 a 10 mm. É uma ferramenta compacta para montagem, instalações e perfurações ocasionais em alvenaria. Não substitui um martelete SDS-Plus em concreto resistente ou trabalhos pesados contínuos. No Brasil, há pelo menos duas configurações oficiais relevantes: a ferramenta em caixa de papelão, sem bateria e carregador, e o kit com duas baterias de 2,0 Ah, carregador e maleta.
+A **Bosch GSB 12V-30 é uma furadeira/parafusadeira de impacto compacta para montagem, manutenção e furos ocasionais em alvenaria leve**. O motor brushless, os 30 Nm em aplicação dura e as duas velocidades são seus principais atrativos. Ela não substitui um martelete SDS-plus em concreto resistente ou perfurações pesadas. Esta análise se baseia nas fichas e no manual Bosch, sem testes físicos próprios. No Brasil, há pelo menos duas configurações oficiais relevantes: a ferramenta em caixa de papelão, sem bateria e carregador, e o kit com duas baterias de 2,0 Ah, carregador e maleta.
 
 Com base no manual e nas fichas oficiais da Bosch, esta análise distingue capacidades declaradas de desempenho que dependeria de testes práticos. Se você procura [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}), também vale conferir nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) para comparar modelos antes de decidir.
 
@@ -58,7 +58,7 @@ A GSB 12V-30 utiliza baterias removíveis Bosch Professional 12V. A Bosch Brasil
 
 Em montagens de móveis, perfis leves e manutenção, o ajuste de torque ajuda a reduzir o risco de danificar cabeças de parafuso ou peças delicadas. O número de 130 Nm apresentado na versão anterior não corresponde à GSB 12V-30: o valor oficial máximo em aplicação dura é 30 Nm. Para perfuração repetitiva em concreto, grandes diâmetros ou fixações estruturais exigentes, considere ferramentas de maior porte e siga as recomendações do fabricante.
 
-## Pontos Fortes e Limitações na Prática
+## Pontos fortes e limitações
 
 ### Características confirmadas pelo fabricante
 - **Torque e versatilidade:** A ficha oficial confirma 30/18 Nm, duas marchas e modo de impacto para alvenaria leve.
@@ -69,6 +69,8 @@ Em montagens de móveis, perfis leves e manutenção, o ajuste de torque ajuda a
 - **Limites da classe 12V:** A capacidade de 8 mm em alvenaria não equivale à de um martelete para concreto pesado.
 
 **Nota editorial:** esta seção avalia características técnicas confirmadas e limitações de aplicação. Não representa uma pesquisa estatística de avaliações de compradores.
+
+
 
 ## Comparativo com Concorrentes
 
@@ -125,7 +127,7 @@ Recomenda-se o investimento para usuários que:
 
 A GSB 12V-30 é menos indicada para perfuração frequente em concreto resistente ou trabalhos contínuos acima das capacidades declaradas. Para essas tarefas, um martelete SDS-Plus ou uma ferramenta de maior porte pode ser mais adequado. A nota 8,8 é uma avaliação editorial, não um índice derivado de avaliações verificadas de consumidores. Para explorar alternativas antes de fechar a compra, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
-{% include produto-card.html %}
+
 
 
 ## Fontes oficiais

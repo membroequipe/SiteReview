@@ -10,7 +10,7 @@ produto_id: dewalt_dcf887
 image: /assets/images/posts/dewalt-dcf887.webp
 image_alt: Parafusadeira de impacto DeWalt DCF887 20V MAX XR brushless com encaixe sextavado de 1/4 polegada
 date: 2026-11-07
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: Equipe de Análises
 
 avaliacao:
@@ -218,7 +218,6 @@ Antes de avançar para a compra, confirme:
 
 Se você já possui baterias 20V MAX, a ferramenta avulsa pode fazer sentido. Se está começando na plataforma, compare o preço do conjunto completo antes de decidir. Não compare o valor de uma ferramenta nua com o de um kit como se fossem a mesma oferta.
 
-{% include produto-card.html %}
 
 ## Vantagens e limitações
 
@@ -287,7 +286,8 @@ Ela não é a escolha certa para quem precisa furar, trabalhar com parafusos mui
 
 Nossa nota editorial é **8,7/10**. A pontuação considera as especificações oficiais, os modos de operação, a plataforma de bateria e a presença comercial brasileira. Não representa teste físico independente. Para quem já possui baterias DeWalt 20V MAX e executa fixações frequentes, a DCF887 merece entrar na lista de opções. Para quem está começando do zero, compare o preço do kit completo e também a DCF850 antes de decidir.
 
-{% include produto-card.html %}
+
+
 
 ## Fontes oficiais
 

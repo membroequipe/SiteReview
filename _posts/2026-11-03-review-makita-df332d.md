@@ -3,7 +3,7 @@ layout: post
 title: "Makita DF332D é boa? Análise e ficha técnica"
 marca: "Makita"
 modelo: "Makita DF332D"
-description: "A Makita DF332D é uma boa opção para montagem de móveis? Veja suas características, controle de torque, aplicações e limitações."
+description: "A Makita DF332D é boa para móveis? Veja torque máximo de 38 Nm, motor brushless, mandril de 10 mm e limites da plataforma CXT antes de comprar."
 slug: "review-makita-df332d"
 categories: [furadeiras, reviews]
 produto_id: makita_df332d
@@ -15,7 +15,7 @@ author: "Equipe de Análises"
 avaliacao:
   nota: 8.8
   resumo: >-
-    A Makita DF332D é uma furadeira e parafusadeira 12V MAX CXT sem impacto, com motor brushless, torque de 35 Nm em aplicação dura, 20 ajustes de embreagem e corpo de 154 mm. É uma opção compacta para móveis e MDF, desde que o comprador confira o kit de baterias e o preço.
+    A Makita DF332D é uma furadeira e parafusadeira 12V MAX CXT sem impacto, com motor brushless, torque máximo de 38 Nm, 20 ajustes de embreagem e corpo de 154 mm. É uma opção compacta para móveis e MDF, desde que o comprador confira o kit de baterias e o preço.
   vantagens:
     - "Motor brushless confirmado pela Makita."
     - "Corpo curto de 154 mm, favorável em espaços limitados."
@@ -61,13 +61,13 @@ A ficha oficial registra peso entre 1,0 e 1,2 kg com bateria, conforme a capacid
 
 ### O que a ficha técnica realmente confirma
 
-O cadastro técnico do produto e a referência internacional consultada informam motor BL brushless, torque de **35 Nm em aplicação dura** e **21 Nm em aplicação suave**, além de torque de bloqueio de **32 Nm** na documentação que apresenta essa medição. A ferramenta tem 20 posições de embreagem mais modo de perfuração, duas velocidades de 0–450 e 0–1.500 rpm, mandril de aperto rápido de 0,8 a 10 mm, capacidade declarada de até 28 mm em madeira e 10 mm em aço, dimensões de 154 x 66 x 217 mm e peso aproximado de 1,0 a 1,2 kg conforme a bateria.
+O cadastro técnico do produto e a referência internacional consultada informam motor BL brushless, torque máximo de **38 Nm**, com **35 Nm em junta rígida** e **21 Nm em junta flexível**, além de torque de bloqueio de **32 Nm** na documentação que apresenta essa medição. A ferramenta tem 20 posições de embreagem mais modo de perfuração, duas velocidades de 0–450 e 0–1.500 rpm, mandril de aperto rápido de 0,8 a 10 mm, capacidade declarada de até 28 mm em madeira e 10 mm em aço, dimensões de 154 x 66 x 217 mm e peso aproximado de 1,0 a 1,2 kg conforme a bateria.
 
 ### Velocidade, torque e controle de aperto
 
 0–450 rpm na primeira marcha e 0–1.500 rpm na segunda. O desempenho em cada tarefa depende do material, do acessório e da regulagem. Em MDF, o ajuste correto da embreagem e a progressividade do gatilho são essenciais para evitar danos ao revestimento.
 
-A Makita declara **35 Nm em aplicação dura** e **21 Nm em aplicação suave**. A referência técnica internacional também apresenta **32 Nm de torque de bloqueio**. São condições de medição distintas: não some esses valores nem os trate como ajustes selecionáveis pelo usuário. Para MDF, o recurso mais prático é a embreagem com **20 posições**, além do modo de perfuração, que ajuda a limitar o aperto antes de o parafuso afundar excessivamente no painel.
+A Makita declara torque máximo de **38 Nm**, com **35 Nm em junta rígida** e **21 Nm em junta flexível**. A referência técnica internacional também apresenta **32 Nm de torque de bloqueio**. São condições de medição distintas: não some esses valores nem os trate como ajustes selecionáveis pelo usuário. Para MDF, o recurso mais prático é a embreagem com **20 posições**, além do modo de perfuração, que ajuda a limitar o aperto antes de o parafuso afundar excessivamente no painel.
 
 O procedimento recomendado começa com a seleção da primeira marcha e uma regulagem baixa de embreagem. Em uma peça de sobra, o usuário verifica se a cabeça do parafuso fica assentada sem esmagar a superfície. Caso a embreagem desarme cedo demais, aumenta-se gradualmente o ajuste. Essa etapa pode parecer demorada, mas evita o erro comum de iniciar a montagem com torque máximo e tentar corrigir depois um furo espanado.
 
@@ -79,7 +79,7 @@ Em painéis de MDF, é prudente usar brocas próprias para madeira, marcar a pos
 
 A DF332D pertence à plataforma **Makita CXT 12V MAX**. Alguns materiais técnicos de determinados mercados podem apresentar a tensão nominal de 10,8V, enquanto a nomenclatura comercial utiliza 12V MAX. Isso não significa que qualquer bateria Makita identificada como 12V seja compatível: é necessário conferir a plataforma, o encaixe e o código do acumulador. Quem já utiliza ferramentas CXT compatíveis pode aproveitar as baterias existentes, desde que a referência seja adequada.
 
-## Opinião dos Compradores: o que observar antes de comprar
+## O que conferir antes de comprar
 
 Antes de comprar, confirme se o anúncio corresponde à ferramenta avulsa **DF332DZ** ou a um kit, como **DF332DWYE**. Os sufixos comerciais identificam apresentações diferentes e podem indicar a presença de baterias, carregador e estojo. A composição e a capacidade das baterias podem variar conforme o mercado e o revendedor. Não presuma que todo anúncio da DF332D inclui os acessórios mostrados em fotografias: confira a lista de itens e o código completo da embalagem.
 
@@ -99,6 +99,8 @@ Esta análise não simula depoimentos de consumidores nem apresenta testes de au
 - Não possui função impacto.
 - Mandril de 10 mm, menor que o de alguns modelos 20V.
 - Versões de corpo avulso não incluem bateria nem carregador.
+
+
 
 ## Comparativo com Concorrentes
 
@@ -144,8 +146,8 @@ A Makita DF332D é uma opção interessante para quem procura uma furadeira/para
 
 Ela não substitui uma furadeira de impacto e não oferece os cabeçotes angulares e excêntricos do sistema Bosch FlexiClick. A compra também exige atenção ao código do kit e aos acessórios incluídos. Se você já possui baterias CXT compatíveis e valoriza uma ferramenta curta, a DF332D merece entrar na comparação. A nota editorial de **8,8/10** representa sua adequação aos usos descritos, sem alegar testes próprios ou dados de satisfação de compradores.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 
-- Dados técnicos consultados no catálogo oficial e manual do fabricante. Os dados técnicos podem variar entre revisões e kits comerciais. 
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.

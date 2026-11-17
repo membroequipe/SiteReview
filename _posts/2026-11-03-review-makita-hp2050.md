@@ -3,13 +3,13 @@ layout: post
 title: "Makita HP2050 é boa para concreto? Análise"
 marca: "Makita"
 modelo: "Makita HP2050"
-description: "Review Makita HP2050: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
+description: "A Makita HP2050 é boa para concreto? Confira potência de 720 W, capacidade de 20 mm, duas velocidades e quando escolher um martelete SDS-Plus."
 slug: "review-makita-hp2050"
 categories: [furadeiras, reviews]
 produto_id: makita_hp2050
 image: "/assets/images/posts/makita-hp2050.webp"
 date: 2026-11-03
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.7
@@ -67,7 +67,7 @@ Observe também o diâmetro, a profundidade e a quantidade de furos. Para instal
 
 A potência elétrica em watts indica consumo nominal de uma ferramenta com fio; a tensão em volts indica a plataforma de bateria de um modelo sem fio. Nenhuma das duas grandezas, isoladamente, informa a energia de cada golpe. Marteletes costumam declarar joules; furadeiras de impacto convencionais frequentemente informam impactos por minuto. Não compare esses números como se medissem a mesma coisa. O conjunto deve ser avaliado pela aplicação prevista e pelos limites oficiais de perfuração.
 
-## Opinião dos Compradores: como interpretar avaliações
+## Pontos positivos e limitações
 
 A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
 
@@ -82,6 +82,8 @@ A nota editorial abaixo representa a adequação técnica ao perfil de uso descr
 - Mais pesada que furadeiras compactas da lista.
 - Depende de rede elétrica.
 - Não possui encaixe SDS-Plus nem cinzelamento.
+
+
 
 ## Comparativo com Concorrentes
 
@@ -140,7 +142,7 @@ Antes de comprar, confirme a tensão da unidade, o código da versão e os acess
 
 A nota editorial de **8,7/10** considera recursos, versatilidade e adequação à categoria. Não decorre de teste físico nem de média de avaliações de compradores. Se o objetivo principal for concreto muito duro e perfurações repetitivas, dê prioridade a um martelete SDS-Plus; para manutenção variada em madeira, metal e alvenaria dentro das capacidades indicadas, uma furadeira de impacto convencional como a HP2050 pode ser mais prática.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

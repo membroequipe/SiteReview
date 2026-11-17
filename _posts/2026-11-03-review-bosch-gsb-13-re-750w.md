@@ -9,7 +9,7 @@ categories: [furadeiras, reviews]
 produto_id: bosch_gsb_13_re_750w
 image: "/assets/images/posts/bosch-gsb-13-re-750w.webp"
 date: 2026-11-03
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.5
@@ -66,6 +66,8 @@ Antes de escolher qualquer equipamento, identifique o material real da parede. T
 Observe também o diâmetro, a profundidade e a quantidade de furos. Para instalar uma prateleira, alguns furos pequenos podem ser suficientes. Para uma instalação profissional com dezenas de fixações em concreto, a produtividade e o conforto passam a pesar mais. O encaixe da broca, o mecanismo de impacto e a ergonomia influenciam tanto quanto o número apresentado no anúncio. Verifique a compatibilidade entre broca, bucha e parafuso; um furo excessivamente largo pode comprometer a fixação.
 
 A potência elétrica em watts indica consumo nominal de uma ferramenta com fio; a tensão em volts indica a plataforma de bateria de um modelo sem fio. Nenhuma das duas grandezas, isoladamente, informa a energia de cada golpe. Marteletes costumam declarar joules; furadeiras de impacto convencionais frequentemente informam impactos por minuto. Não compare esses números como se medissem a mesma coisa. O conjunto deve ser avaliado pela aplicação prevista e pelos limites oficiais de perfuração.
+
+
 
 ## Opinião dos Compradores: como interpretar avaliações
 
@@ -140,15 +142,7 @@ A **Bosch GSB 13 RE 750 W** é uma alternativa coerente para quem precisa de uma
 
 Antes de comprar, confirme a tensão da unidade (127 V ou 220 V), o código do modelo e os acessórios incluídos. A nota editorial de **8,5/10** considera os recursos e a adequação à categoria; não representa teste físico nem média de avaliações de compradores.
 
-A nota editorial de 8,5/10 considera recursos, versatilidade e adequação à categoria. Não decorre de teste físico ou de média de avaliações. Se o objetivo principal for concreto muito duro e perfurações repetitivas, dê prioridade ao mecanismo de martelete SDS-Plus; para manutenção variada em madeira, metal e alvenaria leve, uma furadeira de impacto convencional pode ser mais prática.
 
-### Fonte oficial consultada
-
-- [Ficha técnica do fabricante](https://www.bosch-professional.com/br/pt/products/gsb-13re-06012B80Z0)
-
-As especificações podem mudar conforme país, código de pedido e revisão. Confirme o manual e a etiqueta do produto vendido.
-
-{% include produto-card.html %}
 
 ## Fontes oficiais
 

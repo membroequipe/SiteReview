@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "RBosch GBH 2-21 é boa? Análise do Martelete SDS-Plus"
+title: "Bosch GBH 2-21 é boa? Análise do Martelete SDS-Plus"
 marca: "Bosch"
 modelo: "Bosch GBH 2-21"
 description: "Review Bosch GBH 2-21: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
 slug: "review-bosch-gbh-2-21"
-categories: [furadeiras, reviews]
+categories: [marteletes, reviews]
 produto_id: bosch_gbh_2_21
 image: "/assets/images/posts/bosch-gbh-2-21.webp"
 date: 2026-11-03
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 avaliacao:
   nota: 9.0
@@ -29,7 +29,7 @@ avaliacao:
 
 # Review Bosch GBH 2-21: vale a pena para concreto e alvenaria?
 
-O Bosch GBH 2-21 é um martelete com fio e encaixe SDS-Plus destinado a perfurações em concreto e alvenaria, além de cinzelamentos leves. Com motor de 720 W e energia de impacto de 2,0 J, é uma alternativa para quem quer o mecanismo de um martelete sem depender de baterias. Seu público principal é o instalador ou usuário que precisa abrir furos repetidos em materiais minerais.
+O **Bosch GBH 2-21 Professional** é um martelete perfurador com fio e encaixe SDS-Plus destinado a perfurações em concreto e alvenaria, além de cinzelamentos leves. Com motor de 720 W e energia de impacto de 2,0 J, é uma alternativa para quem quer o mecanismo de um martelete sem depender de baterias. Seu público principal é o instalador ou usuário que precisa abrir furos repetidos em materiais minerais.
 
 Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
 
@@ -66,6 +66,8 @@ Antes de escolher qualquer equipamento, identifique o material real da parede. T
 Observe também o diâmetro, a profundidade e a quantidade de furos. Para instalar uma prateleira, alguns furos pequenos podem ser suficientes. Para uma instalação profissional com dezenas de fixações em concreto, a produtividade e o conforto passam a pesar mais. O encaixe da broca, o mecanismo de impacto e a ergonomia influenciam tanto quanto o número apresentado no anúncio. Verifique a compatibilidade entre broca, bucha e parafuso; um furo excessivamente largo pode comprometer a fixação.
 
 A potência elétrica em watts indica consumo nominal de uma ferramenta com fio; a tensão em volts indica a plataforma de bateria de um modelo sem fio. Nenhuma das duas grandezas, isoladamente, informa a energia de cada golpe. Marteletes costumam declarar joules; furadeiras de impacto convencionais frequentemente informam impactos por minuto. Não compare esses números como se medissem a mesma coisa. O conjunto deve ser avaliado pela aplicação prevista e pelos limites oficiais de perfuração.
+
+
 
 ## Opinião dos Compradores: como interpretar avaliações
 
@@ -131,7 +133,7 @@ O Bosch GBH 2-21 é uma alternativa coerente para quem precisa de martelete SDS-
 
 A nota editorial de 9,0/10 considera recursos, versatilidade e adequação à categoria. Não decorre de teste físico ou de média de avaliações. Se o objetivo principal for concreto muito duro e perfurações repetitivas, dê prioridade ao mecanismo de martelete SDS-Plus; para manutenção variada em madeira, metal e alvenaria leve, uma furadeira de impacto convencional pode ser mais prática.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

@@ -9,7 +9,7 @@ categories: [marteletes, reviews]
 produto_id: bosch_gbh_18v_21
 image: "/assets/images/posts/bosch-gbh-18v-21.webp"
 date: 2026-11-03
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.8
@@ -103,7 +103,7 @@ Use óculos de proteção e proteção auditiva compatível com o trabalho. A po
 
 Depois de furar, limpe o orifício conforme as instruções da bucha ou do chumbador. Alguns sistemas exigem escovação e sopro ou aspiração em sequência específica. Um furo sujo pode reduzir a capacidade de ancoragem mesmo quando a broca e a máquina foram corretamente escolhidas. Evite instalar cargas importantes em bases ocas ou degradadas sem um sistema de fixação dimensionado para elas.
 
-{% include produto-card.html %}
+
 
 ## Vale a pena comprar?
 
@@ -145,7 +145,7 @@ A nota editorial de 8,8/10 considera recursos, versatilidade e adequação à ca
 
 As especificações podem mudar conforme país, código de pedido e revisão. Confirme o manual e a etiqueta do produto vendido.
 
-{% include produto-card.html %}
+
 
 
 ## Fontes oficiais

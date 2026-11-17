@@ -10,7 +10,7 @@ produto_id: bosch_gsb_18v_55
 image: "/assets/images/posts/bosch-gsb-18v-55.webp"
 image_alt: "Bosch GSB 18V-55 Professional, furadeira e parafusadeira de impacto brushless"
 date: 2026-11-04
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -49,7 +49,7 @@ Neste review, analisamos as especificações oficiais, as aplicações recomenda
   {% include ficha-tecnica.html %}
 </div>
 
-<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
+{% include produto-card.html %}
 
 ## Construção e Ergonomia
 
@@ -297,6 +297,8 @@ Já a GSB 18V-55 pode ser encontrada em diferentes configurações comerciais.
 
 Os valores de torque são especificações oficiais e não representam testes comparativos realizados pela nossa equipe.
 
+
+
 ## Perguntas Frequentes
 
 ### A Bosch GSB 18V-55 é brushless?
@@ -397,11 +399,8 @@ A nota não representa resultado de testes laboratoriais próprios nem média de
 
 Para pequenos reparos ocasionais, uma opção compacta e mais econômica pode ser suficiente. Para manter este conteúdo útil e comercialmente correto no mercado brasileiro, o próximo passo editorial é decidir entre a GSB 18V-65 e a GSB 18V-90 C e, então, reconstruir a análise em torno do modelo escolhido.
 
-<!-- CTA de compra desativado: variante brasileira exata não confirmada. -->
+
 
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
-
-
-**Transparência editorial:** este review utiliza especificações cadastradas e informações técnicas atribuídas ao fabricante. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. A auditoria do cadastro do site não localizou a GSB 18V-55 no catálogo brasileiro consultado em 2026. O conteúdo dos kits pode variar conforme o código comercial e o mercado; confirme a documentação da variante antes de comprar.

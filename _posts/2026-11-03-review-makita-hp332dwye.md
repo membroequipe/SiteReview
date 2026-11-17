@@ -3,16 +3,16 @@ layout: post
 title: "Makita HP332DWYE: análise e ficha técnica"
 marca: "Makita"
 modelo: "Makita HP332DWYE"
-description: 'Conheça a Makita HP332DWYE, suas características, especificações e diferenças em relação à HP333DWYE.'
+description: 'A Makita HP332DWYE é boa? Confira motor brushless, torque de 38 Nm, kit 12V CXT e diferenças para a HP333DWYE antes de decidir a compra.'
 slug: review-makita-hp332dwye
 categories:
 - furadeiras
 - reviews
-produto_id: makita_hp333dwye
+produto_id: makita_hp332dwye
 image: /assets/images/posts/makita-hp332dwye.webp
 image_alt: Makita HP332DWYE, modelo usado como referência na comparação com a HP333DWYE
 date: '2026-11-03'
-last_modified_at: '2026-11-15'
+last_modified_at: '2026-11-16'
 author: Equipe de Análises
 avaliacao:
   nota: 9.0
@@ -20,7 +20,7 @@ avaliacao:
   vantagens:
   - Plataforma 12V CXT e kit HP333DWYE com duas baterias de 1,5 Ah
   - 20 níveis de torque, duas velocidades e função impacto
-  - Mais anúncios e sinais de procura encontrados no varejo brasileiro em relação à HP332DWYE
+  - A HP333DWYE pode ser uma alternativa quando o kit HP332DWYE não estiver disponível
   desvantagens:
   - Motor convencional com escovas, diferente do brushless da HP332
   - Torque e capacidade declarada em madeira inferiores aos da HP332
@@ -33,11 +33,11 @@ avaliacao:
 
 {% include ficha-tecnica.html %}
 
-## Makita HP332DWYE ainda vale a pena? A HP333DWYE é uma boa substituta?
+## Makita HP332DWYE é boa? E a HP333DWYE pode substituí-la?
 
-A **Makita HP332DWYE** é uma furadeira/parafusadeira de impacto da plataforma **12V CXT**, conhecida pelo motor BL brushless e pelo formato compacto. O cadastro técnico consultado para o kit brasileiro informa duas baterias de 1,5 Ah, carregador, bit Phillips de ponta dupla e maleta. O desafio para quem procura esse modelo é comercial: a disponibilidade pode variar entre lojas e marketplaces. A ausência de ofertas confiáveis em uma pesquisa não comprova que a Makita tenha anunciado oficialmente o fim de sua fabricação.
+A **Makita HP332DWYE** é uma furadeira/parafusadeira de impacto da plataforma **12V CXT**, com motor BL brushless, torque máximo de 38 Nm e kit brasileiro com duas baterias de 1,5 Ah. O cadastro técnico consultado para o kit brasileiro informa duas baterias de 1,5 Ah, carregador, bit Phillips de ponta dupla e maleta. O desafio para quem procura esse modelo é comercial: a disponibilidade pode variar entre lojas e marketplaces. A ausência de ofertas confiáveis em uma pesquisa não comprova que a Makita tenha anunciado oficialmente o fim de sua fabricação.
 
-Para quem chegou até esta página procurando a HP332DWYE, uma alternativa a considerar é a **Makita HP333**, também da plataforma 12V CXT e com função impacto. Se a intenção é comprar um kit equivalente em proposta, procure especificamente a configuração **HP333DWYE** e confirme no anúncio que ela acompanha duas baterias de 1,5 Ah, carregador, bit e maleta. O cadastro de produtos do site identifica a HP333 como família de modelo, mas não possui uma entrada individual confirmada para o kit DWYE; por isso, o código e o conteúdo da embalagem precisam ser conferidos antes de associar o card comercial a essa variante.
+Para quem chegou até esta página procurando a HP332DWYE, uma alternativa a considerar é a **Makita HP333**, também da plataforma 12V CXT e com função impacto. Se a intenção é comprar um kit equivalente em proposta, procure especificamente a configuração **HP333DWYE** e confirme no anúncio que ela acompanha duas baterias de 1,5 Ah, carregador, bit e maleta. O cadastro do site possui um registro específico da HP333, mas o kit DWYE precisa ser conferido no anúncio. Não associe automaticamente o card da HP333 ao produto HP332 desta página.
 
 É importante entender que a HP333 não é uma versão tecnicamente superior nem uma substituição idêntica. Seu motor é convencional, com escovas, enquanto a HP332 utiliza motor BL brushless. Segundo as fichas cadastradas, a HP333 oferece torque máximo de 34 Nm, contra 38 Nm da HP332, e capacidade declarada inferior em madeira: 21 mm contra 28 mm. Em contrapartida, a HP333 alcança rotação máxima e frequência de impacto superiores. A escolha faz sentido quando a prioridade é encontrar uma furadeira/parafusadeira de impacto 12V CXT, e não manter exatamente as características técnicas da HP332.
 
@@ -81,7 +81,7 @@ Para preservar as baterias, utilize carregador compatível e evite armazenar o c
 
 Quem já possui outras ferramentas da linha CXT pode economizar comprando uma versão sem bateria, desde que confirme a compatibilidade exata e o estado das baterias que já possui. Para quem está começando, o kit DWYE com duas baterias tende a ser mais prático. Compare o preço total do conjunto, e não apenas o valor anunciado do corpo da ferramenta.
 
-## Opinião dos Compradores: o que observar antes de comprar
+## Disponibilidade e cuidados antes de comprar
 
 Comentários de compradores podem ajudar a identificar questões de ergonomia, durabilidade do mandril e qualidade da embalagem, mas precisam ser lidos com critério. Dê preferência a avaliações que mencionem o código exato do modelo, o tipo de serviço executado e o período de utilização. Uma opinião sobre a HP332 ou outra versão da família HP333 não confirma que todos os acessórios ou recursos estejam presentes no kit anunciado.
 
@@ -90,6 +90,8 @@ Durante nosso levantamento comercial, encontramos sinais de procura pela HP333DW
 Avaliações com fotografias da etiqueta e da maleta são mais úteis para conferir o conteúdo da compra do que afirmações genéricas como “muito forte”. Também é importante separar defeitos de fabricação de situações de uso inadequado, como exigir perfuração pesada em concreto de uma ferramenta compacta 12V.
 
 Ao comparar vendedores, observe nota fiscal, política de devolução, assistência autorizada e descrição da garantia válida no Brasil. Se o preço estiver muito abaixo da média, confirme a procedência, o tipo de plugue do carregador, a tensão de entrada e o conteúdo exato do pacote antes de finalizar o pedido. Estoque e preço mudam rapidamente, especialmente em marketplaces.
+
+
 
 ## Comparativo com Concorrentes
 
@@ -131,7 +133,7 @@ Nunca ative o modo impacto ao parafusar em MDF. Deixe a ferramenta no modo paraf
 - **Motor:** lembre-se de que a HP333 usa escovas; não é brushless.
 - **Plataforma:** confirme que suas baterias e carregadores são da família Makita 12V CXT, não LXT 18V.
 
-- {% include produto-card.html %}
+- 
 
 ## Perguntas Frequentes
 
@@ -185,7 +187,7 @@ Se o motor brushless for indispensável, não trate a HP333 como equivalente: pr
 
 Antes de finalizar, confira o código completo da embalagem, o conteúdo real do kit, os preços atualizados, o estoque do vendedor e a assistência no Brasil. Para mais orientações, veja nosso [guia de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}) e o [guia de montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

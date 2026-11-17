@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Bosch GSB 18V-50 é boa? Análise e ficha técnica"
+title: "Bosch GSB 18V-50 é boa? Review e ficha técnica"
 marca: "Bosch"
 modelo: "Bosch GSB 18V-50"
-description: "Bosch GSB 18V-50: motor brushless, 50 Nm, mandril metálico de 13 mm e impacto. Veja vantagens, limitações e para quem vale a pena."
+description: "Bosch GSB 18V-50: veja torque, motor brushless, impacto, mandril de 13 mm, aplicações, limitações e para quem essa furadeira vale a pena comprar."
 slug: "review-bosch-gsb-18v-50"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsb_18v_50
 image: "/assets/images/posts/bosch-gsb-18v-50.webp"
 image_alt: "Furadeira e parafusadeira de impacto Bosch GSB 18V-50"
 date: 2026-10-24
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 avaliacao:
   nota: 9.1
@@ -29,7 +29,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Bosch GSB 18V-50** é uma furadeira e parafusadeira de impacto a bateria de 18V voltada a quem precisa alternar entre montagem, perfuração em madeira e metal e furos ocasionais em alvenaria. Seu motor sem escovas, mandril metálico e compatibilidade com o sistema Bosch Professional 18V são os principais atrativos. 
+A **Bosch GSB 18V-50 é uma boa opção para montagem, manutenção e perfurações ocasionais em madeira, metal e alvenaria**, especialmente para quem já usa baterias Bosch Professional 18V. O motor brushless, mandril metálico de 13 mm e impacto mecânico são seus principais diferenciais. Não é um martelete: para concreto duro e furos frequentes, escolha uma ferramenta SDS-plus. Esta análise usa dados do fabricante; não realizamos testes físicos. 
 
 {% include resumo-avaliacao.html %}
 
@@ -51,7 +51,7 @@ O peso informado pela Bosch é de aproximadamente **1,1 kg sem bateria**, mas o 
 
 ## Desempenho e Aplicações
 
-A ficha técnica da Bosch informa **28 Nm em junta flexível e 50 Nm em junta rígida**. Há uma diferença de apresentação entre materiais da própria fabricante: a página atual do produto lista 28/50/50 Nm (suave/duro/máximo), enquanto o catálogo brasileiro 2025 apresenta 70/50/28 Nm (máximo/duro/leve). Para uma comparação prática e consistente, considere os valores de **50 Nm em junta rígida e 28 Nm em junta flexível**; não confunda esses números com o torque máximo de bloqueio indicado em alguns catálogos. A primeira marcha trabalha de **0 a 460 rpm**, enquanto a segunda alcança **0 a 1.800 rpm**. São especificações nominais, não garantias de desempenho idêntico em todos os materiais.
+A página oficial do produto informa **28 Nm em junta flexível e 50 Nm em junta rígida**. Há uma divergência entre materiais oficiais: o catálogo Bosch 2026 apresenta 70/50/28 Nm (máximo/duro/leve). Por isso, não trate o valor máximo de catálogo como diretamente equivalente ao torque duro. Para comparar aplicações, use os valores de junta rígida e flexível e confira a variante/código do produto. A primeira marcha trabalha de **0 a 460 rpm**, enquanto a segunda alcança **0 a 1.800 rpm**. São especificações nominais, não garantias de desempenho idêntico em todos os materiais.
 
 No modo impacto, a frequência chega a **27.000 impactos por minuto**. A capacidade nominal de perfuração é de **35 mm em madeira, 13 mm em aço e 13 mm em alvenaria**, desde que sejam utilizadas brocas apropriadas e condições compatíveis com as instruções do fabricante. Em concreto estrutural duro, grandes volumes de furos ou trabalho com armaduras, um martelete SDS-plus é uma escolha mais apropriada.
 
@@ -59,7 +59,7 @@ Para montagem de móveis, instalações elétricas, fixação de suportes e manu
 
 A autonomia depende da capacidade e do estado da bateria, da broca, do material e do ritmo de uso. Não é tecnicamente correto prometer uma quantidade de furos por carga sem ensaio padronizado. A GSB 18V-50 integra a plataforma **Bosch Professional 18V**, incluindo baterias compatíveis da família ProCORE18V, mas a capacidade maior não altera o torque nominal declarado.
 
-## Opinião dos Compradores: O Que Avaliar
+## Pontos fortes e limitações
 
 Não apresentamos depoimentos como citações reais sem identificar a avaliação e sua origem. Antes da compra, vale conferir comentários recentes de compradores verificados sobre o mandril, o controle do gatilho, o conforto com a bateria escolhida e o suporte pós-venda. Esses pontos podem variar conforme o kit, a intensidade de uso e a manutenção.
 
@@ -77,7 +77,9 @@ Não apresentamos depoimentos como citações reais sem identificar a avaliaçã
 - **Custo do conjunto:** versões sem bateria podem exigir investimento adicional em bateria e carregador.
 - **Precisão:** o ajuste de torque é mecânico; a ferramenta não oferece um modo eletrônico de embreagem de precisão programável.
 
-## Comparativo com Concorrentes
+
+
+## Comparação com Makita DHP485Z e DeWalt DCD796D2-BR
 
 A **Makita DHP485Z** é uma alternativa brushless da plataforma LXT 18V, também com mandril de 13 mm e função impacto. A página oficial brasileira informa 50 Nm em junta rígida, 27 Nm em junta flexível, rotação de 0–500 / 0–1.900 rpm e até 28.500 impactos por minuto. A variante **DHP485Z é vendida sem bateria, carregador e maleta**, portanto compare o custo do conjunto completo se você ainda não utiliza baterias Makita LXT.
 
@@ -126,7 +128,7 @@ Seu principal limite é o tipo de serviço: para concreto pesado e furação int
 
 **Recomendação:** se você já utiliza baterias Bosch Professional 18V, a versão sem bateria pode fazer sentido. Se está começando, compare kits que incluam bateria e carregador originais, observando a capacidade e a assistência disponível. A nota **9,1/10** representa a avaliação editorial do conjunto de características, não uma medição de desempenho em laboratório.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

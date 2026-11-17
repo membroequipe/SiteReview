@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Bosch GSR 12V-15 é boa? Análise para móveis e MDF"
+title: "Bosch GSR 12V-15 é boa? Review para móveis"
 marca: "Bosch"
 modelo: "Bosch GSR 12V-15"
-description: "Bosch GSR 12V-15 vale a pena? Veja torque, desempenho em MDF e diferenças para a GSR 12V-15 FC FlexiClick."
+description: "Bosch GSR 12V-15: confira torque, duas velocidades, mandril de 10 mm, uso em MDF e diferenças para a versão FlexiClick antes de decidir a compra."
 slug: "review-bosch-gsr-12v-15"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsr_12v_15
 image: "/assets/images/posts/bosch-gsr-12v-15.webp"
 image_alt: "Furadeira e parafusadeira Bosch GSR 12V-15"
 date: 2026-11-04
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 avaliacao:
   nota: 8.8
@@ -29,7 +29,7 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Bosch GSR 12V-15** é uma opção de furadeira e parafusadeira a bateria para quem monta móveis, instala dobradiças, fixa prateleiras ou faz reparos em casa. Neste review, examinamos especificações publicadas pelo fabricante e traduzimos os números para situações de uso, sem afirmar que realizamos testes de bancada ou entrevistas com compradores. O objetivo é explicar o que a ferramenta pode entregar, quando vale procurar outra categoria e por que ela não deve ser confundida com a Bosch GSR 12V-15 FC FlexiClick.
+A **Bosch GSR 12V-15 é uma furadeira/parafusadeira 12V indicada para montagem de móveis, instalação de dobradiças, prateleiras e manutenção leve**. Seus 30 Nm em junta rígida, duas velocidades e mandril de 10 mm atendem a tarefas sem necessidade de impacto. Se você precisa trabalhar em cantos muito apertados, compare a versão GSR 12V-15 FC; para alvenaria, procure um modelo com impacto. Esta análise é documental, sem testes físicos próprios. Neste review, examinamos especificações publicadas pelo fabricante e traduzimos os números para situações de uso, sem afirmar que realizamos testes de bancada ou entrevistas com compradores. O objetivo é explicar o que a ferramenta pode entregar, quando vale procurar outra categoria e por que ela não deve ser confundida com a Bosch GSR 12V-15 FC FlexiClick.
 
 Para uma escolha mais ampla, consulte nosso [guia para comprar a primeira parafusadeira]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e a [página de reviews]({{ '/reviews/' | relative_url }}).
 
@@ -114,7 +114,7 @@ Não necessariamente. Este review responde se a **Bosch GSR 12V-15 comum vale a 
 
 Se estiver em dúvida entre as duas versões, consulte também o **review da Bosch GSR 12V-15 FC** na nossa [seção de reviews]({{ '/reviews/' | relative_url }}). 
 
-{% include produto-card.html %}
+
 
 ## Comparativo com Concorrentes
 
@@ -161,6 +161,8 @@ Não. Os acessórios FlexiClick foram projetados para a interface da versão FC;
 ### Posso usar qualquer bateria de 12 volts?
 
 Não. A tensão nominal, sozinha, não garante compatibilidade. Utilize baterias e carregadores Bosch Professional 12V compatíveis com o modelo e confira os códigos indicados pelo fabricante antes de comprar.
+
+
 
 ## Fontes oficiais
 

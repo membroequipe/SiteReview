@@ -10,7 +10,7 @@ produto_id: bosch_gtb_650
 image: /assets/images/posts/bosch-gtb-650.webp
 image_alt: Parafusadeira Bosch Professional GTB 650 para drywall 650W com batente de profundidade e maleta
 date: 2026-11-07
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: Equipe de Análises
 
 avaliacao:
@@ -215,7 +215,7 @@ Confira estes pontos antes de comprar:
 
 Se o alimentador automático for importante para sua produtividade, some seu custo à ferramenta antes de comparar com outras soluções. A melhor oferta não é necessariamente a que mostra o menor preço inicial, mas a que entrega a configuração necessária para sua rotina.
 
-{% include produto-card.html %}
+
 
 ## Vantagens e limitações
 
@@ -286,8 +286,9 @@ Ela não é uma ferramenta para todos. O cabo exige acesso à rede elétrica, a 
 
 Nossa nota editorial é **8,6/10**. A pontuação considera a adequação ao trabalho de drywall, as especificações oficiais, os recursos de produtividade e a presença comercial brasileira. Não representa teste físico independente. Para instaladores que trabalham regularmente com placas e perfis metálicos, a GTB 650 merece consideração; para quem precisa de mobilidade, compare a GTB 185-LI antes de decidir.
 
-{% include produto-card.html %}
 
-### Fontes oficiais
+
+
+## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.

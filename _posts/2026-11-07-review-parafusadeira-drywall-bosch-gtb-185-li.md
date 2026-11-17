@@ -10,7 +10,7 @@ produto_id: bosch_gtb_185_li
 image: /assets/images/posts/bosch-gtb-185-li.webp
 image_alt: Parafusadeira Bosch Professional GTB 185-LI 18V para drywall com bateria e acessório de profundidade
 date: 2026-11-07
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: Equipe de Análises
 
 avaliacao:
@@ -227,7 +227,7 @@ Use esta lista para comparar anúncios:
 
 Para quem já utiliza a plataforma Bosch Professional 18V, a versão avulsa pode ser suficiente. Para quem está começando, compare o custo total do kit com o de comprar cada componente separadamente.
 
-<!-- PONTO DO CARD COMERCIAL: após preencher os links em _data/produtos.yml, inserir aqui o include do produto-card.html. -->
+
 
 ## Vantagens e limitações
 
@@ -299,7 +299,7 @@ A principal decisão de compra é escolher entre a versão avulsa e o kit. Quem 
 
 Nossa nota editorial é **8,9/10**. A pontuação considera a adequação ao trabalho de drywall, os recursos de produtividade, a ergonomia, a plataforma de bateria e a oferta comercial brasileira. Não representa teste físico independente. Para quem instala placas com frequência, a GTB 185-LI merece estar entre as primeiras opções a avaliar. Para uso ocasional ou tarefas variadas, uma ferramenta mais versátil pode fazer mais sentido.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "DeWalt DCD700D2-BR é boa? Análise e Ficha Técnica"
+title: "DeWalt DCD700 é boa? Análise e ficha técnica"
 marca: "DeWalt"
 modelo: "DeWalt DCD700"
-description: "DeWalt DCD700 vale a pena? Confira torque de 24 Nm, mandril de 10 mm, desempenho em madeira e metal, vantagens, limitações e baterias."
+description: "DeWalt DCD700 vale a pena? Veja torque de 24 Nm, mandril de 10 mm, duas velocidades, aplicações em madeira e metal e limites do modelo sem impacto."
 slug: "review-dewalt-dcd700d2-br"
 categories: [furadeiras, reviews]
 produto_id: dewalt_dcd700d2_br
 image: "/assets/images/posts/dewalt-dcd700d2-br.webp"
 image_alt: "Furadeira e parafusadeira DeWalt DCD700 12V MAX sem impacto"
 date: 2026-11-04
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -205,10 +205,9 @@ Não presuma que um anúncio com o sufixo D2 inclua duas baterias. Confira o có
 
 Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e os [reviews de furadeiras e parafusadeiras]({{ '/reviews/' | relative_url }}).
 
-{% include produto-card.html %}
 
-## Opinião dos Compradores
 
+## O que considerar antes de comprar
 A DeWalt DCD700 possui características que podem interessar principalmente a usuários que procuram uma ferramenta compacta para parafusamento e manutenção.
 
 Os pontos abaixo representam uma análise editorial das vantagens e limitações do produto.
@@ -361,11 +360,8 @@ A nota não representa resultado de ensaio instrumental ou média de avaliaçõe
 
 **Recomendamos a DeWalt DCD700 principalmente para montagem de móveis e manutenção leve.** Para quem precisa de impacto, maior torque ou utilização profissional intensiva, existem alternativas mais adequadas.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
-
-**Transparência editorial:** este review utiliza documentação oficial da fabricante e análise técnica das especificações. Não foram realizados testes práticos próprios, nem coletada uma amostra estatística de avaliações de consumidores. A configuração comercial DCD700D2-BR exige confirmação antes da publicação de informações específicas sobre seu kit.
-

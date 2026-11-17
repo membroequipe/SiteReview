@@ -3,7 +3,7 @@ layout: post
 title: DeWalt DCD708D2 é boa? Análise e ficha técnica
 marca: "DeWalt"
 modelo: "DeWalt DCD708D2"
-description: 'Review da DeWalt DCD708D2: desempenho em MDF, ergonomia, bateria, ficha técnica, vantagens, limitações e para quem vale a pena comprar.'
+description: 'A DeWalt DCD708D2 é boa para móveis? Veja torque de 65 Nm, motor brushless, velocidades, kit brasileiro e limites para escolher com segurança.'
 slug: review-dewalt-dcd708d2
 categories:
 - furadeiras
@@ -24,7 +24,7 @@ avaliacao:
   desvantagens:
   - Não indicada para concreto ou alvenaria
   - Kit D2 pode variar por mercado
-  - Não existe torque oficial em Nm para comparação direta
+  - Torque máximo declarado de 65 Nm na ficha brasileira
 ---
 
 {% include review-toc.html %}
@@ -45,6 +45,8 @@ Antes de decidir, confira o código completo do produto no anúncio: o nome da f
 
 A **DCD708D2** é uma furadeira/parafusadeira sem impacto. A **DCD709** é um modelo com mecanismo de impacto. Não escolha apenas pela semelhança dos códigos ou das fotografias: confirme o modelo impresso na ferramenta e na embalagem. Se precisa perfurar alvenaria, essa diferença muda a adequação do produto à tarefa.
 
+{% include produto-card.html %}
+
 ## Construção e Ergonomia
 
 O motor brushless (sem escovas) elimina a necessidade de substituir escovas de carvão e é um dos diferenciais desta ferramenta. O corpo tem aproximadamente **160 mm de comprimento**, característica útil para alcançar áreas estreitas dentro de armários e nichos. O peso varia conforme a bateria e a configuração; confira se o número apresentado pelo vendedor se refere ao corpo sem bateria ou ao conjunto pronto para uso. Não compare valores medidos por critérios diferentes.
@@ -57,7 +59,7 @@ Observe ainda a acessibilidade do seletor de sentido, o equilíbrio com a bateri
 
 A faixa de rotação declarada é de **0–450 rpm na primeira velocidade e 0–1.650 rpm na segunda**. A marcha mais lenta favorece o controle no início do parafusamento e em ferragens delicadas. A marcha rápida é mais apropriada para perfuração com broca compatível em madeira ou metal. A escolha depende do diâmetro do acessório, da resistência da peça e da recomendação do fabricante.
 
-A documentação consultada não apresenta um valor oficial de torque em **Nm** para este modelo. Não converta nem apresente valores de **UWO (unidade de potência de saída)** como se fossem torque em Nm: são grandezas diferentes. Em MDF, comece com um ajuste baixo no anel de embreagem e aumente gradualmente até obter o aperto necessário. Isso ajuda a evitar que a cabeça do parafuso afunde demais ou que a rosca perca aderência. Em madeira maciça, um furo piloto pode reduzir o risco de rachadura.
+A ficha oficial brasileira do código **DCD708D2-BR** informa torque máximo de **65 Nm**. Esse valor não deve ser confundido com UWO, uma medida de potência de saída usada em materiais de outros modelos e mercados. Em MDF, comece com um ajuste baixo no anel de embreagem e aumente gradualmente até obter o aperto necessário. Isso ajuda a evitar que a cabeça do parafuso afunde demais ou que a rosca perca aderência. Em madeira maciça, um furo piloto pode reduzir o risco de rachadura.
 
 O sistema de fixação é **mandril de 13 mm (1/2 polegada)**. Utilize brocas retas e bits do tamanho exato da cabeça do parafuso. Uma ponta Phillips gasta costuma escapar e danificar ferragens, mesmo quando a máquina está em bom estado. Para perfuração, fixe a peça sobre uma base estável e mantenha o acessório alinhado ao eixo do furo.
 
@@ -65,7 +67,7 @@ Sobre alvenaria, a limitação é clara: **a DCD708D2 não possui mecanismo de i
 
 ## Bateria, Autonomia e Conteúdo do Kit
 
-A composição comercial merece atenção especial. O sufixo **D2** identifica uma apresentação em kit, mas o conteúdo anunciado deve ser confirmado para o código brasileiro **DCD708D2-BR**. Verifique se a oferta inclui duas baterias, a capacidade de cada uma em Ah, carregador, bolsa ou maleta e eventuais acessórios. Não presuma que fotografias de anúncios representem exatamente a embalagem vendida: confira a lista de itens e, se necessário, confirme com o vendedor. Guarde uma captura da descrição e confira o manual recebido.
+A composição comercial merece atenção especial. O sufixo **D2** identifica uma apresentação em kit, mas a ficha brasileira **DCD708D2-BR** informa duas baterias de 2,0 Ah, carregador DCB107 e bolsa de nylon. Ainda assim, confirme o código e a lista de itens no anúncio que será enviado. Não presuma que fotografias de anúncios representem exatamente a embalagem vendida: confira a lista de itens e, se necessário, confirme com o vendedor. Guarde uma captura da descrição e confira o manual recebido.
 
 Autonomia não é um número fixo em minutos. Ela varia conforme a bateria, o diâmetro do parafuso, a dureza da madeira, o tempo de gatilho acionado e a temperatura. Um lote de dobradiças pequenas exige muito menos energia que uma sequência de furos largos. Por isso, promessas genéricas de meia hora ou uma hora de uso contínuo são pouco úteis sem explicar as condições do ensaio.
 
@@ -73,7 +75,7 @@ Para preservar as baterias, utilize carregador compatível e evite armazenar o c
 
 Quem já possui baterias compatíveis da plataforma DeWalt 20V MAX pode avaliar uma versão de corpo avulso, caso esteja disponível no mercado. Essa opção só é vantajosa depois de confirmar a compatibilidade e comparar o custo total. Para quem está começando na plataforma, considere o preço do kit completo, incluindo baterias e carregador.
 
-## Opinião dos Compradores: o que observar antes de comprar
+## O que conferir antes de comprar
 
 Comentários de compradores podem ajudar a identificar questões de ergonomia, durabilidade do mandril e qualidade da embalagem, mas precisam ser lidos com critério. Dê preferência a avaliações que mencionem o código exato do modelo, o tipo de serviço executado e o período de utilização. Uma opinião sobre outra versão da mesma família não confirma que todos os acessórios ou recursos estejam presentes neste kit.
 
@@ -81,7 +83,7 @@ Avaliações com fotografias da etiqueta e da maleta são mais úteis para confe
 
 Ao comparar vendedores, observe nota fiscal, política de devolução, assistência autorizada e descrição da garantia válida no Brasil. Se o preço estiver muito abaixo da média, confirme a procedência, o tipo de plugue do carregador e a tensão de entrada antes de finalizar o pedido.
 
-{% include produto-card.html id="dewalt_dcd708d2" %}
+
 
 ## Comparativo com Concorrentes
 
@@ -127,7 +129,6 @@ Não é recomendável. Escolha o tamanho correto da ponta, em boas condições, 
 
 Confira modelo, sufixo do kit, plataforma de bateria, acessórios incluídos, nota fiscal e disponibilidade de assistência. A aparência externa de ferramentas da mesma família pode ser muito semelhante.
 
-{% include produto-card.html id="dewalt_dcd708d2" %}
 
 ## Veredito Final e Recomendação de Compra
 
@@ -137,8 +138,8 @@ O maior benefício é escolher a ferramenta sabendo o que ela faz e o que não f
 
 Antes de finalizar, confira o conteúdo real da embalagem, os preços atualizados e a assistência no Brasil. Para mais orientações, veja nosso [guia de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}) e o [guia de montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
 
+
+
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
-
-**Fonte oficial:** [Manual DeWalt DCD708 — instruções e segurança](https://www.dewalt.com/GLOBALBOM/QU/DCD708B/1/Instruction_Manual/EN/N592685_DCD708_NA.pdf). Para compra no Brasil, confira a identificação comercial **DCD708D2-BR** e o conteúdo efetivo da embalagem.

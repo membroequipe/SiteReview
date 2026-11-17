@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Makita HP333 é boa? Análise da furadeira 12V"
+title: "Makita HP333 é boa? Review da furadeira 12V CXT"
 marca: "Makita"
 modelo: "Makita HP333"
-description: "Review da Makita HP333 12V CXT: torque máximo de 34 Nm, motor com escovas, mandril de 10 mm e impacto. Confira vantagens, limites e kits."
+description: "Makita HP333 é boa? Confira torque de 34 Nm, impacto, mandril de 10 mm, capacidades de furação e diferenças entre os kits DZ e DWYE antes de comprar."
 slug: "review-makita-hp333-12v-impacto"
 categories: [furadeiras, reviews]
 produto_id: makita_hp333_12v_impacto
 image: "/assets/images/posts/makita-hp333-12v-impacto.webp"
 image_alt: "Makita HP333 em destaque"
 date: 2026-10-24
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -31,7 +31,9 @@ avaliacao:
 
 {% include review-toc.html %}
 
-A **Makita HP333 12V CXT** é uma furadeira e parafusadeira de impacto compacta indicada para montagem de móveis, manutenção, instalações e perfurações ocasionais em alvenaria. Ela combina duas velocidades, ajuste de torque, reversão e iluminação de trabalho. A avaliação editorial de 8,7/10 considera essas características e suas limitações, sem alegar testes práticos próprios ou análise quantitativa de compradores. 
+A **Makita HP333 12V CXT** é uma furadeira/parafusadeira de impacto compacta para montagem, manutenção e perfurações ocasionais em alvenaria. Oferece torque máximo de 34 Nm, duas velocidades, 20 níveis de ajuste e mandril de 10 mm.
+
+**Resposta rápida:** é uma opção versátil para quem precisa parafusar, furar madeira ou metal e fazer furos ocasionais em alvenaria. Para concreto duro ou trabalho frequente, um martelete é mais apropriado. A nota editorial é 8,7/10. 
 
 {% include resumo-avaliacao.html %}
 
@@ -76,6 +78,8 @@ Se você quer comparar com outras opções, consulte nosso [guia das melhores fu
 - **Autonomia condicionada à bateria:** não há quantidade universal de furos ou parafusos por carga; o uso intensivo pode exigir baterias adicionais.
 
 **Nota editorial:** os pontos acima são uma avaliação das características e limitações técnicas do modelo. Não representam uma pesquisa estatística de comentários de Amazon, Mercado Livre ou Shopee, nem permitem afirmar quais elogios ou reclamações são mais frequentes entre compradores.
+
+
 
 ## Comparativo com Concorrentes
 
@@ -127,7 +131,7 @@ A **Makita HP333 12V CXT** é uma opção coerente para quem procura uma furadei
 
 Para quem já utiliza baterias **Makita CXT 12V**, comprar somente o corpo pode fazer sentido. Para novos usuários, a escolha mais econômica dependerá do preço do kit completo em comparação com a compra separada de baterias e carregador. A HP333 é indicada principalmente para quem prioriza portabilidade e aplicações leves a moderadas; para perfuração frequente de concreto duro ou parafusamento estrutural pesado, uma ferramenta de categoria superior será mais adequada. A **nota editorial de 8,7/10** foi mantida como avaliação qualitativa, não como resultado de ensaio instrumental ou média de opiniões de compradores.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 

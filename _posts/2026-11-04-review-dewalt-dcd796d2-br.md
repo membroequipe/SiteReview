@@ -10,7 +10,7 @@ produto_id: dewalt_dcd796d2_br
 image: "/assets/images/posts/dewalt-dcd796d2-br.webp"
 image_alt: "Furadeira e parafusadeira de impacto DeWalt DCD796D2-BR 20V MAX XR brushless"
 date: 2026-11-04
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -112,7 +112,7 @@ A limpeza e a manutenção devem seguir as orientações do manual oficial.
 
 ## Desempenho e Aplicações
 
-Segundo a DeWalt Brasil, a DCD796D2-BR apresenta **torque máximo declarado de 70 Nm**.
+Segundo a DeWalt Brasil, a DCD796D2-BR apresenta **torque máximo declarado de 70 Nm**, duas velocidades de 0–550/0–2.000 rpm e até 34.000 impactos por minuto.
 
 A ferramenta possui duas velocidades mecânicas:
 
@@ -254,10 +254,9 @@ Também vale conferir a procedência das baterias, as condições de garantia e 
 
 Para comparar outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
-{% include produto-card.html %}
 
-## Opinião dos Compradores
 
+## O que considerar antes de comprar
 A DeWalt DCD796D2-BR possui características que podem interessar a profissionais e usuários frequentes.
 
 Entretanto, não realizamos uma pesquisa estatística de avaliações verificadas de consumidores.
@@ -431,10 +430,8 @@ Para quem utiliza a furadeira apenas ocasionalmente, uma opção mais simples po
 
 Antes de comprar, confira a composição do kit, a garantia aplicável e a procedência das baterias e do carregador.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
-
-**Transparência editorial:** este review utiliza informações técnicas do cadastro do produto e documentação atribuída ao fabricante. Não foram realizados testes próprios de torque, autonomia, durabilidade ou desempenho comparativo. O cadastro confirma 14 posições de ajuste de torque, capacidade de perfuração de até 40 mm em madeira e não informa limites numéricos confirmados para aço e alvenaria. A composição do kit deve ser conferida no anúncio e na embalagem antes da compra.

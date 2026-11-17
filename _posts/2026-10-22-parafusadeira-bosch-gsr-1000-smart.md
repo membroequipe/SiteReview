@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Bosch GSR 1000 Smart é boa? Análise e ficha técnica"
+title: "Bosch GSR 1000 Smart é boa? Review e ficha técnica"
 marca: "Bosch"
 modelo: "Bosch GSR 1000 Smart"
-description: "Análise técnica da Parafusadeira Bosch GSR 1000 Smart: torque de 15 Nm, bateria integrada, limitações e indicação de uso. Confira antes de comprar."
+description: "Bosch GSR 1000 Smart é boa? Veja torque de 15 Nm, bateria integrada de 1,5 Ah, encaixe de 1/4 pol., aplicações indicadas e limites antes de comprar."
 slug: "review-bosch-gsr-1000-smart"
 categories: [parafusadeiras, reviews]
 produto_id: bosch_gsr_1000_smart
 image: "/assets/images/posts/parafusadeira-bosch-gsr-1000-smart.webp"
 image_alt: "Parafusadeira Bosch GSR 1000 Smart em destaque"
 date: 2026-10-22
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 
 avaliacao:
@@ -31,7 +31,9 @@ avaliacao:
 
 Se você ainda está decidindo entre uma parafusadeira compacta e uma furadeira/parafusadeira, veja também nosso [guia para escolher a melhor furadeira]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}). A principal diferença está no tipo de acessório aceito e na necessidade — ou não — de perfurar materiais.
 
-A **Bosch GSR 1000 Smart** é uma parafusadeira compacta da linha Professional, indicada principalmente para montagem de móveis, pequenos reparos e fixações leves. Ela combina bateria de íons de lítio integrada de 1,5 Ah, torque máximo de 15 Nm e rotação variável de até 700 rpm. Um detalhe importante para escolher corretamente: este modelo utiliza encaixe para bits, não um mandril convencional para brocas. E o nome Smart não significa conectividade Bluetooth ou controle por aplicativo. 
+A **Bosch GSR 1000 Smart** é uma parafusadeira compacta indicada para montagem de móveis, pequenos reparos e fixações leves. Ela combina bateria integrada de 1,5 Ah, torque máximo de 15 Nm e rotação variável de até 700 rpm. Seu encaixe de 1/4 de polegada recebe bits compatíveis, não brocas comuns diretamente.
+
+**Resposta rápida:** é uma boa opção para parafusar em móveis e MDF quando tamanho compacto é prioridade. Não é indicada para alvenaria nem substitui uma furadeira com mandril. Sua nota editorial é 8,7/10. 
 
 {% include resumo-avaliacao.html %}
 
@@ -43,7 +45,7 @@ A **Bosch GSR 1000 Smart** é uma parafusadeira compacta da linha Professional, 
 
 ## Construção e Ergonomia
 
-A GSR 1000 Smart foi pensada para trabalhar em gavetas, armários e outros espaços em que uma ferramenta maior pode atrapalhar. O catálogo Bosch informa comprimento de cabeça de **145 mm**, peso aproximado de **0,93 kg** e iluminação LED. O corpo compacto facilita o manuseio em montagens e reparos domésticos, embora a ergonomia também dependa do acesso ao parafuso e da posição de trabalho.
+A GSR 1000 Smart foi pensada para trabalhar em gavetas, armários e outros espaços em que uma ferramenta maior pode atrapalhar. O catálogo Bosch informa comprimento de cabeça de **145 mm**, peso aproximado de **0,93 kg** e iluminação LED. A Bosch apresenta a ferramenta como 12V Max; a ficha técnica também pode indicar 10,8 V como tensão nominal da bateria. O corpo compacto facilita o manuseio em montagens e reparos domésticos, embora a ergonomia também dependa do acesso ao parafuso e da posição de trabalho.
 
 O ponto mais importante é o encaixe: a GSR 1000 Smart é uma **parafusadeira compacta com porta-bits de 1/4 de polegada**, não uma furadeira com mandril convencional. Portanto, ela foi projetada para receber bits de parafusamento compatíveis, e não para prender diretamente brocas comuns como uma furadeira tradicional. A bateria de 1,5 Ah é integrada e não pode ser removida para uma troca imediata por outra carregada.
 
@@ -53,7 +55,7 @@ A ferramenta oferece reversão e velocidade variável pelo interruptor, em uma �
 
 A GSR 1000 Smart entrega torque máximo de **15 Nm em aplicação dura** e **6 Nm em aplicação suave**, com rotação em vazio de **0 a 700 rpm**. Esses números favorecem o aperto de parafusos em móveis, MDF e outras aplicações leves. O encaixe porta-bits de 1/4 de polegada reforça seu foco em parafusamento: ela não deve ser tratada como uma furadeira universal para madeira, aço ou alvenaria.
 
-A autonomia depende da carga aplicada, do material, do comprimento do parafuso e da frequência de acionamento. No catálogo Bosch 2025, a fabricante apresenta como referência até **250 parafusamentos em MDF** com parafusos de 4,5 × 35 mm ou **300 furos em MDF** com broca de 3 mm, sob condições específicas de teste. Outra comunicação da Bosch menciona até 600 parafusamentos por carga. Esses números não são garantias de desempenho em qualquer material ou rotina de trabalho.
+A autonomia depende da carga aplicada, do material, do comprimento do parafuso e da frequência de acionamento. O rendimento por carga varia conforme material, parafuso, acessório e condições de trabalho. Como os números de autonomia divulgados podem depender de protocolos específicos, não os trate como promessa de quantidade de parafusos em uso doméstico.
 
 A ferramenta **não possui função de impacto** e não foi concebida para perfurar paredes de alvenaria ou concreto. Para furos com brocas convencionais, escolha uma furadeira/parafusadeira com mandril; para alvenaria, avalie um modelo com impacto ou um martelete adequado à frequência e à dureza do serviço.
 
@@ -73,6 +75,8 @@ Não foi apresentada uma amostra verificável de avaliações de compradores par
 - **Porta-bits de 1/4 polegada:** limita o uso ao tipo de acessório compatível; não substitui um mandril para brocas.
 - **Torque e rotação modestos:** 15 Nm e até 700 rpm posicionam o modelo em tarefas leves, não em aplicações exigentes.
 
+
+
 ## Comparativo com Outras Parafusadeiras Compactas
 
 A Bosch GSR 1000 Smart deve ser comparada principalmente com **parafusadeiras compactas com porta-bits**, e não diretamente com furadeiras/parafusadeiras que utilizam mandril. A diferença não é apenas de potência: muda o tipo de acessório aceito e o trabalho para o qual a ferramenta foi projetada.
@@ -80,6 +84,7 @@ A Bosch GSR 1000 Smart deve ser comparada principalmente com **parafusadeiras co
 A **Makita DF001DW**, por exemplo, também é uma parafusadeira compacta de 3,6 V com formato articulado e encaixe para bits. Ela pode interessar a quem prioriza acesso a espaços estreitos e uma ferramenta leve. Já modelos como a DeWalt DCD701 pertencem à categoria de furadeiras/parafusadeiras com mandril e bateria removível. Embora possam parafusar, oferecem uma arquitetura diferente e não são concorrentes diretas da GSR 1000 Smart.
 
 **Qual escolher?** A Bosch faz sentido para quem busca uma parafusadeira compacta de 12 V, com bateria integrada e torque de até 15 Nm. A Makita DF001DW pode ser considerada quando o formato articulado e o baixo peso são prioridades. Se você também precisa fazer furos com brocas convencionais, procure uma furadeira/parafusadeira com mandril, como a Bosch GSR 120-LI. Para alvenaria, escolha um modelo com impacto ou martelete apropriado. Compare sempre a configuração, os acessórios incluídos e a garantia do anúncio.
+
 
 ## Perguntas Frequentes
 
@@ -101,10 +106,8 @@ A Bosch GSR 1000 Smart é uma escolha prática para quem precisa principalmente 
 
 A compra faz mais sentido para quem valoriza tamanho reduzido e tarefas leves de parafusamento. Se a necessidade inclui perfuração com brocas convencionais, procure uma furadeira/parafusadeira com mandril. A nota editorial de **8,7/10** considera a proposta específica do produto, não testes próprios nem uma média consolidada de avaliações de consumidores.
 
-{% include produto-card.html %}
+
 
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
-
-
