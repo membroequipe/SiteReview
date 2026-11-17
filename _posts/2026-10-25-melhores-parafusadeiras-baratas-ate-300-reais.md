@@ -7,7 +7,7 @@ slug: melhores-parafusadeiras-baratas-ate-r-300
 categories: [guias]
 image: "/assets/images/posts/melhores-parafusadeiras-baratas-ate-300-reais.webp"
 date: 2026-10-26
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 ---
 
@@ -150,4 +150,4 @@ Use o carregador indicado pelo fabricante, evite calor excessivo, umidade e arma
 
 ## Fontes oficiais
 
-- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.

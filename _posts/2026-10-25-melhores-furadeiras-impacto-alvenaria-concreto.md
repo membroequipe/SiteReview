@@ -7,7 +7,7 @@ slug: melhores-furadeiras-impacto-alvenaria-concreto-2026
 categories: [guias]
 image: "/assets/images/posts/melhores-furadeiras-impacto-alvenaria.webp"
 date: 2026-10-26
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 ---
 
@@ -158,4 +158,4 @@ A melhor ferramenta não é necessariamente a de maior número na ficha. É a qu
 
 ## Fontes oficiais
 
-- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.

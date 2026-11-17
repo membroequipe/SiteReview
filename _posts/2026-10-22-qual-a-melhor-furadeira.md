@@ -6,7 +6,7 @@ slug: "qual-a-melhor-furadeira"
 categories: [guias]
 image: /assets/images/posts/melhores-furadeiras.webp
 date: 2026-10-22
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 ---
 
@@ -22,7 +22,7 @@ Neste guia, analisamos **10 modelos de furadeiras e parafusadeiras**, divididos 
 
 **Como avaliamos:** esta é uma comparação editorial baseada em documentação técnica de fabricantes, não um teste de bancada. Não realizamos ensaios físicos nem medimos torque, autonomia ou precisão dos mandris. Preços e kits podem variar conforme o revendedor e o código comercial.
 
-{% include review-toc.html %}
+
 
 ## Qual furadeira ou parafusadeira escolher? Resposta rápida
 
@@ -149,7 +149,7 @@ Neste guia, analisamos **10 modelos de furadeiras e parafusadeiras**, divididos 
 
 ### Bosch GSR 1000 Smart — Compacta para Parafusamentos Leves
 
-A **Bosch GSR 1000 Smart** é uma ferramenta compacta de 12V indicada principalmente para parafusamentos e perfurações leves em madeira e metal. Segundo o catálogo Bosch, fornece até **15 Nm em materiais duros e 6 Nm em materiais macios**, tem rotação sem carga de até 700 rpm e bateria integrada de 1,5 Ah. O manual brasileiro informa **capacidade de aperto do mandril de 0,8 a 6 mm**; o catálogo também apresenta a designação 1/4". Para comprar brocas, confirme a versão e o encaixe real da ferramenta.
+A **Bosch GSR 1000 Smart** é uma ferramenta compacta de 12V indicada principalmente para parafusamentos e perfurações leves em madeira e metal. Segundo o catálogo Bosch, fornece até **15 Nm em materiais duros e 6 Nm em materiais macios**, tem rotação sem carga de até 700 rpm e bateria integrada de 1,5 Ah. O registro técnico do produto identifica **encaixe sextavado de 1/4 pol. para bits compatíveis**, sem mandril convencional. Portanto, não deve ser descrita como uma furadeira com mandril de aperto rápido; confirme o encaixe da versão anunciada antes de comprar acessórios.
 
 Não há base na ficha técnica consultada para atribuir Bluetooth, bloqueio antifurto remoto ou perfis de torque pelo aplicativo Bosch Toolbox a este modelo. Também não se deve confundir a GSR 1000 Smart com outros modelos Bosch que oferecem conectividade.
 
@@ -169,7 +169,7 @@ Não há base na ficha técnica consultada para atribuir Bluetooth, bloqueio ant
 <h4>Pontos de Atenção</h4>
 <ul>
 <li>Torque máximo relativamente baixo</li>
-<li>Capacidade de aperto limitada a 6 mm, conforme manual brasileiro</li>
+<li>Encaixe sextavado de 1/4 pol.; não possui mandril convencional</li>
 <li>Sem função de impacto</li>
 <li>Bateria integrada: confira a condição e disponibilidade de assistência antes da compra</li>
 </ul>

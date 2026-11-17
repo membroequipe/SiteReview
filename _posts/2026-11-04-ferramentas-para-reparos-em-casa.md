@@ -8,6 +8,7 @@ categories: [guias]
 image: "/assets/images/posts/ferramentas-para-reparos-em-casa.webp"
 date: 2026-11-04
 author: "Equipe de Análises"
+last_modified_at: 2026-11-16
 ---
 
 {% include review-toc.html %}
@@ -267,3 +268,6 @@ Antes de investir em equipamentos mais caros, avalie quais serviços pretende re
 
 Se você está pensando em comprar sua primeira ferramenta elétrica, confira nosso [guia para escolher a primeira parafusadeira]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e descubra quais características realmente importam para começar.
 
+## Fontes oficiais
+
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.

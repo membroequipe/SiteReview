@@ -7,7 +7,7 @@ slug: "melhores-parafusadeiras-leves-12v"
 categories: [guias]
 image: "/assets/images/posts/melhores-parafusadeiras-leves-12v.webp"
 date: 2026-10-26
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 ---
 
@@ -156,4 +156,4 @@ Não há um vencedor universal em conforto: a ferramenta ideal depende do tamanh
 
 ## Fontes oficiais
 
-- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.

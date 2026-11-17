@@ -8,6 +8,7 @@ image_alt: "Imagem com uma furadeira e mostrando vários códigos de modelos"
 categories: [guias]
 date: 2026-11-14
 author: "Equipe de Análises"
+last_modified_at: 2026-11-16
 ---
 
 {% include review-toc.html %}
@@ -313,5 +314,4 @@ Por isso, antes de comprar, compare o código completo, as especificações téc
 
 ## Fontes oficiais
 
-- Dados técnicos consultados no catálogo oficial e manual dos fabricantes.
-
+- Dados técnicos consultados no catálogo oficial e manual do fabricante.

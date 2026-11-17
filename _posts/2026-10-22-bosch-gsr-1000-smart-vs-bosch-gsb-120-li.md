@@ -8,7 +8,7 @@ categories: [comparativos]
 image: "/assets/images/posts/bosch-gsr-1000-smart-vs-bosch-gsb-120-li.webp"
 image_alt: "Bosch GSR 1000 Smart e Bosch GSB 120-LI em comparativo"
 date: 2026-10-22
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 ---
 
@@ -31,7 +31,7 @@ O modelo possui bateria de íons de lítio integrada, capacidade de 1,5 Ah, rota
 ### Principais pontos positivos e limitações da Bosch GSR 1000 Smart
 
 * **Pontos positivos:** Corpo compacto e peso reduzido (0,93 kg), bateria integrada prática para uso ocasional, indicador de carga e gatilho com controle de velocidade.
-* **Limitações:** Torque máximo limitado a 15 Nm, uma única faixa mecânica de 0 a 700 rpm, mandril de aperto rápido com capacidade de 0,8 a 6 mm e impossibilidade de troca rápida de bateria descarregada.
+* **Limitações:** Torque máximo limitado a 15 Nm, uma única faixa mecânica de 0 a 700 rpm, encaixe sextavado de 1/4 pol. para bits compatíveis (sem mandril convencional) e impossibilidade de troca rápida de bateria descarregada.
 
 {% include produto-card.html id="bosch_gsr_1000_smart" %}
 

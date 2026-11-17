@@ -7,7 +7,7 @@ permalink: /melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/
 categories: [guias]
 image: "/assets/images/posts/parafusadeiras-montagem.webp"
 date: 2026-10-26
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 author: "Equipe de Análises"
 ---
 
@@ -175,5 +175,3 @@ Nenhuma das três é automaticamente a mais barata ou a mais durável em uso rea
 ## Fontes oficiais
 
 - Dados técnicos consultados no catálogo oficial e manual do fabricante.
-
-*Transparência editorial: recomendações baseadas em documentação de fabricantes e análise de adequação ao uso, sem testes físicos próprios. Preços e composição de kits devem ser conferidos nas lojas.*
