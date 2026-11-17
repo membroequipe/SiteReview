@@ -2871,34 +2871,6 @@ table.specs-table tbody th:first-child {
 }
 
 
-/* Tabelas comparativas Markdown: rolagem horizontal em telas estreitas */
-@media (max-width: 768px) {
-  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) {
-    overflow-x: auto !important;
-    -webkit-overflow-scrolling: touch;
-    overscroll-behavior-x: contain;
-  }
-
-  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) > table:not(.table-two-columns) {
-    width: max-content !important;
-    min-width: 100% !important;
-    max-width: none !important;
-    table-layout: auto !important;
-  }
-
-  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) > table:not(.table-two-columns) :is(th, td) {
-    width: auto !important;
-    min-width: 150px !important;
-    overflow-wrap: normal !important;
-    word-break: normal !important;
-    hyphens: none;
-  }
-
-  .post-content :is(.table-wrapper, .specs-table-wrapper, .competitors-table-wrapper, .concorrentes-table-wrapper) > table:not(.table-two-columns) :is(th, td):first-child {
-    min-width: 170px !important;
-  }
-}
-
 /* =========================================
    BUSCA INTERNA DO SITE
    ========================================= */
@@ -3037,5 +3009,56 @@ table.specs-table tbody th:first-child {
 
     .site-search-label {
         font-size: 0.85rem;
+    }
+}
+
+/* =========================================
+   CORREÇÃO DEFINITIVA DE TABELAS (BLINDADA)
+   ========================================= */
+
+/* 1. Tabelas de 2 colunas (Ficha Técnica) - Resolve o "Famí/lia" e o vazamento */
+.post-content table:has(tr > :nth-child(2):last-child) {
+    table-layout: auto !important;
+    width: 100% !important;
+    margin: 20px 0 !important;
+}
+
+/* A primeira coluna ganha uma largura segura e não quebra ao meio */
+.post-content table:has(tr > :nth-child(2):last-child) th:first-child,
+.post-content table:has(tr > :nth-child(2):last-child) td:first-child {
+    white-space: normal !important;
+    word-break: normal !important;
+    width: 40% !important; 
+    min-width: 120px !important; 
+    font-weight: 700;
+}
+
+/* A segunda coluna ocupa o restante e pode quebrar texto longo */
+.post-content table:has(tr > :nth-child(2):last-child) th:last-child,
+.post-content table:has(tr > :nth-child(2):last-child) td:last-child {
+    width: 60% !important;
+    overflow-wrap: anywhere !important;
+}
+
+/* No celular, ajusta o espaçamento interno sem esmagar as colunas */
+@media (max-width: 768px) {
+    .post-content table:has(tr > :nth-child(2):last-child) th,
+    .post-content table:has(tr > :nth-child(2):last-child) td {
+        padding: 10px 12px !important;
+        font-size: 0.85rem !important;
+    }
+}
+
+/* 2. Tabelas de 3+ colunas (Comparativas) - Mantém a rolagem lateral */
+@media (max-width: 768px) {
+    /* Permite rolar APENAS as tabelas que NÃO têm 2 colunas */
+    .post-content table:not(:has(tr > :nth-child(2):last-child)) {
+        width: max-content !important;
+        min-width: 100% !important;
+    }
+    
+    .post-content table:not(:has(tr > :nth-child(2):last-child)) :is(th, td) {
+        min-width: 130px !important;
+        white-space: normal !important;
     }
 }
