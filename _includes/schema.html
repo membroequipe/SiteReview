@@ -11,13 +11,13 @@
     "@type": "Brand",
     "name": "{{ page.marca | default: 'Genérica' | escape }}"
   },
-  "review": {
-    "@type": "Review",
-    "reviewRating": {
-      "@type": "Rating",
-      "ratingValue": "{{ page.avaliacao.nota }}",
-      "bestRating": "10"
-    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "{{ page.avaliacao.nota | divided_by: 2.0 }}",
+        "bestRating": "5"
+      },
     "author": {
       "@type": "Organization",
       "name": "{{ page.author | default: 'Equipe de Análises' | escape }}"
