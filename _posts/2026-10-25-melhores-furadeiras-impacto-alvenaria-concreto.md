@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Melhor Furadeira de Impacto para Concreto e Alvenaria"
-description: "Compare furadeiras de impacto e marteletes para tijolo, alvenaria e concreto: especificações oficiais, vantagens, limites e dicas para escolher."
+title: "Melhores Furadeiras de Impacto para Concreto e Alvenaria"
+description: "Compare furadeiras de impacto e marteletes para tijolo, alvenaria e concreto: potência, SDS-Plus, vantagens, limites e dicas de compra."
 permalink: /melhores-furadeiras-impacto-alvenaria-concreto/
 slug: melhores-furadeiras-impacto-alvenaria-concreto-2026
 categories: [guias]
