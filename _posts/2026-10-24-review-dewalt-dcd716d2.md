@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "DeWalt DCD716D2 é boa? Análise completa"
+title: "DeWalt DCD716D2 é boa? Review da furadeira 20V"
 marca: "DeWalt"
 modelo: "DeWalt DCD716D2"
-description: "DeWalt DCD716D2 é boa? Veja torque, mandril de 10 mm, impacto, baterias, limites de uso e o que conferir antes de comprar o kit."
+description: "DeWalt DCD716D2 vale a pena? Veja torque de 30 Nm, mandril de 10 mm, impacto, duas baterias 20V e limites antes de comprar."
 slug: "review-dewalt-dcd716d2"
 categories: [furadeiras, reviews]
 produto_id: dewalt_dcd716d2
