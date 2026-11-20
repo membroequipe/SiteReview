@@ -3,7 +3,7 @@ layout: post
 title: "Bosch GSB 18V-50 é boa? Review da furadeira 18V"
 marca: "Bosch"
 modelo: "Bosch GSB 18V-50"
-description: "Bosch GSB 18V-50 vale a pena? Veja torque de 50 Nm, motor brushless, impacto, mandril de 13 mm, limitações e para quem é indicada."slug: "review-bosch-gsb-18v-50"
+description: "Bosch GSB 18V-50 vale a pena? Veja torque de 50 Nm, motor brushless, impacto, mandril de 13 mm, limitações e para quem é indicada."
 categories: [furadeiras, reviews]
 produto_id: bosch_gsb_18v_50
 image: "/assets/images/posts/bosch-gsb-18v-50.webp"
