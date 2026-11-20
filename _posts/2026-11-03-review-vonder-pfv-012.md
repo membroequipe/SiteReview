@@ -12,7 +12,7 @@ produto_id: vonder_pfv_012
 image: assets/images/posts/vonder_pfv012i_12v.webp
 image_alt: Parafusadeira e furadeira Vonder PFV 012
 date: '2026-11-03'
-last_modified_at: '2026-11-16'
+last_modified_at: '2026-11-20'
 author: Equipe de Análises
 avaliacao:
   nota: 8.0
@@ -131,31 +131,31 @@ Quer mais detalhes sobre essa escolha? Veja nosso guia com [as 3 melhores parafu
 
 ### A Vonder PFV 012 é boa?
 
-É boa para o que se propõe: uso doméstico, montagem de móveis e reparos leves. Não é indicada para trabalho pesado ou contínuo.
+Sim, a Vonder PFV 012 é boa para uso doméstico, montagem de móveis e reparos leves em madeira ou metal fino. Porém, não é indicada para trabalho pesado, contínuo ou perfuração em concreto.
 
-### Ela tem impacto?
+### A PFV 012 tem impacto?
 
-Não. A versão com impacto é a PFV 012I, que é outro modelo.
+Não, a PFV 012 não possui função de impacto. A versão com impacto da linha é a Vonder PFV 012I, que é outro modelo.
 
 ### Qual a diferença entre a PFV 012 e a PFV 012I?
 
-A 012I tem impacto, duas velocidades e três funções de operação. A 012 é mais simples e não tem impacto.
+A principal diferença é que a PFV 012I tem função de impacto, duas velocidades mecânicas e três modos de operação, enquanto a PFV 012 é mais simples, conta com apenas uma faixa de velocidade e não tem impacto.
 
-### Ela serve para furar parede?
+### A Vonder PFV 012 serve para furar parede?
 
-Não é a ferramenta certa. Para concreto e alvenaria dura, escolha uma furadeira de impacto ou um martelete.
+Não, essa parafusadeira não é indicada para furar parede de concreto ou alvenaria dura por não ter impacto. Para esse tipo de serviço, prefira uma furadeira de impacto ou um martelete.
 
 ### É boa para montar móveis?
 
-Sim, com o torque ajustado e a ponta correta. Em MDF, o pré-furo ajuda a evitar rachaduras.
+Sim, a Vonder PFV 012 atende bem à montagem de móveis por oferecer 18 posições de torque, que ajudam a não espanar parafusos. Em chapas de MDF, usar a ponta correta e fazer pré-furo melhora ainda mais o acabamento.
 
 ### Quanto tempo dura a bateria?
 
-Não há duração fixa: depende do material, do tamanho dos parafusos, do esforço e do estado da bateria. Em trabalhos longos, uma bateria extra faz diferença.
+A bateria de 12 V e 1,3 Ah da PFV 012 não tem duração fixa em minutos, pois a autonomia varia conforme o material, o tamanho dos parafusos e o esforço exigido. Em montagens longas, vale prever pausas para recarga ou contar com uma bateria extra.
 
 ### Vem com bateria e carregador?
 
-Depende do kit. Confira o código e o conteúdo da embalagem no anúncio específico, porque os acessórios mudam entre versões.
+Depende da versão anunciada: os kits oficiais costumam incluir bateria de 12 V, carregador bivolt e maleta com acessórios, mas o conteúdo muda entre anúncios. Confira sempre o código exato do modelo e os itens da embalagem antes de comprar.
 
 ## Veredito final: vale a pena?
 
@@ -165,10 +165,7 @@ Se você monta móveis e faz reparos ocasionais, ela atende. Se precisa furar co
 
 Antes de fechar, confirme o modelo exato, o que vem no kit, a garantia e o preço total com frete. E, se for montar muito móvel, invista em bits de boa qualidade: a ponta certa faz mais diferença no resultado do que parece.
 
-
-
 Ainda em dúvida entre modelos com e sem impacto? Veja nosso [comparativo de qual a melhor furadeira](/guias/qual-a-melhor-furadeira/).
-
 
 
 ## Fontes oficiais
