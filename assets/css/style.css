@@ -1207,41 +1207,6 @@ details.toc-box[open] > summary::after {
     border-color: #94a3b8;
 }
 
-.pc-feature {
-    padding: 26px;
-    background: var(--primary);
-    color: #e2e8f0;
-    border-radius: 18px;
-}
-
-.pc-feature-kicker {
-    color: #fcd34d;
-}
-
-.pc-feature h2 {
-    margin-bottom: 14px;
-    color: #ffffff;
-    font-size: 1.35rem;
-    line-height: 1.4;
-    letter-spacing: -0.02em;
-}
-
-.pc-feature p,
-.pc-feature li {
-    font-size: 0.9rem;
-    line-height: 1.75;
-}
-
-.pc-feature ul {
-    display: grid;
-    gap: 10px;
-    margin-top: 20px;
-    padding-left: 20px;
-}
-
-.pc-feature li::marker {
-    color: #fbbf24;
-}
 
 .pc-trust {
     display: grid;
@@ -2605,28 +2570,6 @@ table.specs-table tbody th:first-child {
         box-shadow: none;
     }
 
-    /* Caixa escura */
-    .pc-home .pc-feature {
-        padding: 18px;
-        border-radius: 13px;
-    }
-
-    .pc-home .pc-feature h2 {
-        font-size: 1.13rem;
-        line-height: 1.35;
-        margin-bottom: 9px;
-    }
-
-    .pc-home .pc-feature p,
-    .pc-home .pc-feature li {
-        font-size: 0.82rem;
-        line-height: 1.55;
-    }
-
-    .pc-home .pc-feature ul {
-        gap: 5px;
-        margin-top: 12px;
-    }
 
     /* Critérios editoriais */
     .pc-home .pc-trust {
