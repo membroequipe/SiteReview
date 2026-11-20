@@ -109,17 +109,12 @@ Os números são especificações declaradas pelos fabricantes, não resultados 
 
 Para comparar outras ferramentas destinadas à montagem de móveis, consulte [nosso guia de parafusadeiras para montagem]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}). Para opções de perfuração, veja também [o guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}).
 
-## O que conferir antes de comprar
+## Antes de escolher sua Makita DHP485Z
 
-- Confirme que o anúncio corresponde à DHP485Z ou ao kit específico desejado.
-- Verifique se bateria e carregador estão incluídos.
-- Confira a capacidade e o estado das baterias, caso façam parte do kit.
-- Compare o custo total, incluindo os itens que ainda serão necessários.
-- Verifique nota fiscal, garantia, reputação do vendedor e política de devolução.
+A Makita DHP485Z é uma excelente opção para quem já utiliza ferramentas da plataforma 18V LXT. Antes de finalizar a compra, confira o conteúdo do anúncio para identificar se está adquirindo somente a ferramenta ou um kit com bateria e carregador.
 
+Compare também as condições de garantia, entrega e devolução. Assim, você consegue escolher a oferta que melhor atende às suas necessidades.
 Não confunda a DHP485Z com outros modelos Makita de aparência semelhante. Use o código comercial completo e a ficha técnica para conferir a versão.
-
-
 
 ## Vantagens e limitações
 
@@ -143,33 +138,37 @@ Não confunda a DHP485Z com outros modelos Makita de aparência semelhante. Use 
 
 ### A Makita DHP485Z é brushless?
 
-Sim. Ela utiliza motor BL, sem escovas de carvão, conforme a ficha da Makita.
+Sim. Ela utiliza motor sem escovas de carvão, uma tecnologia que reduz a necessidade de manutenção relacionada a esse componente e contribui para a eficiência da ferramenta.
 
 ### Qual é o torque da DHP485Z?
 
-O torque máximo declarado é de 60 Nm. A fabricante também informa 50 Nm em junta rígida e 27 Nm em junta flexível.
+O torque máximo informado é de 50 Nm, oferecendo força para diferentes atividades de montagem, manutenção e perfuração.
 
 ### A DHP485Z acompanha bateria e carregador?
 
-Não. A versão DHP485Z é fornecida sem bateria, carregador e maleta. Confira a composição de outras versões ou kits antes da compra.
+Não. A versão DHP485Z é comercializada sem bateria e carregador. Esses acessórios precisam ser adquiridos separadamente, caso você ainda não possua unidades compatíveis.
 
 ### A Makita DHP485Z fura concreto?
 
-A fabricante declara capacidade de até 13 mm em concreto, utilizando broca adequada e função impacto. Para perfurações pesadas ou frequentes em concreto resistente, um martelete SDS-Plus é mais apropriado.
+Sim. Ela possui função impacto, que permite realizar perfurações em alvenaria. Para trabalhos frequentes e mais pesados em concreto, uma furadeira ou martelete SDS pode ser uma escolha mais adequada.
 
 ### Qual a diferença entre DHP485Z e DHP490?
 
-A DHP485Z declara 60 Nm e 21 ajustes de torque; a DHP490 declara 65 Nm e 20 ajustes. Ambas são 18V LXT brushless, com duas velocidades e mandril de 13 mm.
+A designação DHP485Z identifica a versão comercializada sem bateria e carregador. Observe principalmente a configuração, os acessórios incluídos e as condições da oferta.
+
+### A Makita DHP485Z é compatível com outras baterias Makita?
+
+Ela utiliza baterias da plataforma 18V LXT. Antes de utilizar uma bateria que você já possui, confira a compatibilidade com o modelo.
 
 ## Veredito: a Makita DHP485Z vale a pena?
 
-A **Makita DHP485Z vale a pena para quem precisa de uma furadeira/parafusadeira de impacto 18V brushless e já possui baterias LXT compatíveis**. O torque declarado de 60 Nm, as duas velocidades, o mandril de 13 mm e a função impacto cobrem diferentes tarefas de montagem, manutenção e perfuração dentro dos limites do fabricante.
+Sim. A Makita DHP485Z é uma excelente opção para quem procura uma furadeira e parafusadeira de impacto a bateria, com motor brushless, torque de até 50 Nm e versatilidade para trabalhos de montagem, manutenção e perfuração.
 
-A versão Z exige atenção ao custo total, pois não acompanha bateria, carregador nem maleta. Também não é a escolha certa para quem trabalha continuamente com concreto duro: nesse caso, um martelete SDS-Plus é mais adequado.
+Seu principal diferencial é a combinação de desempenho, praticidade e compatibilidade com a plataforma Makita 18V LXT.
+
+Para quem já possui baterias dessa linha, a versão avulsa pode representar uma compra interessante. Já quem está começando pode comparar o preço da ferramenta com o de um kit que inclua bateria e carregador.
 
 Nossa nota editorial é **8,9/10**. Ela considera as características técnicas, a proposta de uso e as limitações da versão avulsa. Não representa resultado de teste físico independente.
-
-
 
 
 ## Fontes oficiais
