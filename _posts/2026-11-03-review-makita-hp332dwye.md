@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Makita HP332DWYE: análise e ficha técnica"
+title: "Makita HP332DWYE é boa? Review 12V CXT Brushless"
 marca: "Makita"
 modelo: "Makita HP332DWYE"
-description: 'A Makita HP332DWYE é boa? Confira motor brushless, torque de 38 Nm, kit 12V CXT e diferenças para a HP333DWYE antes de decidir a compra.'
+description: "Makita HP332DWYE vale a pena? Confira motor brushless, torque de 38 Nm, kit 12V CXT e diferenças para a HP333DWYE antes de comprar."
 slug: review-makita-hp332dwye
 categories:
 - furadeiras
