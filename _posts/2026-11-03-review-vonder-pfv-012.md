@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Parafusadeira Vonder PFV 012 é boa? Review, ficha técnica e vale a pena'
+title: "Vonder PFV 012 é boa? Review e ficha técnica (12V)"
 marca: "Vonder"
 modelo: "Vonder PFV 012"
-description: 'Review da Vonder PFV 012: veja os dados oficiais, limites de uso, diferença para a PFV 012I e se ela atende a montagem de móveis.'
+description: "Vonder PFV 012 vale a pena? Veja ficha técnica oficial, limites de uso, diferença para a PFV 012I e se atende montagem de móveis."
 slug: review-vonder-pfv-012
 categories:
 - parafusadeiras
