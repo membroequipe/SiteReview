@@ -103,11 +103,15 @@ A comparação depende do trabalho. A GO 3 é menor e especializada em parafusar
 
 A Makita DF001DW também é voltada ao parafusamento leve, mas tem formato articulado e características próprias. Compare o conjunto, os acessórios e a bateria antes de decidir. Para escolher sua primeira ferramenta, consulte nosso [guia da primeira parafusadeira]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Veja também [as melhores parafusadeiras para montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
 
-## O que conferir antes de comprar
+## Antes de escolher sua Bosch GO 3
 
-Procure a referência **06019H22E0** e confira se o anúncio corresponde à Bosch GO 3. Na variante brasileira consultada, a embalagem inclui cabo USB-C, ponta dupla e estojo. Kits montados por revendedores podem trazer acessórios extras, por isso confira a lista de itens do anúncio.
+Para encontrar a Bosch GO 3 Professional, procure anúncios que identifiquem claramente o modelo e apresentem fotos e informações completas do produto.
 
-Verifique também reputação do vendedor, nota fiscal, garantia, política de devolução, frete e prazo. Não compare apenas o preço anunciado: confirme se os produtos são da mesma geração e incluem os mesmos acessórios.
+Ao comparar as ofertas no Mercado Livre e na Shopee, confira se o anúncio corresponde à versão desejada, observe a reputação do vendedor e verifique as condições de garantia, nota fiscal, entrega e devolução.
+
+Também vale conferir os acessórios incluídos no pacote, pois o conteúdo da embalagem pode variar conforme a oferta.
+
+Assim, você consegue comparar as opções com mais segurança e escolher aquela que oferece o melhor custo-benefício.
 
 ## Vantagens e limitações
 
