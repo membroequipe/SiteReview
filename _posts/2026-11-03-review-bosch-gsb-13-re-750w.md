@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Bosch GSB 13 RE 750 W é boa? Análise completa"
+title: "Bosch GSB 13 RE 750W é boa? Review da Furadeira"
 marca: "Bosch"
 modelo: "Bosch GSB 13 RE 750 W"
-description: "Review Bosch GSB 13 RE 750 W: ficha técnica, desempenho em concreto, vantagens, limitações e comparação com outras furadeiras e marteletes."
+description: "Bosch GSB 13 RE 750W vale a pena? Veja desempenho em alvenaria e madeira, mandril de 13 mm, vantagens e limites antes de comprar."
 slug: "review-bosch-gsb-13-re-750w"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsb_13_re_750w
