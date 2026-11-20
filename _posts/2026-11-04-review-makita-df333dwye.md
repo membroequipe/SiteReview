@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Makita DF333DWYE é boa? Análise e características"
+title: "Makita DF333DWYE é boa? Review 12V CXT para móveis"
 marca: "Makita"
 modelo: "Makita DF333DWYE"
-description: "Review da Makita DF333DWYE: torque, bateria, ergonomia, vantagens e limitações para montagem de móveis, MDF e manutenção."
+description: "Makita DF333DWYE vale a pena? Veja torque de 30 Nm, bateria 12V CXT, ergonomia, vantagens e limitações para móveis, MDF e reparos."
 slug: "review-makita-df333dwye"
 categories: [furadeiras, reviews]
 produto_id: makita_df333dwye
