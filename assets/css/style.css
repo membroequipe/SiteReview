@@ -1101,12 +1101,16 @@ details.toc-box[open] > summary::after {
     align-items: center;
     gap: 36px;
     padding: clamp(24px, 4vw, 48px);
-    background: linear-gradient(135deg, #bf953f, #fcf6ba, #b38728, #fbf5b7, #aa771c);
+    background-color: #d8dce0;
+    background-image:
+        linear-gradient(90deg, rgba(248, 250, 252, 0.88) 0%, rgba(248, 250, 252, 0.55) 52%, rgba(15, 23, 42, 0.15) 100%),
+        url("../images/fundo-tech.webp");
     background-size: cover;
-    background-position: center;
-    border-radius: 16px 16px 0 0;     
-    overflow: hidden; 
-    position: relative; 
+    background-position: right center;
+    background-repeat: no-repeat;
+    border-radius: 16px 16px 0 0;
+    overflow: hidden;
+    position: relative;
 }
 
 .pc-hero-main > * {
@@ -2552,12 +2556,16 @@ table.specs-table tbody th:first-child {
         border-radius: 16px;
     }
 
-    .pc-home .pc-hero-main {
+.pc-home .pc-hero-main {
         display: grid;
         grid-template-columns: minmax(0, 1fr);
         gap: 18px;
         padding: 24px 20px;
         border-radius: 15px 15px 0 0;
+        background-image:
+            linear-gradient(180deg, rgba(248, 250, 252, 0.92) 0%, rgba(248, 250, 252, 0.82) 100%),
+            url("../images/fundo-tech.webp");
+        background-position: center bottom;
     }
 
     .pc-home .pc-eyebrow {
