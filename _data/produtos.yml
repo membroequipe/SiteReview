@@ -2285,8 +2285,8 @@ bosch_go_3:
   imagem: /assets/images/posts/bosch-go-3.webp
   links:
     amazon: ''
-    mercadolivre: ''
-    shopee: ''
+    mercadolivre: "https://meli.la/2iGUJXa"
+    shopee: "https://s.shopee.com.br/3B98bhhJS9"
   especificacoes:
   - nome: Modelo
     valor: Bosch GO 3 Professional
