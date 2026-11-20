@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Melhores Parafusadeiras para Montagem de Móveis e MDF em 2026"
-description: "Compare Bosch GSB 18V-21, DeWalt DCD708 e Makita HP332 para montar móveis e trabalhar com MDF. Veja torque, impacto, baterias e qual escolher."
+title: "Melhores Parafusadeiras para Móveis e MDF (2026)"
+description: "Compare Bosch GSB 18V-21, DeWalt DCD708 e Makita HP332 para montar móveis e MDF: torque, impacto, baterias e qual vale mais a pena."
 slug: melhores-parafusadeiras-montagem
 permalink: /melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/
 categories: [guias]
