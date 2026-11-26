@@ -1355,7 +1355,7 @@ bosch_gbh_2_21:
 wap_wf_12k4_2:
   nome: WAP WF 12K4.2
   descricao: Furadeira/parafusadeira de impacto versátil para trabalhos domésticos.
-  imagem: assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png
+  imagem: /assets/images/posts/wap-bpfi-12k4-wf-12k4-2.png
   links:
     amazon: ''
     mercadolivre: https://meli.la/1AyjNfQ
