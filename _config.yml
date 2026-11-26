@@ -13,3 +13,13 @@ plugins:
   - jekyll-sitemap
 include:
   - _redirects
+  
+# Identidade editorial e logo para o jekyll-seo-tag
+logo: /assets/images/logo.png
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Equipe de Análises"
