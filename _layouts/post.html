@@ -14,9 +14,9 @@ layout: default
 
     <div class="post-meta">
 
-      {% if page.author %}
+     {% if page.author %}
         <span class="post-meta-author">
-          Por {{ page.author | escape }}
+          Por <a href="{{ '/como-pesquisamos/' | relative_url }}">{{ page.author | escape }}</a>
         </span>
       {% endif %}
 
