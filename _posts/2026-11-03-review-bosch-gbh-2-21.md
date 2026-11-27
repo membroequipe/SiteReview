@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GBH 2-21 é boa? Review do Martelete SDS-Plus"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GBH 2-21"
 description: "Bosch GBH 2-21 vale a pena? Veja análise da potência de 720W, força de impacto de 2,0 J, encaixe SDS-Plus, desempenho em concreto e comparação com concorrentes."
 slug: "review-bosch-gbh-2-21"
