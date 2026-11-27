@@ -304,7 +304,7 @@ O modelo traz seletor com 18 níveis de torque mais 1 posição de perfuração,
 
 {% include produto-card.html id="wap_bpf_12k3" %}
 
-> **Leia também:** Review da WAP BPF 12K3
+> **Leia também:** [Review da WAP BPF 12K3]({{ '/furadeiras/reviews/review-wap-bpf-12k3/' | relative_url }})
 
 ---
 
@@ -436,7 +436,7 @@ Por ser um modelo focado em torque extremo e perfuração rotativa pesada, **nã
 
 {% include produto-card.html id="bosch_gsr_18v_150c" %}
 
-> **Leia também:** Review da Bosch GSR 18V-150C
+> **Leia também:** [Review da Bosch GSR 18V-150C]({{ '/furadeiras/reviews/review-bosch-gsr-18v-150c/' | relative_url }})
 
 ---
 
