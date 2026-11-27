@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSB 18V-21 é boa? Análise e características"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSB 18V-21"
 description: "Bosch GSB 18V-21 vale a pena? Veja análise do desempenho em MDF e alvenaria, torque de 55 Nm, ergonomia, bateria 18V e comparação com a GSB 18V-50."
 slug: "review-bosch-gsb-18v-21"
