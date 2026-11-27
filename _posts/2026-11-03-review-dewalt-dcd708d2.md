@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DeWalt DCD708D2 é boa? Análise e ficha técnica"
-marca: "DeWalt"
+marca: dewalt
 modelo: "DeWalt DCD708D2"
 description: "A DeWalt DCD708D2 é boa para móveis? Veja análise do torque de 65 Nm, motor brushless, duas velocidades, conteúdo do kit brasileiro e limites antes de comprar."
 slug: "review-dewalt-dcd708d2"
