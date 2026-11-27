@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSR 12V-15 é boa? Review para móveis e MDF"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSR 12V-15"
 description: "Bosch GSR 12V-15 vale a pena? Veja análise do torque de 30 Nm, duas velocidades mecânicas, mandril de 10 mm, uso em MDF e diferença para a versão FlexiClick."
 slug: "review-bosch-gsr-12v-15"
