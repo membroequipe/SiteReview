@@ -3,146 +3,156 @@ layout: post
 title: "Bosch GSB 13 RE 750W é boa? Review da Furadeira"
 marca: "Bosch"
 modelo: "Bosch GSB 13 RE 750 W"
-description: "Bosch GSB 13 RE 750W vale a pena? Veja desempenho em alvenaria e madeira, mandril de 13 mm, vantagens e limites antes de comprar."
+description: "Bosch GSB 13 RE 750W vale a pena? Veja análise do desempenho em alvenaria, madeira e aço, mandril de 13 mm, vantagens, limites e comparativo antes de comprar."
 slug: "review-bosch-gsb-13-re-750w"
 categories: [furadeiras, reviews]
 produto_id: bosch_gsb_13_re_750w
 image: "/assets/images/posts/bosch-gsb-13-re-750w.webp"
+image_alt: "Furadeira de impacto com fio Bosch GSB 13 RE Professional 750W"
 date: 2026-11-03
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-26
 author: "Equipe de Análises"
+
 avaliacao:
   nota: 8.5
   resumo: >-
-    Análise editorial do Bosch GSB 13 RE 750 W, furadeira de impacto com fio, baseada em especificações oficiais e adequação à perfuração de concreto e alvenaria.
+    A Bosch GSB 13 RE Professional 750 W é uma furadeira de impacto com fio versátil para instalações, reparos domésticos e manutenção geral em alvenaria, madeira e metal. Conta com mandril de 13 mm, velocidade variável e peso leve de 1,7 kg. A nota 8,5/10 é uma avaliação editorial baseada na documentação oficial do fabricante.
   vantagens:
-    - "750 W e mandril convencional de 13 mm"
-    - "Boa versatilidade para materiais diferentes"
-    - "Peso declarado de 1,7 kg"
+    - "Motor potente de 750 W com velocidade variável e reversível no gatilho"
+    - "Mandril robusto de 13 mm (1/2\") compatível com brocas maiores"
+    - "Corpo leve e compacto (1,7 kg) com botão-trava para trabalho contínuo"
+    - "Excelente custo-benefício sem depender de baterias e carregadores"
   desvantagens:
-    - "Depende de tomada e tensão correta"
-    - "Limite de 13 mm em concreto"
-    - "Sem modo de cinzelamento"
+    - "Depende de tomada próxima e atenção à voltagem (127V ou 220V)"
+    - "Capacidade limitada a 13 mm em concreto (não substitui martelete SDS-Plus)"
+    - "Não possui modo de cinzelamento nem duas velocidades mecânicas"
 ---
+
+A **Bosch GSB 13 RE Professional 750 W** é uma furadeira de impacto com fio consagrada para instalações residenciais, manutenção geral e perfurações em alvenaria, madeira e metal. Com motor de **750 W**, mandril convencional de **13 mm (1/2")** e peso leve de **1,7 kg**, ela oferece potência constante ligada à tomada por um investimento bem menor do que ferramentas a bateria.
+
+**Resposta rápida:** vale muito a pena para uso doméstico exigente, instaladores e hobbistas que precisam de uma furadeira com fio leve, durável e versátil para madeira, chapas metálicas e furos ocasionais em paredes de tijolo ou reboco. Para perfuração repetitiva e pesada em concreto estrutural armado, um martelete SDS-Plus (como o **Bosch GBH 2-21**) é mais indicado. Sua nota editorial é **8,5/10**.
 
 {% include review-toc.html %}
 
-# Review Bosch GSB 13 RE 750 W: vale a pena para concreto e alvenaria?
-
-A **Bosch GSB 13 RE Professional 750 W** é uma furadeira de impacto com fio para instalações, reparos e perfurações em alvenaria, madeira e metal. O motor de 750 W, o mandril convencional de 13 mm e a velocidade variável permitem trabalhar com diferentes brocas e materiais. Seu limite é importante: ela utiliza percussão mecânica convencional, não o mecanismo eletropneumático de um martelete SDS-Plus. Por isso, atende melhor a furos ocasionais e de diâmetro moderado do que a perfurações repetitivas em concreto duro.
-
-Para comparar os quatro modelos, veja o [guia de furadeiras de impacto para alvenaria e concreto]({{ "/melhores-furadeiras-impacto-alvenaria-concreto/" | relative_url }}).
-
 {% include resumo-avaliacao.html %}
 
-{% include ficha-tecnica.html %}
+<div id="ficha-tecnica" class="specs-table-wrapper">
+  {% include ficha-tecnica.html %}
+</div>
 
 {% include produto-card.html %}
 
 ## Construção e Ergonomia
 
-O corpo compacto favorece serviços em apartamentos, instalações e manutenção geral. A empunhadura e o controle pelo gatilho ajudam a posicionar a broca e iniciar o furo com cuidado. Como trabalha ligada à rede elétrica, confirme se a unidade anunciada é de **127 V ou 220 V** antes da compra: não presuma que seja bivolt. Durante o uso, mantenha o cabo afastado da broca e utilize uma extensão dimensionada para a potência e a distância necessárias.
+Com peso declarado de apenas **1,7 kg**, a Bosch GSB 13 RE é fácil de manusear em instalações domésticas, apartamentos e pontos elevados. O corpo possui empunhadura emborrachada ergonômica, seletor de reversão de giro acima do gatilho (útil para desengatar brocas presas ou soltar parafusos) e **botão-trava** para trabalhos contínuos.
 
-O número de 57.000 impactos por minuto não equivale a 57.000 golpes de um martelete. A furadeira de impacto convencional produz pequenas percussões mecânicas, e a eficácia depende do material, da broca e da pressão correta. Não existe energia de impacto em joules publicada para esse mecanismo que possa ser comparada diretamente aos 2,0 J dos marteletes da lista.
+O **mandril tradicional de 1,5 a 13 mm (1/2")** aceita brocas cilíndricas mais grossas do que os modelos residenciais básicos de 10 mm, ampliando a compatibilidade com serras-copo e brocas de maior diâmetro. Por ser ligada à rede elétrica, lembre-se de conferir a voltagem correta (**127V ou 220V**) antes de fechar o pedido, pois ela não é bivolt.
 
 ## Desempenho e Aplicações
 
-### Ficha técnica: o que o fabricante confirma
+### Ficha técnica e capacidades declaradas
 
-A ficha brasileira da Bosch registra potência nominal absorvida de **750 W**, rotação de até **3.800 rpm** e até **57.000 impactos por minuto em vazio**. O mandril convencional aceita acessórios com haste de **1,5 a 13 mm**. As capacidades declaradas são de até **13 mm em concreto**, **25 mm em madeira** e **10 mm em aço**. O peso informado é de **1,7 kg**. Esses limites dependem da broca, do material e das condições de trabalho; não significam que a ferramenta tenha o mesmo rendimento em todos os tipos de concreto.
+Na ficha técnica oficial da Bosch Brasil, a GSB 13 RE 750 W apresenta:
+* **Potência nominal:** 750 W
+* **Rotação sem carga:** 0 a 3.800 rpm (velocidade variável no gatilho)
+* **Taxa de impacto:** até 57.000 impactos por minuto (ipm)
+* **Capacidade de perfuração:** até **13 mm em concreto**, **25 mm em madeira** e **10 mm em aço**
+* **Peso líquido:** 1,7 kg
 
 ### Onde a ferramenta funciona melhor
 
-Para instalar prateleiras, suportes leves e acessórios em tijolo ou alvenaria de resistência moderada, a GSB 13 RE pode ser uma opção prática, desde que o diâmetro esteja dentro do limite indicado pelo fabricante. Também pode furar madeira e aço com brocas próprias e a percussão desligada. Essa seleção do modo é essencial: use a percussão apenas em materiais minerais compatíveis; em madeira e metal, mantenha a perfuração simples para evitar danos ao acabamento e ao acessório.
+Na instalação de prateleiras, varões de cortina, suportes de TV, quadros e acessórios em paredes de tijolo, bloco cerâmico e reboco, a GSB 13 RE perfura com rapidez utilizando brocas de vídea convencionais. Desligando a chave seletora de impacto no topo da carcaça, ela também executa furos limpos em madeira e chapas metálicas com brocas apropriadas.
 
 ### Limitações que merecem atenção
 
-O fabricante informa capacidade máxima de **13 mm em concreto**. Esse número é um limite declarado, não uma promessa de rapidez em qualquer parede: concreto de alta resistência, agregado duro, broca desgastada e profundidade elevada podem reduzir bastante o avanço. Para muitos furos, diâmetros acima desse limite ou trabalho frequente em concreto duro, um martelete SDS-Plus tende a ser mais apropriado. A GSB 13 RE não é um martelete e não possui modo de cinzelamento.
+Embora atinja até 57.000 impactos por minuto, seu mecanismo é de **percussão axial mecânica** — diferente do pistão eletropneumático de um martelete SDS-Plus. Por isso, o limite de **13 mm em concreto** atende furos pontuais, mas não é indicado para perfurações seriadas em vigas e lajes de concreto estrutural denso. Ela também não possui modo de cinzelamento nem caixa mecânica de duas marchas.
 
-## Como avaliar este modelo para concreto e alvenaria
+## Para quem a Bosch GSB 13 RE 750 W vale a pena (e para quem não vale)
 
-Antes de escolher qualquer equipamento, identifique o material real da parede. Tijolo cerâmico, bloco de concreto, concreto maciço e concreto armado oferecem resistências diferentes. Um revestimento pode esconder o substrato e alterar a escolha da broca. Se houver dúvida sobre a estrutura, peça orientação profissional antes de iniciar. A escolha correta não é simplesmente comprar a ferramenta de maior potência anunciada.
+### Vale a pena para:
+* **Uso doméstico completo e manutenção residencial:** Resolve com folga instalações em parede, madeira e metal sem depender de recarga de baterias.
+* **Quem busca baixo custo com padrão profissional:** Entrega motor de 750 W e mandril de 13 mm da linha azul da Bosch por um valor acessível.
 
-Observe também o diâmetro, a profundidade e a quantidade de furos. Para instalar uma prateleira, alguns furos pequenos podem ser suficientes. Para uma instalação profissional com dezenas de fixações em concreto, a produtividade e o conforto passam a pesar mais. O encaixe da broca, o mecanismo de impacto e a ergonomia influenciam tanto quanto o número apresentado no anúncio. Verifique a compatibilidade entre broca, bucha e parafuso; um furo excessivamente largo pode comprometer a fixação.
-
-A potência elétrica em watts indica consumo nominal de uma ferramenta com fio; a tensão em volts indica a plataforma de bateria de um modelo sem fio. Nenhuma das duas grandezas, isoladamente, informa a energia de cada golpe. Marteletes costumam declarar joules; furadeiras de impacto convencionais frequentemente informam impactos por minuto. Não compare esses números como se medissem a mesma coisa. O conjunto deve ser avaliado pela aplicação prevista e pelos limites oficiais de perfuração.
-
-
-
-## Opinião dos Compradores: como interpretar avaliações
-
-Avaliações publicadas em lojas podem ajudar a identificar problemas recorrentes, mas precisam ser lidas com critério. Verifique se o comentário corresponde exatamente ao modelo e ao kit anunciado, pois versões com códigos parecidos podem ter acessórios ou especificações diferentes. Dê mais peso a relatos que descrevam material perfurado, diâmetro da broca e tempo de uso do que a frases genéricas sobre força.
-
-A nota editorial abaixo representa a adequação técnica ao perfil de uso descrito. Ela não é uma nota média de compradores nem uma certificação de desempenho.
-
-### Pontos positivos
-
-- 750 W e mandril convencional de 13 mm.
-- Boa versatilidade para materiais diferentes.
-- Peso declarado de 1,7 kg.
-
-### Pontos de atenção
-
-- Depende de tomada e tensão correta.
-- Limite de 13 mm em concreto.
-- Sem modo de cinzelamento.
+### Não vale a pena para:
+* **Perfuração pesada e repetitiva em concreto armado:** Se você trabalha com obras ou dezenas de furos diários em concreto estrutural, escolha um martelete SDS-Plus.
+* **Montagem delicada de móveis em MDF:** Por não ter anel de embreagem com ajuste de torque e girar até 3.800 rpm, uma parafusadeira a bateria de 12V oferece muito mais controle para parafusos em móveis.
 
 ## Comparativo com Concorrentes
 
-A **Makita HP2050** também é uma furadeira de impacto com fio, mas possui duas marchas mecânicas e capacidade declarada superior em concreto na ficha da família HP2050H. A Bosch GSB 13 RE tem peso informado de 1,7 kg e uma proposta mais simples e compacta. Já os **Bosch GBH 18V-21** e **GBH 2-21** são marteletes SDS-Plus: pertencem a outra categoria e fazem mais sentido quando a prioridade é perfuração repetitiva em concreto. Compare a ferramenta conforme o material, o diâmetro e a frequência dos furos, não apenas pela potência em watts.
+Para ajudar na escolha, comparamos a Bosch GSB 13 RE 750 W com uma furadeira de impacto com fio de duas marchas da Makita e com o martelete de entrada da própria Bosch:
+
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Modelo</th>
+        <th>Categoria e Potência</th>
+        <th>Destaques Técnicos</th>
+        <th>Melhor cenário de uso</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Bosch GSB 13 RE (750 W)</strong></td>
+        <td>Furadeira de impacto / 750 W</td>
+        <td>Mandril 13 mm / 1,7 kg / Concreto até 13 mm</td>
+        <td>Reparos domésticos leves e instalações gerais</td>
+      </tr>
+      <tr>
+        <td><strong>Makita HP2050</strong></td>
+        <td>Furadeira de impacto / 720 W</td>
+        <td>2 marchas mecânicas / Embreagem / Concreto até 20 mm</td>
+        <td>Uso misto intenso em metal, madeira e alvenaria</td>
+      </tr>
+      <tr>
+        <td><strong>Bosch GBH 2-21</strong></td>
+        <td>Martelete SDS-Plus / 720 W</td>
+        <td>2,0 J de impacto / 3 modos / Concreto até 21 mm</td>
+        <td>Perfuração frequente em concreto armado e cinzelamento</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+* **Makita HP2050:** Também é uma furadeira de impacto com fio, mas traz **duas velocidades mecânicas**, embreagem limitadora de torque e capacidade de até 20 mm em concreto — sendo mais robusta para oficinas, porém mais pesada (cerca de 2,4 kg) e cara. Veja o [review completo da Makita HP2050]({{ '/furadeiras/reviews/review-makita-hp2050/' | relative_url }}).
+* **Bosch GBH 2-21:** Martelete eletropneumático **SDS-Plus** de 720 W e **2,0 J de energia de impacto** com modo cinzelamento, indicado para quem fura concreto armado com frequência. Confira o [review completo do Bosch GBH 2-21]({{ '/marteletes/reviews/review-bosch-gbh-2-21/' | relative_url }}).
+
+Para explorar outras opções da categoria, acesse nosso [guia das melhores furadeiras de impacto para alvenaria e concreto]({{ '/melhores-furadeiras-impacto-alvenaria-concreto/' | relative_url }}).
 
 ## Cuidados práticos antes, durante e depois da perfuração
 
-Comece verificando a área de trabalho. Procure sinais de tubulações de água, gás e eletrodutos; quando apropriado, utilize detector adequado e consulte plantas do imóvel. Nenhum detector é infalível, por isso uma dúvida relevante deve interromper a perfuração. Em estruturas de concreto, não corte armaduras ou elementos protendidos sem avaliação técnica. Uma fixação doméstica não justifica comprometer a segurança do edifício.
-
-Escolha uma broca nova ou em bom estado, específica para o material e para o encaixe da ferramenta. Marque o ponto e mantenha o eixo perpendicular à superfície quando o tipo de fixação exigir. Não tente compensar uma broca cega pressionando o equipamento com força excessiva. Se o avanço diminuir, pare, retire a broca com cuidado e investigue a causa. Pode haver agregado mais duro, acessório inadequado ou obstrução no furo.
-
-Use óculos de proteção e proteção auditiva compatível com o trabalho. A poeira mineral pode conter sílica respirável; prefira captação de pó na origem e medidas de proteção adequadas ao risco. Não use apenas uma máscara qualquer como substituto de controle de poeira. Mantenha outras pessoas afastadas e fixe peças soltas. Ao trocar brocas, desligue o equipamento e, quando aplicável, retire a bateria ou desconecte o plugue.
-
-Depois de furar, limpe o orifício conforme as instruções da bucha ou do chumbador. Alguns sistemas exigem escovação e sopro ou aspiração em sequência específica. Um furo sujo pode reduzir a capacidade de ancoragem mesmo quando a broca e a máquina foram corretamente escolhidas. Evite instalar cargas importantes em bases ocas ou degradadas sem um sistema de fixação dimensionado para elas.
-
-## Vale a pena comprar?
-
-O melhor custo-benefício depende do preço final, da tensão elétrica e dos acessórios incluídos. Como é uma ferramenta com fio, não há bateria ou carregador para incluir no orçamento; considere brocas adequadas, extensão elétrica dimensionada corretamente e equipamentos de proteção. Compare anúncios pelo código completo, pela tensão (127 V ou 220 V) e pelo conteúdo da embalagem. Não escolha apenas pelo preço: uma versão com tensão incompatível não atende à instalação elétrica do local.
-
-Para uso eventual, avalie se a maior parte dos trabalhos será em madeira, metal, tijolo ou concreto e se a capacidade máxima de 13 mm em concreto atende às suas necessidades. Para profissionais, assistência técnica, reposição de peças, ergonomia em jornadas longas e disponibilidade de tomadas adequadas podem pesar mais do que pequenas diferenças de especificação. Nenhuma ficha técnica substitui a avaliação do serviço real.
-
-### O que conferir antes de comprar?
-
-- **Tensão:** confirme se o modelo anunciado é 127 V ou 220 V e se corresponde à rede do local.
-- **Mandril:** verifique se o anúncio é realmente da GSB 13 RE com mandril convencional de até 13 mm.
-- **Aplicação:** para concreto, respeite o limite declarado de 13 mm e considere um martelete para trabalhos repetitivos ou pesados.
-- **Acessórios:** confira se brocas e itens mostrados nas fotos fazem parte da embalagem ou são vendidos separadamente.
+* **Inspecione a parede antes de furar:** Consulte plantas hidráulicas e elétricas ou utilize um detector de metais e tensão para evitar atingir eletrodutos ou tubulações de água e gás. Evite perfurar vigas e pilares estruturais sem orientação técnica.
+* **Desligue o impacto em madeira e metal:** Mantenha a percussão ativada apenas para tijolo, reboco e alvenaria; para madeira e aço, deixe a chave seletora no símbolo de broca simples.
+* **Use EPIs adequados:** Utilize sempre óculos de proteção contra estilhaços, protetor auricular e máscara contra poeira mineral.
+* **Limpe o furo antes de colocar a bucha:** Remova o pó de dentro do orifício após perfurar para garantir firmeza máxima na fixação da bucha.
 
 ## Perguntas Frequentes
 
-### A GSB 13 RE tem 750 W?
+### A Bosch GSB 13 RE tem 750 W?
 
-Sim. A página brasileira oficial registra 750 W de potência nominal absorvida.
+Sim. A versão brasileira atual da Bosch GSB 13 RE Professional possui **750 W** de potência nominal absorvida (disponível em 127V ou 220V).
 
-### Qual a capacidade em concreto?
+### Qual é a capacidade máxima de perfuração em concreto?
 
-Até 13 mm, conforme a ficha técnica consultada.
+Até **13 mm em concreto/alvenaria**, além de até **25 mm em madeira** e **10 mm em aço**, conforme a ficha técnica oficial da Bosch.
 
-### Ela usa broca SDS-Plus?
+### Ela aceita brocas SDS-Plus?
 
-Não diretamente. Possui mandril convencional para brocas de haste compatível.
+Não. A Bosch GSB 13 RE utiliza **mandril tradicional de 1,5 a 13 mm**, compatível exclusivamente com brocas de haste cilíndrica lisa.
 
-### Serve para furar madeira?
+### Serve para furar madeira e metal?
 
-Sim, com broca apropriada e impacto desligado. A capacidade declarada é de 25 mm.
+Sim. Basta colocar a chave seletora superior na posição sem impacto (símbolo de broca) e utilizar brocas específicas para madeira ou aço rápido (HSS).
 
-### É melhor que um martelete?
+### Ela é melhor que um martelete SDS-Plus?
 
-Depende do serviço. É mais versátil para pequenos trabalhos diversos; um martelete é mais indicado para concreto duro e perfurações repetitivas.
+São ferramentas complementares. A **GSB 13 RE** é mais leve, mais barata e mais versátil para furos ocasionais em parede, madeira e metal; já um **martelete SDS-Plus** (como o Bosch GBH 2-21) é muito mais rápido e durável para furos repetitivos em concreto armado.
 
 ## Veredito Final e Recomendação de Compra
 
-A **Bosch GSB 13 RE 750 W** é uma alternativa coerente para quem precisa de uma furadeira de impacto com fio para manutenção geral e perfurações ocasionais em madeira, aço e alvenaria. O mandril de 13 mm e as capacidades declaradas de até 25 mm em madeira, 10 mm em aço e 13 mm em concreto ajudam a definir seu campo de uso. Para concreto duro, furos frequentes ou diâmetros maiores, um martelete SDS-Plus é normalmente a categoria mais adequada.
+A **Bosch GSB 13 RE 750 W vale muito a pena** para quem precisa de uma furadeira de impacto com fio leve, confiável e versátil para manutenção residencial, instalações e trabalhos em madeira, metal e alvenaria leve. A combinação de **750 W**, **mandril de 13 mm**, velocidade variável e peso de apenas **1,7 kg** entrega excelente custo-benefício sem depender de baterias.
 
-Antes de comprar, confirme a tensão da unidade (127 V ou 220 V), o código do modelo e os acessórios incluídos. A nota editorial de **8,5/10** considera os recursos e a adequação à categoria; não representa teste físico nem média de avaliações de compradores.
-
-
+Apenas lembre-se de conferir a voltagem correta (**127V ou 220V**) antes da compra e de recorrer a um martelete SDS-Plus caso a sua rotina envolva perfurações frequentes em concreto armado. Nossa nota editorial é **8,5/10**.
 
 ## Fontes oficiais
 

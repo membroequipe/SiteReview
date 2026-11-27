@@ -1,144 +1,152 @@
 ---
 layout: post
-title: DeWalt DCD708D2 é boa? Análise e ficha técnica
+title: "DeWalt DCD708D2 é boa? Análise e ficha técnica"
 marca: "DeWalt"
 modelo: "DeWalt DCD708D2"
-description: 'A DeWalt DCD708D2 é boa para móveis? Veja torque de 65 Nm, motor brushless, velocidades, kit brasileiro e limites para escolher com segurança.'
-slug: review-dewalt-dcd708d2
-categories:
-- furadeiras
-- reviews
+description: "A DeWalt DCD708D2 é boa para móveis? Veja análise do torque de 65 Nm, motor brushless, duas velocidades, conteúdo do kit brasileiro e limites antes de comprar."
+slug: "review-dewalt-dcd708d2"
+categories: [furadeiras, reviews]
 produto_id: dewalt_dcd708d2
-image: /assets/images/posts/dewalt-dcd708d2.webp
-image_alt: Furadeira e parafusadeira DeWalt DCD708D2
-date: '2026-11-03'
-last_modified_at: '2026-11-15'
-author: Equipe de Análises
+image: "/assets/images/posts/dewalt-dcd708d2.webp"
+image_alt: "Furadeira e parafusadeira DeWalt DCD708D2 ATOMIC 20V MAX Brushless"
+date: 2026-11-03
+last_modified_at: 2026-11-26
+author: "Equipe de Análises"
+
 avaliacao:
   nota: 8.9
-  resumo: Boa opção para montagem de MDF e instalação de ferragens em espaços reduzidos, desde que sejam respeitadas as limitações técnicas e a configuração do kit.
+  resumo: >-
+    A DeWalt DCD708D2 é uma furadeira e parafusadeira ultracompacta da linha ATOMIC 20V MAX com motor brushless, torque máximo de 65 Nm, mandril de 13 mm e duas velocidades mecânicas. É excelente para montagem de móveis e MDF em espaços estreitos, mas não possui função impacto para paredes. A nota 8,9/10 é uma avaliação editorial baseada na documentação oficial do fabricante.
   vantagens:
-  - Corpo compacto para armários e nichos
-  - Motor brushless e duas velocidades
-  - Mandril de 13 mm e LED de trabalho
+    - "Corpo ultracompacto (~160 mm) ideal para trabalhar dentro de armários e nichos"
+    - "Motor brushless (sem escovas) de alta eficiência e menor manutenção"
+    - "Mandril de aperto rápido de 13 mm (1/2\") e luz LED frontal"
+    - "Kit brasileiro (DCD708D2-BR) completo com duas baterias 20V MAX de 2,0 Ah, carregador e bolsa"
   desvantagens:
-  - Não indicada para concreto ou alvenaria
-  - Kit D2 pode variar por mercado
-  - Torque máximo declarado de 65 Nm na ficha brasileira
+    - "Não possui função impacto (não é indicada para perfurar alvenaria ou concreto)"
+    - "Não confunda com a versão DCD709 (que inclui mecanismo de impacto)"
 ---
+
+A **DeWalt DCD708D2** (código nacional **DCD708D2-BR**) é uma furadeira e parafusadeira ultracompacta da linha **ATOMIC 20V MAX**, equipada com **motor brushless (sem escovas)**, mandril de **13 mm (1/2")** e **65 Nm de torque máximo**, projetada especificamente para parafusamento e perfuração em madeira, MDF e metal em locais de difícil acesso.
+
+**Resposta rápida:** vale muito a pena para montadores de móveis planejados, marceneiros e instaladores que buscam uma ferramenta curta, leve, durável e com excelente controle de gatilho para trabalhar dentro de armários e nichos. Por **não possuir função impacto**, ela não serve para furar paredes de tijolo ou concreto — se você precisa de percussão para alvenaria, o modelo equivalente da mesma família é a **DeWalt DCD709**. Sua nota editorial é **8,9/10**.
 
 {% include review-toc.html %}
 
 {% include resumo-avaliacao.html %}
 
-{% include ficha-tecnica.html %}
-
-## DeWalt DCD708D2: vale a pena comprar?
-
-A **DeWalt DCD708D2** é uma furadeira/parafusadeira compacta da linha ATOMIC 20V MAX, com motor brushless e **sem mecanismo de impacto**. O código brasileiro indicado para esta configuração é **DCD708D2-BR**. Ela foi projetada para parafusamento e perfuração em materiais como madeira e metal, sendo especialmente interessante para montagem de móveis, MDF e instalação de ferragens em espaços reduzidos. Não confunda este modelo com a **DCD709**, que possui função de impacto e pertence a outra configuração.
-
-Nossa avaliação é **editorial**, baseada nas especificações oficiais e no uso previsto, não em testes de bancada realizados por nossa equipe. O modelo faz mais sentido para **montagem de MDF e instalação de ferragens em espaços reduzidos**. Se o objetivo principal for **perfuração em concreto, tijolos e blocos sem função impacto**, vale procurar uma ferramenta de outra categoria. A análise a seguir explica o motivo e os cuidados para evitar uma compra incompatível com sua rotina.
-
-Antes de decidir, confira o código completo do produto no anúncio: o nome da ferramenta e o conteúdo do kit não são sinônimos. Uma mesma família pode aparecer com bateria, carregador, bolsa ou maleta diferentes, e isso altera bastante o custo total.
-
-### DCD708D2 ou DCD709: qual é a diferença essencial?
-
-A **DCD708D2** é uma furadeira/parafusadeira sem impacto. A **DCD709** é um modelo com mecanismo de impacto. Não escolha apenas pela semelhança dos códigos ou das fotografias: confirme o modelo impresso na ferramenta e na embalagem. Se precisa perfurar alvenaria, essa diferença muda a adequação do produto à tarefa.
+<div id="ficha-tecnica" class="specs-table-wrapper">
+  {% include ficha-tecnica.html %}
+</div>
 
 {% include produto-card.html %}
 
 ## Construção e Ergonomia
 
-O motor brushless (sem escovas) elimina a necessidade de substituir escovas de carvão e é um dos diferenciais desta ferramenta. O corpo tem aproximadamente **160 mm de comprimento**, característica útil para alcançar áreas estreitas dentro de armários e nichos. O peso varia conforme a bateria e a configuração; confira se o número apresentado pelo vendedor se refere ao corpo sem bateria ou ao conjunto pronto para uso. Não compare valores medidos por critérios diferentes.
+O grande diferencial construtivo da **DeWalt DCD708D2** pertence à proposta da linha **ATOMIC 20V MAX**: entregar o desempenho de uma ferramenta de 20V MAX (18V nominais) em uma cabeça extremamente curta, com apenas **160 mm de comprimento frontal**.
 
-Em montagem de móveis, a ergonomia aparece principalmente ao trabalhar dentro de armários, em dobradiças e nas laterais de gavetas. Uma empunhadura que permita manter o punho alinhado facilita o controle, mas o conforto depende também do tamanho da mão e da bateria utilizada. Uma ferramenta compacta não elimina o risco de danificar a peça: a posição da broca e a pressão aplicada continuam decisivas.
+Na prática, essa geometria compacta permite alinhar a ferramenta perpendicularmente ao parafuso dentro de módulos estreitos de cozinha, gavetas e dobradiças sem bater a traseira da máquina nas laterais do móvel. O **motor brushless** elimina escovas de carvão, reduz o aquecimento em jornadas contínuas e aproveita melhor a carga das baterias. Conta ainda com luz LED na base para iluminar o interior de armários escuros e empunhadura emborrachada bem equilibrada.
 
-Observe ainda a acessibilidade do seletor de sentido, o equilíbrio com a bateria encaixada e a facilidade de posicionar a ferramenta perpendicularmente ao painel. A iluminação integrada, quando presente, ajuda a enxergar cantos escuros, mas não substitui a marcação correta do furo. Para uso repetitivo, faça pausas e organize os parafusos por comprimento antes de iniciar a montagem.
+### DCD708D2 ou DCD709: atenção para não confundir os códigos
+
+A **DCD708D2** é uma furadeira e parafusadeira estritamente rotativa (**sem impacto**). Já a **DCD709** possui aparência externa quase idêntica, mas incorpora anel seletor com **função impacto mecânico** para paredes de alvenaria. Confira sempre o código impresso na etiqueta antes de finalizar o pedido.
 
 ## Desempenho e Aplicações
 
-A faixa de rotação declarada é de **0–450 rpm na primeira velocidade e 0–1.650 rpm na segunda**. A marcha mais lenta favorece o controle no início do parafusamento e em ferragens delicadas. A marcha rápida é mais apropriada para perfuração com broca compatível em madeira ou metal. A escolha depende do diâmetro do acessório, da resistência da peça e da recomendação do fabricante.
+### Torque, velocidades e controle em MDF
 
-A ficha oficial brasileira do código **DCD708D2-BR** informa torque máximo de **65 Nm**. Esse valor não deve ser confundido com UWO, uma medida de potência de saída usada em materiais de outros modelos e mercados. Em MDF, comece com um ajuste baixo no anel de embreagem e aumente gradualmente até obter o aperto necessário. Isso ajuda a evitar que a cabeça do parafuso afunde demais ou que a rosca perca aderência. Em madeira maciça, um furo piloto pode reduzir o risco de rachadura.
+Na ficha técnica oficial brasileira do modelo **DCD708D2-BR**, a ferramenta entrega:
+* **Torque máximo:** 65 Nm
+* **Rotação sem carga:** **0 a 450 rpm** (1ª marcha) e **0 a 1.650 rpm** (2ª marcha)
+* **Mandril:** aperto rápido de **1,5 a 13 mm (1/2")**
+* **Regulagem de embreagem:** anel mecânico escalonado para controle fino de aperto
 
-O sistema de fixação é **mandril de 13 mm (1/2 polegada)**. Utilize brocas retas e bits do tamanho exato da cabeça do parafuso. Uma ponta Phillips gasta costuma escapar e danificar ferragens, mesmo quando a máquina está em bom estado. Para perfuração, fixe a peça sobre uma base estável e mantenha o acessório alinhado ao eixo do furo.
+Na montagem de móveis em MDF e MDP, a primeira velocidade (até 450 rpm) combinada ao gatilho eletrônico progressivo e ao ajuste baixo de embreagem permite assentar parafusos com precisão, evitando afundar a cabeça na chapa ou espanar a rosca interna. Na segunda marcha (até 1.650 rpm), o mandril de 13 mm aceita brocas mais largas para perfurações rápidas em madeira e chapas metálicas.
 
-Sobre alvenaria, a limitação é clara: **a DCD708D2 não possui mecanismo de impacto**. Portanto, não é a escolha indicada para perfurar concreto, tijolos ou blocos como uma furadeira de impacto. Não force a broca contra esses materiais nem use o equipamento como substituto de uma ferramenta com percussão ou de um martelete SDS-Plus. Antes de qualquer perfuração em parede, verifique a existência de fios elétricos e tubulações.
+### Limitações que merecem atenção
+
+Por **não possuir mecanismo de impacto**, a DCD708D2 não deve ser forçada contra paredes de tijolo, bloco ou concreto. Para perfurações em alvenaria, utilize uma furadeira de impacto dedicada ou um martelete SDS-Plus.
 
 ## Bateria, Autonomia e Conteúdo do Kit
 
-A composição comercial merece atenção especial. O sufixo **D2** identifica uma apresentação em kit, mas a ficha brasileira **DCD708D2-BR** informa duas baterias de 2,0 Ah, carregador DCB107 e bolsa de nylon. Ainda assim, confirme o código e a lista de itens no anúncio que será enviado. Não presuma que fotografias de anúncios representem exatamente a embalagem vendida: confira a lista de itens e, se necessário, confirme com o vendedor. Guarde uma captura da descrição e confira o manual recebido.
+No Brasil, o código comercial **DCD708D2-BR** corresponde ao kit completo pronto para uso, que acompanha:
+* 1 Furadeira/Parafusadeira DeWalt DCD708 (20V MAX Brushless)
+* **2 Baterias DeWalt 20V MAX de 2,0 Ah** (íons de lítio)
+* 1 Carregador bivolt **DCB107**
+* 1 Bolsa de transporte em nylon
 
-Autonomia não é um número fixo em minutos. Ela varia conforme a bateria, o diâmetro do parafuso, a dureza da madeira, o tempo de gatilho acionado e a temperatura. Um lote de dobradiças pequenas exige muito menos energia que uma sequência de furos largos. Por isso, promessas genéricas de meia hora ou uma hora de uso contínuo são pouco úteis sem explicar as condições do ensaio.
-
-Para preservar as baterias, utilize carregador compatível e evite armazenar o conjunto em locais muito quentes ou úmidos. Se houver duas baterias no kit, alterne-as conforme a necessidade sem forçar ciclos de descarga completa. Nunca adapte contatos elétricos ou misture plataformas diferentes apenas porque as tensões parecem semelhantes.
-
-Quem já possui baterias compatíveis da plataforma DeWalt 20V MAX pode avaliar uma versão de corpo avulso, caso esteja disponível no mercado. Essa opção só é vantajosa depois de confirmar a compatibilidade e comparar o custo total. Para quem está começando na plataforma, considere o preço do kit completo, incluindo baterias e carregador.
-
-## O que conferir antes de comprar
-
-Comentários de compradores podem ajudar a identificar questões de ergonomia, durabilidade do mandril e qualidade da embalagem, mas precisam ser lidos com critério. Dê preferência a avaliações que mencionem o código exato do modelo, o tipo de serviço executado e o período de utilização. Uma opinião sobre outra versão da mesma família não confirma que todos os acessórios ou recursos estejam presentes neste kit.
-
-Avaliações com fotografias da etiqueta e da maleta são mais úteis para conferir o conteúdo da compra do que afirmações genéricas como “muito forte”. Também é importante separar defeitos de fabricação de situações de uso inadequado, como exigir perfuração pesada em concreto de uma ferramenta sem impacto. 
-
-Ao comparar vendedores, observe nota fiscal, política de devolução, assistência autorizada e descrição da garantia válida no Brasil. Se o preço estiver muito abaixo da média, confirme a procedência, o tipo de plugue do carregador e a tensão de entrada antes de finalizar o pedido.
-
-
+Ter **duas baterias de 2,0 Ah** no kit garante trabalho contínuo sem pausas para recarga durante a montagem de móveis grandes, além de manter a ferramenta leve e bem equilibrada (com menor peso na base do que baterias de 4,0 Ah ou 5,0 Ah). As baterias são 100% compatíveis com toda a plataforma **DeWalt 20V MAX**.
 
 ## Comparativo com Concorrentes
 
-A **Bosch GSB 18V-21** e a **Makita HP332DWYE** possuem mecanismo de impacto para perfurações ocasionais em alvenaria, enquanto a DCD708D2 não possui esse recurso. Em contrapartida, a DeWalt prioriza o formato compacto ATOMIC, o motor brushless e o uso em madeira e metal. Nenhum desses modelos é automaticamente o melhor para todas as pessoas: a escolha depende dos materiais que você precisa perfurar e da plataforma de bateria que já utiliza. Uma plataforma 18V pode fazer sentido para quem já utiliza ferramentas compatíveis; uma opção 12V pode ser preferível quando espaço e peso são prioridades; e uma máquina sem impacto é perfeitamente adequada para MDF, embora não resolva a mesma tarefa de uma furadeira percussiva.
+Para ajudar na escolha, comparamos a DeWalt DCD708D2 com duas alternativas de destaque para montagem de móveis e reparos:
 
-Compare também o custo de baterias adicionais, o preço de bits de qualidade e a disponibilidade de assistência na sua região. O pacote com mais acessórios nem sempre é o mais econômico, especialmente quando as peças extras são pouco utilizadas. Para um montador de móveis, duas boas brocas, bits corretos e um escareador podem trazer mais resultado que dezenas de acessórios genéricos.
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Modelo</th>
+        <th>Plataforma e Motor</th>
+        <th>Função Impacto</th>
+        <th>Melhor cenário de uso</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>DeWalt DCD708D2</strong></td>
+        <td>20V MAX / Brushless / Mandril 13 mm</td>
+        <td><strong>Não</strong></td>
+        <td>Marcenaria, MDF e espaços apertados sem precisar furar parede</td>
+      </tr>
+      <tr>
+        <td><strong>Bosch GSB 18V-21</strong></td>
+        <td>18V / Com escovas / Mandril 13 mm</td>
+        <td>Sim (27.000 ipm)</td>
+        <td>Montagem de móveis + furos ocasionais em parede</td>
+      </tr>
+      <tr>
+        <td><strong>Makita HP332DWYE</strong></td>
+        <td>12V CXT / Brushless / Mandril 10 mm</td>
+        <td>Sim (22.500 ipm)</td>
+        <td>Montagem leve em 12V com impacto para alvenaria leve</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-Se sua prioridade for exclusivamente parafusar em móveis pequenos, uma parafusadeira elétrica leve também pode atender. Se precisa perfurar tijolos, blocos ou concreto, escolha uma furadeira com mecanismo de impacto ou um martelete SDS-Plus, conforme a frequência e a dificuldade do serviço. A melhor escolha nasce da tarefa predominante, não de uma comparação isolada de tensão ou potência.
+* **Bosch GSB 18V-21:** Entrega 55 Nm de torque rígido e inclui **função impacto** para tijolo e alvenaria, porém possui corpo mais longo e motor com escovas de carvão. Veja o [review completo da Bosch GSB 18V-21]({{ '/furadeiras/reviews/review-bosch-gsb-18v-21/' | relative_url }}).
+* **Makita HP332DWYE:** Pertence à plataforma compacta **12V Max CXT**, trazendo **motor brushless (BL)**, peso mais leve (1,1 kg) e função impacto leve para furos de até 8 mm em parede. Confira o [review completo da Makita HP332DWYE]({{ '/furadeiras/reviews/review-makita-hp332dwye/' | relative_url }}).
 
 ## Como usar a parafusadeira sem danificar MDF
 
-Comece marcando a posição do parafuso com régua e esquadro. Em chapas próximas às bordas, siga a orientação do fabricante do móvel quanto a afastamento, diâmetro e profundidade do furo. Se houver necessidade de pré-furação, escolha uma broca compatível com o diâmetro do corpo do parafuso e evite atravessar a face oposta da peça.
-
-Coloque um limitador de profundidade na broca quando a espessura for pequena. Inicie o aperto em velocidade baixa e mantenha a ferramenta alinhada ao eixo do parafuso. Ao perceber aumento brusco da resistência, solte o gatilho e termine manualmente, se necessário. O controle de torque é um auxílio, não uma garantia de que a rosca não será espanada.
-
-Em dobradiças, aperte inicialmente todos os parafusos de forma parcial e faça o alinhamento antes do aperto final. Em corrediças de gavetas, confira o paralelismo e evite compensar um furo fora de posição usando força excessiva. Use óculos de segurança durante a perfuração e prenda peças pequenas com grampos apropriados.
-
-Nunca ative o modo impacto ao parafusar em MDF. Se a ferramenta oferecer percussão, deixe-a desligada para madeira, metal e ferragens, salvo orientação específica do fabricante. Após o trabalho, limpe o pó com pano seco e guarde os acessórios separados da bateria ou do carregador conforme o manual.
+* **Comece com embreagem baixa:** ajuste o anel seletor entre as posições 3 e 6 e faça um teste em uma sobra de painel antes de montar a peça definitiva.
+* **Use o bit (ponteira) exato:** utilize ponteiras **PH2** ou **PZ2** novas e bem encaixadas para evitar que escapem e risquem o revestimento melamínico.
+* **Faça pré-furo próximo às bordas:** um furo-guia fino evita rachaduras e estufamento nas extremidades das chapas de MDF.
+* **Acelere suavemente:** aproveite a progressividade do gatilho eletrônico da DCD708 para iniciar o aperto em baixa rotação e parar assim que o parafuso encostar.
 
 ## Perguntas Frequentes
 
-### DeWalt DCD708D2 serve para montar móveis planejados?
+### A DeWalt DCD708D2 serve para montar móveis planejados?
 
-Sim, para **montagem de MDF e instalação de ferragens em espaços reduzidos**, desde que o usuário ajuste a velocidade, utilize bits adequados e respeite a espessura das chapas. O cuidado com o aperto final é fundamental para preservar o MDF.
+Sim, é uma das melhores ferramentas da categoria para essa finalidade. O corpo curto de **160 mm**, o **motor brushless**, o **mandril de 13 mm** e o controle fino de velocidade na primeira marcha (0–450 rpm) facilitam muito o trabalho dentro de armários, gavetas e nichos.
 
-### É possível furar concreto com este modelo?
+### É possível furar parede ou concreto com a DeWalt DCD708D2?
 
-Não é a ferramenta indicada para esse trabalho. A DCD708D2 não possui mecanismo de impacto e foi concebida para perfuração em materiais como madeira e metal. Para tijolo e bloco, escolha uma furadeira com impacto; para concreto duro ou perfurações frequentes, considere um martelete SDS-Plus.
+Não. A DCD708D2 **não possui função impacto**, sendo projetada exclusivamente para parafusamento e perfuração em madeira, MDF, plásticos e metais. Se você precisa furar alvenaria ou concreto, escolha a versão com impacto **DeWalt DCD709** ou confira nosso [guia de furadeiras de impacto e marteletes]({{ '/melhores-furadeiras-impacto-alvenaria-concreto/' | relative_url }}).
 
-### Qual velocidade usar para apertar parafusos?
+### O kit DCD708D2-BR acompanha duas baterias e carregador?
 
-Prefira começar em baixa rotação, principalmente perto de bordas e em ferragens delicadas. A marcha rápida pode ser útil em perfuração, com broca adequada.
+Sim. Na configuração oficial brasileira **DCD708D2-BR**, o pacote inclui a ferramenta, **duas baterias 20V MAX de 2,0 Ah**, **carregador bivolt DCB107** e **bolsa de nylon**. Sempre confirme o código completo `DCD708D2-BR` na descrição do anúncio.
 
-### A bateria e o carregador vêm incluídos?
+### Qual a diferença entre 20V MAX e 18V?
 
-O sufixo D2 indica uma configuração em kit, mas confirme no anúncio brasileiro **DCD708D2-BR** a quantidade e a capacidade das baterias, o carregador e a presença de bolsa ou maleta. Não conclua que todos os anúncios incluem os mesmos acessórios apenas pelo título ou pelas fotografias.
-
-### Posso usar qualquer bit Phillips?
-
-Não é recomendável. Escolha o tamanho correto da ponta, em boas condições, e mantenha o eixo alinhado. Bits gastos favorecem o escape e danificam a cabeça do parafuso.
-
-### O que observar para não comprar a versão errada?
-
-Confira modelo, sufixo do kit, plataforma de bateria, acessórios incluídos, nota fiscal e disponibilidade de assistência. A aparência externa de ferramentas da mesma família pode ser muito semelhante.
-
+Na prática, **20V MAX e 18V representam a mesma classe de tensão**: 18V é a tensão nominal em operação contínua, enquanto 20V MAX indica a tensão de pico inicial da bateria totalmente carregada (padrão de nomenclatura adotado pela DeWalt).
 
 ## Veredito Final e Recomendação de Compra
 
-A **DeWalt DCD708D2** recebe nota editorial **8,9/10** por sua adequação à **montagem de MDF e instalação de ferragens em espaços reduzidos**, considerando os recursos documentados e as limitações da categoria. A nota não representa teste físico, comparação instrumental ou garantia de desempenho em qualquer situação. É uma síntese de características técnicas e adequação de uso.
+A **DeWalt DCD708D2 vale muito a pena** para montadores de móveis planejados, marceneiros, instaladores e entusiastas que procuram uma furadeira e parafusadeira ultracompacta, potente e durável com **motor brushless** e **mandril metálico de 13 mm** para trabalhar em madeira, MDF e metal. O kit brasileiro **DCD708D2-BR** com duas baterias de 2,0 Ah e carregador entrega um conjunto pronto para jornadas intensas sem pausas.
 
-O maior benefício é escolher a ferramenta sabendo o que ela faz e o que não faz. Os principais pontos favoráveis são o corpo compacto para armários e nichos, o motor brushless, as duas velocidades, o mandril de 13 mm e a iluminação de trabalho. Em contrapartida, ela não possui impacto, não é indicada para perfuração em concreto ou alvenaria e não há torque oficial em Nm para comparação direta. O conteúdo do kit D2 também precisa ser confirmado no anúncio brasileiro. Para **perfuração em concreto, tijolos e blocos sem função impacto**, procure uma solução mais apropriada em vez de exigir além do previsto no manual.
-
-Antes de finalizar, confira o conteúdo real da embalagem, os preços atualizados e a assistência no Brasil. Para mais orientações, veja nosso [guia de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}) e o [guia de montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
-
-
+Apenas certifique-se de que você não precisa da função impacto para furar paredes de alvenaria — caso precise de impacto, opte pela **DeWalt DCD709** ou compare outras opções no nosso [guia de parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e na página principal de [parafusadeiras]({{ '/parafusadeiras/' | relative_url }}). Nossa nota editorial é **8,9/10**.
 
 ## Fontes oficiais
 

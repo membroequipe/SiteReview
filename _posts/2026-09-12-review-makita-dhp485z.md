@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Makita DHP485Z é boa? Review da furadeira 18V"
+title: "Makita DHP485Z é boa? Review da furadeira e parafusadeira 18V"
 modelo: "Makita DHP485Z"
 marca: "Makita"
 description: "Makita DHP485Z vale a pena? Conheça o motor brushless, torque de 60 Nm, função impacto, mandril de 13 mm e o que vem na versão Z."
@@ -10,7 +10,7 @@ produto_id: makita_xph14z_dhp485
 image: "/assets/images/posts/makita-dhp485z.webp"
 image_alt: "Furadeira e parafusadeira de impacto Makita DHP485Z 18V LXT brushless"
 date: 2026-11-04
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-26
 author: "Equipe de Análises"
 
 avaliacao:
@@ -35,9 +35,10 @@ avaliacao:
     - "Pode exigir investimento adicional para quem não possui a plataforma LXT"
 ---
 
-{% include review-toc.html %}
 
 A **Makita DHP485Z é uma furadeira e parafusadeira de impacto 18V com motor brushless**, indicada para quem alterna entre parafusar e perfurar madeira, aço e alvenaria dentro dos limites especificados. Ela tem torque máximo declarado de 60 Nm, duas velocidades mecânicas, mandril de 13 mm e 21 níveis de ajuste de torque.
+
+{% include review-toc.html %}
 
 O detalhe mais importante na compra é a letra Z: esta apresentação é vendida sem bateria, carregador e maleta. Para quem já possui baterias Makita LXT 18V compatíveis, isso pode fazer sentido. Quem está começando na plataforma deve calcular o custo do conjunto completo. Esta análise é documental e editorial; não realizamos testes próprios de torque, autonomia ou perfuração.
 
@@ -111,7 +112,7 @@ Para comparar outras ferramentas destinadas à montagem de móveis, consulte [no
 
 ## Antes de escolher sua Makita DHP485Z
 
-A Makita DHP485Z é uma excelente opção para quem já utiliza ferramentas da plataforma 18V LXT. Antes de finalizar a compra, confira o conteúdo do anúncio para identificar se está adquirindo somente a ferramenta ou um kit com bateria e carregador.
+A Makita DHP485Z é uma escolha coerente para quem já utiliza ferramentas da plataforma 18V LXT. Antes de finalizar a compra, confira o conteúdo do anúncio para identificar se está adquirindo somente a ferramenta ou um kit com bateria e carregador.
 
 Compare também as condições de garantia, entrega e devolução. Assim, você consegue escolher a oferta que melhor atende às suas necessidades.
 Não confunda a DHP485Z com outros modelos Makita de aparência semelhante. Use o código comercial completo e a ficha técnica para conferir a versão.
@@ -142,7 +143,7 @@ Sim. Ela utiliza motor sem escovas de carvão, uma tecnologia que reduz a necess
 
 ### Qual é o torque da DHP485Z?
 
-O torque máximo informado é de 50 Nm, oferecendo força para diferentes atividades de montagem, manutenção e perfuração.
+O torque máximo declarado pela Makita é de **60 Nm** (com 50 Nm em junta rígida e 27 Nm em junta flexível), oferecendo força suficiente para montagens, manutenção e perfurações dentro dos limites da ferramenta.
 
 ### A DHP485Z acompanha bateria e carregador?
 
@@ -154,7 +155,7 @@ Sim. Ela possui função impacto, que permite realizar perfurações em alvenari
 
 ### Qual a diferença entre DHP485Z e DHP490?
 
-A designação DHP485Z identifica a versão comercializada sem bateria e carregador. Observe principalmente a configuração, os acessórios incluídos e as condições da oferta.
+Ambas são furadeiras e parafusadeiras de impacto 18V LXT brushless com mandril de 13 mm e proteção XPT. A principal diferença está na força e nos ajustes: a **DHP485Z** entrega torque máximo de **60 Nm** com **21 níveis de torque**, enquanto a **DHP490** chega a **65 Nm** com **20 níveis**. Além disso, a letra **Z** na DHP485Z indica que ela é vendida avulsa, sem bateria e carregador.
 
 ### A Makita DHP485Z é compatível com outras baterias Makita?
 
@@ -162,7 +163,7 @@ Ela utiliza baterias da plataforma 18V LXT. Antes de utilizar uma bateria que vo
 
 ## Veredito: a Makita DHP485Z vale a pena?
 
-Sim. A Makita DHP485Z é uma excelente opção para quem procura uma furadeira e parafusadeira de impacto a bateria, com motor brushless, torque de até 50 Nm e versatilidade para trabalhos de montagem, manutenção e perfuração.
+Sim. A Makita DHP485Z é uma escolha consistente para quem procura uma furadeira e parafusadeira de impacto 18V com motor brushless, torque máximo de até **60 Nm** e boa versatilidade para montagem, manutenção e perfuração leve em alvenaria.
 
 Seu principal diferencial é a combinação de desempenho, praticidade e compatibilidade com a plataforma Makita 18V LXT.
 

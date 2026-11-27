@@ -3,35 +3,36 @@ layout: post
 title: "Makita DF333DWYE é boa? Review 12V CXT para móveis"
 marca: "Makita"
 modelo: "Makita DF333DWYE"
-description: "Makita DF333DWYE vale a pena? Veja torque de 30 Nm, bateria 12V CXT, ergonomia, vantagens e limitações para móveis, MDF e reparos."
+description: "Makita DF333DWYE vale a pena? Veja análise do torque de 30 Nm, kit 12V CXT com duas baterias de 1,5 Ah, ergonomia, diferenças para a DF332D e limites para móveis e MDF."
 slug: "review-makita-df333dwye"
 categories: [furadeiras, reviews]
 produto_id: makita_df333dwye
 image: "/assets/images/posts/makita-df333dwye.webp"
-image_alt: "Furadeira e parafusadeira Makita DF333DWYE"
+image_alt: "Furadeira e parafusadeira Makita DF333DWYE 12V Max CXT com maleta e baterias"
 date: 2026-11-04
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-26
 author: "Equipe de Análises"
+
 avaliacao:
   nota: 9.0
   resumo: >-
-    A Makita DF333DWYE é uma furadeira e parafusadeira sem impacto com torque duro/suave de 30/14 Nm, duas velocidades e mandril de 0,8 a 10 mm. É indicada para móveis e manutenção leve; sua escolha depende do kit e das tarefas previstas.
+    A Makita DF333DWYE é uma furadeira e parafusadeira sem impacto da plataforma 12V Max CXT, com torque de 30 Nm em junta rígida (14 Nm em junta flexível), duas velocidades mecânicas e 20 ajustes de embreagem. O kit brasileiro DWYE inclui duas baterias de 1,5 Ah, carregador rápido e maleta. A nota 9,0/10 é uma avaliação editorial baseada na documentação oficial do fabricante.
   vantagens:
-    - "Torque de 30 Nm em junta rígida para aplicações leves e médias."
-    - "Duas marchas para separar aperto controlado e perfuração."
-    - "Bateria removível de plataforma consolidada."
-    - "Mandril de aperto rápido para brocas e ponteiras comuns."
+    - "Kit nacional completo (DWYE) com 2 baterias de 1,5 Ah, carregador rápido e maleta"
+    - "Torque de 30 Nm em junta rígida com 20+1 posições de ajuste de embreagem"
+    - "Duas marchas mecânicas (0–450 rpm e 0–1.700 rpm) para separar aperto e perfuração"
+    - "Corpo leve (~1,1 kg com bateria) e compatibilidade com a plataforma Makita 12V Max CXT"
   desvantagens:
-    - "Não possui impacto para alvenaria e concreto."
-    - "Mandril limitado a 10 mm."
-    - "Autonomia real depende da bateria e da aplicação."
+    - "Não possui função impacto (não é indicada para furar paredes de alvenaria ou concreto)"
+    - "Motor convencional com escovas de carvão (diferente da irmã brushless DF332D)"
+    - "Mandril de aperto rápido limitado a brocas de até 10 mm (3/8\")"
 ---
 
+A **Makita DF333DWYE** é uma furadeira e parafusadeira compacta da plataforma **12V Max CXT** sem impacto, desenvolvida para montagem de móveis planejados ou modulados, instalação de ferragens e manutenção leve em madeira e metal. Seu grande diferencial comercial é o pacote brasileiro completo (**sufixo DWYE**), que acompanha **duas baterias de 1,5 Ah, carregador rápido bivolt e maleta**.
+
+**Resposta rápida:** vale muito a pena para montadores de móveis, marceneiros e usuários domésticos que buscam uma ferramenta leve (~1,1 kg), confiável e pronta para trabalhar sem pausas graças às duas baterias inclusas no kit. Por **não possuir função impacto** (diferente da **Makita HP333**) e usar motor convencional com escovas (diferente da **Makita DF332D**), ela não fura paredes de tijolo ou concreto. Sua nota editorial é **9,0/10**.
+
 {% include review-toc.html %}
-
-A **Makita DF333DWYE** é uma furadeira e parafusadeira a bateria da plataforma **12V max CXT**, sem mecanismo de impacto. Ela foi pensada para tarefas como montagem de móveis, instalação de dobradiças, fixação de prateleiras e manutenção leve. Neste review, avaliamos o que seus 30 Nm, duas velocidades, 20 ajustes de torque e kit com duas baterias de 1,5 Ah significam na prática — e quando é melhor escolher outro modelo. 
-
-Para uma escolha mais ampla, consulte nosso [guia para comprar a primeira parafusadeira]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}) e a [página de reviews]({{ '/reviews/' | relative_url }}).
 
 {% include resumo-avaliacao.html %}
 
@@ -43,100 +44,113 @@ Para uma escolha mais ampla, consulte nosso [guia para comprar a primeira parafu
 
 ## Construção e Ergonomia
 
-O principal diferencial comercial da configuração **DWYE** é o kit cadastrado com **duas baterias Makita 12V max CXT de 1,5 Ah, carregador rápido e maleta**. A plataforma compacta de 12V pode facilitar o trabalho dentro de armários e próximo de dobradiças, em comparação com ferramentas maiores. Ainda assim, o acesso depende do espaço disponível e do comprimento do mandril, da broca ou do bit. Antes da compra, confira se o anúncio corresponde ao código DF333DWYE e confirma todos os itens do kit.
+Com peso aproximado de **1,1 kg com bateria** e comprimento reduzido, a **Makita DF333DWYE** oferece excelente equilíbrio no punho para trabalhar dentro de gabinetes, nichos e gavetas sem causar fadiga precoce. Conta com **mandril de aperto rápido de 0,8 a 10 mm (3/8")**, seletor superior de **duas velocidades mecânicas**, **freio elétrico instantâneo** ao soltar o gatilho, seletor de reversão acessível ao polegar e **luz LED frontal**.
 
-A ficha brasileira cadastrada informa peso de aproximadamente **1,1 kg**. Como fichas de fabricantes podem apresentar o peso em condições diferentes, não compare esse valor diretamente com números de outras marcas sem confirmar se incluem a bateria. A capacidade da bateria também pode alterar o equilíbrio na mão. Em trabalhos acima da cabeça ou durante longos períodos, observe se consegue manter o eixo do parafuso alinhado sem forçar o punho.
-
-O mandril de aperto rápido aceita acessórios com haste de **0,8 a 10 mm**. Ele dispensa chave de mandril e permite alternar entre brocas e porta-bits, mas exige aperto correto antes do uso. Brocas empenadas, ponteiras gastas ou adaptadores longos prejudicam a precisão e podem aumentar a sensação de vibração. Para marcenaria, uma ponteira adequada ao encaixe do parafuso costuma fazer mais diferença no acabamento que pequenas diferenças de torque máximo.
-
-A DF333 utiliza **motor de dois polos com escovas de carvão**; não deve ser anunciada como brushless. O cadastro também informa 20 níveis de torque, luz LED, reversão, freio elétrico e duas velocidades mecânicas. Esses recursos atendem bem a tarefas de montagem, mas não transformam o modelo em uma ferramenta de impacto. Compare o código completo do anúncio com o conteúdo da caixa: ferramenta avulsa, kit com uma bateria e kit DWYE com duas baterias são ofertas diferentes. Fotografias ilustrativas não comprovam os acessórios incluídos.
+Internamente, a DF333 utiliza **motor de dois polos com escovas de carvão** (não é *brushless*), um conjunto mecânico simples, confiável e de manutenção acessível na rede autorizada Makita. Antes de fechar o pedido, confira sempre o sufixo completo no anúncio: **DF333DWYE** identifica o kit completo com duas baterias de 1,5 Ah e maleta, enquanto **DF333DZ** refere-se apenas ao corpo avulso da ferramenta.
 
 ## Desempenho e Aplicações
 
-### Torque e duas velocidades: o que significam
+### Torque e duas velocidades mecânicas
 
-A ficha técnica cadastrada informa **30 Nm em junta rígida e 14 Nm em junta flexível**. Esses números representam condições distintas de medição; não são uma força constante disponível em todos os materiais. Em MDF, por exemplo, o objetivo não é alcançar 30 Nm: é limitar o aperto para não esmagar a superfície, espanar a rosca ou atravessar a chapa. A escolha da embreagem e o controle do gatilho são mais importantes que usar a regulagem máxima.
-
-As rotações sem carga são **0–450 rpm na primeira marcha e 0–1.700 rpm na segunda**. A primeira favorece iniciar parafusos e concluir apertos com cuidado. A segunda é útil para furos leves quando o diâmetro da broca e o material permitem maior velocidade. Como os valores são medidos sem carga, a rotação efetiva cai conforme aumenta a resistência. Pressionar demais não substitui broca afiada nem melhora automaticamente a qualidade do furo.
-
-A capacidade de perfuração cadastrada é de **até 21 mm em madeira e 10 mm em aço**. Esses valores são limites de referência, não uma recomendação para trabalhar continuamente no diâmetro máximo. A broca adequada, a fixação da peça e o avanço controlado influenciam o resultado. Trata-se de limite de referência, não de recomendação para trabalhar continuamente no máximo. Faça pré-furo quando necessário e use proteção ocular, sobretudo em perfurações que produzam cavacos.
+Na ficha técnica oficial da Makita Brasil, a DF333DWYE apresenta:
+* **Tensão:** 12V Max (plataforma Makita CXT)
+* **Torque máximo:** **30 Nm em junta rígida** e **14 Nm em junta flexível**
+* **Rotação sem carga:** **0 a 450 rpm** (1ª marcha) e **0 a 1.700 rpm** (2ª marcha)
+* **Ajustes de embreagem:** **20 posições de torque + 1 posição de perfuração**
+* **Capacidade máxima de perfuração:** até **21 mm em madeira** e **10 mm em aço**
 
 ### Montagem de móveis e MDF
 
-Para instalar dobradiças, corrediças e puxadores, comece com um ajuste baixo de torque em uma sobra do mesmo material. Aumente gradualmente até o parafuso assentar sem deformar o revestimento. Em MDF, bordas e regiões próximas de furos anteriores exigem atenção especial, pois a retenção do parafuso pode ser menor que em madeira maciça. Se o parafuso começar a girar em falso, insistir com mais torque costuma piorar o dano.
+Na montagem de móveis em MDF, MDP e compensado, utilizar a **primeira marcha (0–450 rpm)** com o anel de embreagem ajustado nos níveis iniciais oferece controle preciso no gatilho para assentar dobradiças, corrediças e puxadores rente ao revestimento sem afundar a cabeça do parafuso nem espanar a rosca interna. Na **segunda marcha (0–1.700 rpm)**, abre furos rápidos e limpos em madeira e chapas metálicas finas.
 
-Na montagem de móveis desmontáveis, confira a profundidade do furo e o comprimento do parafuso antes de acionar a ferramenta. Para conectores e ferragens delicadas, pode ser preferível finalizar o aperto manualmente. Ao furar chapas revestidas, use apoio na face de saída quando possível para diminuir lascamentos. Uma boa regulagem torna o trabalho repetível, mas não corrige marcação incorreta.
+### Limitações que merecem atenção
 
-### Bateria e continuidade de trabalho
+A **Makita DF333DWYE não possui função impacto**. Ela não deve ser utilizada para furar paredes de tijolo, bloco ou concreto — para furos ocasionais em alvenaria leve na mesma linha 12V CXT, a opção equivalente é a **Makita HP333**.
 
-A ferramenta utiliza **baterias removíveis da plataforma Makita 12V max CXT**. A compatibilidade deve ser conferida pelo código da bateria e do carregador, não apenas pela tensão nominal. A capacidade em ampère-hora influencia o tempo de uso, mas não autoriza prometer uma quantidade fixa de parafusos por carga. O resultado muda com a dureza da madeira, tamanho do fixador, temperatura, estado da bateria e pausas entre operações. Em uma rotina de montagem, uma bateria reserva pode valer mais que um pequeno ganho de rotação nominal.
+## Bateria e Conteúdo do Kit (DF333DWYE)
 
-## O que considerar antes de comprar
-Não reproduzimos avaliações de lojas como se fossem verificadas nem atribuímos à ferramenta resultados de testes que não fizemos. Para interpretar comentários de compradores, procure identificar a versão exata, o tipo de bateria e o material trabalhado. Um relato de “falta de força” em concreto não é uma crítica válida a uma parafusadeira sem impacto; já dificuldades frequentes em parafusos pequenos podem indicar uso inadequado da embreagem ou ponteira.
+Na configuração oficial **DF333DWYE**, o comprador recebe:
+* **1 Furadeira/parafusadeira Makita DF333 (12V Max CXT)**
+* **2 Baterias Makita 12V Max CXT de íons de lítio (1,5 Ah)**
+* **1 Carregador rápido bivolt**
+* **1 Bit Phillips de ponta dupla e maleta plástica**
 
-### Vantagens relevantes
-
-- Torque de 30 Nm em junta rígida, suficiente como referência para muitos trabalhos de montagem.
-- Duas velocidades mecânicas para alternar entre controle de aperto e perfuração.
-- Mandril de aperto rápido de até 10 mm.
-- Bateria removível e possibilidade de usar outras ferramentas da mesma plataforma compatível.
-
-### Limitações que pesam na escolha
-
-- **Sem impacto:** não é a compra certa para furar concreto ou alvenaria com frequência.
-- **Mandril de 10 mm:** não recebe diretamente hastes maiores.
-- **Kit variável:** confira baterias, carregador e maleta antes de comparar preços.
-- **Torque nominal não é produtividade garantida:** materiais e técnicas alteram o desempenho.
+Contar com **duas baterias de 1,5 Ah** permite alternar o uso enquanto uma recarrega, mantendo a ferramenta leve na mão durante montagens extensas. Lembre-se de que as baterias **12V Max CXT** são exclusivas da linha compacta de 12V da Makita e não encaixam em ferramentas **18V LXT**.
 
 ## Comparativo com Concorrentes
 
-A **Bosch GSR 12V-15** informa 30/15 Nm e alcança 1.300 rpm na segunda marcha. A **Bosch GSR 120-LI** informa 30/14 Nm e chega a 1.500 rpm. A **Makita DF333DWYE** também declara 30/14 Nm, mas alcança 1.700 rpm e tem kit DWYE cadastrado com duas baterias de 1,5 Ah, carregador rápido e maleta. As três são ferramentas sem impacto. A maior rotação máxima da Makita não significa, por si só, melhor resultado em qualquer material ou broca.
+Para situar a Makita DF333DWYE frente às principais alternativas de 12V sem impacto, comparamos suas especificações com a irmã *brushless* **Makita DF332D** e com a concorrente **Bosch GSR 120-LI**:
 
-Para quem já possui baterias Makita 12V max CXT compatíveis, permanecer na plataforma pode reduzir o custo de uma nova ferramenta — mas confirme a compatibilidade pelo código. Quem está começando do zero deve comparar o preço do kit completo, incluindo duas baterias, carregador e maleta, e não apenas o corpo da máquina. A composição do kit e a disponibilidade podem mudar entre vendedores.
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Modelo</th>
+        <th>Motor e Torque (rígido / flexível)</th>
+        <th>Rotação Máxima</th>
+        <th>Diferencial Principal</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Makita DF333DWYE</strong></td>
+        <td>Com escovas / 30 e 14 Nm</td>
+        <td>0–450 / 0–1.700 rpm</td>
+        <td>Kit 12V CXT com 2 baterias de 1,5 Ah e maleta</td>
+      </tr>
+      <tr>
+        <td><strong>Makita DF332D</strong></td>
+        <td>BL Brushless / 35 e 21 Nm</td>
+        <td>0–450 / 0–1.500 rpm</td>
+        <td>Motor sem escovas e corpo ultracompacto (154 mm)</td>
+      </tr>
+      <tr>
+        <td><strong>Bosch GSR 120-LI</strong></td>
+        <td>Com escovas / 30 e 14 Nm</td>
+        <td>0–400 / 0–1.500 rpm</td>
+        <td>Opção de entrada econômica com bateria 2,0 Ah</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-A **DF333DWYE não possui impacto** e não deve ser confundida com a **HP333**, que inclui mecanismo de impacto para perfurações ocasionais em alvenaria compatível. Também não confunda a DF333 com a **DF332**, que pertence à mesma plataforma 12V CXT, mas utiliza motor brushless. A DF333 não deve receber essa classificação. Se sua prioridade for alcançar parafusos muito próximos das paredes internas de armários, compare modelos com acessórios angulares específicos. Se o trabalho principal for perfuração em alvenaria, considere uma furadeira com impacto ou um martelete apropriado, em vez de tentar compensar a ausência dessa função com força excessiva.
+* **Makita DF332D:** Evolução direta da DF333 na linha 12V Max CXT, trazendo **motor BL brushless (sem escovas)**, maior torque (35 Nm rígido) e corpo 25 mm mais curto (154 mm), porém com investimento maior. Veja o [review completo da Makita DF332D]({{ '/furadeiras/reviews/review-makita-df332d/' | relative_url }}).
+* **Bosch GSR 120-LI:** Concorrente direta da plataforma Bosch 12V com os mesmos 30/14 Nm de torque e bateria de 2,0 Ah no kit de entrada. Confira o [review completo da Bosch GSR 120-LI]({{ '/furadeiras/reviews/review-bosch-gsr-120-li/' | relative_url }}).
 
 ## Como usar sem danificar móveis
 
-Primeiro, marque o centro dos furos e confira o esquadro da peça. Escolha a broca compatível com o fixador e faça um furo piloto quando o projeto pedir. Prenda a peça com grampos, se necessário, e nunca a segure na direção da broca. Uma superfície estável facilita manter a ferramenta perpendicular e reduz o risco de quebrar a borda de painéis finos.
-
-### O que conferir antes de comprar a DF333DWYE?
-
-- **Código comercial:** confirme que o anúncio é da DF333DWYE, não de uma versão avulsa ou de outro modelo.
-- **Baterias:** o kit cadastrado inclui duas baterias Makita 12V max CXT de 1,5 Ah.
-- **Acessórios:** confirme carregador rápido e maleta na lista de itens incluídos.
-- **Motor:** a DF333 utiliza motor com escovas; não é brushless.
-- **Aplicação:** não possui impacto e não é indicada para perfurar concreto ou alvenaria.
-
-## Vale a Pena Comprar a Makita DF333DWYE?
-
-**Sim, se sua prioridade for montar móveis, instalar ferragens, apertar parafusos e fazer furos pequenos em madeira ou aço.** Os 30 Nm em junta rígida, as duas velocidades e os 20 ajustes de torque formam um conjunto adequado a muitas tarefas domésticas e de montagem. O kit DWYE com duas baterias de 1,5 Ah também é interessante para quem deseja começar com uma bateria reserva. Porém, a DF333 não possui impacto e não é indicada para perfurar concreto ou alvenaria. Se essa for sua necessidade, procure uma furadeira de impacto ou um martelete apropriado.
-
-
+* **Use o bit (ponteira) exato:** utilize ponteiras **PH2** ou **PZ2** novas e bem encaixadas para evitar que escapem, espanem o parafuso ou risquem o painel.
+* **Comece no torque baixo:** ajuste o anel seletor entre as posições 3 e 6 e teste o aperto em uma sobra de chapa antes de montar a peça definitiva.
+* **Faça pré-furo próximo às bordas:** um furo-guia fino evita rachaduras e estufamento nas extremidades das chapas de MDF.
+* **Trabalhe na primeira marcha:** mantenha o seletor superior na velocidade 1 (0–450 rpm) para parafusar com máxima sensibilidade.
 
 ## Perguntas Frequentes
 
 ### A Makita DF333DWYE serve para montar móveis de MDF?
 
-Sim. A ferramenta oferece duas marchas e torque adequado a muitas fixações de móveis. O cuidado essencial é regular a embreagem, escolher a ponteira correta e evitar aperto excessivo nas bordas do MDF.
+Sim. O peso leve (~1,1 kg), as duas velocidades mecânicas, as **20 posições de embreagem** e as duas baterias inclusas no kit tornam a DF333DWYE uma das melhores opções de entrada para montagem de móveis em MDF.
 
-### Ela fura parede de concreto?
+### Ela fura parede de concreto ou alvenaria?
 
-Não é indicada para esse serviço. O modelo não possui mecanismo de impacto; para concreto, escolha uma ferramenta com sistema de percussão apropriado ao material e à dimensão do furo.
+Não. A Makita DF333DWYE **não possui função impacto**, sendo indicada apenas para madeira, MDF, plásticos e metais finos. Para furar paredes, confira nosso [guia das melhores furadeiras de impacto e marteletes]({{ '/melhores-furadeiras-impacto-alvenaria-concreto/' | relative_url }}).
 
 ### Qual é a diferença entre Makita DF333 e HP333?
 
-A DF333 é uma furadeira/parafusadeira sem impacto, voltada a parafusamento e perfuração em madeira ou metal. A HP333 acrescenta mecanismo de impacto para perfurações ocasionais em alvenaria compatível. Não escolha a HP333 apenas pelo nome parecido: considere se realmente precisa da função impacto e compare o código completo e o conteúdo do kit.
+A **DF333** é uma furadeira e parafusadeira sem impacto, mais curta e leve, ideal para móveis, madeira e metal. Já a **HP333** acrescenta função impacto mecânico para furos residenciais ocasionais em paredes de tijolo e bloco. Veja o [review completo da Makita HP333]({{ '/furadeiras/reviews/review-makita-hp333-12v-impacto/' | relative_url }}).
 
-### A Makita DF333 é brushless?
+### A Makita DF333DWYE é brushless?
 
-Não. O cadastro técnico consultado identifica motor de dois polos, com escovas de carvão. Não confunda a DF333 com a DF332, que é a versão brushless da família.
+Não. Ela utiliza **motor convencional de dois polos com escovas de carvão**. O modelo equivalente com motor *brushless* na linha Makita 12V Max CXT é a [Makita DF332D]({{ '/furadeiras/reviews/review-makita-df332d/' | relative_url }}).
 
-### Posso usar qualquer bateria de 12 volts?
+### As baterias da DF333DWYE funcionam em ferramentas Makita 18V LXT?
 
-Não. A tensão nominal, sozinha, não garante compatibilidade. Utilize baterias e carregadores da plataforma Makita 12V max CXT aprovados para o modelo e confira os códigos indicados pelo fabricante.
+Não. As plataformas **12V Max CXT** e **18V LXT** possuem encaixes e tensões distintas e não são intercambiáveis entre si.
 
+## Veredito Final e Recomendação de Compra
 
+A **Makita DF333DWYE vale muito a pena** para montadores de móveis, instaladores e entusiastas que procuram uma furadeira e parafusadeira **12V Max CXT** leve (~1,1 kg), precisa e pronta para trabalhar sem pausas graças ao kit brasileiro com **duas baterias de 1,5 Ah, carregador rápido e maleta**.
+
+Apenas lembre-se de que ela **não possui impacto** para paredes de alvenaria e utiliza motor convencional com escovas. Para comparar outras opções leves ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e o [guia de parafusadeiras para iniciantes]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Nossa nota editorial é **9,0/10**.
 
 ## Fontes oficiais
 

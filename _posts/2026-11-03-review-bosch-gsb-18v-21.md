@@ -3,358 +3,158 @@ layout: post
 title: "Bosch GSB 18V-21 é boa? Análise e características"
 marca: "Bosch"
 modelo: "Bosch GSB 18V-21"
-description: 'Review da Bosch GSB 18V-21: desempenho em MDF, ergonomia, bateria, ficha técnica, vantagens, limitações e para quem vale a pena comprar.'
-slug: review-bosch-gsb-18v-21
-categories:
-- furadeiras
-- reviews
+description: "Bosch GSB 18V-21 vale a pena? Veja análise do desempenho em MDF e alvenaria, torque de 55 Nm, ergonomia, bateria 18V e comparação com a GSB 18V-50."
+slug: "review-bosch-gsb-18v-21"
+categories: [furadeiras, reviews]
 produto_id: bosch_gsb_18v_21
-image: /assets/images/posts/bosch-gsb-18v-21.webp
-image_alt: Furadeira e parafusadeira Bosch GSB 18V-21
-date: '2026-11-03'
-last_modified_at: '2026-11-15'
-author: Equipe de Análises
+image: "/assets/images/posts/bosch-gsb-18v-21.webp"
+image_alt: "Furadeira e parafusadeira de impacto Bosch GSB 18V-21 Professional"
+date: 2026-11-03
+last_modified_at: 2026-11-26
+author: "Equipe de Análises"
+
 avaliacao:
   nota: 8.7
-  resumo: Boa opção para montagem de móveis com possibilidade de perfurar tijolo ou bloco, desde que sejam respeitadas as limitações técnicas e a configuração do kit.
+  resumo: >-
+    A Bosch GSB 18V-21 Professional é uma furadeira e parafusadeira de impacto 18V com motor com escovas substituíveis, 55 Nm de torque em junta rígida, mandril de 13 mm e percussão mecânica para alvenaria leve. A nota 8,7/10 é uma avaliação editorial baseada na documentação oficial do fabricante.
   vantagens:
-  - Torque e duas marchas para tarefas variadas
-  - Impacto convencional para alvenaria
-  - Plataforma Bosch Professional 18V
+    - "Torque rígido de 55 Nm e duas velocidades mecânicas para tarefas variadas"
+    - "Função impacto convencional para furos ocasionais em tijolo e reboco"
+    - "Mandril de aperto rápido de 13 mm (1/2\") e compatibilidade com a linha Bosch 18V"
   desvantagens:
-  - Motor não é brushless
-  - Maior volume que opções compactas de 12V
-  - Não substitui martelete SDS-Plus em concreto duro
+    - "Motor utiliza escovas de carvão substituíveis (não é brushless)"
+    - "Maior volume e peso operacional do que modelos compactos de 12V"
+    - "Disponibilidade mais restrita no Brasil frente às sucessoras GSB 18V-50 e GSB 185-LI"
+    - "Não substitui martelete SDS-Plus em concreto estrutural armado"
 ---
+
+A **Bosch GSB 18V-21 Professional** é uma furadeira e parafusadeira de impacto da plataforma **Bosch Professional 18V**, combinando duas velocidades mecânicas, mandril de aperto rápido de **13 mm (1/2")**, controle de embreagem e percussão axial para perfurações ocasionais em tijolo, bloco e alvenaria leve.
+
+**Resposta rápida:** vale a pena para quem já possui baterias Bosch Professional 18V e encontra uma unidade nova com nota fiscal e preço competitivo para montagem de móveis, instalações e furos pontuais em paredes de tijolo. Para quem está comprando o primeiro kit 18V da marca hoje, as sucessoras **Bosch GSB 18V-50** e **GSB 185-LI** (ambas com motor *brushless* e maior disponibilidade no Brasil) oferecem tecnologia mais atual. Sua nota editorial é **8,7/10**.
 
 {% include review-toc.html %}
 
 {% include resumo-avaliacao.html %}
 
-{% include ficha-tecnica.html %}
+<div id="ficha-tecnica" class="specs-table-wrapper">
+  {% include ficha-tecnica.html %}
+</div>
 
-## Bosch GSB 18V-21: vale a pena comprar?
-
-A **Bosch GSB 18V-21 Professional** é uma furadeira/parafusadeira de impacto a bateria da plataforma Bosch Professional 18V. Ela combina duas velocidades, mandril de aperto rápido de 13 mm, controle de torque e percussão mecânica para perfurações ocasionais em tijolo, bloco e alvenaria compatível. O motor utiliza escovas de carvão substituíveis: não é um modelo brushless. Para avaliar a compra, considere também o peso com bateria, a configuração do kit e a disponibilidade de uma unidade nova com procedência e garantia no Brasil.
-
-Para montagem de móveis, MDF, instalação de ferragens e pequenos
-reparos, a GSB 18V-21 oferece duas marchas e controle de torque. O modo
-de impacto amplia as possibilidades em tijolo e bloco, desde que sejam
-utilizadas brocas apropriadas e respeitados os limites indicados pelo
-fabricante. Ela não deve ser escolhida para substituir um martelete
-SDS-Plus em concreto duro, perfurações pesadas ou trabalhos repetitivos
-de demolição.
-
-Nossa avaliação é **editorial**, baseada nas especificações técnicas
-consultadas e na adequação do equipamento às aplicações descritas. Não
-representa teste de bancada realizado pela nossa equipe. Também é
-importante considerar uma questão comercial: a GSB 18V-21 está mais
-difícil de encontrar nova nos marketplaces brasileiros. Por isso, além
-de avaliar a ferramenta, este review apresenta uma alternativa Bosch
-mais fácil de considerar na hora da compra: a **GSB 18V-50**. Ela não é
-o mesmo produto nem deve ser anunciada como uma versão idêntica; suas
-diferenças técnicas são explicadas mais adiante.
-
-Antes de comprar qualquer uma delas, confira o código completo do
-anúncio. O nome do modelo não identifica sozinho o conteúdo da
-embalagem: podem existir versões com ou sem bateria, carregador, bolsa
-ou maleta. Esses itens alteram o custo final e precisam ser confirmados
-na descrição do vendedor.
+{% include produto-card.html %}
 
 ## Construção e Ergonomia
 
-A GSB 18V-21 utiliza motor com escovas de carvão substituíveis. Isso a
-diferencia dos modelos brushless, que dispensam escovas e adotam outra
-arquitetura de motor. A presença de escovas não torna a ferramenta
-inadequada por si só, mas é um aspecto relevante ao comparar tecnologia,
-manutenção, eficiência e preço com modelos mais recentes.
+A GSB 18V-21 utiliza **motor com escovas de carvão substituíveis**, o que facilita a manutenção preventiva das escovas quando desgastadas, mas entrega menor eficiência energética do que os modelos *brushless* mais recentes da linha azul da Bosch.
 
-A referência de peso sem bateria apresentada na página de produto Bosch é de aproximadamente **1,3 kg**. O peso do conjunto em uso aumenta conforme a bateria instalada. O manual também apresenta uma faixa de peso EPTA de **1,7 a 2,7 kg**, que depende da configuração e da bateria. Por isso, não misture valores medidos por critérios diferentes: ao comparar modelos, verifique se a fonte informa o corpo sem bateria ou o conjunto pronto para uso. Ao comparar anúncios, verifique se o número
-apresentado corresponde apenas à ferramenta, ao conjunto com bateria ou
-à embalagem completa.
-
-Em montagem de móveis, ergonomia importa principalmente ao trabalhar
-dentro de armários, em dobradiças, laterais de gavetas e espaços com
-pouca folga. O equilíbrio da máquina com a bateria instalada, o tamanho
-da empunhadura e a possibilidade de manter o punho alinhado influenciam
-o conforto. Uma ferramenta de 18V pode ser interessante para quem já
-utiliza a plataforma Bosch Professional, mas talvez seja volumosa para
-quem executa apenas pequenos parafusamentos em locais apertados.
-
-Observe também a posição do seletor de sentido, a facilidade de alternar
-as marchas e o acesso ao seletor de torque. A iluminação integrada,
-quando presente na configuração, ajuda em áreas pouco iluminadas, mas
-não substitui uma marcação precisa. Para trabalhos repetitivos, organize
-parafusos e ferragens antes de começar e faça pausas quando necessário.
+O peso do corpo **sem bateria é de aproximadamente 1,3 kg**, chegando à faixa de **1,7 kg a 2,7 kg** em ordem de marcha conforme a amperagem da bateria Bosch 18V acoplada. Para trabalhar dentro de armários, gavetas e nichos estreitos, ela naturalmente ocupa mais espaço do que uma parafusadeira compacta de 12V, mas oferece boa empunhadura emborrachada e equilíbrio para uso misto em bancada ou instalação.
 
 ## Desempenho e Aplicações
 
-A faixa de rotação declarada para a GSB 18V-21 é de **0--480 rpm na
-primeira marcha e 0--1.800 rpm na segunda**. A marcha lenta favorece o
-controle durante o início do parafusamento e em situações nas quais é
-importante evitar que a cabeça do parafuso afunde demais. A marcha
-rápida é mais apropriada para perfuração com broca compatível e material
-adequado. A escolha depende do diâmetro do acessório, da resistência da
-peça e da tarefa.
+### Torque, rotação e parafusamento em MDF
 
-A documentação Bosch informa torque máximo de **55 Nm em junta rígida** e **21 Nm em junta flexível**, conforme ISO 5393. São condições diferentes de medição, não níveis de força que o usuário seleciona diretamente no anel. Para MDF, comece com uma regulagem baixa e aumente gradualmente até obter o aperto necessário.
-Para trabalhar em MDF, comece com um ajuste baixo de torque e aumente
-gradualmente até obter o aperto necessário. Isso reduz o risco de
-afundar a cabeça do parafuso, danificar a ferragem ou espanar a rosca.
-Em madeira maciça, um furo piloto pode ajudar a evitar rachaduras.
+Na ficha técnica oficial da Bosch (norma ISO 5393), a GSB 18V-21 entrega **55 Nm de torque máximo em junta rígida** e **21 Nm em junta flexível**, trabalhando em duas marchas mecânicas:
+* **1ª velocidade (força):** 0 a 480 rpm
+* **2ª velocidade (perfuração):** 0 a 1.800 rpm
 
-O mandril aceita acessórios de **1,5 a 13 mm**. Utilize brocas retas, em
-boas condições, e bits do tamanho correto para a cabeça do parafuso. Uma
-ponta Phillips ou Pozidriv desgastada pode escapar e danificar a
-ferragem mesmo quando a ferramenta está funcionando normalmente. Durante
-a perfuração, fixe a peça em uma base estável e mantenha o acessório
-alinhado ao eixo do furo.
+Na montagem de móveis e chapas de MDF, a primeira marcha aliada ao anel de embreagem oferece controle firme para assentar parafusos sem afundar a cabeça na chapa ou espanar a rosca interna.
 
-A função de impacto mecânico chega a **27.000 impactos por minuto**. A ficha/manual Bosch indica capacidade máxima de perfuração de **10 mm em alvenaria**, além de até **35 mm em madeira** e **10 mm em aço**, sempre com acessórios adequados. A percussão permite trabalhos ocasionais em tijolo, bloco e alvenaria compatível; não transforma a GSB 18V-21 em um martelete SDS-Plus. Em concreto duro, concreto armado ou perfurações
-frequentes de maior diâmetro, o desempenho e a produtividade de um
-martelete SDS-Plus são mais adequados. Antes de perfurar uma parede,
-verifique a existência de fios elétricos e tubulações, utilize óculos de
-proteção e escolha a broca correta.
+### Mandril e capacidade de perfuração
+
+O mandril de aperto rápido aceita brocas e acessórios de **1,5 a 13 mm (1/2")**, com capacidades máximas nominais de:
+* **Madeira:** até 35 mm
+* **Aço (metal):** até 10 mm
+* **Alvenaria:** até 10 mm
+
+### Função impacto em alvenaria
+
+Com taxa de até **27.000 impactos por minuto (ipm)**, o modo impacto atende furos ocasionais de bucha 6 mm, 8 mm ou 10 mm em paredes de tijolo, bloco cerâmico e reboco. Por utilizar percussão mecânica convencional, ela **não substitui um martelete SDS-Plus** em vigas, lajes ou concreto estrutural armado.
 
 ## Bateria, Autonomia e Conteúdo do Kit
 
-A configuração comercial é um dos pontos que mais exigem atenção. **A
-quantidade e a capacidade das baterias, o carregador e a maleta dependem
-do código comercial e do anúncio.** Não presuma que todos os kits
-incluem os mesmos acessórios. Fotografias podem ser ilustrativas e
-mostrar itens que não fazem parte da embalagem efetivamente vendida.
-
-Antes de finalizar a compra, confirme o código de referência, a
-capacidade da bateria em Ah, a quantidade de baterias, o modelo do
-carregador e a presença de bolsa ou maleta. Se a descrição não deixar
-isso claro, pergunte ao vendedor e guarde uma cópia das informações
-anunciadas. Confira também a nota fiscal, a garantia aplicável no Brasil
-e a procedência do produto.
-
-A autonomia não pode ser resumida a um número fixo de minutos. Ela varia
-conforme a capacidade da bateria, o diâmetro dos parafusos, a dureza do
-material, a frequência de perfuração, a pressão aplicada e a
-temperatura. Montar dobradiças pequenas exige menos energia do que
-executar uma sequência de furos largos. Por isso, promessas genéricas de
-tempo de uso sem explicar as condições do teste não são uma boa base de
-comparação.
-
-Para preservar as baterias, utilize carregador compatível e siga as
-orientações do fabricante para armazenamento e recarga. Evite deixar o
-conjunto exposto a calor excessivo ou umidade. Nunca adapte contatos
-elétricos nem misture plataformas apenas porque as tensões parecem
-semelhantes.
-
-Quem já possui baterias Bosch Professional 18V compatíveis pode avaliar
-a compra de uma versão sem bateria, se ela estiver disponível. Essa
-escolha só vale a pena depois de confirmar a compatibilidade exata e
-comparar o custo total. O preço mais baixo do corpo da ferramenta não
-significa necessariamente que o kit completo ficará mais econômico.
+Como na maior parte da linha Bosch Professional 18V, **a quantidade e a capacidade das baterias (como 2,0 Ah ou 4,0 Ah), o carregador bivolt e a maleta variam conforme o código comercial** (versão avulsa em caixa de papelão versus kit completo). Confira sempre a lista exata de itens na descrição do anúncio antes de finalizar a compra. A ferramenta é totalmente compatível com toda a plataforma **Bosch Professional 18V**.
 
 ### Para quem a GSB 18V-21 ainda faz sentido?
 
-- **Pode valer a pena:** quem já possui baterias Bosch Professional 18V compatíveis e encontra a GSB 18V-21 nova, com procedência, garantia e preço coerente.
-- **Compare com modelos atuais:** quem está comprando a primeira ferramenta da plataforma deve comparar o custo do kit completo com a GSB 18V-50 e a GSB 185-LI.
-- **Não é a escolha certa:** quem precisa perfurar concreto duro com frequência; nesse caso, considere um martelete SDS-Plus.
+* **Vale a pena para:** quem já tem baterias Bosch 18V em casa ou na oficina e encontra a GSB 18V-21 nova com garantia oficial e preço abaixo dos modelos *brushless*.
+* **Compare antes se for sua primeira compra 18V:** quem ainda precisa comprar bateria e carregador geralmente encontra melhor custo-benefício nas versões atuais **GSB 18V-50** ou **GSB 185-LI**.
+* **Não vale a pena para:** perfurações pesadas e repetitivas em concreto armado — nesse cenário, escolha um martelete SDS-Plus dedicado.
 
-## Disponibilidade no Brasil: ainda vale procurar a GSB 18V-21?
+## Alternativas atuais: Bosch GSB 18V-50 e GSB 185-LI
 
-Além das características técnicas, a disponibilidade precisa entrar na
-decisão de compra. Nas buscas realizadas para este review, encontramos
-poucas ofertas consistentes da GSB 18V-21 nova no mercado.
-A presença do modelo em documentação ou páginas de outros mercados não garante que exista estoque regular no
-Brasil.
+Como a **GSB 18V-21** aparece com menos frequência nos estoques brasileiros hoje, vale compará-la diretamente com as duas opções *brushless* mais encontradas da própria Bosch na plataforma 18V:
 
-A Bosch mantém modelos mais recentes em seu catálogo brasileiro de
-furadeiras de impacto a bateria, como a GSB 18V-50.
-Isso oferece alternativas atuais dentro da própria linha Professional
-18V, mas não confirma, por si só, que a GSB 18V-21 tenha sido oficialmente
-descontinuada no Brasil. Entretanto, a dificuldade de encontrar a GSB 18V-21
-não deve ser apresentada como confirmação de descontinuação oficial sem
-um comunicado específico do fabricante.
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Modelo</th>
+        <th>Motor e Mandril</th>
+        <th>Torque e Rotação</th>
+        <th>Peso (sem bateria) e Perfil</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Bosch GSB 18V-21</strong></td>
+        <td>Com escovas / Mandril 13 mm</td>
+        <td>55 Nm rígido / 21 Nm flexível / 1.800 rpm</td>
+        <td>1,3 kg — Modelo clássico de entrada 18V</td>
+      </tr>
+      <tr>
+        <td><strong>Bosch GSB 18V-50</strong></td>
+        <td>Brushless / Mandril metálico 13 mm</td>
+        <td>50 Nm rígido / 28 Nm flexível / 1.800 rpm</td>
+        <td>1,1 kg — Sucessora mais robusta e atual</td>
+      </tr>
+      <tr>
+        <td><strong>Bosch GSB 185-LI</strong></td>
+        <td>Brushless / Mandril 13 mm</td>
+        <td>50 Nm rígido / 21 Nm flexível / 1.900 rpm</td>
+        <td>0,89 kg — Ultracompacta e leve para montagem</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-{% include produto-card.html id="bosch_gsb_18v_50" %}
-
-## Opinião dos Compradores: o que observar antes de comprar
-
-Comentários de compradores podem ajudar a identificar questões de
-ergonomia, durabilidade do mandril e qualidade da embalagem, mas
-precisam ser lidos com critério. Dê preferência a avaliações que
-mencionem o código exato do modelo, o tipo de serviço executado e o
-período de utilização. Uma opinião sobre outra versão da mesma família
-não confirma que todos os acessórios ou recursos estejam presentes neste
-kit.
-
-Avaliações com fotografias da etiqueta, da ferramenta e da maleta são
-mais úteis para conferir o conteúdo da compra do que afirmações
-genéricas como "muito forte". Também é importante separar defeitos de
-fabricação de situações de uso inadequado, como exigir perfuração pesada
-em concreto de uma furadeira de impacto convencional.
-
-Ao comparar vendedores, observe nota fiscal, política de devolução,
-assistência autorizada e descrição da garantia válida no Brasil. Se o
-preço estiver muito abaixo da média, confirme a procedência, o tipo de
-plugue do carregador e a tensão de entrada antes de finalizar o pedido.
-Em anúncios de marketplaces, leia as avaliações referentes ao mesmo
-vendedor e à mesma configuração do kit.
-
-## Bosch GSB 18V-50: alternativa atual para quem não encontra a GSB 18V-21
-
-Se a GSB 18V-21 não estiver disponível em uma oferta confiável, uma
-alternativa a considerar é a **Bosch GSB 18V-50 Professional**. Ela
-pertence à plataforma 18V Professional, mas possui diferenças
-importantes: utiliza motor **Brushless**, tem mandril metálico de 13 mm
-e apresenta valores de torque próprios. Portanto, não deve ser tratada
-como se fosse a mesma ferramenta ou apenas uma atualização sem mudanças.
-
-A GSB 18V-50 declara torque de **28 Nm em junta flexível, 50 Nm em junta rígida e 50 Nm de torque máximo**, rotação de **0–460 / 0–1.800 rpm** e frequência de impacto de até **27.000 impactos por minuto**. O peso informado para o corpo sem bateria é de aproximadamente **1,1 kg**. Compare sempre as condições de medição indicadas pelo fabricante: o torque de 50 Nm da GSB 18V-50 não é superior aos 55 Nm em junta rígida declarados para a GSB 18V-21.
-
-A principal diferença tecnológica é o motor Brushless da GSB 18V-50, que
-não utiliza escovas de carvão. O modelo também pode ser interessante
-para quem procura uma ferramenta profissional 18V com construção atual e
-disponibilidade comercial mais clara. Ainda assim, a escolha deve
-considerar o tipo de serviço, o preço do kit, a bateria incluída e a
-assistência disponível.
-
-Veja também nossa [análise completa da Bosch GSB 18V-50](/furadeiras/reviews/review-bosch-gsb-18v-50/).
-
-A **GSB 185-LI** é outra alternativa da linha Bosch Professional 18V.
-Ela também utiliza motor Brushless, tem proposta mais compacta e peso
-informado de aproximadamente **0,89 kg sem bateria**. Seu torque
-declarado é de **21 Nm em junta flexível e 50 Nm em junta rígida**, com
-rotação de **0–500 / 0–1.900 rpm** e até **27.000 impactos por minuto**.
-Pode ser interessante para quem prioriza menor peso e dimensões, mas não
-é uma substituta idêntica da GSB 18V-21.
-
-Em resumo: a GSB 18V-50 é nossa primeira alternativa comercial a
-considerar para quem procura uma furadeira de impacto Bosch Professional
-18V; a GSB 185-LI merece atenção quando compacidade e peso são
-prioridades. Antes de escolher, compare as fichas técnicas e o conteúdo
-dos kits, sem assumir que os modelos são equivalentes.
+* **Bosch GSB 18V-50:** traz **motor brushless** (sem escovas), **mandril metálico de 13 mm** e torque flexível superior (28 Nm), mantendo até 27.000 ipm em um corpo mais leve (1,1 kg sem bateria). Veja todos os detalhes no [review completo da Bosch GSB 18V-50]({{ '/furadeiras/reviews/review-bosch-gsb-18v-50/' | relative_url }}).
+* **Bosch GSB 185-LI:** também conta com **motor brushless** e 50 Nm de torque rígido, mas aposta em um corpo ultracompacto de apenas **0,89 kg sem bateria**, ideal para quem monta móveis o dia inteiro e quer menos peso no punho.
 
 {% include produto-card.html id="bosch_gsb_18v_50" %}
 
 ## Como usar a parafusadeira sem danificar MDF
 
-Comece marcando a posição do parafuso com régua e esquadro. Em chapas
-próximas às bordas, siga a orientação do fabricante do móvel quanto ao
-afastamento, diâmetro e profundidade do furo. Se houver necessidade de
-pré-furação, escolha uma broca compatível com o diâmetro do corpo do
-parafuso e evite atravessar a face oposta da peça.
-
-Coloque um limitador de profundidade na broca quando a espessura for
-pequena. Inicie o aperto em velocidade baixa e mantenha a ferramenta
-alinhada ao eixo do parafuso. Ao perceber aumento brusco da resistência,
-solte o gatilho e termine manualmente, se necessário. O controle de
-torque ajuda a ajustar o aperto, mas não garante sozinho que a rosca não
-será espanada.
-
-Em dobradiças, aperte inicialmente todos os parafusos de forma parcial e
-faça o alinhamento antes do aperto final. Em corrediças de gavetas,
-confira o paralelismo e evite compensar um furo fora de posição usando
-força excessiva. Use óculos de segurança durante a perfuração e prenda
-peças pequenas com grampos apropriados.
-
-Nunca ative o modo impacto ao parafusar em MDF. Se a ferramenta oferecer
-percussão, deixe-a desligada para madeira, metal e ferragens, salvo
-orientação específica do fabricante. Após o trabalho, limpe o pó com
-pano seco e guarde os acessórios separados da bateria ou do carregador
-conforme o manual.
+* **Desligue sempre o impacto:** mantenha o seletor no modo de parafusamento (embreagem) ao trabalhar em MDF, madeira e ferragens.
+* **Comece no torque baixo:** ajuste o anel entre as posições 3 e 6 e teste em uma sobra de chapa antes de apertar a peça final.
+* **Use o bit exato:** utilize ponteiras **PH2** ou **PZ2** em bom estado para evitar que a ponta patine e estrague a cabeça do parafuso.
+* **Faça pré-furo nas bordas:** um furo-guia fino próximo às extremidades evita rachaduras e estufamento no painel.
 
 ## Perguntas Frequentes
 
-### Bosch GSB 18V-21 serve para montar móveis planejados?
+### A Bosch GSB 18V-21 serve para montar móveis planejados?
 
-Sim. A GSB 18V-21 pode ser utilizada em montagem de móveis, MDF e
-instalação de ferragens, desde que a velocidade e o torque sejam
-ajustados à tarefa. Comece com regulagem baixa, utilize bits adequados e
-respeite a espessura das chapas. O cuidado com o aperto final é
-fundamental para preservar o MDF.
+Sim. Ela oferece duas velocidades mecânicas e regulagem de embreagem para montagem de móveis e ferragens, embora seja mais volumosa e pesada do que modelos compactos de 12V ou do que a ultracompacta GSB 185-LI.
 
 ### É possível furar concreto com este modelo?
 
-A GSB 18V-21 possui função de impacto e especificação de até **27.000
-impactos por minuto**, mas isso não significa que substitua um
-martelete. Para tijolo e bloco, utilize broca apropriada e respeite as
-orientações do fabricante. Para concreto denso, concreto armado ou
-perfurações repetitivas, considere um martelete SDS-Plus.
+Ela possui função impacto mecânico de até **27.000 impactos por minuto**, atendendo furos ocasionais de até **10 mm** em paredes de tijolo, bloco e reboco. Para concreto estrutural armado ou perfurações contínuas em obra, utilize um martelete SDS-Plus.
 
-### Qual velocidade usar para apertar parafusos?
+### A Bosch GSB 18V-21 tem motor brushless?
 
-Comece pela marcha mais lenta, especialmente perto de bordas e em
-ferragens delicadas. Ajuste o controle de torque gradualmente e mantenha
-o bit alinhado. A marcha rápida costuma ser mais apropriada para
-perfuração, com broca adequada.
+Não. Ela utiliza motor convencional com **escovas de carvão substituíveis**. Caso você faça questão de motor sem escovas na plataforma Bosch 18V, prefira a **Bosch GSB 18V-50** ou a **GSB 185-LI**.
 
 ### A bateria e o carregador vêm incluídos?
 
-Não é possível afirmar sem verificar o código comercial e o anúncio
-específico. A quantidade e a capacidade das baterias, o carregador e a
-maleta variam conforme o kit. Confirme esses itens com o vendedor antes
-da compra.
-
-### Posso usar qualquer bit Phillips?
-
-Não é recomendável. Escolha o tamanho e o tipo de ponta corretos para a
-cabeça do parafuso, mantenha o bit em boas condições e alinhe a
-ferramenta ao eixo. Bits gastos favorecem o escape e podem danificar a
-ferragem.
-
-### O que observar para não comprar a versão errada?
-
-Confira o nome e o código completo do modelo, o sufixo do kit, a
-plataforma da bateria, os acessórios incluídos, a nota fiscal e a
-disponibilidade de assistência. Ferramentas visualmente semelhantes
-podem ter especificações e conteúdos de embalagem diferentes.
+Depende do código comercial do anúncio. A Bosch vende tanto a versão avulsa (somente a ferramenta) quanto kits completos com uma ou duas baterias 18V, carregador bivolt e maleta. Confira a lista de itens antes de finalizar o pedido.
 
 ### A Bosch GSB 18V-50 é igual à GSB 18V-21?
 
-Não. A GSB 18V-50 é uma alternativa, não uma versão idêntica. Ela
-utiliza motor Brushless, tem mandril metálico de 13 mm e declara torque
-de 50 Nm em junta rígida. A GSB 18V-21 utiliza motor com escovas e
-declara 55 Nm em junta rígida. Compare as especificações e escolha
-conforme a tarefa e o kit disponível.
-
-### O que fazer se eu não encontrar a GSB 18V-21 à venda?
-
-Não compre outro modelo por meio de um link identificado como GSB
-18V-21. Verifique primeiro se há uma oferta confiável do modelo exato.
-Se não houver, considere a GSB 18V-50 ou a GSB 185-LI como alternativas
-separadas, conferindo suas fichas técnicas, acessórios, garantia e
-preço.
-
-{% include produto-card.html id="bosch_gsb_18v_50" %}
+Não. A **GSB 18V-50** é uma evolução mais moderna com **motor brushless**, **mandril metálico de 13 mm**, corpo mais leve (1,1 kg sem bateria) e torque de 50 Nm rígido / 28 Nm flexível.
 
 ## Veredito Final e Recomendação de Compra
 
-A **Bosch GSB 18V-21** recebe nota editorial **8,7/10** por sua
-adequação a montagem de móveis, parafusamento e perfurações ocasionais
-em alvenaria, considerando as características técnicas consultadas e as
-limitações da categoria. A nota não representa teste físico, comparação
-instrumental ou garantia de desempenho em qualquer situação.
+A **Bosch GSB 18V-21** é uma furadeira e parafusadeira de impacto sólida para montagem de móveis, instalações e furos ocasionais em alvenaria, especialmente para quem já possui baterias da plataforma **Bosch Professional 18V** e encontra uma boa oferta com garantia no Brasil. Nossa nota editorial é **8,7/10**.
 
-Se você já possui baterias compatíveis da plataforma Bosch Professional
-18V e encontra uma unidade nova, de procedência confiável e com garantia
-adequada, a GSB 18V-21 ainda pode fazer sentido. No entanto, sua
-disponibilidade limitada em marketplaces brasileiros torna importante
-avaliar outras opções antes de decidir. Não recomendamos inserir links
-de outros modelos nos botões de compra da GSB 18V-21, pois isso pode
-levar o leitor a comprar uma ferramenta diferente daquela descrita no
-review.
-
-Para quem não encontra a GSB 18V-21, nossa primeira alternativa é a
-**Bosch GSB 18V-50**, apresentada em um bloco separado e com link
-próprio. Seu motor Brushless e sua construção atual são pontos
-relevantes, mas suas especificações não são idênticas às da 18V-21. A
-**GSB 185-LI** também merece consideração para quem prioriza menor peso
-e formato compacto.
-
-Antes de finalizar qualquer compra, confira o conteúdo real da
-embalagem, os preços atualizados, a nota fiscal, a garantia e a
-assistência no Brasil. Para mais orientações, veja nosso [guia de
-parafusadeiras]({{ '/parafusadeiras/' \| relative_url }}) e o [guia de
-montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' |
-relative_url }}).
+No entanto, se você não encontrar a GSB 18V-21 em estoque ou estiver montando seu primeiro kit 18V, investir diretamente na [Bosch GSB 18V-50]({{ '/furadeiras/reviews/review-bosch-gsb-18v-50/' | relative_url }}) (com motor *brushless* e mandril metálico) é a decisão mais acertada. Para explorar outras opções, consulte também nosso [guia de parafusadeiras]({{ '/parafusadeiras/' | relative_url }}) e o [guia de montagem de móveis]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}).
 
 ## Fontes oficiais
 

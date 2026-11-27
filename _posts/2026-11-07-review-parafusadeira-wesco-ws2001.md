@@ -10,267 +10,145 @@ produto_id: wesco_ws2001
 image: /assets/images/posts/wesco-ws2001.webp
 image_alt: Parafusadeira elétrica Wesco Home WS2001 3,6V com cabo USB-C e conjunto de bits
 date: 2026-11-07
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-26
 author: Equipe de Análises
-
-avaliacao:
-  nota: 7.8
-  resumo: >-
-    A Wesco WS2001 é uma parafusadeira elétrica compacta de 3,6 V, com bateria
-    integrada de 1,5 Ah, rotação sem carga de até 300 rpm, torque máximo de
-    5 Nm e peso de aproximadamente 280 g. O carregamento USB-C, os níveis de
-    ajuste de potência e o conjunto de bits favorecem montagens leves e pequenos
-    reparos. O desempenho é limitado para parafusos grandes, madeira dura e uso
-    profissional contínuo.
-  vantagens:
-    - "Muito leve: aproximadamente 280 g"
-    - "Bateria integrada de lítio de 1,5 Ah"
-    - "Carregamento por USB-C"
-    - "Torque máximo de 5 Nm e torque suave de 2,5 Nm"
-    - "Ajustes de potência para adaptar o trabalho a parafusos e materiais leves"
-    - "Rotação reversível para apertar e soltar parafusos"
-    - "LED duplo e indicador de carga/torque"
-    - "Kit com suporte magnético e pontas variadas"
-  desvantagens:
-    - "Não substitui uma furadeira/parafusadeira de 10 ou 12 V"
-    - "Bateria integrada não pode ser trocada rapidamente"
-    - "Torque e velocidade são voltados a serviços leves"
-    - "Sem mandril convencional; depende de bits com encaixe hexagonal"
-    - "A composição de bits pode variar entre anúncios e apresentações"
 subcategoria: "parafusadeiras-compactas"
 cluster: "parafusadeiras-compactas"
 hub_url: "/parafusadeiras/"
 hub_anchor: "parafusadeiras-compactas"
 hub_label: "parafusadeiras compactas"
 cluster_label: "Parafusadeiras compactas"
+
+avaliacao:
+  nota: 7.8
+  resumo: >-
+    A Wesco WS2001 é uma parafusadeira elétrica compacta de 3,6V com bateria integrada de 1,5 Ah, rotação sem carga de até 300 rpm, torque máximo de 5 Nm (2,5 Nm suave) e peso de apenas ~280 g. O carregamento USB-C e o kit completo de bits tornam-na prática e econômica para montagens domésticas leves, mas ela não substitui uma furadeira/parafusadeira de 12V com mandril. A nota 7,8/10 é uma avaliação editorial baseada na documentação oficial do fabricante.
+  vantagens:
+    - "Extremamente leve (~280 g) e compacta para guardar na gaveta ou caixa doméstica"
+    - "Bateria integrada de íons de lítio (3,6V / 1,5 Ah) com recarga via cabo USB-C"
+    - "Torque máximo de 5 Nm e torque suave de 2,5 Nm com iluminação LED dupla e indicador de carga"
+    - "Acompanha kit completo com suporte magnético de 60 mm e conjunto variado de bits"
+  desvantagens:
+    - "Não substitui uma furadeira/parafusadeira de 12V (não possui mandril de três garras)"
+    - "Bateria integrada não pode ser removida para troca rápida durante o serviço"
+    - "Não possui embreagem mecânica graduada para móveis delicados em MDF"
 ---
+
+A **Wesco WS2001** é uma parafusadeira elétrica compacta de **3,6V** da linha residencial *Wesco Home*, desenvolvida para apertar e soltar parafusos em pequenos reparos e montagens domésticas. Pesando apenas **~280 g**, entrega **torque máximo de 5 Nm** (**2,5 Nm em modo suave**), rotação de até **300 rpm**, **bateria integrada de 1,5 Ah** com recarga **USB-C**, LED duplo e kit de bits com suporte magnético.
+
+**Resposta rápida:** vale a pena para uso doméstico ocasional, montagem de móveis prontos já pré-furados, instalação de puxadores, brinquedos e pequenos reparos residenciais quando encontrada na faixa econômica (R$ 155 a R$ 190). Como **não possui mandril convencional** nem embreagem mecânica graduada, ela não substitui uma furadeira/parafusadeira de 12V — e se estiver com preço próximo ao da **Bosch GO 3**, vale comparar o controle de torque superior da rival. Sua nota editorial é **7,8/10**.
 
 {% include review-toc.html %}
 
-## Wesco WS2001: review completo e vale a pena comprar?
-
-A **Wesco WS2001** é uma parafusadeira elétrica compacta da linha Wesco Home, indicada principalmente para apertar e soltar parafusos em montagens simples, pequenos reparos e tarefas domésticas. Ela utiliza bateria interna de íons de lítio de 3,6 V e 1,5 Ah, alcança até 300 rpm sem carga e oferece torque máximo declarado de 5 Nm, além de torque suave de 2,5 Nm.
-
-Seu principal atrativo é a praticidade: pesa cerca de 280 g, utiliza encaixe sextavado de 1/4" para bits, tem iluminação LED dupla e carregamento por USB-C. O manual descreve três níveis de potência, enquanto a página brasileira resume o ajuste como uma seleção entre torque máximo e mínimo. A apresentação de catálogo inclui suporte magnético e pontas (bits), mas é importante conferir a composição exata do kit oferecido pelo vendedor.
-
-É importante posicionar corretamente o modelo. A WS2001 é uma parafusadeira compacta de baixa tensão, não uma furadeira/parafusadeira de uso geral e tampouco uma parafusadeira de impacto. O manual também prevê perfuração em madeira, metal e plástico com acessórios compatíveis. Essa possibilidade é limitada: a ferramenta utiliza encaixe sextavado de 1/4" para acessórios compatíveis, não possui mandril convencional de três garras e trabalha com rotação de até 300 rpm. Para perfurações frequentes, brocas convencionais ou parafusos grandes, uma furadeira/parafusadeira de 10,8/12 V com mandril é mais adequada.
-
 {% include resumo-avaliacao.html %}
 
-## Ficha técnica da Wesco WS2001
+<div id="ficha-tecnica" class="specs-table-wrapper">
+  {% include ficha-tecnica.html %}
+</div>
 
-| Especificação | Informação |
-|---|---|
-| Modelo | Wesco Home WS2001 |
-| Código interno do fabricante | WS2001 (CSD40YT) |
-| Código de barras atribuído ao produto em catálogo/anúncios | 6943475888671 (confirmar na embalagem da unidade) |
-| Categoria | Parafusadeira elétrica compacta |
-| Tensão nominal | 3,6 V |
-| Bateria | Íons de lítio integrada |
-| Capacidade da bateria | 1,5 Ah |
-| Rotação sem carga | 0–300 rpm |
-| Torque máximo | 5 Nm |
-| Torque suave | 2,5 Nm |
-| Encaixe para acessórios | Sextavado de 1/4" (6,35 mm), para bits e acessórios compatíveis |
-| Peso da ferramenta | Aproximadamente 0,28 kg |
-| Carregamento | USB-C |
-| Tempo de carga informado | Aproximadamente 2 horas, em condição de ensaio de 5 V / 1 A |
-| Iluminação | LED duplo |
-| Ajuste de potência/torque | O manual descreve três níveis de potência; a página brasileira apresenta seletor entre torque máximo e mínimo |
-| Rotação | Reversível |
-| Acessórios descritos no catálogo | Suporte magnético de 60 mm, bit PH2 de 50 mm, cabo USB-C e 25 pontas identificadas por cor |
-
-**Observação sobre o kit:** o catálogo Wesco 2024 lista 25 pontas coloridas, um bit PH2, suporte magnético de 60 mm e cabo USB-C. O manual de uma apresentação comercial detalha 24 bits de 25 mm mais um bit PH2 de 50 mm. As descrições podem contar esses itens de maneiras diferentes. Confira a lista da embalagem oferecida e não presuma que todos os anúncios tenham composição idêntica. Também não confunda a expressão “bit de impacto”, usada para identificar uma ponta, com um mecanismo de impacto na parafusadeira: a WS2001 não é uma parafusadeira de impacto.
+**Observação sobre o kit e acessórios:** a apresentação comercial inclui suporte magnético de 60 mm, cabo USB-C e um conjunto de 24 a 25 pontas (incluindo um bit PH2 de 50 mm). Note que a expressão *"bit de impacto"* presente na descrição de algumas pontas identifica apenas o tipo de acessório — a **Wesco WS2001 não é uma parafusadeira de impacto**.
 
 {% include produto-card.html %}
 
 ## Para que serve a Wesco WS2001?
 
-A WS2001 foi desenvolvida para tarefas leves de parafusamento. O peso reduzido e o formato compacto facilitam o manuseio em montagens pequenas, especialmente quando uma chave manual seria lenta ou cansativa.
+Com **~280 g** e formato compacto tipo bastão/pistola leve, a **Wesco WS2001** substitui a chave de fenda manual em tarefas cotidianas sem cansar o punho. Possui encaixe hexagonal padrão de **1/4" (6,35 mm)**, rotação reversível, **LED duplo frontal** e seletor de potência (descrito como três níveis no manual e seleção entre torque máximo e mínimo no catálogo brasileiro).
 
-O encaixe sextavado de 1/4" permite trocar rapidamente os bits e outros acessórios compatíveis. O manual descreve três níveis de potência, embora a página brasileira apresente o seletor de forma mais resumida, entre torque máximo e mínimo. A rotação reversível permite apertar ou soltar parafusos.
+### Aplicações ideais
 
-### Aplicações em que pode ser útil
-
-- Montagem de móveis prontos e pequenos componentes.
-- Instalação de puxadores e ferragens leves.
-- Aperto e remoção de parafusos pequenos em acessórios domésticos.
-- Montagem de brinquedos, suportes e objetos com parafusos compatíveis.
-- Reparos simples em equipamentos e itens domésticos.
-- Tarefas ocasionais em que o baixo peso seja mais importante que a força.
-
-Em móveis de MDF, MDP e aglomerado, comece na configuração de torque mais baixa e faça um teste em uma área discreta ou peça de sobra. Se o parafuso oferecer resistência, não force continuamente: a ponta pode escapar, a cabeça do parafuso pode espanar e o material pode se danificar.
+* Montagem de móveis modulados prontos, prateleiras leves, suportes e puxadores.
+* Aperto e remoção de parafusos pequenos em dobradiças, brinquedos, eletrônicos e utensílios domésticos.
+* Reparos residenciais rápidos onde o baixo peso e o tamanho reduzido facilitam o acesso.
 
 ### Quando a WS2001 não é a ferramenta certa
 
-A Wesco WS2001 não é indicada como ferramenta principal para:
-
-- Parafusos longos ou de grande diâmetro.
-- Madeira dura e fixações que exigem alto torque.
-- Montagem profissional contínua ou produção em série.
-- Perfuração frequente com brocas convencionais.
-- Furos em alvenaria ou concreto.
-- Aplicações que exigem bateria removível e troca rápida.
-- Trabalhos que pedem controle de torque preciso e repetível.
-
-O manual menciona perfuração em madeira, metal e plástico com acessórios apropriados. Portanto, não é correto afirmar que a WS2001 seja incapaz de furar. A ressalva é que essa função é limitada: ela utiliza encaixe sextavado de 1/4", tem rotação sem carga de até 300 rpm e não possui mandril convencional de três garras. Para perfuração regular, furos maiores ou uso com brocas convencionais, prefira uma furadeira/parafusadeira com mandril.
-
-## Torque de 5 Nm: o que isso significa na prática?
-
-A Wesco informa torque máximo de 5 Nm e torque suave de 2,5 Nm. São valores coerentes com a proposta de uma parafusadeira compacta de 3,6 V: ajudam em fixações pequenas, mas não devem ser comparados diretamente com ferramentas de 10,8/12 V ou parafusadeiras de impacto, que pertencem a categorias diferentes.
-
-Sobre o ajuste, há uma diferença de descrição entre os materiais consultados: o manual apresenta três níveis de potência, enquanto a página brasileira resume o seletor como uma escolha entre torque máximo e mínimo. Por isso, é mais seguro não atribuir um valor específico de torque a cada nível. Em qualquer configuração, a WS2001 continua indicada para fixações leves; o valor máximo não representa força suficiente para qualquer aplicação.
-
-O torque real aplicado também depende da carga, do estado da bateria, do tipo de parafuso, do bit e do material. Não use o valor máximo como promessa de desempenho em todos os parafusos.
+A WS2001 **não é indicada para perfurações regulares** (apesar de o manual citar furos leves com brocas de haste hexagonal de 1/4", ela gira a apenas **300 rpm** e **não tem mandril de três garras**), nem para parafusos longos em madeira maciça ou montagem profissional contínua. Em chapas de MDF, comece sempre na configuração de potência mais suave e finalize o aperto manualmente se sentir resistência para não espanar a rosca.
 
 ## Bateria integrada de 1,5 Ah e carregamento USB-C
 
-A WS2001 possui bateria de íons de lítio de 3,6 V e 1,5 Ah integrada ao corpo. Isso deixa a ferramenta compacta e dispensa a compra de packs removíveis. Por outro lado, quando a bateria descarrega, não é possível retirar o conjunto e colocar outra bateria carregada para continuar trabalhando.
+A bateria de íons de lítio de **3,6V e 1,5 Ah** é embutida no corpo da ferramenta e recarregada por porta **USB-C** (cabo incluso na caixa; carregador de parede não acompanha). O tempo estimado de recarga completa é de **cerca de 2 horas** (em fonte 5V / 1A). Como a bateria não é removível, não há como trocá-la por um pack reserva caso descarregue no meio de uma montagem mais longa.
 
-O carregamento é feito por cabo USB-C. O manual informa aproximadamente duas horas em uma condição de carregamento de 5 V e 1 A. O tempo efetivo pode variar conforme a fonte USB, o nível de carga e a temperatura. O catálogo e o manual indicam o cabo USB-C entre os acessórios; não presuma que um carregador de tomada esteja incluído.
+## Comparativo com alternativas
 
-A capacidade de 1,5 Ah deve ser suficiente para tarefas domésticas ocasionais, mas a autonomia depende muito do esforço exigido. Parafusos pequenos em materiais macios consomem menos energia do que fixações longas ou repetitivas.
+Para situar a Wesco WS2001 frente às principais opções compactas de 3,6V e 12V, comparamos suas características com a **Bosch GO 3**, a articulada **Makita DF001DW** e a parafusadeira de impacto **Makita TD110D**:
 
-## Ergonomia, iluminação e acessórios
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Modelo</th>
+        <th>Categoria e Tensão</th>
+        <th>Peso e Carga</th>
+        <th>Diferencial Principal</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Wesco WS2001</strong></td>
+        <td>Parafusadeira compacta 3,6V (5 Nm)</td>
+        <td>~280 g / USB-C</td>
+        <td>Menor preço de entrada e kit completo com 25 pontas</td>
+      </tr>
+      <tr>
+        <td><strong>Bosch GO 3</strong></td>
+        <td>Parafusadeira bastão 3,6V (5 Nm)</td>
+        <td>320 g / USB-C</td>
+        <td>Embreagem mecânica de 7 níveis (a partir de 0,1 Nm) e trava de bit</td>
+      </tr>
+      <tr>
+        <td><strong>Makita DF001DW</strong></td>
+        <td>Parafusadeira articulada 3,6V</td>
+        <td>~360 g / micro-USB</td>
+        <td>Corpo articulado (reto ou pistola) e maleta com 81 peças</td>
+      </tr>
+      <tr>
+        <td><strong>Makita TD110D</strong></td>
+        <td>Parafusadeira de impacto 12V (110 Nm)</td>
+        <td>~1,0 kg / Pack CXT</td>
+        <td>Impacto rotacional para parafusos longos e estruturas pesadas</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-O peso aproximado de 280 g é um dos pontos fortes da WS2001. Ela é fácil de transportar, ocupa pouco espaço em uma gaveta e pode ser usada em tarefas curtas sem o volume de uma ferramenta profissional.
+* **Bosch GO 3:** Concorrente direta de 3,6V com carregamento **USB-C**, trazendo **embreagem mecânica precisa de 7 ajustes**, trava de retenção de bits e anel de LED. Veja o [review completo da Bosch GO 3]({{ '/parafusadeiras/reviews/review-parafusadeira-bosch-go-3/' | relative_url }}).
+* **Makita DF001DW:** Alternativa de 3,6V com **corpo articulado** (uso reto ou tipo pistola) e maleta com 81 acessórios. Confira o [review completo da Makita DF001DW]({{ '/parafusadeiras/reviews/review-parafusadeira-makita-df001dw/' | relative_url }}).
+* **Makita TD110D:** Se você precisa de força real (110 Nm) para madeira maciça e fixações pesadas, veja o [review completo da Makita TD110D]({{ '/parafusadeiras/reviews/review-parafusadeira-impacto-makita-td110d/' | relative_url }}).
 
-O LED duplo ajuda a visualizar a região do parafuso, enquanto os indicadores informam o estado de carga e a configuração de torque. A empunhadura foi projetada para uso doméstico, mas o conforto depende também do tamanho da mão e da posição de trabalho.
+Para entender as diferenças entre categorias e escolher sua primeira ferramenta, acesse nosso [guia da primeira parafusadeira]({{ '/guias/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}).
 
-O kit é um atrativo comercial. O suporte magnético de 60 mm facilita o uso dos bits, e as pontas coloridas ajudam a identificar perfis e tamanhos. O manual descreve 24 bits de 25 mm e um bit PH2 de 50 mm; o catálogo apresenta a composição de outra forma. Ainda assim, a quantidade de pontas não significa que todas serão necessárias ou que substituam bits de alta qualidade. Escolha sempre o perfil correto para reduzir o risco de espanar o parafuso.
+## Preço e o que conferir antes de comprar
 
-## Wesco WS2001 vale a pena? Comparação com alternativas
+No mercado brasileiro, a **Wesco WS2001** costuma ser encontrada na faixa de **R$ 155 a R$ 190** (podendo passar de R$ 250 em alguns marketplaces).
 
-A WS2001 deve ser comparada com parafusadeiras compactas de 3,6 V, como a Bosch GO 3 e a Makita DF001DW. Não é justo compará-la diretamente com parafusadeiras de impacto de 12 V ou 20 V, pois são categorias com objetivos e níveis de força diferentes.
+Antes de fechar o pedido:
+1. **Confirme o código e EAN:** verifique se o anúncio identifica o modelo **Wesco Home WS2001** (EAN **6943475888671**).
+2. **Cheque o conteúdo do kit:** confirme a presença do **cabo USB-C, suporte magnético de 60 mm e conjunto de bits** (carregador de parede não acompanha).
+3. **Compare o preço:** ela entrega o melhor custo-benefício abaixo de R$ 190; se o valor estiver próximo ao da [Bosch GO 3]({{ '/parafusadeiras/reviews/review-parafusadeira-bosch-go-3/' | relative_url }}), o modelo da Bosch oferece controle de torque superior.
 
-| Modelo | Categoria | Principal diferença |
-|---|---|---|
-| Wesco WS2001 | Parafusadeira compacta 3,6 V | 5 Nm, 300 rpm, USB-C, 280 g e kit de bits |
-| Bosch GO 3 | Parafusadeira compacta 3,6 V | Embreagem mecânica com sete ajustes e controle de acionamento |
-| Makita DF001DW | Parafusadeira compacta articulada 3,6 V | Cabo reto ou pistola e estojo com acessórios |
-| Makita TD110D | Parafusadeira de impacto 12 V | Mais força para fixações exigentes, mas maior e de outra categoria |
-
-### Wesco WS2001 ou Bosch GO 3?
-
-As duas são parafusadeiras compactas de 3,6 V, mas priorizam recursos diferentes. A Wesco oferece bateria de 1,5 Ah, torque máximo de 5 Nm, torque suave de 2,5 Nm, ajustes de potência, USB-C e conjunto de bits. A Bosch GO 3 se destaca pelo sistema de embreagem mecânica com sete posições, que oferece mais opções de ajuste para o parafusamento.
-
-Para quem quer uma ferramenta doméstica simples, leve e acompanhada de pontas variadas, a WS2001 pode ser suficiente. Para quem valoriza ajustes de torque mais graduais e um sistema de controle mais refinado, a Bosch GO 3 merece comparação. Confira o preço final e a disponibilidade de cada kit.
-
-### Wesco WS2001 ou Makita DF001DW?
-
-A Makita DF001DW também trabalha com 3,6 V, mas tem cabo articulado que pode ser usado reto ou em formato de pistola. A Wesco é mais simples e leve, com 280 g declarados, enquanto a Makita se diferencia pela ergonomia articulada e pelo conjunto de acessórios.
-
-A decisão depende do tipo de tarefa e do preço encontrado. Para espaços em que a empunhadura articulada ajuda, a Makita pode ser mais conveniente. Para pequenos reparos e montagem leve com baixo investimento, a WS2001 pode atender.
-
-Veja também nossos reviews da [Bosch GO 3]({{ '/parafusadeiras/reviews/review-parafusadeira-bosch-go-3/' | relative_url }}) e da [Makita DF001DW]({{ '/parafusadeiras/reviews/review-parafusadeira-makita-df001dw/' | relative_url }}), confirmando os slugs publicados antes de ativar os links.
-
-## Preço e disponibilidade da Wesco WS2001 no Brasil
-
-Na pesquisa realizada em **7 de novembro de 2026**, foram encontrados anúncios da WS2001 no Magazine Luiza, em lojas especializadas e em marketplaces. Os preços observados ficaram aproximadamente entre **R$ 156 e R$ 190** nas ofertas mais competitivas consultadas. Também apareceu um anúncio no Magazine Luiza acima de R$ 250, mostrando que o valor varia bastante entre vendedores.
-
-Esses valores são registros pontuais de anúncios, não preço fixo, média de mercado ou garantia de estoque. Algumas lojas podem apresentar o kit com 24 bits, outras com 25 pontas mais um bit PH2, e algumas podem estar sem disponibilidade.
-
-Antes de comprar:
-
-1. Confirme que o modelo é **Wesco WS2001**.
-2. Confira se a bateria interna de 1,5 Ah está descrita na ficha do produto.
-3. Verifique se acompanha cabo USB-C.
-4. Confira quantos bits, suporte magnético e acessórios estão incluídos.
-5. Não presuma que acompanha carregador de tomada.
-6. Verifique reputação do vendedor, nota fiscal, garantia e política de devolução.
-7. Compare o preço com a Bosch GO 3 e a Makita DF001DW.
-
-A WS2001 faz mais sentido quando o kit está em uma faixa de preço econômica. Se o anúncio se aproxima do preço de modelos com melhor controle de torque ou maior versatilidade, vale comparar antes de comprar.
-
-### Antes de escolher uma oferta da WS2001
-
-Na WS2001, o conteúdo do conjunto pode mudar entre vendedores. Por isso, não compare apenas o preço anunciado: confira se a embalagem realmente traz os acessórios que você pretende usar.
-
-Antes de comprar, verifique:
-
-- **Modelo:** Wesco Home WS2001, 3,6 V.
-- **Bateria e carga:** bateria integrada de 1,5 Ah e carregamento USB-C, conforme a versão descrita.
-- **Acessórios:** quantidade e tipos de bits, suporte magnético e estojo, quando anunciados.
-- **Aplicação:** ferramenta para parafusamento leve e pequenos reparos; não é uma parafusadeira de impacto nem substitui uma furadeira convencional.
-- **Pós-venda:** nota fiscal, garantia, política de devolução e reputação da loja.
-
-Se duas ofertas tiverem a mesma ferramenta, dê preferência à que explicar claramente o conteúdo do kit e oferecer condições de pós-venda verificáveis. Um conjunto com mais bits só vale a diferença se os acessórios forem úteis para suas tarefas.
-
-
-
-## Vantagens e limitações
-
-### Pontos positivos
-
-- Peso aproximado de 280 g.
-- Bateria integrada de 3,6 V e 1,5 Ah.
-- Carregamento por USB-C.
-- Torque máximo de 5 Nm.
-- Torque suave de 2,5 Nm.
-- Rotação sem carga de até 300 rpm.
-- Três níveis de potência descritos no manual; a página brasileira resume o seletor entre máximo e mínimo.
-- Rotação reversível.
-- LED duplo e indicadores de carga/torque.
-- Conjunto de bits e suporte magnético na apresentação de catálogo.
-
-### Pontos a considerar
-
-- Não substitui uma furadeira/parafusadeira de 10 ou 12 V.
-- Bateria integrada não permite troca rápida.
-- Torque limitado a aplicações leves.
-- Sem mandril convencional de três garras.
-- A composição do kit varia entre anúncios.
-- Carregador de tomada pode não acompanhar o produto.
-- Não é indicada para uso profissional pesado ou contínuo.
-
-## Perguntas frequentes sobre a Wesco WS2001
+## Perguntas Frequentes
 
 ### A Wesco WS2001 é boa?
 
-É uma opção funcional para montagem leve, pequenos reparos e parafusos pequenos. Seus pontos fortes são o baixo peso, o USB-C, a bateria integrada e o kit de bits. Não é indicada para trabalhos pesados ou para substituir uma furadeira/parafusadeira.
+Sim, para **uso doméstico leve, montagem de móveis prontos e pequenos reparos**. Destaca-se pelo baixo peso (**~280 g**), recarga **USB-C** e kit de bits incluso, mas não substitui uma furadeira/parafusadeira de 12V.
 
 ### Qual é o torque da Wesco WS2001?
 
-A documentação da Wesco informa torque máximo de 5 Nm e torque suave de 2,5 Nm. O manual descreve três níveis de potência; a página brasileira apresenta o seletor como ajuste entre torque máximo e mínimo.
+A Wesco informa **torque máximo de 5 Nm** e **torque suave de 2,5 Nm**, com rotação sem carga de até **300 rpm**.
 
-### A bateria da WS2001 é removível?
+### A bateria da Wesco WS2001 é removível?
 
-Não. A bateria de íons de lítio de 3,6 V e 1,5 Ah é integrada ao corpo da ferramenta.
+Não. A bateria de íons de lítio de **3,6V e 1,5 Ah** é integrada ao corpo e recarregada via cabo **USB-C** (cerca de 2 horas para carga completa).
 
-### A Wesco WS2001 carrega por USB-C?
+### A Wesco WS2001 serve para furar?
 
-Sim. O catálogo Wesco e o manual indicam cabo USB Tipo C. O manual informa cerca de duas horas de carregamento em condição de 5 V e 1 A.
+Apenas furos leves ocasionais em materiais macios utilizando brocas com haste hexagonal de 1/4". Por **não possuir mandril convencional** e girar a apenas 300 rpm, ela não substitui uma furadeira.
 
-### Quantos bits acompanham a WS2001?
+## Veredito Final e Recomendação de Compra
 
-O catálogo Wesco 2024 lista 25 pontas coloridas, além de um bit PH2, suporte magnético e cabo USB-C. O manual de uma apresentação comercial descreve 24 bits de 25 mm mais um PH2 de 50 mm. A expressão “bit de impacto” identifica o acessório, não um mecanismo de impacto na ferramenta. Confira a composição exata do anúncio.
+A **Wesco WS2001 vale a pena** como uma parafusadeira doméstica leve (**~280 g**), econômica e prática para manter na gaveta de casa, montar móveis prontos e resolver pequenos reparos do dia a dia com recarga **USB-C** e kit de pontas incluso.
 
-### A WS2001 serve para furar?
-
-Sim, dentro de limites. O manual prevê perfuração em madeira, metal e plástico com acessórios compatíveis. A ferramenta utiliza encaixe sextavado de 1/4", alcança até 300 rpm sem carga e não possui mandril convencional de três garras. Portanto, não substitui uma furadeira com mandril para perfuração frequente, furos maiores ou trabalhos exigentes.
-
-### A Wesco WS2001 tem controle de torque?
-
-Sim. O manual descreve três níveis de potência, enquanto a página brasileira resume o seletor entre torque máximo e mínimo. Os valores de torque publicados são 5 Nm no máximo e 2,5 Nm no modo suave; não há base suficiente para atribuir um desses valores a cada um dos três níveis.
-
-### A WS2001 é indicada para montar móveis?
-
-Pode ser útil na montagem de móveis prontos e em pequenos parafusos. Em MDF e MDP, use a configuração mais suave, mantenha o bit alinhado e finalize manualmente se necessário para evitar danificar a peça.
-
-### A Wesco WS2001 é uma parafusadeira de impacto?
-
-Não. A WS2001 é uma parafusadeira elétrica compacta convencional, sem mecanismo de impacto. A expressão “bit PH2 de impacto” encontrada na descrição do kit identifica uma ponta/acessório, não significa que a ferramenta tenha função de impacto.
-
-## Veredito final: recomendamos a Wesco WS2001?
-
-A **Wesco WS2001 vale a pena para quem procura uma parafusadeira muito leve e econômica para pequenos reparos e montagem doméstica**. A combinação de 3,6 V, bateria integrada de 1,5 Ah, USB-C, torque de até 5 Nm e kit de bits oferece praticidade em tarefas simples. O manual também prevê perfuração leve em madeira, metal e plástico, desde que sejam usados acessórios compatíveis.
-
-Seu limite está na força e na versatilidade: não é uma ferramenta para parafusos grandes, madeira dura, uso profissional contínuo ou perfuração frequente. A bateria integrada impede a troca rápida por outro pack, e a ausência de mandril convencional restringe o uso de brocas. Por isso, quem precisa de uma ferramenta mais versátil deve considerar uma furadeira/parafusadeira de 10,8/12 V.
-
-Nossa nota editorial é **7,8/10**. A pontuação considera a proposta doméstica, o peso, o carregamento USB-C, os acessórios e as limitações de torque e bateria. Não representa teste físico independente. Se encontrada por um preço competitivo, a WS2001 é uma opção coerente como ferramenta auxiliar para casa; se estiver próxima do preço de modelos com melhor controle de torque, vale comparar a Bosch GO 3 e a Makita DF001DW.
-
-
-
+Para uso mais frequente ou montagem cuidadosa em MDF, compare a [Bosch GO 3]({{ '/parafusadeiras/reviews/review-parafusadeira-bosch-go-3/' | relative_url }}), que traz embreagem mecânica de 7 níveis. Caso precise abrir furos com brocas comuns, prefira uma furadeira/parafusadeira de **12V** com mandril. Nossa nota editorial é **7,8/10**.
 
 ## Fontes oficiais
 

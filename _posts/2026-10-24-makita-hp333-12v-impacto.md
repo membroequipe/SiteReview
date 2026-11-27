@@ -8,32 +8,32 @@ slug: "review-makita-hp333-12v-impacto"
 categories: [furadeiras, reviews]
 produto_id: makita_hp333_12v_impacto
 image: "/assets/images/posts/makita-hp333-12v-impacto.webp"
-image_alt: "Makita HP333 em destaque"
+image_alt: "Furadeira e parafusadeira de impacto Makita HP333 12V CXT em destaque"
 date: 2026-10-24
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-26
 author: "Equipe de Análises"
 
 avaliacao:
   nota: 8.7
   resumo: >-
-    A Makita HP333 é uma furadeira e parafusadeira de impacto compacta da plataforma CXT 12V, com motor de dois polos com escovas, torque máximo de 34 Nm e mandril de aperto rápido. A nota editorial de 8,7/10 considera sua versatilidade para montagem, manutenção e perfurações leves; não resulta de ensaio laboratorial próprio.
+    A Makita HP333 é uma furadeira e parafusadeira de impacto compacta da plataforma CXT 12V Max, com motor de dois polos com escovas, torque máximo de 34 Nm e mandril de aperto rápido de 10 mm. Atende montagem de móveis, manutenção e perfurações ocasionais em alvenaria. A nota 8,7/10 é uma avaliação editorial baseada na documentação oficial do fabricante.
   vantagens:
-    - "Torque máximo declarado de 34 Nm, adequado a diferentes tarefas de montagem e manutenção"
+    - "Torque máximo declarado de 34 Nm, acima da média na categoria 12V"
     - "Duas velocidades mecânicas, 20 níveis de torque e função impacto"
-    - "Mandril de aperto rápido e iluminação de trabalho"
-    - "Compatibilidade com a plataforma de baterias Makita CXT 12V"
+    - "Mandril de aperto rápido de 10 mm, freio elétrico e iluminação LED"
+    - "Compatibilidade com a plataforma de baterias Makita CXT 12V Max"
   desvantagens:
-    - "Motor com escovas, que pode exigir manutenção ao longo da vida útil"
-    - "Capacidade nominal de 8 mm em alvenaria, limitada para serviços pesados em concreto"
-    - "Peso e acessórios variam conforme o kit e a bateria"
-    - "Baterias e carregador não acompanham a versão vendida somente como corpo"
+    - "Motor com escovas de carvão (não é brushless)"
+    - "Capacidade nominal de 8 mm em alvenaria, limitada para concreto estrutural"
+    - "Peso e acessórios variam bastante conforme o código do kit (DZ vs DWYE)"
+    - "Versão HP333DZ não acompanha bateria, carregador ou maleta"
 ---
 
+A **Makita HP333 12V CXT** é uma furadeira e parafusadeira de impacto compacta projetada para montagem de móveis, manutenção residencial e perfurações ocasionais em alvenaria. Ela entrega torque máximo de **34 Nm**, duas velocidades mecânicas, **20 níveis de ajuste de embreagem** e mandril de aperto rápido de **10 mm**.
+
+**Resposta rápida:** vale a pena para quem procura uma ferramenta leve e compacta de 12V para parafusar, furar madeira ou metal e fazer furos pontuais em paredes de tijolo. Para concreto duro ou uso contínuo em obra, um martelete SDS-Plus é mais adequado. Sua nota editorial é **8,7/10**.
+
 {% include review-toc.html %}
-
-A **Makita HP333 12V CXT** é uma furadeira/parafusadeira de impacto compacta para montagem, manutenção e perfurações ocasionais em alvenaria. Oferece torque máximo de 34 Nm, duas velocidades, 20 níveis de ajuste e mandril de 10 mm.
-
-**Resposta rápida:** é uma opção versátil para quem precisa parafusar, furar madeira ou metal e fazer furos ocasionais em alvenaria. Para concreto duro ou trabalho frequente, um martelete é mais apropriado. A nota editorial é 8,7/10. 
 
 {% include resumo-avaliacao.html %}
 
@@ -45,93 +45,114 @@ A **Makita HP333 12V CXT** é uma furadeira/parafusadeira de impacto compacta pa
 
 ## Construção e Ergonomia
 
-A HP333 pertence à linha **Makita CXT 12V max**, com bateria removível. É uma opção compacta para montadores, profissionais de manutenção e usuários que alternam entre parafusamento e perfurações leves. No Brasil, é importante distinguir os códigos: **HP333DZ** identifica a ferramenta avulsa, sem bateria, carregador e maleta; **HP333DWYE** é uma configuração de kit com duas baterias de 1,5 Ah, carregador simples, bit e maleta. As dimensões e o peso publicados pela Makita variam entre essas apresentações: a HP333DZ aparece com 193 × 66 × 173 mm e 0,93 kg sem bateria; a HP333DWYE, com 193 × 66 × 229 mm e 1,3 kg. Portanto, não use uma medida única para todos os anúncios.
+A HP333 pertence à linha **Makita CXT 12V Max**, com bateria deslizante removível. O corpo curto e bem equilibrado facilita o trabalho dentro de armários, gavetas e instalações acima da linha dos ombros.
 
-A HP333 utiliza **mandril de aperto rápido de 10 mm (3/8 pol.)**, com capacidade adequada a brocas de haste compatível. A documentação oficial brasileira não confirma que seja um mandril Rohm inteiramente metálico, com garras de carboneto ou catraca especial; por isso, não atribuímos esses recursos ao produto. O gatilho permite controlar a velocidade, e o seletor mecânico alterna entre duas faixas de rotação. O formato compacto favorece o acesso a espaços menores, embora o conforto dependa da bateria, da posição e do tempo de trabalho.
+No mercado brasileiro, é fundamental atenção ao sufixo do código comercial, pois ele muda o tamanho, o peso e o que vem na caixa:
+* **HP333DZ:** apenas o corpo da ferramenta avulsa, sem bateria, carregador ou maleta. Mede 193 × 66 × 173 mm e pesa aproximadamente **0,93 kg sem bateria**.
+* **HP333DWYE:** kit completo com duas baterias CXT de 12V (1,5 Ah), carregador bivolt, bit de ponta dupla e maleta plástica. Com bateria acoplada, o conjunto chega a cerca de **1,3 kg**.
 
-Entre os recursos confirmados pela Makita estão **20 níveis de ajuste de torque**, seletor de funções, duas velocidades mecânicas, velocidade variável pelo gatilho, rotação reversível, **freio elétrico** e iluminação de trabalho. O freio interrompe a rotação quando o gatilho é solto; portanto, não faz sentido afirmar que o mandril continua girando por um período fixo de 1,5 segundo. A página brasileira não confirma vedação XPT, LED duplo, duração exata da iluminação após o acionamento ou clipe magnético para bits. Confira os acessórios incluídos no código comercial escolhido.
+O mandril de aperto rápido aceita brocas e acessórios cilíndricos de **0,8 a 10 mm (3/8")**. Entre os recursos embarcados confirmados pela Makita Brasil estão **20 posições de ajuste de torque**, seletor de modos (parafusamento, perfuração e impacto), duas marchas mecânicas, gatilho eletrônico de velocidade variável, rotação reversível, **freio elétrico instantâneo** e iluminação LED frontal para áreas com pouca luz.
 
 ## Desempenho e Aplicações
 
-Segundo a **Makita Brasil**, a HP333 fornece **torque máximo de 34 Nm**, com **30 Nm em junta rígida e 14 Nm em junta flexível**. São dados de especificação, não garantia de que qualquer parafuso possa ser instalado sem pré-furo ou sem travamento. Para madeira densa e parafusos maiores, o diâmetro do fixador, o comprimento, a broca e o material influenciam o resultado. A Makita identifica o conjunto como **motor de 2 polos**. A HP333 não deve ser descrita como brushless: a fabricante não anuncia essa tecnologia para este modelo.
+Segundo a ficha técnica oficial da **Makita Brasil**, a HP333 utiliza motor de 2 polos com escovas de carvão e fornece **torque máximo de 34 Nm**, alcançando **30 Nm em junta rígida** e **14 Nm em junta flexível**. Em madeiras densas ou parafusos longos, realizar um pré-furo fino ajuda a evitar sobrecarga no motor e rachaduras na peça.
 
-A rotação sem carga varia de **0–450 rpm na primeira velocidade** a **0–1.700 rpm na segunda**. No modo impacto, a frequência declarada é de **0–6.750 e 0–25.500 impactos por minuto**, respectivamente. A fabricante especifica capacidade máxima de perfuração de **21 mm em madeira, 10 mm em aço e 8 mm em alvenaria**. Esses números ajudam a delimitar o uso: a HP333 é versátil para serviços leves e moderados, mas não substitui um martelete SDS-Plus em concreto resistente ou em perfurações frequentes de maior diâmetro.
+As duas faixas de rotação sem carga e de impacto mecânico são:
+* **1ª velocidade:** 0 a 450 rpm | até 6.750 impactos por minuto (ipm)
+* **2ª velocidade:** 0 a 1.700 rpm | até 25.500 impactos por minuto (ipm)
 
-A função impacto utiliza percussão mecânica axial, diferente do mecanismo eletropneumático dos marteletes. Por isso, não é apropriado atribuir à HP333 uma energia de impacto em joules sem medição específica, nem afirmar que determinada resistência de concreto produzirá um avanço fixo em milímetros por segundo. Para madeira, metal e parafusamento, selecione o modo sem impacto e a broca apropriada. Em superfícies delicadas, comece com baixa rotação e siga as orientações do fabricante do acessório.
+As capacidades máximas nominais declaradas pela fabricante são de até **21 mm em madeira**, **10 mm em aço** e **8 mm em alvenaria**.
 
-A autonomia depende da capacidade e do estado da bateria, do material, da broca, do esforço e das pausas. Não há dados verificáveis que sustentem números fixos de parafusos ou furos por carga. A **HP333DZ** é vendida sem bateria, carregador e maleta. Já a **HP333DWYE**, conforme a ficha oficial brasileira consultada, acompanha duas baterias CXT de 12V e 1,5 Ah, carregador simples, bit e maleta. Não presuma que outros anúncios com o nome HP333 tragam os mesmos itens: confirme o sufixo e a lista de conteúdo.
+Como utiliza impacto mecânico axial (e não o mecanismo eletropneumático de um martelete), a HP333 resolve bem furos ocasionais de bucha 6 mm ou 8 mm em paredes de tijolo e reboco, mas **não substitui um martelete SDS-Plus** em concreto estrutural armado ou perfurações repetitivas. Para madeira, metal e parafusamento, mantenha sempre o seletor na posição sem impacto.
 
-Se você quer comparar com outras opções, consulte nosso [guia das melhores furadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e [outros reviews de furadeiras]({{ '/furadeiras/' | relative_url }}). Antes de comprar, confira se o anúncio é da **HP333DZ (avulsa)** ou da **HP333DWYE (kit)** e se o conteúdo corresponde à descrição.
+## Onde a Makita HP333 se destaca (e onde encontra limites)
 
-## Pontos Fortes e Limitações na Prática
+### Onde funciona melhor
+* **Montagem de móveis e marcenaria leve:** O formato compacto de 12V e os 20 níveis de embreagem oferecem excelente controle para não espanar parafusos ou estufar chapas de MDF.
+* **Versatilidade em uma única máquina:** A segunda velocidade de até 1.700 rpm e a taxa de 25.500 ipm dão agilidade acima da média entre as furadeiras compactas de 12V.
+* **Sistema CXT 12V Max:** Permite compartilhar baterias e carregadores com outras ferramentas compactas da linha Makita 12V.
 
-### O que favorece a HP333
-- **Formato compacto para instalações e montagem:** o tamanho e a alimentação por bateria são vantagens práticas para trabalhos em locais estreitos; esta é uma análise de características, não uma contagem de avaliações.
-- **Versatilidade:** a combinação de parafusamento, perfuração e impacto leve permite executar diferentes tarefas com a mesma ferramenta.
-- **Controle de aplicação:** duas velocidades, gatilho variável e 20 ajustes de torque ajudam a adaptar a operação ao fixador e ao material.
-- **Sistema CXT 12V:** quem já possui baterias compatíveis pode avaliar a compra da ferramenta sem kit completo.
+### Onde encontra limites
+* **Limites em concreto e alvenaria pesada:** A capacidade nominal de 8 mm em alvenaria restringe o equipamento a furos pontuais e buchas leves.
+* **Motor com escovas de carvão:** Diferente dos modelos brushless, possui menor eficiência energética e exige manutenção preventiva das escovas após longo tempo de uso.
+* **Diferença entre códigos DZ e DWYE:** Comprar a versão DZ sem atenção pode resultar em receber apenas a máquina avulsa sem bateria ou carregador.
 
-### Limitações que você deve considerar
-- **Limites em concreto:** a capacidade nominal de 8 mm em alvenaria não equivale ao desempenho de um martelete para concreto estrutural.
-- **Motor com escovas:** diferentemente dos modelos brushless, pode demandar manutenção das escovas com o tempo.
-- **Acessórios variáveis por versão:** o código HP333DZ não deve ser confundido com kits que incluem baterias, carregador e maleta.
-- **Autonomia condicionada à bateria:** não há quantidade universal de furos ou parafusos por carga; o uso intensivo pode exigir baterias adicionais.
-
-**Nota editorial:** os pontos acima são uma avaliação das características e limitações técnicas do modelo. Não representam uma pesquisa estatística de comentários de Amazon, Mercado Livre ou Shopee, nem permitem afirmar quais elogios ou reclamações são mais frequentes entre compradores.
-
-
+Se quiser comparar este modelo com outras opções de entrada e intermediárias, veja também nosso [guia das melhores furadeiras e parafusadeiras]({{ '/guias/qual-a-melhor-furadeira/' | relative_url }}) e os demais [reviews de furadeiras]({{ '/furadeiras/' | relative_url }}).
 
 ## Comparativo com Concorrentes
 
-Uma alternativa da mesma categoria encontrada no catálogo brasileiro é a **Bosch GSB 12V-30**, furadeira/parafusadeira de impacto 12V com motor brushless. A Bosch informa torque de **30 Nm em junta rígida e 18 Nm em junta flexível**, rotação de **0–420 / 0–1.600 rpm**, até **24.000 impactos por minuto** e capacidade de perfuração de até 8 mm em alvenaria. A Makita HP333 anuncia torque máximo de 34 Nm, 30/14 Nm em juntas rígida/flexível e até 25.500 impactos por minuto. Os valores são especificações dos fabricantes, obtidas por critérios que podem variar; não constituem um teste direto de força entre as ferramentas.
+Uma concorrente direta na categoria de impacto 12V é a **Bosch GSB 12V-30**, que aposta em motor brushless (sem escovas), enquanto a Makita HP333 oferece rotação máxima ligeiramente superior e maior taxa de impactos por minuto.
 
-Confira também nosso [review completo da Bosch GSB 12V-30](/furadeiras/reviews/review-bosch-gsb-12v-30-brushless/).
+<div class="specs-table-wrapper">
+  <table class="specs-table">
+    <thead>
+      <tr>
+        <th>Especificação</th>
+        <th>Makita HP333</th>
+        <th>Bosch GSB 12V-30</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Plataforma</strong></td>
+        <td>Makita CXT 12V Max</td>
+        <td>Bosch Professional 12V</td>
+      </tr>
+      <tr>
+        <td><strong>Motor</strong></td>
+        <td>2 polos com escovas</td>
+        <td>Brushless (sem escovas)</td>
+      </tr>
+      <tr>
+        <td><strong>Torque (rígido / flexível)</strong></td>
+        <td>30 / 14 Nm (34 Nm máx.)</td>
+        <td>30 / 18 Nm</td>
+      </tr>
+      <tr>
+        <td><strong>Rotação sem carga</strong></td>
+        <td>0–450 / 0–1.700 rpm</td>
+        <td>0–420 / 0–1.600 rpm</td>
+      </tr>
+      <tr>
+        <td><strong>Impactos máximos</strong></td>
+        <td>Até 25.500 ipm</td>
+        <td>Até 24.000 ipm</td>
+      </tr>
+      <tr>
+        <td><strong>Mandril</strong></td>
+        <td>10 mm (3/8")</td>
+        <td>10 mm (3/8")</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-A diferença mais clara está no conjunto: a HP333 oferece 20 níveis de torque e duas velocidades, com motor de 2 polos; a GSB 12V-30 utiliza motor sem escovas. A escolha também depende do sistema de baterias que você já possui, do preço e da composição do kit. Não compre uma ferramenta avulsa supondo que ela venha com bateria ou carregador.
+Confira também nosso [review completo da Bosch GSB 12V-30]({{ '/furadeiras/reviews/review-bosch-gsb-12v-30-brushless/' | relative_url }}).
 
-<table class="specs-table" style="width: 100%; border-collapse: collapse;">
-  <thead>
-    <tr style="background-color: #0f172a; color: #ffffff;">
-      <th colspan="3" style="padding: 12px; text-align: left;">Makita HP333 x Bosch GSB 12V-30</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Modelo</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Makita HP333</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Bosch GSB 12V-30</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Motor</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">2 polos; não anunciada como brushless</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Brushless</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Torque (rígido / flexível)</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">30 / 14 Nm; máximo de 34 Nm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">30 / 18 Nm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Rotação</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f2;">0–450 / 0–1.700 rpm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f2;">0–420 / 0–1.600 rpm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Impactos</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Até 25.500 ipm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Até 24.000 ipm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Mandril</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">10 mm</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">10 mm</td></tr>
-    <tr><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;"><strong>Plataforma</strong></td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Makita CXT 12V max</td><td style="padding: 10px; border-bottom: 1px solid #e2e8f0;">Bosch Professional 12V</td></tr>
-  </tbody>
-</table>
-
-**Como escolher:** a HP333 pode ser interessante para quem já utiliza baterias Makita CXT ou encontra o kit HP333DWYE por um preço competitivo. A Bosch GSB 12V-30 merece atenção de quem prioriza motor brushless e já utiliza a plataforma Bosch Professional 12V. Antes de decidir, compare os kits completos e confirme a disponibilidade real no varejista.
+**Como escolher:** a **Makita HP333** faz mais sentido para quem já utiliza baterias Makita CXT ou encontra o kit **HP333DWYE** (com duas baterias e maleta) por um valor competitivo frente às rivais. Já a **Bosch GSB 12V-30** é interessante para quem busca motor brushless em corpo compacto e já opera no ecossistema Bosch 12V.
 
 ## Perguntas Frequentes
 
 ### A Makita HP333 fura concreto de laje ou viga?
-A Makita declara capacidade de até 8 mm em alvenaria, mas isso não significa que a ferramenta seja adequada para perfuração rotineira de concreto estrutural. O impacto mecânico da HP333 é diferente do mecanismo de um martelete. Para concreto duro, muitos furos ou serviços com armadura, prefira equipamento e brocas próprios para a aplicação e verifique previamente a segurança da estrutura.
+Não é indicada para perfuração rotineira de concreto estrutural. A capacidade nominal declarada pela Makita é de até **8 mm em alvenaria**, o que atende furos ocasionais em paredes de tijolo, bloco e reboco. Para concreto armado ou uso frequente, utilize um martelete SDS-Plus apropriado e verifique sempre a presença de tubulações e armaduras antes de furar.
 
 ### Qual é a diferença entre Makita HP333DZ e HP333DWYE?
-A **HP333DZ** é a ferramenta avulsa e não acompanha bateria, carregador ou maleta. A **HP333DWYE** é um kit que, na configuração oficial brasileira consultada, inclui duas baterias de 12V e 1,5 Ah, carregador simples, bit e maleta. Confira o código completo e o conteúdo no anúncio antes de pagar.
+A **HP333DZ** é a versão vendida avulsa (apenas o corpo da ferramenta), sem bateria, carregador ou maleta. Já a **HP333DWYE** é o kit completo que acompanha duas baterias CXT 12V de 1,5 Ah, carregador simples bivolt, bit e maleta plástica.
 
-### Vale a pena comprar o kit só com o corpo (HP333DZ) ou esperar promoção de kit completo?
-Depende do que você já possui. Se tem baterias e carregador compatíveis com a linha CXT 12V, a HP333DZ pode ser conveniente. Se está começando do zero, compare o custo total com o kit HP333DWYE. Confira sempre o código da oferta e a lista de acessórios, porque anúncios de marketplace podem apresentar configurações diferentes.
+### Vale a pena comprar só o corpo (HP333DZ) ou o kit completo?
+Se você já possui baterias e carregador da plataforma **Makita CXT 12V Max**, comprar a **HP333DZ** avulsa gera boa economia. Se esta for sua primeira ferramenta Makita 12V, o kit **HP333DWYE** costuma oferecer custo total muito mais vantajoso do que adquirir baterias e carregador separadamente.
 
 ### O mandril aceita bits de 1/4" diretamente?
-O mandril de aperto rápido pode prender acessórios com haste compatível, inclusive muitos porta-bits e bits sextavados de 1/4 de polegada, desde que fiquem corretamente centralizados e firmes. Um porta-bits magnético adequado costuma facilitar a troca e o uso de pontas curtas. Não é necessário afirmar que todo bit exige um adaptador de haste de 10 mm.
+Sim. O mandril de aperto rápido de 10 mm prende bits sextavados de 1/4 de polegada diretamente, embora o uso de um porta-bits magnético torne a troca entre pontas Philips, fenda e Torx muito mais rápida no dia a dia.
 
 ### A HP333 substitui uma parafusadeira de impacto Makita TD110D para parafusos longos?
-Não em todas as situações. A HP333 é uma furadeira/parafusadeira com mandril e impacto mecânico axial para perfuração em alvenaria. A TD110D é uma parafusadeira de impacto com encaixe sextavado de 1/4 pol. e impactos rotacionais aplicados ao fixador. Para parafusos longos e fixação repetitiva, a TD110D pode ser mais adequada; para furar e parafusar com controle de torque, a HP333 é mais versátil. São ferramentas de categorias diferentes.
+Não exatamente, pois são ferramentas de propostas diferentes. A **HP333** é uma furadeira e parafusadeira com mandril convencional e impacto axial para furar parede. Já a **TD110D** é uma parafusadeira de impacto (*impact driver*) com encaixe sextavado de 1/4" e golpes rotacionais, muito mais rápida e forte para apertar parafusos longos em madeira maciça sem torcer o punho, porém sem mandril para brocas cilíndricas comuns.
 
 ## Veredito Final e Recomendação de Compra
 
-A **Makita HP333 12V CXT** é uma opção coerente para quem procura uma furadeira e parafusadeira compacta, com função impacto para alvenaria leve e recursos úteis no dia a dia. Seus **34 Nm de torque máximo**, duas velocidades, 20 ajustes de torque, iluminação e freio elétrico compõem um conjunto versátil para montagem de móveis, manutenção e instalações. A ferramenta não possui motor brushless nem os recursos especiais de mandril e vedação atribuídos indevidamente à versão anterior deste artigo. Por isso, deve ser avaliada pelo que a Makita realmente especifica, e não por números de desempenho inventados.
+A **Makita HP333 12V CXT** é uma excelente escolha na categoria compacta de 12V para quem precisa reunir parafusamento controlado, perfuração em madeira e metal e furos ocasionais em alvenaria em uma única ferramenta leve.
 
-Para quem já utiliza baterias **Makita CXT 12V**, comprar somente o corpo pode fazer sentido. Para novos usuários, a escolha mais econômica dependerá do preço do kit completo em comparação com a compra separada de baterias e carregador. A HP333 é indicada principalmente para quem prioriza portabilidade e aplicações leves a moderadas; para perfuração frequente de concreto duro ou parafusamento estrutural pesado, uma ferramenta de categoria superior será mais adequada. A **nota editorial de 8,7/10** foi mantida como avaliação qualitativa, não como resultado de ensaio instrumental ou média de opiniões de compradores.
-
-
+Seus **34 Nm de torque máximo**, duas velocidades mecânicas (até 1.700 rpm), 20 ajustes de embreagem, freio elétrico e iluminação LED entregam praticidade e bom desempenho para montagem de móveis, instalações elétricas e manutenção residencial. Apenas lembre-se de conferir o código exato na compra (**HP333DWYE** para o kit completo ou **HP333DZ** para o corpo avulso) e de respeitar seu limite de 8 mm em alvenaria. Nossa nota editorial é **8,7/10**.
 
 ## Fontes oficiais
 
