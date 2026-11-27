@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makita DF333DWYE é boa? Review 12V CXT para móveis"
-marca: "Makita"
+marca: makita
 modelo: "Makita DF333DWYE"
 description: "Makita DF333DWYE vale a pena? Veja análise do torque de 30 Nm, kit 12V CXT com duas baterias de 1,5 Ah, ergonomia, diferenças para a DF332D e limites para móveis e MDF."
 slug: "review-makita-df333dwye"
