@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makita HP2050 é boa para concreto? Análise"
-marca: "Makita"
+marca: makita
 modelo: "Makita HP2050"
 description: "A Makita HP2050 é boa para concreto? Veja análise da potência de 720 W, duas velocidades mecânicas, mandril de 13 mm, embreagem de segurança e quando preferir um martelete."
 slug: "review-makita-hp2050"
