@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makita HP332DWYE é boa? Review 12V CXT Brushless"
-marca: "Makita"
+marca: makita
 modelo: "Makita HP332DWYE"
 description: "Makita HP332DWYE vale a pena? Veja análise do motor BL brushless, torque máximo de 38 Nm, kit 12V CXT com duas baterias e diferenças para a HP333DWYE."
 slug: "review-makita-hp332dwye"
