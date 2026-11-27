@@ -3,6 +3,7 @@ layout: post
 title: "Bosch GSR 1000 Smart vs GSB 120-LI: qual escolher?"
 description: "Bosch GSR 1000 Smart ou GSB 120-LI? Compare torque (15 vs 30 Nm), função impacto, bateria e descubra qual escolher para móveis ou parede."
 slug: "bosch-gsr-1000-smart-vs-bosch-gsb-120-li"
+marca: bosch
 category: comparativos
 categories: [comparativos]
 image: "/assets/images/posts/bosch-gsr-1000-smart-vs-bosch-gsb-120-li.webp"
