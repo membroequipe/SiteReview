@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WAP BPF 12K3 é boa? Análise e ficha técnica"
-marca: "WAP"
+marca: wap
 modelo: "WAP BPF 12K3"
 description: "WAP BPF 12K3 vale a pena? Veja análise do torque de 17 Nm, 18 níveis de embreagem, bateria 12V, diferenças entre os códigos FW008649 e FW009424 e limites de uso."
 slug: "review-wap-bpf-12k3"
