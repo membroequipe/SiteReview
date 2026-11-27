@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GBH 18V-21 é boa? Review do Martelete 18V"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GBH 18V-21"
 description: "Bosch GBH 18V-21 vale a pena para concreto? Veja análise da força de impacto de 2,0 J, motor brushless, encaixe SDS-Plus, vantagens e limitações antes de comprar."
 slug: "review-bosch-gbh-18v-21"
