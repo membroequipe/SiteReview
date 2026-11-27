@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GTB 650 é boa? Análise da parafusadeira drywall"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GTB 650"
 description: "Review da Bosch GTB 650: motor de 650W, 5.000 rpm, 12 Nm, batente reversível e compatibilidade com GMA 55. Veja aplicações, tensão 220V e se vale a pena."
 slug: review-parafusadeira-drywall-bosch-gtb-650
