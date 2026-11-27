@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makita HP333 é boa? Review da furadeira 12V CXT"
-marca: "Makita"
+marca: makita
 modelo: "Makita HP333"
 description: "Makita HP333 é boa? Confira torque de 34 Nm, impacto, mandril de 10 mm, capacidades de furação e diferenças entre os kits DZ e DWYE antes de comprar."
 slug: "review-makita-hp333-12v-impacto"
