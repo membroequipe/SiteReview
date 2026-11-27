@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makita DF001DW é boa? Análise e características"
-marca: "Makita"
+marca: makita
 modelo: "Makita DF001DW"
 description: "Review da Makita DF001DW: parafusadeira articulada 3,6V, 220 rpm, bateria integrada, estojo com 81 acessórios e análise de torque. Veja usos, limites e alternativas."
 slug: review-parafusadeira-makita-df001dw
