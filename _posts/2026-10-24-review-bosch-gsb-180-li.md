@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSB 180-LI é boa? Review da furadeira 18V"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSB 180-LI"
 description: "Bosch GSB 180-LI vale a pena? Veja análise do torque de 54 Nm, motor com escovas substituíveis, função impacto, mandril de 13 mm e comparação com a GSB 185-LI."
 slug: "review-bosch-gsb-180-li"
