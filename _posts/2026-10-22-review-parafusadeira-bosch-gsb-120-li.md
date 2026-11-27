@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSB 120-LI é boa? Review e ficha técnica"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSB 120-LI"
 description: "Bosch GSB 120-LI é boa? Veja análise do torque de 30 Nm, função impacto, bateria 12V, limites de perfuração e comparativo com Makita e Bosch GSR."
 slug: "review-bosch-gsb-120-li"
