@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DeWalt DCD7781D2 é boa? Análise e ficha técnica"
-marca: "DeWalt"
+marca: dewalt
 modelo: "DeWalt DCD7781D2"
 description: "DeWalt DCD7781D2 é boa? Veja análise dos 65 Nm, motor brushless, mandril metálico de 13 mm, impacto, kit com duas baterias 20V MAX e limites de uso."
 slug: "review-dewalt-dcd7781d2-vale-a-pena-2026"
