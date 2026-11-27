@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Makita DHP484RTJ / DHP484Z é boa? Review 18V"
-marca: "Makita"
+marca: makita
 modelo: "Makita DHP484Z"
 description: "Makita DHP484 vale a pena? Veja análise do torque de 65 Nm, motor BL brushless, mandril de 13 mm e diferenças entre as versões DHP484Z (avulsa) e kits RFE/RTJ."
 slug: "review-makita-dhp484rtj"
