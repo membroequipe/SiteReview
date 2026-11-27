@@ -2304,6 +2304,26 @@ details.toc-box[open] > summary::after {
     text-underline-offset: 3px;
 }
 
+/* Ícone quadrado do Facebook no rodapé */
+.site-footer .footer-nav a.footer-social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: rgba(255, 255, 255, 0.08);
+    color: #cbd5e1;
+    border-radius: 6px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    vertical-align: middle;
+}
+
+.site-footer .footer-nav a.footer-social-icon:hover {
+    background: #f59e0b;
+    color: #0f172a;
+    text-decoration: none;
+}
+
 /* Acessibilidade */
 
 .site-footer a:focus-visible {
