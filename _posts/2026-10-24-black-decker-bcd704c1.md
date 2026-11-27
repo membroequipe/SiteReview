@@ -2,7 +2,7 @@
 layout: post
 title: "Black+Decker BCD704C1-BR é boa? Review 20V"
 modelo: "Black+Decker BCD704C1-BR"
-marca: "Black+Decker"
+marca: blackdecker
 description: "Black+Decker BCD704C1-BR é boa? Veja análise do torque de 45 Nm, impacto 20V, mandril de 10 mm, limites de perfuração e o que vem no kit brasileiro."
 slug: "review-black-decker-bcd704c1"
 categories: [furadeiras, reviews]
