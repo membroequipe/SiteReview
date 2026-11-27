@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSB 18V-55 é boa? Análise completa"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSB 18V-55"
 description: "Bosch GSB 18V-55 vale a pena? Veja análise do torque de 55 Nm, motor brushless, mandril metálico de 13 mm, função impacto e comparação com a GSB 18V-50 e Makita DHP485Z."
 slug: "review-bosch-gsb-18v-55"
