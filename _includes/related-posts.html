@@ -1,17 +1,47 @@
+{% assign rel_max = 4 %}
+{% assign rel_count = 0 %}
+{% assign rel_usados = "|" %}
+{% assign rel_categoria = page.categories[0] %}
+
 <section class="related-posts" style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #eaeaea;">
-  <h3>Outros reviews recomendados em {{ page.categories[0] | capitalize }}</h3>
+  <h3>{% if page.categories contains "reviews" %}Outros reviews que podem ajudar na sua escolha{% else %}Continue lendo{% endif %}</h3>
   <ul>
-    {% assign max_posts = 3 %}
-    {% assign current_slug = page.slug %}
-    {% assign count = 0 %}
-    
-    {% for post in site.posts %}
-      {% if post.categories contains page.categories[0] and post.slug != current_slug and count < max_posts %}
-        <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </li>
-        {% assign count = count | plus: 1 %}
+
+    {% comment %} 1) Indicados à mão no cabeçalho do post: relacionados: [slug-1, slug-2] {% endcomment %}
+    {% for rel_slug in page.relacionados %}
+      {% assign rel_post = site.posts | where: "slug", rel_slug | first %}
+      {% if rel_post and rel_count < rel_max %}
+        <li><a href="{{ rel_post.url | relative_url }}">{{ rel_post.title }}</a></li>
+        {% assign rel_count = rel_count | plus: 1 %}
+        {% assign rel_usados = rel_usados | append: rel_post.url | append: "|" %}
       {% endif %}
     {% endfor %}
+
+    {% comment %} 2) Mesma marca {% endcomment %}
+    {% if page.marca %}
+      {% for post in site.posts %}
+        {% capture rel_chave %}|{{ post.url }}|{% endcapture %}
+        {% if post.marca == page.marca and post.url != page.url and rel_count < rel_max %}
+          {% unless rel_usados contains rel_chave %}
+            <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+            {% assign rel_count = rel_count | plus: 1 %}
+            {% assign rel_usados = rel_usados | append: post.url | append: "|" %}
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% comment %} 3) Mesma categoria {% endcomment %}
+    {% for post in site.posts %}
+      {% capture rel_chave %}|{{ post.url }}|{% endcapture %}
+      {% if post.categories contains rel_categoria and post.url != page.url and rel_count < rel_max %}
+        {% unless rel_usados contains rel_chave %}
+          <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+          {% assign rel_count = rel_count | plus: 1 %}
+          {% assign rel_usados = rel_usados | append: post.url | append: "|" %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+
   </ul>
 </section>
