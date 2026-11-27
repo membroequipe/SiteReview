@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSB 12V-30 é boa? Review e ficha técnica"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSB 12V-30"
 description: "Bosch GSB 12V-30 é boa? Conheça o motor brushless, torque de 30 Nm, impacto, mandril metálico de 10 mm e diferenças entre os kits disponíveis."
 slug: "review-bosch-gsb-12v-30-brushless"
