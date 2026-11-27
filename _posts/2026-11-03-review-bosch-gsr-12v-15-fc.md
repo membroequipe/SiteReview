@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSR 12V-15 FC é boa? Review FlexiClick"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSR 12V-15 FC"
 description: "Bosch GSR 12V-15 FC vale a pena? Veja como funcionam os cabeçotes FlexiClick, torque de 30 Nm, acessórios do kit 06019F60E0, vantagens e limitações antes de comprar."
 slug: "review-bosch-gsr-12v-15-fc"
