@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vonder PFV 012 é boa? Review e ficha técnica (12V)"
-marca: "Vonder"
+marca: vonder
 modelo: "Vonder PFV 012"
 description: "Vonder PFV 012 vale a pena? Veja análise da ficha técnica oficial, 18 posições de torque, bateria 12V de 1,3 Ah, diferença para a PFV 012I e se atende montagem de móveis."
 slug: "review-vonder-pfv-012"
