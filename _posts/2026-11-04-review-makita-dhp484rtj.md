@@ -158,7 +158,7 @@ Não. O sufixo **Z** indica ferramenta avulsa, sem bateria, carregador ou maleta
 
 ### A Makita DHP484 fura parede e concreto?
 
-Sim. Ela possui **função impacto mecânico** (até 30.000 ipm) e capacidade nominal de até **13 mm em alvenaria e concreto**, atendendo furos de instalação em paredes de tijolo e bloco. Para concreto armado denso ou obra pesada contínua, utilize um martelete SDS-Plus como o [Makita DHR171Z]({{ '/marteletes/reviews/review-makita-dhr171z/' | relative_url }}).
+Sim. Ela possui **função impacto mecânico** (até 30.000 ipm) e capacidade nominal de até **13 mm em alvenaria e concreto**, atendendo furos de instalação em paredes de tijolo e bloco. Para concreto armado denso ou obra pesada contínua, utilize um martelete SDS-Plus como o Makita DHR171Z.
 
 ### Qual é a diferença entre a Makita DHP484 e a DHP485Z?
 

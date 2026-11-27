@@ -147,7 +147,7 @@ Nem todos os anúncios incluem o pacote completo. No Brasil, o código comercial
 
 A **Bosch GSR 12V-15 FC Professional vale muito a pena** para montadores de móveis planejados, marceneiros e instaladores que enfrentam diariamente parafusos em cantos fechados, gavetas e bordas internas de armários. A leveza de **0,6 kg (sem bateria)**, os **20+1 ajustes de torque** e a versatilidade dos cabeçotes **FlexiClick** entregam produtividade e acabamento difíceis de igualar na categoria 12V.
 
-Antes de fechar a compra, confirme apenas se o código anunciado é o **06019F60E0** com os quatro adaptadores inclusos. Se você está escolhendo sua primeira ferramenta para uso doméstico simples em áreas abertas, compare também com as opções do nosso [guia da primeira parafusadeira para iniciantes]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Nossa nota editorial é **9,0/10**.
+Antes de fechar a compra, confirme apenas se o código anunciado é o **06019F60E0** com os quatro adaptadores inclusos. Se você está escolhendo sua primeira ferramenta para uso doméstico simples em áreas abertas, compare também com as opções do nosso guia da primeira parafusadeira para iniciantes. Nossa nota editorial é **9,0/10**.
 
 ## Fontes oficiais
 

@@ -122,7 +122,7 @@ A [Bosch GSB 18V-21]({{ '/furadeiras/reviews/review-bosch-gsb-18v-21/' | relativ
 
 ### Black+Decker BCD704C1-BR vs. DeWalt DCD701
 
-A [DeWalt DCD701]({{ '/furadeiras/reviews/review-dewalt-dcd701/' | relative_url }}) é uma parafusadeira/furadeira compacta 12V XR equipada com motor brushless, muito leve e ágil para montagem de móveis e espaços estreitos, mas **não possui função impacto** para parede. Se você precisa furar alvenaria ocasionalmente com uma única ferramenta, a Black+Decker leva vantagem pela presença do impacto mecânico.
+A DeWalt DCD701 é uma parafusadeira/furadeira compacta 12V XR equipada com motor brushless, muito leve e ágil para montagem de móveis e espaços estreitos, mas **não possui função impacto** para parede. Se você precisa furar alvenaria ocasionalmente com uma única ferramenta, a Black+Decker leva vantagem pela presença do impacto mecânico.
 
 Para explorar outros modelos testados e catalogados no site, acesse nossa seção de [reviews de furadeiras e parafusadeiras]({{ '/reviews/' | relative_url }}).
 

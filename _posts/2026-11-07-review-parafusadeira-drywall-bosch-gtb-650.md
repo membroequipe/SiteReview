@@ -64,7 +64,7 @@ Diferente de uma furadeira/parafusadeira comum, a **Bosch GTB 650** foi projetad
 
 ### O que a GTB 650 não faz
 
-A GTB 650 **não possui mandril convencional nem embreagem de torque ajustável**. Ela não é indicada para abrir furos com brocas em madeira, metal ou alvenaria, nem para montagem geral de móveis em MDF. Se você precisa de uma ferramenta versátil para furar e parafusar diferentes materiais, prefira uma furadeira/parafusadeira como a [Bosch GSR 7-14 E]({{ '/furadeiras/reviews/review-furadeira-parafusadeira-bosch-gsr-7-14-e/' | relative_url }}).
+A GTB 650 **não possui mandril convencional nem embreagem de torque ajustável**. Ela não é indicada para abrir furos com brocas em madeira, metal ou alvenaria, nem para montagem geral de móveis em MDF. Se você precisa de uma ferramenta versátil para furar e parafusar diferentes materiais, prefira uma furadeira/parafusadeira como a Bosch GSR 7-14 E.
 
 ## Batente de profundidade reversível e motor de 650 W
 
@@ -120,8 +120,8 @@ Para situar a Bosch GTB 650 frente às principais opções para construção a s
 </div>
 
 * **Bosch GTB 185-LI:** Versão sem fio de 18V da própria Bosch com motor *brushless*, tecnologia PowerSAVE e compatibilidade com o mesmo alimentador GMA 55, ideal para obras sem tomadas próximas ou trabalhos em tetos altos. Veja o [review completo da Bosch GTB 185-LI]({{ '/parafusadeiras/reviews/review-parafusadeira-drywall-bosch-gtb-185-li/' | relative_url }}).
-* **DeWalt DCF630:** Alternativa sem fio na plataforma 20V MAX com motor *brushless* e 4 modos eletrônicos. Confira o [review completo da DeWalt DCF630]({{ '/parafusadeiras/reviews/review-parafusadeira-drywall-dewalt-dcf630/' | relative_url }}).
-* **Bosch GSR 7-14 E:** Parafusadeira e furadeira com fio para uso geral (madeira, metal e montagem), equipada com mandril e embreagem de torque. Veja o [review completo da Bosch GSR 7-14 E]({{ '/furadeiras/reviews/review-furadeira-parafusadeira-bosch-gsr-7-14-e/' | relative_url }}).
+* **DeWalt DCF630:** Alternativa sem fio na plataforma 20V MAX com motor *brushless* e 4 modos eletrônicos. Confira o review completo da DeWalt DCF630.
+* **Bosch GSR 7-14 E:** Parafusadeira e furadeira com fio para uso geral (madeira, metal e montagem), equipada com mandril e embreagem de torque. Veja o review completo da Bosch GSR 7-14 E.
 
 ## Tensão elétrica (220V), preço e o que conferir antes de comprar
 

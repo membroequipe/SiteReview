@@ -76,7 +76,7 @@ A autonomia por carga varia conforme o comprimento do parafuso, a dureza da made
 Na hora de comparar, a Bosch GSR 1000 Smart deve ser avaliada frente a outras **parafusadeiras compactas com encaixe de 1/4"**, e não como substituta direta de furadeiras completas com mandril.
 
 * **Makita DF001DW (3,6 V):** Tem corpo articulado (uso reto ou pistola) e pesa apenas 0,36 kg, sendo ainda mais leve para eletrônica, dobradiças e apertos delicados, mas oferece torque bem menor (4,0 Nm em junta rígida) e rotação fixa de 220 rpm. Veja todos os detalhes no [review da Makita DF001DW]({{ '/parafusadeiras/reviews/review-parafusadeira-makita-df001dw' | relative_url }}).
-* **Bosch GSR 120-LI (12 V):** Pertence à mesma plataforma 12V da Bosch, mas já traz mandril de aperto rápido de 10 mm, duas velocidades mecânicas, 30 Nm de torque e bateria removível. Confira a análise completa no [review da Bosch GSR 120-LI]({{ '/parafusadeiras/reviews/review-bosch-gsr-120-li/' | relative_url }}).
+* **Bosch GSR 120-LI (12 V):** Pertence à mesma plataforma 12V da Bosch, mas já traz mandril de aperto rápido de 10 mm, duas velocidades mecânicas, 30 Nm de torque e bateria removível. Confira a análise completa no review da Bosch GSR 120-LI.
 * **Bosch GSB 120-LI (12 V com impacto):** Adiciona a função impacto para furar alvenaria leve. Se estiver em dúvida entre os dois modelos da marca, veja nosso comparativo direto: [Bosch GSR 1000 Smart vs GSB 120-LI]({{ '/comparativos/bosch-gsr-1000-smart-vs-bosch-gsb-120-li/' | relative_url }}).
 
 **Qual escolher?** A GSR 1000 Smart faz mais sentido para quem quer uma parafusadeira 12V compacta, com bateria integrada e força suficiente (15 Nm) para móveis e reparos residenciais sem gastar com kits maiores.

@@ -77,7 +77,7 @@ Equipado com motor de **720 W**, encaixe **SDS-Plus** e **2,0 J de energia de im
 
 {% include produto-card.html id="bosch_gbh_2_21" %}
 
-> **Leia também:** [Review completo do Bosch GBH 2-21]({{ '/furadeiras/reviews/review-bosch-gbh-2-21/' | relative_url }})
+> **Leia também:** Review completo do Bosch GBH 2-21
 
 ## Comparativo rápido das especificações
 

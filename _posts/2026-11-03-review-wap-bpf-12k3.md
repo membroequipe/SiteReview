@@ -145,7 +145,7 @@ Sim, desde que suas tarefas se concentrem em montagem de móveis e pequenos repa
 
 A **WAP BPF 12K3 vale a pena** como parafusadeira e furadeira de entrada para quem quer montar móveis em casa e resolver reparos simples com baixo investimento e facilidade de manuseio. As **18 posições de torque**, o **mandril de aperto rápido de 10 mm** e o peso leve (~1,1 kg) cumprem bem a proposta residencial.
 
-Apenas lembre-se de suas limitações: ela possui velocidade única (0–740 rpm), torque de 17 Nm e não fura paredes de alvenaria. Para comparar outras opções acessíveis ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras custo-benefício]({{ '/melhores-parafusadeiras-custo-beneficio/' | relative_url }}) e o [guia de parafusadeiras para iniciantes]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Nossa nota editorial é **8,1/10**.
+Apenas lembre-se de suas limitações: ela possui velocidade única (0–740 rpm), torque de 17 Nm e não fura paredes de alvenaria. Para comparar outras opções acessíveis ou escolher sua primeira ferramenta, veja nosso guia das melhores parafusadeiras custo-benefício e o guia de parafusadeiras para iniciantes. Nossa nota editorial é **8,1/10**.
 
 ## Fontes oficiais
 

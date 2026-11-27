@@ -127,7 +127,7 @@ Para situar a DeWalt DCF887 frente a outras opções de parafusamento, comparamo
   </table>
 </div>
 
-* **DeWalt DCF850:** Irmã mais nova da linha ATOMIC com a mesma força bruta (~205 Nm) em um corpo ainda mais curto (~101,6 mm), ideal para entrar em vãos extremamente estreitos. Veja o [review completo da DeWalt DCF850]({{ '/parafusadeiras/reviews/review-parafusadeira-impacto-dewalt-dcf850/' | relative_url }}).
+* **DeWalt DCF850:** Irmã mais nova da linha ATOMIC com a mesma força bruta (~205 Nm) em um corpo ainda mais curto (~101,6 mm), ideal para entrar em vãos extremamente estreitos. Veja o review completo da DeWalt DCF850.
 * **Makita TD110D:** Alternativa mais leve e acessível da linha 12V Max CXT com 110 Nm de torque para montadores que não precisam da força pesada de 20V. Confira o [review completo da Makita TD110D]({{ '/parafusadeiras/reviews/review-parafusadeira-impacto-makita-td110d/' | relative_url }}).
 * **Bosch GO 3:** Para apertos leves e delicados sem impacto (como tomadas e móveis modulados), veja o [review completo da Bosch GO 3]({{ '/parafusadeiras/reviews/review-parafusadeira-bosch-go-3/' | relative_url }}).
 
@@ -168,7 +168,7 @@ Apenas com muita cautela no **Modo 1 (Precision Drive)**. Como não possui embre
 
 A **DeWalt DCF887 vale muito a pena** para carpinteiros, montadores de estruturas, instaladores e profissionais de manutenção que buscam uma parafusadeira de impacto **20V MAX XR** compacta (**135 mm**), forte (**205 Nm**) e versátil graças às **3 velocidades com modo Precision Drive**.
 
-Antes de finalizar a compra, lembre-se apenas de que a versão **DCF887B-B3** não inclui bateria nem carregador e de que ela não substitui uma furadeira com mandril. Para comparar com uma opção ainda mais curta, veja também o [review da DeWalt DCF850]({{ '/parafusadeiras/reviews/review-parafusadeira-impacto-dewalt-dcf850/' | relative_url }}). Nossa nota editorial é **8,7/10**.
+Antes de finalizar a compra, lembre-se apenas de que a versão **DCF887B-B3** não inclui bateria nem carregador e de que ela não substitui uma furadeira com mandril. Para comparar com uma opção ainda mais curta, veja também o review da DeWalt DCF850. Nossa nota editorial é **8,7/10**.
 
 ## Fontes oficiais
 

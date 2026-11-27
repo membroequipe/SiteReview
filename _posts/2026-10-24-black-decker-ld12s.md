@@ -104,7 +104,7 @@ Se você busca uma ferramenta compacta para montagem e pequenos reparos, vale co
 </div>
 
 * **Bosch GSR 12V-15 Professional:** É uma alternativa 12V de categoria profissional, também sem impacto, que entrega torque rígido de **30 Nm**, duas velocidades mecânicas (0–400 e 0–1.300 rpm) e bateria removível. Custa mais que a Black+Decker, mas oferece maior durabilidade e autonomia para uso frequente.
-* **Makita DF001DW:** Pertence a uma categoria ainda mais leve (3,6V), com corpo articulado, peso de apenas 0,36 kg e encaixe sextavado de 1/4" (sem mandril convencional). É excelente para eletrônica e montagem leve, mas não substitui uma furadeira com mandril de 10 mm. Veja todos os detalhes no [review da Makita DF001DW]({{ '/parafusadeiras/reviews/review-makita-df001dw/' | relative_url }}).
+* **Makita DF001DW:** Pertence a uma categoria ainda mais leve (3,6V), com corpo articulado, peso de apenas 0,36 kg e encaixe sextavado de 1/4" (sem mandril convencional). É excelente para eletrônica e montagem leve, mas não substitui uma furadeira com mandril de 10 mm. Veja todos os detalhes no review da Makita DF001DW.
 
 ## Perguntas Frequentes
 

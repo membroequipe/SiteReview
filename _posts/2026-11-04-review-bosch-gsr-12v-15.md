@@ -181,7 +181,7 @@ Sim, desde que pertençam à mesma plataforma **Bosch Professional 12V** (como a
 
 A **Bosch GSR 12V-15 Professional vale muito a pena** para marceneiros, montadores de móveis e entusiastas que procuram uma furadeira e parafusadeira **12V** leve, compacta, confiável e precisa sem pagar o valor extra do kit modular FlexiClick. A combinação de **30 Nm de torque rígido**, **duas velocidades mecânicas**, **20 posições de embreagem** e peso abaixo de **1 kg** atende com folga montagem de móveis e manutenção leve.
 
-Antes de fechar o pedido, confirme apenas o código comercial do kit (para verificar a quantidade de baterias e a presença de carregador e maleta) e lembre-se de que ela não possui impacto para paredes. Para comparar outras opções leves ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras 12V leves]({{ '/melhores-parafusadeiras-leves-12v/' | relative_url }}) e o [guia de parafusadeiras para iniciantes]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Nossa nota editorial é **8,8/10**.
+Antes de fechar o pedido, confirme apenas o código comercial do kit (para verificar a quantidade de baterias e a presença de carregador e maleta) e lembre-se de que ela não possui impacto para paredes. Para comparar outras opções leves ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras 12V leves]({{ '/melhores-parafusadeiras-leves-12v/' | relative_url }}) e o guia de parafusadeiras para iniciantes. Nossa nota editorial é **8,8/10**.
 
 ## Fontes oficiais
 

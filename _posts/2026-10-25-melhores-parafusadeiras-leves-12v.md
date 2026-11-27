@@ -44,7 +44,7 @@ Por integrar a plataforma **Bosch Professional 12V**, aceita baterias removívei
 
 {% include produto-card.html id="bosch_gsr_12v_15" %}
 
-> **Leia também:** [Review completo da Bosch GSR 12V-15]({{ '/furadeiras/reviews/review-bosch-gsb-12v-15/' | relative_url }})
+> **Leia também:** Review completo da Bosch GSR 12V-15
 
 ## 3. Bosch GSR 12V-15 FC: melhor para cantos estreitos e marcenaria planejada
 
@@ -148,7 +148,7 @@ A **GSR 12V-15 FC** justifica o investimento extra quando você trabalha diariam
 
 ### A Bosch GO 2.0 é uma parafusadeira de 12V?
 
-Não. A **Bosch GO** utiliza bateria interna de **3,6V**, pesa cerca de **0,31 kg** e gira a até 360 rpm com acionamento por pressão. Ela é excelente para eletrônica, quadros elétricos e parafusos pequenos em locais apertados, mas pertence a uma categoria ultracompacta diferente das parafusadeiras de 12V. Saiba mais no [review da Bosch GO 2.0]({{ '/parafusadeiras/reviews/review-bosch-go-2/' | relative_url }}).
+Não. A **Bosch GO** utiliza bateria interna de **3,6V**, pesa cerca de **0,31 kg** e gira a até 360 rpm com acionamento por pressão. Ela é excelente para eletrônica, quadros elétricos e parafusos pequenos em locais apertados, mas pertence a uma categoria ultracompacta diferente das parafusadeiras de 12V. Saiba mais no review da Bosch GO 2.0.
 
 ### Qual a diferença entre 12V e 18V na ergonomia?
 

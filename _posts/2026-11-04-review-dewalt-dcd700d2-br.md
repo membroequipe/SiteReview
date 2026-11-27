@@ -153,7 +153,7 @@ Sim. O tamanho compacto, o gatilho de velocidade variável, a primeira marcha de
 
 A **DeWalt DCD700 é uma boa opção** para quem procura uma furadeira e parafusadeira compacta de **12V MAX** para montagem de móveis, instalação de ferragens e manutenção doméstica leve. Seus **24 Nm de torque**, duas velocidades mecânicas e mandril de 10 mm entregam praticidade em espaços reduzidos.
 
-Apenas lembre-se de que ela **não possui impacto** para paredes e exige atenção ao código comercial do anúncio no Brasil — caso queira um kit individual nacional equivalente da marca, compare também a **DeWalt DCD710D2-BR** ou a versão com impacto [DeWalt DCD716D2]({{ '/furadeiras/reviews/review-dewalt-dcd716d2/' | relative_url }}). Para conhecer outras opções acessíveis, acesse nosso [guia das melhores parafusadeiras custo-benefício]({{ '/melhores-parafusadeiras-custo-beneficio/' | relative_url }}). Nossa nota editorial é **7,8/10**.
+Apenas lembre-se de que ela **não possui impacto** para paredes e exige atenção ao código comercial do anúncio no Brasil — caso queira um kit individual nacional equivalente da marca, compare também a **DeWalt DCD710D2-BR** ou a versão com impacto [DeWalt DCD716D2]({{ '/furadeiras/reviews/review-dewalt-dcd716d2/' | relative_url }}). Para conhecer outras opções acessíveis, acesse nosso guia das melhores parafusadeiras custo-benefício. Nossa nota editorial é **7,8/10**.
 
 ## Fontes oficiais
 

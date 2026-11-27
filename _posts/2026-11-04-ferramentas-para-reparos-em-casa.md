@@ -193,7 +193,7 @@ Sim, em paredes de alvenaria comum, desde que você verifique a ausência de can
 
 **O melhor kit doméstico não é o mais caro nem o maior, mas aquele que reúne ferramentas manuais confiáveis e uma boa parafusadeira/furadeira adequada aos materiais da sua casa.** Comece pelos itens manuais essenciais, invista em bons bits e brocas para não danificar parafusos e adicione ferramentas elétricas conforme seus projetos evoluírem.
 
-Se você está pronto para escolher sua primeira ferramenta elétrica, confira nosso [guia completo de como escolher a primeira parafusadeira]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}).
+Se você está pronto para escolher sua primeira ferramenta elétrica, confira nosso guia completo de como escolher a primeira parafusadeira.
 
 ## Fontes oficiais
 

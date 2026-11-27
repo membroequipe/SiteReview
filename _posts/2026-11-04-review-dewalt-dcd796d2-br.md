@@ -169,7 +169,7 @@ Sim. O código **DCD796D2-BR** identifica o kit oficial brasileiro acompanhado d
 
 ### A DeWalt DCD796D2-BR fura parede e concreto?
 
-Ela possui **função impacto mecânico** (até 34.000 ipm), atendendo muito bem furos de instalação em paredes de tijolo, bloco cerâmico e reboco. Para concreto estrutural armado ou perfurações contínuas em obra pesada, utilize um martelete SDS-Plus como o [DeWalt DCH133B]({{ '/marteletes/reviews/review-dewalt-dch133b/' | relative_url }}).
+Ela possui **função impacto mecânico** (até 34.000 ipm), atendendo muito bem furos de instalação em paredes de tijolo, bloco cerâmico e reboco. Para concreto estrutural armado ou perfurações contínuas em obra pesada, utilize um martelete SDS-Plus como o DeWalt DCH133B.
 
 ### Qual é a diferença entre a DCD796 e a DCD7781?
 

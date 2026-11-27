@@ -140,7 +140,7 @@ Na configuração de referência **06019G80E1**, o pacote inclui a ferramenta, *
 
 A **Bosch GSR 120-LI Professional vale muito a pena** para quem busca uma furadeira e parafusadeira **12V** leve, durável e com ótimo custo-benefício para montagem de móveis em MDF, instalação de ferragens e manutenção doméstica. A combinação de **30 Nm de torque rígido**, **duas velocidades mecânicas**, **20 posições de embreagem** e proteção eletrônica de bateria **ECP** entrega confiabilidade profissional a um preço acessível.
 
-Apenas lembre-se de que ela **não possui função impacto** para paredes de alvenaria. Para comparar outras opções leves ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e o [guia de parafusadeiras para iniciantes]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Nossa nota editorial é **8,9/10**.
+Apenas lembre-se de que ela **não possui função impacto** para paredes de alvenaria. Para comparar outras opções leves ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e o guia de parafusadeiras para iniciantes. Nossa nota editorial é **8,9/10**.
 
 ## Fontes oficiais
 

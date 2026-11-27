@@ -148,7 +148,7 @@ Para situar a Bosch GTB 185-LI frente a outras parafusadeiras dedicadas à const
 </div>
 
 * **Bosch GTB 650:** Alternativa elétrica com fio de 650 W e 5.000 rpm, ideal para quem trabalha sempre próximo a tomadas e quer investir menos na aquisição inicial. Veja o [review completo da Bosch GTB 650]({{ '/parafusadeiras/reviews/review-parafusadeira-drywall-bosch-gtb-650/' | relative_url }}).
-* **DeWalt DCF630:** Principal concorrente sem fio na plataforma 20V MAX, com motor *brushless* e painel eletrônico de 4 modos. Confira o [review completo da DeWalt DCF630]({{ '/parafusadeiras/reviews/review-parafusadeira-drywall-dewalt-dcf630/' | relative_url }}).
+* **DeWalt DCF630:** Principal concorrente sem fio na plataforma 20V MAX, com motor *brushless* e painel eletrônico de 4 modos. Confira o review completo da DeWalt DCF630.
 
 ## Preço e o que conferir antes de comprar
 

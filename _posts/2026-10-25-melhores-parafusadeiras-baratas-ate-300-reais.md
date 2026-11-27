@@ -31,7 +31,7 @@ O conjunto inclui luz LED frontal, indicador luminoso de nível de carga, empunh
 
 {% include produto-card.html id="wap_bpf_12k3" %}
 
-> **Leia também:** [Review completo da WAP BPF 12K3]({{ '/furadeiras/reviews/review-wap-bpf-12k3/' | relative_url }})
+> **Leia também:** Review completo da WAP BPF 12K3
 
 ## 2. WAP WF 12K4.2: mais versátil e com função impacto para parede
 
@@ -46,7 +46,7 @@ Por ser mais completa que a BPF 12K3, seu preço regular costuma ficar no limite
 
 {% include produto-card.html id="wap_wf_12k4_2" %}
 
-> **Leia também:** [Review completo da WAP WF 12K4.2]({{ '/furadeiras/reviews/review-wap-wf-12k4-2/' | relative_url }})
+> **Leia também:** Review completo da WAP WF 12K4.2
 
 ## 3. Vonder PFV 012: kit inicial completo com trena, brocas e bits
 
@@ -61,7 +61,7 @@ Na hora da compra, atenção para não confundir o código **PFV 012** (modelo s
 
 {% include produto-card.html id="vonder_pfv_012" %}
 
-> **Leia também:** [Review completo da Vonder PFV 012]({{ '/furadeiras/reviews/review-vonder-pfv-012/' | relative_url }})
+> **Leia também:** Review completo da Vonder PFV 012
 
 ## Comparação lado a lado
 

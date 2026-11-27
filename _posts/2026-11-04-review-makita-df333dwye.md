@@ -150,7 +150,7 @@ Não. As plataformas **12V Max CXT** e **18V LXT** possuem encaixes e tensões d
 
 A **Makita DF333DWYE vale muito a pena** para montadores de móveis, instaladores e entusiastas que procuram uma furadeira e parafusadeira **12V Max CXT** leve (~1,1 kg), precisa e pronta para trabalhar sem pausas graças ao kit brasileiro com **duas baterias de 1,5 Ah, carregador rápido e maleta**.
 
-Apenas lembre-se de que ela **não possui impacto** para paredes de alvenaria e utiliza motor convencional com escovas. Para comparar outras opções leves ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e o [guia de parafusadeiras para iniciantes]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Nossa nota editorial é **9,0/10**.
+Apenas lembre-se de que ela **não possui impacto** para paredes de alvenaria e utiliza motor convencional com escovas. Para comparar outras opções leves ou escolher sua primeira ferramenta, veja nosso [guia das melhores parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e o guia de parafusadeiras para iniciantes. Nossa nota editorial é **9,0/10**.
 
 ## Fontes oficiais
 

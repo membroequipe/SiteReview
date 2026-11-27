@@ -148,7 +148,7 @@ A autonomia varia conforme o tamanho dos parafusos e a dureza do material, mas a
 
 A **Vonder PFV 012 vale a pena** como parafusadeira e furadeira residencial de entrada para quem quer praticidade na montagem de móveis e pequenos reparos em madeira ou metal fino sem gastar muito. Os **18 níveis de torque**, o **mandril de 10 mm** e a **luz LED** entregam exatamente o necessário para tarefas domésticas ocasionais.
 
-Apenas lembre-se de que ela não fura concreto nem alvenaria e opera com bateria de 1,3 Ah e velocidade única. Se você procura maior versatilidade ou está escolhendo sua primeira ferramenta, confira também nosso [guia das melhores parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e o [guia de parafusadeiras para iniciantes]({{ '/primeira-parafusadeira-qual-comprar-guia-iniciantes/' | relative_url }}). Nossa nota editorial é **8,0/10**.
+Apenas lembre-se de que ela não fura concreto nem alvenaria e opera com bateria de 1,3 Ah e velocidade única. Se você procura maior versatilidade ou está escolhendo sua primeira ferramenta, confira também nosso [guia das melhores parafusadeiras para montagem de móveis e MDF]({{ '/melhores-parafusadeiras-para-montagem-de-moveis-e-mdf/' | relative_url }}) e o guia de parafusadeiras para iniciantes. Nossa nota editorial é **8,0/10**.
 
 ## Fontes oficiais
 

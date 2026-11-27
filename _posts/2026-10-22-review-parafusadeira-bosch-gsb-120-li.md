@@ -96,7 +96,7 @@ Na hora de decidir, a principal diferença entre a GSB 120-LI e suas concorrente
 | Mandril | 0,8–10 mm (3/8") | 0,8–10 mm (3/8") | 0,8–10 mm (3/8") |
 | Melhor perfil de uso | Parafusamento e furos ocasionais em alvenaria | Montagem, madeira e metal sem impacto | Montagem e perfuração sem impacto com maior rotação |
 
-**Qual escolher?** Escolha a **Bosch GSB 120-LI** se você precisa perfurar paredes de alvenaria ocasionalmente e quer manter a leveza de uma plataforma 12V. Se o seu trabalho se limita a móveis, madeira e metal, a [Bosch GSR 120-LI]({{ '/parafusadeiras/reviews/review-bosch-gsr-120-li/' | relative_url }}) ou a [Makita DF333D]({{ '/parafusadeiras/reviews/review-makita-df333d/' | relative_url }}) dispensam o mecanismo de impacto. Já se você busca algo ainda mais simples e leve apenas para parafusar móveis, veja o comparativo [Bosch GSR 1000 Smart vs GSB 120-LI]({{ '/comparativos/bosch-gsr-1000-smart-vs-bosch-gsb-120-li/' | relative_url }}).
+**Qual escolher?** Escolha a **Bosch GSB 120-LI** se você precisa perfurar paredes de alvenaria ocasionalmente e quer manter a leveza de uma plataforma 12V. Se o seu trabalho se limita a móveis, madeira e metal, a Bosch GSR 120-LI ou a Makita DF333D dispensam o mecanismo de impacto. Já se você busca algo ainda mais simples e leve apenas para parafusar móveis, veja o comparativo [Bosch GSR 1000 Smart vs GSB 120-LI]({{ '/comparativos/bosch-gsr-1000-smart-vs-bosch-gsb-120-li/' | relative_url }}).
 
 ## Perguntas Frequentes
 
