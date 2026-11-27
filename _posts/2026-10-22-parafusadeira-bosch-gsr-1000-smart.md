@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSR 1000 Smart é boa? Review e ficha técnica"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSR 1000 Smart"
 description: "Bosch GSR 1000 Smart é boa para montar móveis? Veja análise do torque de 15 Nm, bateria integrada de 1,5 Ah, encaixe de 1/4 pol. e limites de uso."
 slug: "review-bosch-gsr-1000-smart"
