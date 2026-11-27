@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DeWalt DCD796D2-BR é boa? Análise completa"
-marca: "DeWalt"
+marca: dewalt
 modelo: "DeWalt DCD796D2-BR"
 description: "DeWalt DCD796D2-BR vale a pena? Veja análise do torque de 70 Nm, motor XR brushless, mandril metálico de 13 mm, kit com duas baterias e comparação com a DCD7781D2."
 slug: "review-dewalt-dcd796d2-br"
