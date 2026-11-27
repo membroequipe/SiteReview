@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GTB 185-LI é boa? Análise da parafusadeira drywall"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GTB 185-LI 18V"
 description: "Review Bosch GTB 185-LI 18V: motor brushless, PowerSAVE, 4.500 rpm, 5,2 Nm, batente reversível e compatibilidade com GMA 55. Compare versões e veja se vale a pena."
 slug: review-parafusadeira-drywall-bosch-gtb-185-li
