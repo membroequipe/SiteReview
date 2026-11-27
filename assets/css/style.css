@@ -2841,6 +2841,31 @@ table.specs-table tbody th:first-child {
     }
 }
 
+/* Linha centralizada para o ícone social no rodapé */
+.site-footer .footer-social-row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 14px;
+}
+
+.site-footer a.footer-social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 0.08);
+    color: #cbd5e1;
+    border-radius: 6px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.site-footer a.footer-social-icon:hover {
+    background: #f59e0b;
+    color: #0f172a;
+    text-decoration: none;
+}
 
 /* =========================================
    BUSCA INTERNA DO SITE
