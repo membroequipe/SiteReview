@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSR 120-LI é boa? Review para móveis e MDF"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSR 120-LI"
 description: "Bosch GSR 120-LI vale a pena? Veja análise do torque de 30 Nm, duas velocidades mecânicas, mandril de 10 mm, bateria 12V e diferença para a GSB 120-LI."
 slug: "review-bosch-gsr-120-li"
