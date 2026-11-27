@@ -7,7 +7,7 @@ description: "Makita DHP484 vale a pena? Veja análise do torque de 65 Nm, motor
 slug: "review-makita-dhp484rtj"
 categories: [furadeiras, reviews]
 produto_id: makita_dhp484rtj
-image: "/assets/images/posts/makita-dfp484rtj.webp"
+image: "/assets/images/posts/makita-dhp484rtj.webp"
 image_alt: "Furadeira e parafusadeira de impacto Makita DHP484Z 18V LXT Brushless"
 date: 2026-11-04
 last_modified_at: 2026-11-26
