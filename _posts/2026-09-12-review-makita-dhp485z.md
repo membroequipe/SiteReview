@@ -2,7 +2,7 @@
 layout: post
 title: "Makita DHP485Z é boa? Review da furadeira e parafusadeira 18V"
 modelo: "Makita DHP485Z"
-marca: "Makita"
+marca: makita
 description: "Makita DHP485Z vale a pena? Conheça o motor brushless, torque de 60 Nm, função impacto, mandril de 13 mm e o que vem na versão Z."
 slug: "review-makita-dhp485z"
 categories: [furadeiras, reviews]
