@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bosch GSB 13 RE 750W é boa? Review da Furadeira"
-marca: "Bosch"
+marca: bosch
 modelo: "Bosch GSB 13 RE 750 W"
 description: "Bosch GSB 13 RE 750W vale a pena? Veja análise do desempenho em alvenaria, madeira e aço, mandril de 13 mm, vantagens, limites e comparativo antes de comprar."
 slug: "review-bosch-gsb-13-re-750w"
