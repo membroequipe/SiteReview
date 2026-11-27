@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DeWalt DCD777 é boa? Review da furadeira 20V brushless"
-marca: "DeWalt"
+marca: dewalt
 modelo: "DeWalt DCD777"
 description: "DeWalt DCD777 vale a pena? Veja análise do motor brushless, potência de 340 UWO, duas velocidades, controle de torque, diferenças para a DCD778 e limites antes de comprar."
 slug: "review-dewalt-dcd777"
