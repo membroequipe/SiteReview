@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DeWalt DCD716D2 é boa? Review da furadeira 12V MAX"
-marca: "DeWalt"
+marca: dewalt
 modelo: "DeWalt DCD716D2"
 description: "DeWalt DCD716D2 vale a pena? Veja análise do torque de 30 Nm, mandril de 10 mm, função impacto, kit com duas baterias 12V MAX e limites antes de comprar."
 slug: "review-dewalt-dcd716d2"
