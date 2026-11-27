@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Black+Decker LD12S-BR é boa? Review 12V"
-marca: "Black+Decker"
+marca: blackdecker
 modelo: "Black+Decker LD12S"
 description: "Black+Decker LD12S-BR é boa? Veja análise do mandril de 10 mm, bateria integrada de 12V, acessórios incluídos e limites antes de comprar."
 slug: "review-black-decker-ld12s"
