@@ -3,6 +3,7 @@ layout: default
 title: "Sobre Nós"
 permalink: /sobre/
 description: "Conheça a proposta da nossa Equipe de Análises: guias de compra imparciais e comparativos técnicos diretos sobre parafusadeiras e ferramentas."
+last_modified_at: 2026-11-27
 ---
 <style>
   h1 {
@@ -12,7 +13,7 @@ description: "Conheça a proposta da nossa Equipe de Análises: guias de compra 
 
 <h1>Sobre</h1>
 
-# Sobre o Guia Especializado
+## Sobre a Sua Melhor Ferramenta
 
 Seja bem-vindo ao nosso portal. Somos uma **Equipe de Análises Técnicas** dedicada a ajudar consumidores, marceneiros, hobbistas e profissionais a encontrarem as ferramentas certas para cada tipo de projeto.
 
@@ -24,7 +25,7 @@ O nosso objetivo é cortar o excesso de marketing e entregar **informações dir
 
 ## O Nosso Compromisso Editorial
 
-1. **Transparência Absoluta:** Mostramos não apenas os pontos fortes, mas também as limitações e reclamações frequentes de cada máquina.
+1. **Transparência Absoluta:** Mostramos não apenas os pontos fortes, mas também as limitações e os pontos de atenção de cada modelo.
 2. **Foco na Aplicação Prática:** Ajudamos você a entender qual modelo atende à sua necessidade específica, seja para montar móveis de MDF, furar paredes de tijolo ou uso doméstico ocasional.
 3. **Dados Unificados:** Todas as especificações técnicas apresentadas em nossas tabelas passam por uma checagem rigorosa com base nos manuais e fichas dos fabricantes.
 
